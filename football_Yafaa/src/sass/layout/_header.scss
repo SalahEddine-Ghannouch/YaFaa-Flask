@@ -1,0 +1,24 @@
+.header {
+    background-color: $color-black;
+    color: $color-grey-font;
+    grid-area: h;
+    display: flex;
+    align-items: center;
+
+    &__brand {
+        font-size: 2.4rem;
+        margin: 1rem 2rem;
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+
+    &__nav-button {
+        display: none;
+        margin-left: auto;
+        padding: 2rem;
+
+        @media only screen and (max-width: 1240px) {
+            display: inline-block;
+        }
+    }
+}
