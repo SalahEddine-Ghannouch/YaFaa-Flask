@@ -1,0 +1,38 @@
+<!-- base.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.comp.css')}}">
+    <title>YAFAA-Website</title>
+</head>
+
+<body class="vsc-initialized">
+    <div class="container">
+
+        <header class="header">
+            {% block header %}{% endblock %}
+        </header>
+
+        <div class="side-bar">
+            {% block sidebar %} {%endblock%}
+        </div>
+
+        <main class="content">
+            {% block content %}{% endblock %}
+        </main>
+
+        <footer class="footer">
+            {% block footer%}{%endblock%}
+        </footer>
+
+        <!-- Additional common scripts, etc. -->
+    </div>
+
+</body>
+</html>
