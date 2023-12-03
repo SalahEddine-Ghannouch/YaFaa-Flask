@@ -3,13 +3,13 @@ from flask import render_template
 from datetime import datetime
 
 
-
 app = Flask(__name__)
 
+
+#****************** Home Page
 @app.route('/')
 def index_home():
     date_var = datetime.now().year
-
     additional_data = {
         'current_date': date_var
     }

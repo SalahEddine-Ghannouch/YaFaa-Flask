@@ -125,15 +125,22 @@ body {
 
 .nav__list {
   list-style: none;
-  font-size: 1.5rem; }
+  font-size: 1.7rem; 
+  margin: 1.5rem; 
+
+}
   .nav__list > * {
     display: inline-block; }
 
 .nav__list-item {
-  margin-right: 1rem; }
+  margin-right: 7rem; 
+  color: white;
+}
   .nav__list-item:hover {
-    color: white;
-    cursor: pointer; }
+    color: #219ebc;
+    cursor: pointer; 
+  
+  }
   @media (max-width: 610px) {
     .nav__list-item {
       display: none; } }
@@ -175,40 +182,81 @@ body {
   grid-area: 1 / 1 / 4 / 2; }
 
 .footer {
+
   grid-area: f;
   background-color: #24292e;
   color: #c8c8c8;
-  display: flex;
-  align-items: center; }
+  /* display: flex; */
+  align-items: center; 
+  border-top: 1px solid #555;
+  height: 60px;
+
+}
   .footer__text {
-    font-size: 1.4rem;
+
+    text-align: center;
+    font-size: 1.8rem;
+    align-items: center;
     margin: 0.6rem 2rem;
-    font-weight: 400; }
+    font-weight: 400; 
+    font-family: 'Arial', sans-serif; /* Choisissez une police appropriée */
+
+  
+  }
+
+  .footer__text:hover {
+    color: #ffffff; /* Choisissez une couleur appropriée */
+    transition: color 0.3s ease; /* Ajoutez une transition pour une animation en douceur */
+  }
+  
 
 .container {
   width: 100%;
   min-height: 100vh;
   display: grid;
-  grid-template-areas: 'h h h h' 's c c c' 's c c c' 'f f f f';
+  grid-template-areas: 'h h h h'
+ 's c c c'
+ 's c c c'
+ 'f f f f';
   grid-template-rows: auto 1fr 1fr auto;
   grid-template-columns: minmax(250px, max-content) 1fr; }
   @media (max-width: 1250px) {
     .container {
-      grid-template-areas: 'h h h h' 's s s s' 'c c c c' 'f f f f';
+      grid-template-areas: 'h h h h'
+ 's s s s'
+ 'c c c c'
+ 'f f f f';
       grid-template-rows: auto auto 1fr auto;
       grid-template-columns: 1fr; } }
 
 .header {
+
   background-color: #24292e;
   color: #c8c8c8;
   grid-area: h;
   display: flex;
-  align-items: center; }
+  align-items: center;
+
+}
+
+a {
+  text-decoration: none; /* Removes underlines */
+  color: inherit; /* Keeps the link color to inherit from its parent */
+}
+
+
+
   .header__brand {
-    font-size: 2.4rem;
-    margin: 1rem 2rem;
-    font-weight: 400;
-    text-transform: uppercase; }
+
+    font-size: 2.8rem;
+    margin: 1rem 8rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #219ebc;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
   .header__nav-button {
     display: none;
     margin-left: auto;

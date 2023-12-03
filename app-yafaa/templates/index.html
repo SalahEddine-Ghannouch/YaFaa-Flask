@@ -7,31 +7,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="../static/css/style.comp.css">
-    <title>Title</title>
+    <title>YAFAA</title>
 </head>
 
 <body class="vsc-initialized">
     <div class="container">
         <header class="header">
             <div class="header__brand">
-               YAFAA
+               <a href="/" >YAFAA</a>
             </div>
 
             <nav class="nav">
                 <ul class="nav__list">
-                    <li class="nav__list-item js-competitions">Competitions</li>
                     <li class="nav__list-item">Fixtures</li>
+                    <li class="nav__list-item js-competitions">Competitions</li>
                 </ul>
             </nav>
         </header>
         <div class="side-bar">
             <ul class="side-bar__list js-side-bar">
+                
+                <li class="side-bar__list-item side-bar__list-item--active" data-competitionid="445" data-currentmatchday="38">
+                    ENG Premier League
+                </li>
+                
                 <li class="side-bar__list-item" data-competitionid="444" data-currentmatchday="38">
                    ITA Série A
-                </li>
-
-                <li class="side-bar__list-item side-bar__list-item--active" data-competitionid="445" data-currentmatchday="38">
-                   ENG Premier League
                 </li>
 
                 <li class="side-bar__list-item" data-competitionid="446" data-currentmatchday="46">
@@ -118,41 +119,6 @@
                                 <td>38</td>
                                 <td>77 </td>
                             </tr>
-                            <tr class="league-table__row">
-                                <td>4</td>
-                                <td>
-                                    <div class="league-table__team-logo">
-                                        <img src="http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg">
-                                    </div>
-                                    Liverpool FC
-                                </td>
-                                <td>38</td>
-                                <td>21</td>
-                                <td>12</td>
-                                <td>5</td>
-                                <td>84</td>
-                                <td>38</td>
-                                <td>46</td>
-                                <td>75 </td>
-                            </tr>
-                            <tr class="league-table__row">
-                                <td>5</td>
-                                <td>
-                                    <div class="league-table__team-logo">
-                                        <img src="http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg">
-                                    </div>
-                                    Chelsea FC
-                                </td>
-                                <td>38</td>
-                                <td>21</td>
-                                <td>7</td>
-                                <td>10</td>
-                                <td>62</td>
-                                <td>38</td>
-                                <td>24</td>
-                                <td>70 </td>
-                            </tr>
-                           
                         </tbody>
                     </table>
                 </div>
@@ -209,38 +175,13 @@
                             </div>
                             <div class="fixture__away-team">Liverpool FC</div>
                         </li>
-                        <li class="fixtures-list__item">
-                            <div class="fixture__date">8/12</div>
-                            <div class="fixture__homeTeam">Crystal Palace FC</div>
-                            <div class="fixture__result">
-                                0 : 3
-                            </div>
-                            <div class="fixture__away-team">Huddersfield Town</div>
-                        </li>
-                        <li class="fixtures-list__item">
-                            <div class="fixture__date">8/12</div>
-                            <div class="fixture__homeTeam">West Bromwich Albion FC</div>
-                            <div class="fixture__result">
-                                1 : 0
-                            </div>
-                            <div class="fixture__away-team">AFC Bournemouth</div>
-                        </li>
-                        <li class="fixtures-list__item">
-                            <div class="fixture__date">8/12</div>
-                            <div class="fixture__homeTeam">Chelsea FC</div>
-                            <div class="fixture__result">
-                                2 : 3
-                            </div>
-                            <div class="fixture__away-team">Burnley FC</div>
-                        </li>
-                       
                     </ul>
                 </div>
             </div>
         </main>
         <footer class="footer">
-            <div class="footer__text">
-                <p>&copy; {{ current_date }} YAFAA</p>
+            <div class="footer__text" >
+                <p style="text-align: center;">&copy; {{ current_date }} YAFAA</p>
             </div>
         </footer>
     </div>
