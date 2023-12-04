@@ -1,8 +1,17 @@
+{% extends './base.html' %}
+
+{% block header %}
+    {% include './header.html' %}
+{% endblock %}
+
+{% block sidebar %}
+    {% include './sidebar.html' %}
+{% endblock %}
 
 {% block content %}
 <div class="js-league-table">
     <div class="league-table__container">
-        <h2 class="heading-primary">Premier League 2017/18</h2>
+        <h2 class="heading-primary">FRA 2017/18 test</h2>
         <table class="league-table" cellspacing="0" cellpadding="0">
             <thead class="league-table__heading">
                 <tr class="league-table__row">
@@ -74,61 +83,8 @@
         </table>
     </div>
 </div>
+{% endblock %}
 
-<div class="js-current-fixtures">
-    <div class="fixtures">
-        <h2 class="heading-secondary">Latest matches</h2>
-        <ul class="fixtures-list">
-            <li class="fixtures-list__item">
-                <div class="fixture__date">5/13</div>
-                <div class="fixture__homeTeam">Burnley FC</div>
-                <div class="fixture__result">
-                    1 : 2
-                </div>
-                <div class="fixture__away-team">AFC Bournemouth</div>
-            </li>
-            <li class="fixtures-list__item">
-                <div class="fixture__date">5/13</div>
-                <div class="fixture__homeTeam">Crystal Palace FC</div>
-                <div class="fixture__result">
-                    2 : 0
-                </div>
-                <div class="fixture__away-team">West Bromwich Albion FC</div>
-            </li>
-            <li class="fixtures-list__item">
-                <div class="fixture__date">5/13</div>
-                <div class="fixture__homeTeam">Huddersfield Town</div>
-                <div class="fixture__result">
-                    0 : 1
-                </div>
-                <div class="fixture__away-team">Arsenal FC</div>
-            </li>
-           
-        </ul>
-    </div>
-</div>
-
-<div class="js-next-fixtures">
-    <div class="fixtures">
-        <h2 class="heading-secondary">Next matches</h2>
-        <ul class="fixtures-list">
-            <li class="fixtures-list__item">
-                <div class="fixture__date">8/11</div>
-                <div class="fixture__homeTeam">Arsenal FC</div>
-                <div class="fixture__result">
-                    4 : 3
-                </div>
-                <div class="fixture__away-team">Leicester City FC</div>
-            </li>
-            <li class="fixtures-list__item">
-                <div class="fixture__date">8/12</div>
-                <div class="fixture__homeTeam">Watford FC</div>
-                <div class="fixture__result">
-                    3 : 3
-                </div>
-                <div class="fixture__away-team">Liverpool FC</div>
-            </li>
-        </ul>
-    </div>
-</div>
+{% block footer %}
+    {% include './footer.html' %}
 {% endblock %}

@@ -1,14 +1,13 @@
-{% extends 'base.html' %}
 
-{% block header %}  
+{%block header%}  
     <div class="header__brand">
        <a href="/" >YAFAA</a>
     </div>
 
     <nav class="nav">
         <ul class="nav__list">
-            <li class="nav__list-item">Fixtures</li>
+            <a href="/fixtures"><li class="nav__list-item">Fixtures</li></a>
             <li class="nav__list-item js-competitions">Competitions</li>
         </ul>
     </nav>
-{% endblock %}
+{%endblock%}
