@@ -11,7 +11,7 @@
 {% block content %}
 <div class="js-league-table">
     <div class="league-table__container">
-        <h2 class="heading-primary">GER 2017/18 test</h2>
+        <h2 class="heading-primary">GER Bundesliga : 2017/18</h2>
         <table class="league-table" cellspacing="0" cellpadding="0">
             <thead class="league-table__heading">
                 <tr class="league-table__row">
@@ -81,6 +81,20 @@
                 </tr>
             </tbody>
         </table>
+    </div>
+</div>
+
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <h2 class="heading-primary">Season</h2>
+        <select id="season" style="width: 250px;" class="selectB">
+            <!-- Add options dynamically or hardcode them -->
+            <option value="2017/18">2017/18</option>
+            <option value="2018/19">2018/19</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+        <button type="submit" id="submit-button" class="BtnS">UPLOAD</button>
     </div>
 </div>
 {% endblock %}

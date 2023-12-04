@@ -148,6 +148,72 @@ body {
 .spinner {
   position: relative; }
 
+
+  .BtnS {
+    width: 140px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to right,#1b88a3,#46d1f4,#77530a,#1988a4,#46d1f4,#19819b);
+    background-size: 250%;
+    background-position: left;
+    color: #219ebc;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition-duration: 1s;
+    overflow: hidden;
+  }
+  
+  .BtnS::before {
+    position: absolute;
+    content: "UPLOAD";
+    color: #ffd277;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 97%;
+    height: 90%;
+    border-radius: 8px;
+    transition-duration: 1s;
+    background-color: #333;
+    background-size: 200%;
+  }
+  
+  .BtnS:hover {
+    background-position: right;
+    transition-duration: 1s;
+  }
+  
+  .BtnS:hover::before {
+    background-position: right;
+    transition-duration: 1s;
+  }
+  
+  .BtnS:active {
+    transform: scale(0.95);
+  }
+
+  .selectB{
+    justify-content: center;
+    cursor: pointer;
+    transition-duration: 1s;
+    overflow: hidden;
+    background-position: left;
+    border-radius: 8px;
+    height: 30px;
+
+  }
+
+  .selectB:hover{
+    background-position: right;
+    border: 4px solid #028090;
+
+  }
+
+
 .spinner:before {
   content: '';
   position: absolute;
