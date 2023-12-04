@@ -1,3 +1,4 @@
---> separete component as base 
+--> fixture page
+
 
 1 : get elo by each ligue and set it to the website(5 Ligue)

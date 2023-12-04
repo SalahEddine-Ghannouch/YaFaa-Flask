@@ -22,7 +22,7 @@ def fixtures_func():
     additional_data = {
         'current_date': date_var
     }
-    return render_template('fixture.html', **additional_data)
+    return render_template('fixture.html', **additional_data,fixtcss="fixtcss")
 
 
 #****************** eng Page
