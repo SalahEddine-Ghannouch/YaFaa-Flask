@@ -1,3 +1,8 @@
 
 
-1 : 
+salah = {
+
+    1 : get fixtures stats in pages,
+    2 : choose stats for index page,
+
+}
