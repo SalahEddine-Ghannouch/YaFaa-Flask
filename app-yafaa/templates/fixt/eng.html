@@ -64,24 +64,9 @@
 
 <div class="js-next-fixtures">
     <div class="fixtures">
-        <h2 class="heading-secondary">Next matches</h2>
+        <h2 class="heading-secondary">Elo Distribution for ENG-Premier League</h2>
         <ul class="fixtures-list">
-            <li class="fixtures-list__item">
-                <div class="fixture__date">8/11</div>
-                <div class="fixture__homeTeam">Arsenal FC</div>
-                <div class="fixture__result">
-                    4 : 3
-                </div>
-                <div class="fixture__away-team">Leicester City FC</div>
-            </li>
-            <li class="fixtures-list__item">
-                <div class="fixture__date">8/12</div>
-                <div class="fixture__homeTeam">Watford FC</div>
-                <div class="fixture__result">
-                    3 : 3
-                </div>
-                <div class="fixture__away-team">Liverpool FC</div>
-            </li>
+            {{graph_json|safe}}
         </ul>
     </div>
 </div>
