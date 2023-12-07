@@ -46,20 +46,19 @@ def process_clubs_elo_for_year_and_league(year, league):
 
 #******************* def plot_elo_histogram: funct : 
 def plot_elo_histogram(league_df, league_name):
-    fig = make_subplots(rows=1, cols=1, subplot_titles=[f'Elo Distribution for {league_name}'])
+    fig = make_subplots(rows=1, cols=1)
 
     trace = go.Histogram(x=league_df['elo'], nbinsx=20, marker_color='blue', opacity=0.7)
 
     fig.add_trace(trace)
 
     fig.update_layout(
-        title_text=f'Elo Distribution for {league_name}',
         xaxis_title_text='Elo Rating',
         yaxis_title_text='Frequency',
         showlegend=False,
         autosize=False,
-        width=800,
-        height=500
+        width=460,
+        height=390
     )
 
-    return fig
+    return fig.to_html(full_html=False)
