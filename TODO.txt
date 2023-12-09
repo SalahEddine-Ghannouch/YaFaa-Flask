@@ -4,5 +4,9 @@ salah = {
 
     1 : get fixtures stats in pages,
     2 : choose stats for index page,
+    3 : add about us, stats, pages
+    4 : change text to image in sidebar for leagues
+    5 : tkharmisa
+    6 : 
 
 }
