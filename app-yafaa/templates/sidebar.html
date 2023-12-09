@@ -3,33 +3,35 @@
 <ul class="side-bar__list js-side-bar">
 
     <a href="eng" >         
-        <li id="esp-link" class="side-bar__list-item {% if active_link == 'eng' %}{{active}}{% endif %}" data-competitionid="445" data-currentmatchday="38">
-            <i class="material-icons" style="font-size: 0.9em;">sports_soccer</i> ELO : ENG Premier League
+        <li id="esp-link" class="side-bar__list-item {% if active_link == 'eng' %}{{active}}{% endif %}" data-competitionid="445" data-currentmatchday="38" style="display: flex; align-items: center;">
+            <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; 
+            <img src="{{url_for('static', filename='svg/leagues/eng.png')}}" style="width: 20px; height: 20px; border-radius: 50%; margin-left: 10px; background-color: white;">
         </li>
     </a> 
 
     <a href="ita">    
-    <li class="side-bar__list-item {% if active_link == 'ita' %}{{active}}{% endif %}" data-competitionid="444" data-currentmatchday="38">
-        <i class="material-icons" style="font-size: 0.9em;">sports_soccer</i> ELO : ITA Série A
+    <li class="side-bar__list-item {% if active_link == 'ita' %}{{active}}{% endif %}" data-competitionid="444" data-currentmatchday="38" style="display: flex; align-items: center;">
+        <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; 
+        <img src="{{url_for('static', filename='svg/leagues/ita.png')}}" style="width: 20px; height: 20px; border-radius: 50%; margin-left: 10px; background-color: white;">
     </li>
     </a> 
 
     <a href="fra">  
-    <li class="side-bar__list-item {% if active_link == 'fra' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46">
-        <i class="material-icons" style="font-size: 0.9em;">sports_soccer</i> ELO : FRA Ligue 1
-    </li>
+    <li class="side-bar__list-item {% if active_link == 'fra' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center;">
+        <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; 
+        <img src="{{url_for('static', filename='svg/leagues/fra.png')}}" style="width: 20px; height: 20px; border-radius: 50%; margin-left: 10px; background-color: white;">    </li>
     </a> 
 
     <a href="ger">
-     <li class="side-bar__list-item {% if active_link == 'ger' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46">
-        <i class="material-icons" style="font-size: 0.9em;">sports_soccer</i> ELO : GER Bundesliga
-    </li>
+     <li class="side-bar__list-item {% if active_link == 'ger' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center;">
+        <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;  
+        <img src="{{url_for('static', filename='svg/leagues/ger.png')}}" style="width: 20px; height: 20px; border-radius: 50%; margin-left: 10px; background-color: white;">    </li>
     </a>
 
     <a href="esp">
-     <li class="side-bar__list-item {% if active_link == 'esp' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46">
-        <i class="material-icons" style="font-size: 0.9em;">sports_soccer</i> ELO : ESP La Liga
-    </li>
+     <li class="side-bar__list-item {% if active_link == 'esp' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center;">
+        <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;
+        <img src="{{url_for('static', filename='svg/leagues/esp.png')}}" style="width: 20px; height: 20px; border-radius: 50%; margin-left: 10px; background-color: white;">    </li>
     </a>
 </ul>
 {% endblock %}

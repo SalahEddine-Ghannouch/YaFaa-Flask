@@ -1,13 +1,16 @@
 
 {%block header%}  
     <div class="header__brand">
-       <a href="/" ><img style="width:36px;height:32px;" src="{{url_for('static', filename='svg/soccer-player.png')}}"> YAFAA </a>
+       <a href="/" ><img style="width:220px;height:60px;" src="{{url_for('static', filename='svg/logo/0.png')}}"></a>
     </div>
 
     <nav class="nav">
         <ul class="nav__list">
+            <a href="/eng"><li class="nav__list-item">ELO</li></a>
             <a href="/fixtures"><li class="nav__list-item">Fixtures</li></a>
-            <li class="nav__list-item js-competitions">Competitions</li>
+            <a href="/stats"><li class="nav__list-item">Stats</li></a>
+            <a href="/about"><li class="nav__list-item">About Us</li></a>
+            <li class="nav__list-item js-competitions">xxxx</li>
         </ul>
     </nav>
 {%endblock%}

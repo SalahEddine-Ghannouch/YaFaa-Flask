@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block header %}
+    {% include 'header.html' %}
+{% endblock %}
+
+{% block sidebar %}
+    {% include 'sidebar.html' %}
+{% endblock %}
+
+{% block content %}
+
+<div class="js-league-table">
+    <div class="league-table__container">
+        <h2 class="heading-primary">About Us</h2>
+        <p>
+            Welcome to our website! We are a passionate team dedicated to providing you with the latest and most accurate information about football leagues and fixtures.
+        </p>
+    
+        <h3 class="heading-secondary">Our Mission</h3>
+        <p>
+            Our mission is to keep you updated on all things football. Whether it's the latest match results, upcoming fixtures, or in-depth analysis, we've got you covered.
+        </p>
+
+        <h3 class="heading-secondary">Meet the Team</h3>
+        <div class="team-members">
+            <div class="team-member">
+                <img src="path/to/team-member1.jpg" alt="Team Member 1">
+                <h4>John Doe</h4>
+                <p>Founder & CEO</p>
+            </div>
+            <div class="team-member">
+                <img src="path/to/team-member2.jpg" alt="Team Member 2">
+                <h4>Jane Smith</h4>
+                <p>Lead Developer</p>
+            </div>
+            <!-- Add more team members as needed -->
+        </div>
+    </div>
+</div>
+
+
+
+{% endblock %}
+
+{% block footer %}
+    {% include 'footer.html' %}
+{% endblock %}

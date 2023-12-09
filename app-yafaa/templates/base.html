@@ -12,6 +12,9 @@
     {% if fixtcss %} 
     <link rel="stylesheet" href="{{url_for('static', filename='css/'+fixtcss+'.css')}}">
     {% endif      %}
+    {% if aboutcss %} 
+    <link rel="stylesheet" href="{{url_for('static', filename='css/'+aboutcss+'.css')}}">
+    {% endif      %}
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <title>YAFAA-Website</title>
 </head>

@@ -27,6 +27,25 @@ def fixtures_func():
     return render_template('fixture.html', **additional_data,fixtcss="fixtcss")
 
 
+#! ****************** about Page
+@app.route('/about')
+def about_func():
+    date_var = datetime.now().year
+    additional_data = {
+        'current_date': date_var
+    }
+    return render_template('about.html', **additional_data, aboutcss="aboutcss")
+
+
+#! ****************** stats Page
+@app.route('/stats')
+def stats_func():
+    date_var = datetime.now().year
+    additional_data = {
+        'current_date': date_var
+    }
+    return render_template('stats.html', **additional_data)
+
 #! ****************** eng Page
 @app.route('/eng', methods=['GET', 'POST'])
 def eng_func():
