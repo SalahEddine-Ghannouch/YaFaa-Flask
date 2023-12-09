@@ -10,3 +10,8 @@ salah = {
     6 : 
 
 }
+
+imad = {
+    1 - push the data + code
+    2 - plot the fixtures using plotly
+}
