@@ -1,0 +1,9 @@
+Flask==3.0.0
+ipython==8.16.1
+matplotlib==3.8.1
+pandas==2.1.4
+plotly==5.18.0
+pyspark==3.5.0
+Requests==2.31.0
+seaborn==0.13.0
+soccerdata==1.5.2

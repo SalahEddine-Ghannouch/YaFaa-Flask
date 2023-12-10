@@ -32,9 +32,11 @@ p {
 }
 
 .team-member img {
-    max-width: 100%;
-    border-radius: 50%;
+    /* max-width: 100%; */
+    border-radius: 30%;
     margin-bottom: 10px;
+    width: 60px;
+    height: 70px;
 }
 
 .team-member h4 {
