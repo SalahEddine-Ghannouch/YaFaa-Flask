@@ -1,0 +1,77 @@
+{% extends './base.html' %}
+
+{% block header %}
+    {% include './header.html' %}
+{% endblock %}
+
+{% block sidebar %}
+    {% include './sidebar.html' %}
+{% endblock %}
+
+{% block content %}
+<div class="js-league-table">
+    <div class="league-table__container">
+        <h2 class="heading-primary">FRA Ligue 1 : {{ season_selected}}/{{ season_selected + 1 }}</h2>
+        <table class="league-table" cellspacing="0" cellpadding="0">
+            <thead class="league-table__heading">
+                <tr class="league-table__row">
+                    <th title="Position">Rank</th>
+                    <th title="Team">Team</th>
+                    <!-- <th title="Matches Played">League</th> -->
+                    <th title="Wins">ELO</th>
+                    <th title="Draws">Season</th>
+                    <th title="Losses">Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in elo_data %}
+                    <tr class="league-table__row">
+                        <!-- <td>
+                            <div class="league-table__team-logo">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg">
+                            </div>
+                            Manchester City FC
+                        </td> -->
+                        <td>{{row.rank}}</td>
+                        <td>{{row.teams}}</td>
+                        <!-- <td>{{row.league}}</td> -->
+                        <td>{{row.elo | round(3)}}</td>
+                        <td>{{row.season}}</td>
+                        <td>{{row.country}}</td>
+                        
+                    </tr>
+                 {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <h2 class="heading-primary">Season</h2>
+    <form method="post">
+        <select id="season" style="width: 250px;" class="selectB" name="season">
+            <!-- Add options dynamically or hardcode them -->
+            {% for year in season_available %}
+            <option value="{{ year }}" {% if season_selected == year %}selected{% endif %}>{{ year }}/{{ year +1}}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+        <button type="submit" id="submit-button" class="BtnS">UPLOAD</button>
+    </form>
+    </div>
+</div>
+
+<div class="js-next-fixtures">
+    <div class="fixtures">
+        <h2 class="heading-secondary">Elo Distribution for ENG-Premier League</h2>
+        <ul class="fixtures-list">
+            {{graph_json|safe}}
+        </ul>
+    </div>
+</div>
+{% endblock %}
+
+{% block footer %}
+    {% include './footer.html' %}
+{% endblock %}
