@@ -338,7 +338,7 @@ a {
   background-color: #333;
   grid-area: s;
   transition: max-height 2s; 
-  width: 80%;
+  /* width: 80%; */
 
 }
   @media (max-width: 1250px) {
