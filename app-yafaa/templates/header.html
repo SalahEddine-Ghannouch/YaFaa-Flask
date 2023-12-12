@@ -8,7 +8,7 @@
         <ul class="nav__list">
             <a href="{{ url_for('dynamic_route', route_argument='elo/eng') }}"><li class="nav__list-item">ELO</li></a>
             <a href="{{ url_for('dynamic_route', route_argument='fixt/eng') }}"><li class="nav__list-item">Fixtures</li></a>
-            <a href="/stats"><li class="nav__list-item">Stats</li></a>
+            <a href="{{ url_for('dynamic_route', route_argument='stats/eng') }}"><li class="nav__list-item">Stats</li></a>
             <a href="/about"><li class="nav__list-item">About Us</li></a>
             <li class="nav__list-item js-competitions">xxxx</li>
         </ul>

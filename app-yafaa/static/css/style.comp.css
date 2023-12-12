@@ -230,12 +230,14 @@ body {
 
 .content {
   grid-area: c;
-  padding: 1.5rem 2rem;
+  padding: 1.2rem 1.8rem;
   background-color: #eee;
   display: grid;
   grid-template-rows: repeat(3, max-content);
   grid-template-columns: max-content 1fr 1fr;
-  grid-gap: 1rem; }
+  grid-gap: 1rem; 
+
+}
   @media (max-width: 1650px) {
     .content {
       grid-template-columns: max-content 1fr; } }
@@ -335,7 +337,10 @@ a {
 .side-bar {
   background-color: #333;
   grid-area: s;
-  transition: max-height 2s; }
+  transition: max-height 2s; 
+  width: 80%;
+
+}
   @media (max-width: 1250px) {
     .side-bar {
       max-height: 0; }
@@ -347,7 +352,8 @@ a {
       display: block; }
   .side-bar__list {
     list-style: none;
-    font-size: 1.5rem; }
+    font-size: 1.7rem; 
+  }
   .side-bar__list-item {
     color: #ccc;
     padding: 1.5rem 3rem;
