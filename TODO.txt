@@ -1,4 +1,8 @@
-
+aymane = {
+    1 : add the clubs elos to the code
+    2 : try to plot the elos
+    3 : fix the side bar
+}
 
 salah = {
 
