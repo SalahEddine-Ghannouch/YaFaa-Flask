@@ -12,3 +12,7 @@ imad = {
     1 - push the data + code
     2 - plot the fixtures using plotly
 }
+
+both = {
+    add your image to static/svg/team
+}
