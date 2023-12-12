@@ -8,7 +8,7 @@
     
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/eng') }}">
         <li id="esp-link" class="side-bar__list-item {% if active_link == 'eng' %}{{active}}{% endif %}" data-competitionid="445" data-currentmatchday="38" style="display: flex; align-items: center;">
-            <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; 
+            <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;  -->
             <img src="{{url_for('static', filename='svg/leagues/eng.png')}}" style="width: 30px; height: 30px; border-radius: 50%; margin-left: 10px; background-color: white;">
         </li>
     </a> 
@@ -16,26 +16,26 @@
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/ita') }}">
         <li class="side-bar__list-item {% if active_link == 'ita' %}{{active}}{% endif %}" data-competitionid="444" data-currentmatchday="38" style="display: flex; align-items: center;">
-            <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; 
+            <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;  -->
             <img src="{{url_for('static', filename='svg/leagues/ita.png')}}" style="width: 30px; height: 30px; border-radius: 50%; margin-left: 10px; background-color: white;">
         </li>
     </a> 
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/fra') }}">
         <li class="side-bar__list-item {% if active_link == 'fra' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center;">
-            <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; 
+            <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;  -->
             <img src="{{url_for('static', filename='svg/leagues/fra.png')}}" style="width: 30px; height: 30px; border-radius: 50%; margin-left: 10px; background-color: white;">    </li>
     </a> 
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/ger') }}">
         <li class="side-bar__list-item {% if active_link == 'ger' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center;">
-        <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;  
+        <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;   -->
         <img src="{{url_for('static', filename='svg/leagues/ger.png')}}" style="width: 30px; height: 30px; border-radius: 50%; margin-left: 10px; background-color: white;">    </li>
     </a>
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/esp') }}">
         <li class="side-bar__list-item {% if active_link == 'esp' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center;">
-        <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;
+        <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; -->
         <img src="{{url_for('static', filename='svg/leagues/esp.png')}}" style="width: 30px; height: 30px; border-radius: 50%; margin-left: 10px; background-color: white;">    </li>
     </a>
 </ul>
