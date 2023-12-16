@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+
+{% block header %}
+    {% include 'header.html' %}
+{% endblock %}
+
+{% block sidebar %}
+    {% include 'sidebar.html' %}
+{% endblock %}
+
+{% block content %}
+
+<style>
+    .contact-form {
+        max-width: 400px;
+        margin: 20px auto;
+    }
+
+    .contact-form form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contact-form label {
+        margin-bottom: 8px;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        padding: 10px;
+        margin-bottom: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .contact-form button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .contact-form button:hover {
+        background-color: #45a049;
+    }
+</style>
+
+<div class="js-league-table">
+    <div class="league-table__container">
+        <h2 class="heading-primary">Contact Us</h2>
+        
+        <div class="contact-form">
+            <form action="/submit_contact" method="post">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Your Message:</label>
+                <textarea id="message" name="message" rows="4" required ></textarea>
+                
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+
+        <h3 class="heading-secondary"> 
+            Have questions, suggestions, or just want to get in touch? Drop us a message using the form below, and we'll <br>get back to you as soon as possible.
+            </h3>
+        <p>
+            - Email: info@example.com     <br>
+            - Phone: +123456789
+        </p>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block footer %}
+    {% include 'footer.html' %}
+{% endblock %}

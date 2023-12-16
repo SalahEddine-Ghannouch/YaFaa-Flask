@@ -1,3 +1,9 @@
+Oussama = {
+	1 : retrive the lineups for all the fixtures.
+	2 : install hbase to transfer the needed data from hadoop file system to the HBase. 
+	2 : store all the data in our hadoop system instead of the tested hadoop.
+}
+
 aymane = {
     1 : add the clubs elos to the code
     2 : try to plot the elos

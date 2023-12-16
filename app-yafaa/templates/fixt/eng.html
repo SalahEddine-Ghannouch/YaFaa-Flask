@@ -10,15 +10,99 @@
 
 {% block content %}
 
-<div class="js-next-fixtures">
+<!-- <div class="js-next-fixtures">
     <div class="fixtures">
         <h2 class="heading-secondary">ENG-Premier League done</h2>
         <ul class="fixtures-list">
         </ul>
     </div>
+</div> -->
+
+<div class="match">
+    <div class="match-header">
+        <div class="match-status">Full-Time</div>
+        <div class="match-tournament">
+            <img src="https://assets.codepen.io/285131/pl-logo.svg" />English Premier League</div>
+        <div class="match-actions">
+            <button class="btn-icon"><i class="material-icons">grade</i></button>
+            <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>
+        </div>
+    </div>
+    <div class="match-content">
+        <div class="column">
+            <div class="team team--home">
+                <div class="team-logo">
+                    <img src="https://assets.codepen.io/285131/chelsea.svg" />
+                </div>
+                <h2 class="team-name">Chelsea</h2>
+            </div>
+        </div>
+        <div class="column">
+            <div class="match-details">
+                <div class="match-date">
+                    3 May at <strong>17:30</strong>
+                </div>
+                <div class="match-score">
+                    <span class="match-score-number match-score-number--leading">3</span>
+                    <span class="match-score-divider">:</span>
+                    <span class="match-score-number">1</span>
+                </div>
+                <div class="match-time-lapsed">
+                    72'
+                </div>
+                <div class="match-referee">
+                    Referee: <strong>Mike dean</strong>
+                </div>
+                <div class="match-bet-options">
+                    <button class="match-bet-option">1.48</button>
+                    <button class="match-bet-option">7.84</button>
+                    <button class="match-bet-option">3.24</button>
+                </div>
+                <button class="match-bet-place">xxxxxxxx</button>
+            </div>
+        </div>
+        <div class="column">
+            <div class="team team--away">
+                <div class="team-logo">
+                    <img src="https://resources.premierleague.com/premierleague/badges/t1.svg" />
+                </div>
+                <h2 class="team-name"> Man Utd</h2>
+            </div>
+        </div>
+    </div>
 </div>
 
+    <div class="js-current-fixtures" >
+        <div class="league-table__container">
+            <h2 class="heading-primary">League</h2>
+            <select id="season1" style="width: 250px;" class="selectB">
+                <!-- Add options dynamically or hardcode them -->
+                <option value="premier">Premier League</option>
+                <option value="la-liga">La Liga</option>
+                <!-- Add more options as needed -->
+            </select>
 
+            <h2 class="heading-primary">Season</h2>
+            <select id="season2" style="width: 250px;" class="selectB">
+                <!-- Add options dynamically or hardcode them -->
+                <option value="2017/18">2017/18</option>
+                <option value="2018/19">2018/19</option>
+                <!-- Add more options as needed -->
+            </select>
+
+            <h2 class="heading-primary">Date</h2>
+            <select id="season" style="width: 250px;" class="selectB">
+                <!-- Add options dynamically or hardcode them -->
+                <option value="2017/18">2017/18</option>
+                <option value="2018/19">2018/19</option>
+                <!-- Add more options as needed -->
+            </select>
+
+            <br><br>
+            <button type="submit" id="submit-button" class="BtnS">UPLOAD</button>
+            <br><br><br>
+        </div>
+    </div>
 
 
 

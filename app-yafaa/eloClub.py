@@ -6,6 +6,7 @@ import seaborn as sns
 import plotly.express as px
 import plotly.graph_objs as go
 from plotly.subplots import make_subplots
+from datetime import datetime, timedelta
 
 elo = sd.ClubElo()
 
@@ -23,24 +24,49 @@ def get_available_leagues():
 
 
 #******************* def process_clubs_elo_for_year_and_league: funct : 
-def process_clubs_elo_for_year_and_league(year, league):
-    # Read end of season clubs elo for the specified year
-    elos = elo.read_by_date(f'{year}-06-30')
+def process_clubs_elo_for_year_and_league(dateIn, league):
 
-    # Filter data for the specified league
-    filtered_seasons = elos[elos.league == league]
+    # Set start date
+    # start_date = datetime(dateIn)
+    start_date = datetime.strptime(dateIn, '%Y-%m-%d')
+    current_date = datetime.now()
+    current_date_plus_one_day = current_date + timedelta(days=1)
 
-    # Add 'rank' and 'season' columns
-    filtered_seasons['rank'] = range(1, len(filtered_seasons) + 1)
-    filtered_seasons['season'] = year 
+    # Check if start_date is less than or equal to the current date (year and month only)
+    if start_date < current_date_plus_one_day:
+        # Print week number and date
+        elos = elo.read_by_date(f"{start_date.year}-{start_date.month}-{start_date.day}")
+        # Filter by the specified leagues
+        # filtered_seasons = elos[elos.league.isin(leagues)]
+        filtered_seasons = elos[elos.league == league]
+        # Correct the ranking of the teams
+        filtered_seasons['rank'] = range(1, len(filtered_seasons) + 1)
+        # Add the week column
+        filtered_seasons['week'] = f"{start_date.year}-{start_date.month}-{start_date.day}" 
+        # Drop unnecessary columns
+        filtered_seasons.drop(columns=['level', 'from', 'to'], inplace=True)
+        # Extract the 'team' column
+        teams = filtered_seasons.index.tolist()
+        # Add 'teams' column to the DataFrame
+        filtered_seasons['teams'] = teams
 
-    # Drop unnecessary columns
-    filtered_seasons.drop(columns=['level', 'from', 'to'], inplace=True)
-    # Extract the 'team' column
-    teams = filtered_seasons.index.tolist()
-    # Add 'teams' column to the DataFrame
-    filtered_seasons['teams'] = teams
-
+    else:
+        # Print week number and date
+        elos = elo.read_by_date(f"{current_date.year}-{current_date.month}-{current_date.day}")
+        # Filter by the specified leagues
+        # filtered_seasons = elos[elos.league.isin(leagues)]
+        filtered_seasons = elos[elos.league == league]
+        # Correct the ranking of the teams
+        filtered_seasons['rank'] = range(1, len(filtered_seasons) + 1)
+        # Add the week column
+        filtered_seasons['week'] = f"{current_date.year}-{current_date.month}-{current_date.day}" 
+        # Drop unnecessary columns
+        filtered_seasons.drop(columns=['level', 'from', 'to'], inplace=True)
+        # Extract the 'team' column
+        teams = filtered_seasons.index.tolist()
+        # Add 'teams' column to the DataFrame
+        filtered_seasons['teams'] = teams
+    
     return filtered_seasons
 
 

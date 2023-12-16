@@ -36,6 +36,14 @@ def about_func():
     }
     return render_template('about.html', **additional_data, aboutcss="aboutcss")
 
+#! ****************** contact Page
+@app.route('/contact')
+def contact_func():
+    date_var = datetime.now().year
+    additional_data = {
+        'current_date': date_var
+    }
+    return render_template('contact.html', **additional_data, aboutcss="aboutcss")
 
 #! ****************** stats Page
 @app.route('/stats')
@@ -77,12 +85,14 @@ def dynamic_route(route_argument):
             league_name = 'ITA-Serie A'
         
         if request.method == 'POST':
-            selected_year = int(request.form.get('season'))
+            selected_year = request.form.get('season')
+            # Convert the string date to a datetime object
+            # date_object = datetime.strptime(selected_year, '%Y-%m-%d')
             elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year,league_name )
         else:
             # Default to the current year
-            selected_year = date_var
-            elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, 'ENG-Premier League')
+            selected_year = f"{datetime.now().year}-{datetime.now().month}-{datetime.now().day}"
+            elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, league_name)
 
         #? figure displaying : 
         fig = eloClub.plot_elo_histogram(elo_eng, league_name)
@@ -118,17 +128,17 @@ def dynamic_route(route_argument):
         if league_code =='ita':
             league_name = 'ITA-Serie A'
         
-        if request.method == 'POST':
-            selected_year = int(request.form.get('season'))
-            elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year,league_name )
-        else:
-            # Default to the current year
-            selected_year = date_var
-            elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, 'ENG-Premier League')
+        # if request.method == 'POST':
+        #     selected_year = int(request.form.get('season'))
+        #     elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year,league_name )
+        # else:
+        #     # Default to the current year
+        #     selected_year = date_var
+        #     elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, 'ENG-Premier League')
 
-        #? figure displaying : 
-        fig = eloClub.plot_elo_histogram(elo_eng, league_name)
-        graph_json = fig
+        # #? figure displaying : 
+        # fig = eloClub.plot_elo_histogram(elo_eng, league_name)
+        # graph_json = fig
 
         #? send Data here : 
         additional_data = {
@@ -136,7 +146,7 @@ def dynamic_route(route_argument):
             'active': 'side-bar__list-item--active',
             'active_link': league_code,
             'season_available': years,
-            'season_selected': selected_year,
+            # 'season_selected': selected_year,
             # 'elo_data': elo_eng.to_dict(orient='records'),  # Convert DataFrame to a list of dictionaries
             # 'graph_json':graph_json
         }
@@ -189,7 +199,7 @@ def dynamic_route(route_argument):
         return redirect(url_for('index_home'))
 
 
-    return render_template(navbar_selected+'/'+league_code+'.html', **additional_data)
+    return render_template(navbar_selected+'/'+league_code+'.html', **additional_data,fixtcss="fixtcss")
 
 
 
