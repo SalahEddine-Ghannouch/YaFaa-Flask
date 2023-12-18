@@ -17,7 +17,7 @@
         <div class="match-header">
             <div class="match-status">{{ selected_data_fixt['status_long'].tolist()[0] if 'status_long' in selected_data_fixt else 'NULL' }}</div>
             <div class="match-tournament">
-                <img src="{{ selected_data_fixt['league_logo'].tolist()[0] if 'league_logo' in selected_data_fixt else 'NULL' }}" alt="Tournament Logo" /> {{ selected_data_fixt['league_name'].tolist()[0] if 'league_name' in selected_data_fixt else 'NULL' }}
+                <img src="{{ selected_data_fixt['league_logo'].tolist()[0] if 'league_logo' in selected_data_fixt else 'NULL' }}" style="width: 30px;" alt="Tournament Logo" /> {{ selected_data_fixt['league_name'].tolist()[0] if 'league_name' in selected_data_fixt else 'NULL' }}
             </div>
             <div class="match-actions">
                 <button class="btn-icon"><i class="material-icons">grade</i></button>
@@ -132,7 +132,7 @@
                 <input type="hidden" name="form_type" value="season_form">
                 <select id="season" name="season" style="width: 250px;" class="selectB">
                     {% for season_selected in season_available%}
-                   <option value="{{season_selected}}">{{season_selected}} / {{ (season_selected|int) +1}}</option>
+                   <option value="{{season_selected}}" style="font-size: 13px;">{{season_selected}} / {{ (season_selected|int) +1}}</option>
                     {%endfor%}  
                 </select>
                 <br><br>
@@ -145,7 +145,8 @@
                 <input type="hidden" name="form_type" value="fixture_form">
                 <select id="fixture" name="fixture" style="width: 250px;" class="selectB">
                     {% for id in fixture_ids %}
-                        <option value="{{ id }}">{{ id }}</option>
+                    {% set index = loop.index - 1 %}
+                        <option value="{{ id }}" style="font-size: 13px;">{{ teams_home_name_v[index] ~ " - " ~ teams_away_name_v[index] }}</option>
                     {% endfor %}
                 </select>
                 <br><br>
