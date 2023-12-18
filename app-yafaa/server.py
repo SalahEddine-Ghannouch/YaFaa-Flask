@@ -3,6 +3,7 @@ from flask import render_template
 from flask import request
 from datetime import datetime
 import eloClub as eloClub
+import pandas as pd
 
 
 app = Flask(__name__)
@@ -115,30 +116,44 @@ def dynamic_route(route_argument):
         date_var = datetime.now().year
         league_name = ''
         #? Get season
-        years = eloClub.generate_years()
+        years = [ year for year in range(2010, 2023 + 1)]
+
         #? Tretement for elo data
         if league_code =='eng':
-            league_name = 'ENG-Premier League'
+            league_name = '39data'
         if league_code =='fra':
-            league_name = 'FRA-Ligue 1'
+            league_name = '61data'
         if league_code =='ger':
-            league_name = 'GER-Bundesliga'
+            league_name = '78data'
         if league_code =='esp':
-            league_name = 'ESP-La Liga'
+            league_name = '135data'
         if league_code =='ita':
-            league_name = 'ITA-Serie A'
+            league_name = '140data'
         
-        # if request.method == 'POST':
-        #     selected_year = int(request.form.get('season'))
-        #     elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year,league_name )
-        # else:
-        #     # Default to the current year
-        #     selected_year = date_var
-        #     elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, 'ENG-Premier League')
+        # Read the CSV file
+        df = pd.read_csv('static/flats/fixt/'+league_name+'.csv')
+        fixture_ids = []
+        selected_data_fixt= []
 
-        # #? figure displaying : 
-        # fig = eloClub.plot_elo_histogram(elo_eng, league_name)
-        # graph_json = fig
+        if request.method == 'POST':
+            form_type = request.form.get('form_type', '')
+            if form_type == 'season_form':
+                # Data from the first form
+                selected_year = request.form.get('season')
+                # Filter the DataFrame based on the selected season
+                selected_data = df[df['league_season'] == int(selected_year)]
+                fixture_ids = selected_data['fixture_id'].tolist()
+                print(fixture_ids)
+
+            elif form_type == 'fixture_form':
+                # Data from the first form
+                selected_fixture = request.form.get('fixture')
+                # Filter the DataFrame based on the selected season
+                selected_data_fixt = df[df['fixture_id'] == int(selected_fixture)]
+        else:
+            selected_data = df[df['league_season'] == int(date_var)]
+            fixture_ids = selected_data['fixture_id'].tolist()
+            # print(fixture_ids)
 
         #? send Data here : 
         additional_data = {
@@ -146,9 +161,8 @@ def dynamic_route(route_argument):
             'active': 'side-bar__list-item--active',
             'active_link': league_code,
             'season_available': years,
-            # 'season_selected': selected_year,
-            # 'elo_data': elo_eng.to_dict(orient='records'),  # Convert DataFrame to a list of dictionaries
-            # 'graph_json':graph_json
+            'fixture_ids' : fixture_ids,
+            'selected_data_fixt':selected_data_fixt
         }
     
 
