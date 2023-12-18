@@ -10,10 +10,55 @@
 
 {% block content %}
 
+<div class="js-league-table">
+    <div class="league-table__container">
+        <h2 class="heading-primary">ENG Premier League : {{ season_selected[:4]}}/{{ (season_selected[:4]|int) + 1 }}        </h2>
+        <table class="league-table" cellspacing="0" cellpadding="0">
+            <thead class="league-table__heading">
+                <tr class="league-table__row">
+                    <th title="Rank">Rank</th>
+                    <th title="Team">Team</th>
+                    <th title="ELO">ELO</th>
+                    <th title="Date">Date</th>
+                    <th title="Country">Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in elo_data %}
+                    <tr class="league-table__row">
+                        <td>{{row.rank}}</td>
+                        <td>{{row.teams}}</td>
+                        <td>{{row.elo | round(3)}}</td>
+                        <td>{{row.week}}</td>
+                        <td>{{row.country}}</td>
+                        
+                    </tr>
+                 {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <h2 class="heading-primary">Season</h2>
+    <form  method="post" >
+        <select id="season" style="width: 250px;" class="selectB" name="season" value="{{ season_selected}}">
+            {%for elm in season_available%}
+            <option value="{{elm}}">{{elm}}</option>
+            {%endfor%}
+        </select>
+        <br><br>
+        <button type="submit" id="submit-button" class="BtnS">UPLOAD</button>
+    </form>
+    </div>
+</div>
+
 <div class="js-next-fixtures">
     <div class="fixtures">
-        <h2 class="heading-secondary">ENG-Premier League done</h2>
+        <h2 class="heading-secondary">Elo Distribution for ENG-Premier League</h2>
         <ul class="fixtures-list">
+            
         </ul>
     </div>
 </div>
