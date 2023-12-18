@@ -27,9 +27,9 @@ class yafaaSQL:
         """
         if isinstance(dataframe, pd.DataFrame):
             # Already loaded in DuckDB, use SQL query
-            query = """
+            query = f"""
             SELECT *
-            FROM df
+            FROM {dataframe}
             WHERE League_season = ?
             """
             parameters = (year,)
@@ -56,7 +56,7 @@ class yafaaSQL:
             column = "teams_home_id" if home else "teams_away_id"
             query = f"""
                 SELECT *
-                FROM df
+                FROM {dataframe}
                 WHERE {column} = ?
             """
             parameters = (team,)
@@ -153,10 +153,17 @@ class yafaaSQL:
 
 class yaffaPLT:
     def __init__(self):
-        # You can initialize any parameters or attributes here if needed
         pass
 
-    def _update_layout(self, fig, paper_bgcolor="lightgrey", margin=dict(t=50, b=0), showlegend=False, plot_bgcolor="white", height=200, width=600):
+    def _update_layout(self, 
+                       fig, 
+                       paper_bgcolor="white", 
+                       margin=dict(t=0, b=0), 
+                       showlegend=False, 
+                       plot_bgcolor="white", 
+                       height=200, 
+                       width=600):
+        
         fig.update_layout(
             paper_bgcolor=paper_bgcolor,
             margin=margin,
@@ -166,7 +173,24 @@ class yaffaPLT:
             width=width,
         )
 
-    def plot_metric(self, label, column_name, dataframe, index=0, prefix="", suffix="", show_graph=False, color_graph="", bold_label=False):
+
+    def plot_metric(self, 
+                    label, 
+                    column_name, 
+                    dataframe, 
+                    index=0, 
+                    prefix="", 
+                    suffix="", 
+                    show_graph=False, 
+                    color_graph="", 
+                    bold_label=False,
+                    #The following options to update the layout, check the layout options abouve:
+                    paper_bgcolor="white", 
+                    margin=dict(t=50, b=0), 
+                    showlegend=False, 
+                    plot_bgcolor="white", 
+                    height=200, width=600
+                    ):
         # Perform the specified operation on the chosen index of the dataframe column
         value = int(dataframe[column_name].iloc[index])
 
@@ -197,19 +221,55 @@ class yaffaPLT:
 
         fig.update_xaxes(visible=False, fixedrange=True)
         fig.update_yaxes(visible=False, fixedrange=True)
-        self._update_layout(fig=fig)
-        return fig
+        self._update_layout(fig=fig, 
+                            paper_bgcolor="white", 
+                            margin=dict(t=50, b=0),
+                            showlegend=False,
+                            plot_bgcolor="white",
+                            height=200, 
+                            width=300)
+        
+        return fig.to_html(full_html=False)
+    
+    def plot_stacked_bar(self, key_cols, plot_cols, x_column, dataframe, title=None):
+        # Sort the values
+        sorted_cols = [col for col in key_cols if col is not None]
+        dataframe = dataframe.sort_values(sorted_cols, ascending=False)
+
+        # Create a bar chart using plotly express
+        fig = px.bar(
+            data_frame=dataframe,
+            title=title,
+            x=x_column,
+            y=plot_cols,
+            facet_row=None,
+            facet_col=None,
+        )
+
+        return fig.to_html(full_html=False)
 
 
 #? EXAMPLE USAGE : 
+# df = pd.read_csv ('test.csv')
 # database = yafaaSQL()
 # year_df = database.select_by_season(df, '2019')
 # team_df = database.filter_by_team(year_df,team=54 ,home=False)
 # teams_summary = database.team_goals_summary(year_df)
 # aggregated_columns = database.aggregate_columns(teams_summary, ['total_goals', 'home_goals', 'away_goals'], aggregation='sum')
 
-#* Plotting 
+#! Plotting
+#* Metric Plotting 
 # plt_instance = yaffaPLT()
 
 # fig = plt_instance.plot_metric(label="Total Goals Scored", column_name="sum_of_total_goals", dataframe=aggregated_columns, prefix="", suffix=" Goals", bold_label=True)
+# fig
+    
+#* Stacked Bar plotting example : 
+# key_cols = ['total_goals', None, None, None]
+# plot_cols = ['home_goals', 'away_goals']
+# x_column = 'team_name'
+# title = "Custom Title"
+
+# fig = plt_instance.plot_stacked_bar(key_cols, plot_cols, x_column, teams_summary, title=title)
+
 # fig

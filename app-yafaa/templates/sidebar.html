@@ -16,27 +16,23 @@
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/ita') }}">
         <li class="side-bar__list-item {% if active_link == 'ita' %}{{active}}{% endif %}" data-competitionid="444" data-currentmatchday="38" style="display: flex; align-items: center; justify-content: center;">
-            <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;  -->
             <img src="{{url_for('static', filename='svg/leagues/ita2.png')}}" style="width: 54px;">
         </li>
     </a> 
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/fra') }}">
         <li class="side-bar__list-item {% if active_link == 'fra' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center; justify-content: center;">
-            <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;  -->
             <img src="{{url_for('static', filename='svg/leagues/fra2.png')}}" style="width: 52px;">    </li>
     </a> 
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/ger') }}">
         <li class="side-bar__list-item {% if active_link == 'ger' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center; justify-content: center;">
-        <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp;   -->
-        <img src="{{url_for('static', filename='svg/leagues/ger2.png')}}" style="width: 50px;">    </li>
+            <img src="{{url_for('static', filename='svg/leagues/ger2.png')}}" style="width: 50px;">    </li>
     </a>
 
     <a href="{{ url_for('dynamic_route', route_argument=first_element_after_slash ~ '/esp') }}">
         <li class="side-bar__list-item {% if active_link == 'esp' %}{{active}}{% endif %}" data-competitionid="446" data-currentmatchday="46" style="display: flex; align-items: center; justify-content: center;">
-        <!-- <i class="material-icons" style="font-size: 0.6em;">sports_soccer</i>&nbsp; &nbsp; -->
-        <img src="{{url_for('static', filename='svg/leagues/esp2.png')}}" style="width: 40px;">    </li>
+            <img src="{{url_for('static', filename='svg/leagues/esp2.png')}}" style="width: 40px;">    </li>
     </a>
 </ul>
 

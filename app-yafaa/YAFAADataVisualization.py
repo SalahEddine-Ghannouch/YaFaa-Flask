@@ -27,10 +27,9 @@ class yafaaSQL:
         """
         if isinstance(dataframe, pd.DataFrame):
             # Already loaded in DuckDB, use SQL query
-            df = dataframe
             query = f"""
             SELECT *
-            FROM df
+            FROM {dataframe}
             WHERE League_season = ?
             """
             parameters = (year,)
@@ -54,11 +53,10 @@ class yafaaSQL:
         """
         if isinstance(dataframe, pd.DataFrame):
             # Already loaded in DuckDB, use SQL query
-            df = dataframe
             column = "teams_home_id" if home else "teams_away_id"
             query = f"""
                 SELECT *
-                FROM df
+                FROM {dataframe}
                 WHERE {column} = ?
             """
             parameters = (team,)
@@ -232,6 +230,23 @@ class yaffaPLT:
                             width=300)
         
         return fig.to_html(full_html=False)
+    
+    def plot_stacked_bar(self, key_cols, plot_cols, x_column, dataframe, title=None):
+        # Sort the values
+        sorted_cols = [col for col in key_cols if col is not None]
+        dataframe = dataframe.sort_values(sorted_cols, ascending=False)
+
+        # Create a bar chart using plotly express
+        fig = px.bar(
+            data_frame=dataframe,
+            title=title,
+            x=x_column,
+            y=plot_cols,
+            facet_row=None,
+            facet_col=None,
+        )
+
+        return fig.to_html(full_html=False)
 
 
 #? EXAMPLE USAGE : 
@@ -242,8 +257,19 @@ class yaffaPLT:
 # teams_summary = database.team_goals_summary(year_df)
 # aggregated_columns = database.aggregate_columns(teams_summary, ['total_goals', 'home_goals', 'away_goals'], aggregation='sum')
 
-#* Plotting 
+#! Plotting
+#* Metric Plotting 
 # plt_instance = yaffaPLT()
 
 # fig = plt_instance.plot_metric(label="Total Goals Scored", column_name="sum_of_total_goals", dataframe=aggregated_columns, prefix="", suffix=" Goals", bold_label=True)
+# fig
+    
+#* Stacked Bar plotting example : 
+# key_cols = ['total_goals', None, None, None]
+# plot_cols = ['home_goals', 'away_goals']
+# x_column = 'team_name'
+# title = "Custom Title"
+
+# fig = plt_instance.plot_stacked_bar(key_cols, plot_cols, x_column, teams_summary, title=title)
+
 # fig
