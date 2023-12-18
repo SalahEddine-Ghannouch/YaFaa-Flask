@@ -15,10 +15,26 @@ def index_home():
     date_var = datetime.now().year
 
     database = yafaaSQL()
-    df_pl = pd.read_csv('static/flats/fixt/39data.csv')
-    year_df = database.select_by_season(df_pl, date_var)
-    teams_summary = database.team_goals_summary(year_df)
-    aggregated__goals_pl = database.aggregate_columns(teams_summary, ['total_goals'], aggregation='sum')
+    df_eng = pd.read_csv('static/flats/fixt/39data.csv')
+    df_fra = pd.read_csv('static/flats/fixt/61data.csv')
+    df_ger = pd.read_csv('static/flats/fixt/78data.csv')
+    df_ita = pd.read_csv('static/flats/fixt/135data.csv')
+    df_esp = pd.read_csv('static/flats/fixt/140data.csv')
+    year_df_eng = database.select_by_season(df_eng, date_var)
+    year_df_fra = database.select_by_season(df_fra, date_var)
+    year_df_ger = database.select_by_season(df_ger, date_var)
+    year_df_ita = database.select_by_season(df_ita, date_var)
+    year_df_esp = database.select_by_season(df_esp, date_var)
+    teams_summary_eng = database.team_goals_summary(year_df_eng)
+    teams_summary_fra = database.team_goals_summary(year_df_fra)
+    teams_summary_ger = database.team_goals_summary(year_df_ger)
+    teams_summary_ita = database.team_goals_summary(year_df_ita)
+    teams_summary_esp = database.team_goals_summary(year_df_esp)
+    aggregated_goals_pl_eng = database.aggregate_columns(teams_summary_eng, ['total_goals'], aggregation='sum')
+    aggregated_goals_pl_fra = database.aggregate_columns(teams_summary_fra, ['total_goals'], aggregation='sum')
+    aggregated_goals_pl_ger = database.aggregate_columns(teams_summary_ger, ['total_goals'], aggregation='sum')
+    aggregated_goals_pl_ita = database.aggregate_columns(teams_summary_ita, ['total_goals'], aggregation='sum')
+    aggregated_goals_pl_esp = database.aggregate_columns(teams_summary_esp, ['total_goals'], aggregation='sum')
 
     #* Plotting 
     # plt_instance = yaffaPLT()
@@ -27,7 +43,11 @@ def index_home():
     # fig
     additional_data = {
         'current_date': date_var,
-        'fig_pl':aggregated__goals_pl['sum_of_total_goals'].iloc[0]
+        'eng_goals':aggregated_goals_pl_eng['sum_of_total_goals'].iloc[0],
+        'fra_goals':aggregated_goals_pl_fra['sum_of_total_goals'].iloc[0],
+        'ger_goals':aggregated_goals_pl_ger['sum_of_total_goals'].iloc[0],
+        'ita_goals':aggregated_goals_pl_ita['sum_of_total_goals'].iloc[0],
+        'esp_goals':aggregated_goals_pl_esp['sum_of_total_goals'].iloc[0],
     }
     return render_template('index.html', **additional_data)
 
