@@ -13,6 +13,7 @@ app = Flask(__name__)
 @app.route('/')
 def index_home():
     date_var = datetime.now().year
+    date_new = datetime.now()
 
     database = yafaaSQL()
     df_eng = pd.read_csv('static/flats/fixt/39data.csv')
@@ -35,7 +36,12 @@ def index_home():
     aggregated_goals_pl_ger = database.aggregate_columns(teams_summary_ger, ['total_goals'], aggregation='sum')
     aggregated_goals_pl_ita = database.aggregate_columns(teams_summary_ita, ['total_goals'], aggregation='sum')
     aggregated_goals_pl_esp = database.aggregate_columns(teams_summary_esp, ['total_goals'], aggregation='sum')
-
+    elo_eng = eloClub.process_clubs_elo_for_year_and_league(f"{date_new.year}-{date_new.month}-{date_new.day}",'ENG-Premier League' )
+    elo_fra = eloClub.process_clubs_elo_for_year_and_league(f"{date_new.year}-{date_new.month}-{date_new.day}",'FRA-Ligue 1' )
+    elo_ger = eloClub.process_clubs_elo_for_year_and_league(f"{date_new.year}-{date_new.month}-{date_new.day}",'GER-Bundesliga' )
+    elo_esp = eloClub.process_clubs_elo_for_year_and_league(f"{date_new.year}-{date_new.month}-{date_new.day}",'ESP-La Liga' )
+    elo_ita = eloClub.process_clubs_elo_for_year_and_league(f"{date_new.year}-{date_new.month}-{date_new.day}",'ITA-Serie A' )
+    print(elo_eng.iloc[0].elo)
     #* Plotting 
     # plt_instance = yaffaPLT()
 
@@ -48,6 +54,11 @@ def index_home():
         'ger_goals':aggregated_goals_pl_ger['sum_of_total_goals'].iloc[0],
         'ita_goals':aggregated_goals_pl_ita['sum_of_total_goals'].iloc[0],
         'esp_goals':aggregated_goals_pl_esp['sum_of_total_goals'].iloc[0],
+        'elo_eng':elo_eng.iloc[0],
+        'elo_fra':elo_fra.iloc[0],
+        'elo_ger':elo_ger.iloc[0],
+        'elo_esp':elo_esp.iloc[0],
+        'elo_ita':elo_ita.iloc[0],
     }
     return render_template('index.html', **additional_data)
 
@@ -198,6 +209,7 @@ def dynamic_route(route_argument):
             selected_data = df[df['league_season'] == int(date_var)]
             fixture_ids = selected_data['fixture_id'].tolist()
             teams_home_name = selected_data['teams_home_name'].tolist()
+            # teams_home_name = selected_data['teams_home_name'].drop_duplicates().tolist()
             teams_away_name = selected_data['teams_away_name'].tolist()
             selected_data_fixt = df[df['fixture_id'] == fixture_ids[0]]
             selected_year = int(date_var)   
