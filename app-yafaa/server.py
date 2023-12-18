@@ -4,7 +4,7 @@ from flask import request
 from datetime import datetime
 import eloClub as eloClub
 import pandas as pd
-
+from YAFAADataVisualization import yafaaSQL,yaffaPLT
 
 app = Flask(__name__)
 
@@ -13,8 +13,22 @@ app = Flask(__name__)
 @app.route('/')
 def index_home():
     date_var = datetime.now().year
+
+    database = yafaaSQL()
+    df = pd.read_csv('static/flats/fixt/39data.csv')
+    year_df = database.select_by_season(df, date_var)
+    # team_df = database.filter_by_team(year_df,team=54 ,home=False)
+    teams_summary = database.team_goals_summary(year_df)
+    aggregated_columns = database.aggregate_columns(teams_summary, ['total_goals', 'home_goals', 'away_goals'], aggregation='sum')
+
+    #* Plotting 
+    plt_instance = yaffaPLT()
+
+    fig = plt_instance.plot_metric(label="Total Goals Scored", column_name="sum_of_total_goals", dataframe=aggregated_columns, prefix="", suffix=" Goals", bold_label=True)
+    # fig
     additional_data = {
-        'current_date': date_var
+        'current_date': date_var,
+        'fig':fig
     }
     return render_template('index.html', **additional_data)
 
@@ -126,9 +140,9 @@ def dynamic_route(route_argument):
         if league_code =='ger':
             league_name = '78data'
         if league_code =='esp':
-            league_name = '135data'
-        if league_code =='ita':
             league_name = '140data'
+        if league_code =='ita':
+            league_name = '135data'
         
         # Read the CSV file
         df = pd.read_csv('static/flats/fixt/'+league_name+'.csv')
@@ -142,27 +156,45 @@ def dynamic_route(route_argument):
                 selected_year = request.form.get('season')
                 # Filter the DataFrame based on the selected season
                 selected_data = df[df['league_season'] == int(selected_year)]
+                teams_home_name = selected_data['teams_home_name'].tolist()
+                teams_away_name = selected_data['teams_away_name'].tolist()
                 fixture_ids = selected_data['fixture_id'].tolist()
-                print(fixture_ids)
+                selected_data_fixt = df[df['fixture_id'] == fixture_ids[0]]
+                print(selected_data_fixt)
+                selected_year = int(selected_year)
 
             elif form_type == 'fixture_form':
                 # Data from the first form
                 selected_fixture = request.form.get('fixture')
                 # Filter the DataFrame based on the selected season
                 selected_data_fixt = df[df['fixture_id'] == int(selected_fixture)]
+                league_season_value = selected_data_fixt['league_season'].iat[0]
+                selected_data = df[df['league_season'] == int(league_season_value)]
+                teams_home_name = selected_data['teams_home_name'].tolist()
+                teams_away_name = selected_data['teams_away_name'].tolist()
+
+                fixture_ids = fixture_ids
+
         else:
             selected_data = df[df['league_season'] == int(date_var)]
             fixture_ids = selected_data['fixture_id'].tolist()
-            # print(fixture_ids)
+            teams_home_name = selected_data['teams_home_name'].tolist()
+            teams_away_name = selected_data['teams_away_name'].tolist()
+            selected_data_fixt = df[df['fixture_id'] == fixture_ids[0]]
+            selected_year = int(date_var)   
+            # print("-----------------> ",fixture_ids[0])
+            # print(selected_data_fixt.columns)
 
         #? send Data here : 
         additional_data = {
             'current_date': date_var,
             'active': 'side-bar__list-item--active',
             'active_link': league_code,
-            'season_available': years,
+            'season_available': years,  
             'fixture_ids' : fixture_ids,
-            'selected_data_fixt':selected_data_fixt
+            'selected_data_fixt':selected_data_fixt,
+            'teams_home_name_v':teams_home_name,
+            'teams_away_name_v':teams_away_name
         }
     
 
@@ -190,8 +222,8 @@ def dynamic_route(route_argument):
             elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year,league_name )
         else:
             # Default to the current year
-            selected_year = date_var
-            elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, 'ENG-Premier League')
+            selected_year = f"{datetime.now().year}-{datetime.now().month}-{datetime.now().day}"
+            elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, league_name)
 
         #? figure displaying : 
         fig = eloClub.plot_elo_histogram(elo_eng, league_name)

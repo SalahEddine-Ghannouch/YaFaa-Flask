@@ -12,14 +12,153 @@
 
 
 
+{% if not selected_data_fixt.empty %}
+    <div class="match">
+        <div class="match-header">
+            <div class="match-status">{{ selected_data_fixt['status_long'].tolist()[0] if 'status_long' in selected_data_fixt else 'NULL' }}</div>
+            <div class="match-tournament">
+                <img src="{{ selected_data_fixt['league_logo'].tolist()[0] if 'league_logo' in selected_data_fixt else 'NULL' }}" alt="Tournament Logo" /> {{ selected_data_fixt['league_name'].tolist()[0] if 'league_name' in selected_data_fixt else 'NULL' }}
+            </div>
+            <div class="match-actions">
+                <button class="btn-icon"><i class="material-icons">grade</i></button>
+                <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>
+            </div>
+        </div>
 
-<div class="js-next-fixtures">
-    <div class="fixtures">
-        <h2 class="heading-secondary">Succesufulllllllllll</h2>
-        <ul class="fixtures-list">
-        </ul>
+        <div class="match-content">
+            <div class="column">
+                <div class="team team--home">
+                    <div class="team-logo">
+                        <img src="{{ selected_data_fixt['teams_home_logo'].tolist()[0] if 'teams_home_logo' in selected_data_fixt else 'No' }}" alt="Home Team Logo" />
+                    </div>
+                    <h2 class="team-name">{{ selected_data_fixt['teams_home_name'].tolist()[0] if 'teams_home_name' in selected_data_fixt else 'No' }}</h2>
+                </div>
+            </div>
+            <div class="column">
+                <div class="match-details">
+                    <div class="match-date">
+                        {{ selected_data_fixt['fixture_date'].tolist()[0] if 'fixture_date' in selected_data_fixt else 'No' }} <br>
+                        <strong>{{ selected_data_fixt['league_round'].tolist()[0] if 'league_round' in selected_data_fixt else 'No' }}</strong>
+                    </div>
+                    <div class="match-score">
+                        <span class="match-score-number match-score-number--leading">{{ selected_data_fixt['goals_home'].tolist()[0] if 'goals_home' in selected_data_fixt else 'No' }}</span>
+                        <span class="match-score-divider">:</span>
+                        <span class="match-score-number">{{ selected_data_fixt['goals_away'].tolist()[0] if 'goals_away' in selected_data_fixt else 'No' }}</span>
+                    </div>
+                    <div class="match-time-lapsed">
+                        {{ selected_data_fixt['status_elapsed'].tolist()[0] if 'status_elapsed' in selected_data_fixt else 'NULL' }} min
+                    </div>
+                    <div class="match-referee">
+                        Referee: <strong>{{ selected_data_fixt['fixture_referee'].tolist()[0] if 'fixture_referee' in selected_data_fixt else 'No' }}</strong>
+                    </div>
+                    <div class="match-bet-options">
+                        <!-- <button class="match-bet-option">{{ selected_data_fixt['status_elapsed'].tolist()[0] if 'status_elapsed' in selected_data_fixt else 'No' }} min</button> -->
+                    </div>
+                    <button class="match-bet-place">Venue : {{ selected_data_fixt['venue_name'].tolist()[0] if 'venue_name' in selected_data_fixt else 'No' }}</button>
+                </div>
+            </div>
+            <div class="column">
+                <div class="team team--away">
+                    <div class="team-logo">
+                        <img src="{{ selected_data_fixt['teams_away_logo'].tolist()[0] if 'teams_away_logo' in selected_data_fixt else 'No' }}" alt="Away Team Logo" />
+                    </div>
+                    <h2 class="team-name">{{ selected_data_fixt['teams_away_name'].tolist()[0] if 'teams_away_name' in selected_data_fixt else 'N' }}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+{% else %}
+    
+<div class="match">
+    <div class="match-header">
+        <div class="match-status">Full-Time </div>
+        <div class="match-tournament">
+            <img src="https://assets.codepen.io/285131/pl-logo.svg" />English Premier League</div>
+        <div class="match-actions">
+            <button class="btn-icon"><i class="material-icons">grade</i></button>
+            <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>
+        </div>
+    </div>
+
+    <div class="match-content">
+        <div class="column">
+            <div class="team team--home">
+                <div class="team-logo">
+                    <img src="https://assets.codepen.io/285131/chelsea.svg" />
+                </div>
+                <h2 class="team-name">chelsea</h2>
+            </div>
+        </div>
+        <div class="column">
+            <div class="match-details">
+                <div class="match-date">
+                    3 May at <strong>17:30</strong>
+                </div>
+                <div class="match-score">
+                    <span class="match-score-number match-score-number--leading">3</span>
+                    <span class="match-score-divider">:</span>
+                    <span class="match-score-number">1</span>
+                </div>
+                <div class="match-time-lapsed">
+                    72'
+                </div>
+                <div class="match-referee">
+                    Referee: <strong>Mike dean</strong>
+                </div>
+                <div class="match-bet-options">
+                    <button class="match-bet-option">1.48</button>
+                    <button class="match-bet-option">7.84</button>
+                    <button class="match-bet-option">3.24</button>
+                </div>
+                <button class="match-bet-place">xxxxxxxx</button>
+            </div>
+        </div>
+        <div class="column">
+            <div class="team team--away">
+                <div class="team-logo">
+                    <img src="https://resources.premierleague.com/premierleague/badges/t1.svg" />
+                </div>
+                <h2 class="team-name"> Man Utd</h2>
+            </div>
+        </div>
     </div>
 </div>
+{% endif %}
+
+    <div class="js-current-fixtures" >
+        <div class="league-table__container">
+            <h2 class="heading-primary">Season</h2>
+            <form  method="POST">
+                <input type="hidden" name="form_type" value="season_form">
+                <select id="season" name="season" style="width: 250px;" class="selectB">
+                    {% for season_selected in season_available%}
+                   <option value="{{season_selected}}">{{season_selected}} / {{ (season_selected|int) +1}}</option>
+                    {%endfor%}  
+                </select>
+                <br><br>
+                <button type="submit" class="BtnS">UPLOAD</button>
+            </form>
+             
+            <br><br><br>
+            <h2 class="heading-primary">Fixture</h2>
+            <form  method="POST">
+                <input type="hidden" name="form_type" value="fixture_form">
+                <select id="fixture" name="fixture" style="width: 250px;" class="selectB">
+                    {% for id in fixture_ids %}
+                        <option value="{{ id }}">{{ id }}</option>
+                    {% endfor %}
+                </select>
+                <br><br>
+                <button type="submit" class="BtnS">UPLOAD</button>
+            </form>
+
+    
+            <br><br><br>
+        </div>
+    </div>
+
+
+
 {% endblock %}
 
 {% block footer %}

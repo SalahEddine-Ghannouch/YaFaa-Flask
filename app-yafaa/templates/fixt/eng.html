@@ -11,7 +11,66 @@
 {% block content %}
 
 
-<!-- 
+
+
+
+{% if not selected_data_fixt.empty %}
+    <div class="match">
+        <div class="match-header">
+            <div class="match-status">{{ selected_data_fixt['status_long'].tolist()[0] if 'status_long' in selected_data_fixt else 'NULL' }}</div>
+            <div class="match-tournament">
+                <img src="{{ selected_data_fixt['league_logo'].tolist()[0] if 'league_logo' in selected_data_fixt else 'NULL' }}" alt="Tournament Logo" /> {{ selected_data_fixt['league_name'].tolist()[0] if 'league_name' in selected_data_fixt else 'NULL' }}
+            </div>
+            <div class="match-actions">
+                <button class="btn-icon"><i class="material-icons">grade</i></button>
+                <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>
+            </div>
+        </div>
+
+        <div class="match-content">
+            <div class="column">
+                <div class="team team--home">
+                    <div class="team-logo">
+                        <img src="{{ selected_data_fixt['teams_home_logo'].tolist()[0] if 'teams_home_logo' in selected_data_fixt else 'No' }}" alt="Home Team Logo" />
+                    </div>
+                    <h2 class="team-name">{{ selected_data_fixt['teams_home_name'].tolist()[0] if 'teams_home_name' in selected_data_fixt else 'No' }}</h2>
+                </div>
+            </div>
+            <div class="column">
+                <div class="match-details">
+                    <div class="match-date">
+                        {{ selected_data_fixt['fixture_date'].tolist()[0] if 'fixture_date' in selected_data_fixt else 'No' }} <br>
+                        <strong>{{ selected_data_fixt['league_round'].tolist()[0] if 'league_round' in selected_data_fixt else 'No' }}</strong>
+                    </div>
+                    <div class="match-score">
+                        <span class="match-score-number match-score-number--leading">{{ selected_data_fixt['goals_home'].tolist()[0] if 'goals_home' in selected_data_fixt else 'No' }}</span>
+                        <span class="match-score-divider">:</span>
+                        <span class="match-score-number">{{ selected_data_fixt['goals_away'].tolist()[0] if 'goals_away' in selected_data_fixt else 'No' }}</span>
+                    </div>
+                    <div class="match-time-lapsed">
+                        {{ selected_data_fixt['status_elapsed'].tolist()[0] if 'status_elapsed' in selected_data_fixt else 'NULL' }} min
+                    </div>
+                    <div class="match-referee">
+                        Referee: <strong>{{ selected_data_fixt['fixture_referee'].tolist()[0] if 'fixture_referee' in selected_data_fixt else 'No' }}</strong>
+                    </div>
+                    <div class="match-bet-options">
+                        <!-- <button class="match-bet-option">{{ selected_data_fixt['status_elapsed'].tolist()[0] if 'status_elapsed' in selected_data_fixt else 'No' }} min</button> -->
+                    </div>
+                    <button class="match-bet-place">Venue : {{ selected_data_fixt['venue_name'].tolist()[0] if 'venue_name' in selected_data_fixt else 'No' }}</button>
+                </div>
+            </div>
+            <div class="column">
+                <div class="team team--away">
+                    <div class="team-logo">
+                        <img src="{{ selected_data_fixt['teams_away_logo'].tolist()[0] if 'teams_away_logo' in selected_data_fixt else 'No' }}" alt="Away Team Logo" />
+                    </div>
+                    <h2 class="team-name">{{ selected_data_fixt['teams_away_name'].tolist()[0] if 'teams_away_name' in selected_data_fixt else 'N' }}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+{% else %}
+    
 <div class="match">
     <div class="match-header">
         <div class="match-status">Full-Time </div>
@@ -29,7 +88,7 @@
                 <div class="team-logo">
                     <img src="https://assets.codepen.io/285131/chelsea.svg" />
                 </div>
-                <h2 class="team-name">{{selected_data_fixt['fixture_id']}}</h2>
+                <h2 class="team-name">chelsea</h2>
             </div>
         </div>
         <div class="column">
@@ -65,85 +124,8 @@
             </div>
         </div>
     </div>
-</div> -->
-
-
-{% if selected_data_fixt %}
-   
-        <div class="match">
-            <div class="match-header">
-                {% for row in selected_data_fixt %}
-                <div class="match-status">{{ row['status_long'] }}</div>
-                <div class="match-tournament">
-                    <img src="{{ row['league_logo'] }}" alt="Tournament Logo" /> {{ row['tournament_name'] }}
-                </div>
-                {% endfor %}
-                <div class="match-actions">
-                    <button class="btn-icon"><i class="material-icons">grade</i></button>
-                    <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>
-                </div>
-            </div>
-
-            <div class="match-content">
-                <div class="column">
-                    <div class="team team--home">
-                        <div class="team-logo">
-                            {% for row in selected_data_fixt %}
-                            <img src="{{ row['home_team_logo'] }}" alt="Home Team Logo" />
-                        </div>
-                        <h2 class="team-name">{{ row['home_team_name'] }}</h2>
-                        {% endfor %}
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="match-details">
-                        <div class="match-date">
-                            {% for row in selected_data_fixt %}
-                            {{ row['match_date'] }} at <strong>{{ row['match_time'] }}</strong>
-                        </div>
-                        {% endfor %}
-                        <div class="match-score">
-                            {% for row in selected_data_fixt %}
-                            <span class="match-score-number match-score-number--leading">{{ row['home_score'] }}</span>
-                            <span class="match-score-divider">:</span>
-                            <span class="match-score-number">{{ row['away_score'] }}</span>
-                            {% endfor %}
-                        </div>
-                        <div class="match-time-lapsed">
-                            {% for row in selected_data_fixt %}
-                            {{ row['time_lapsed'] }}
-                        </div>
-                        <div class="match-referee">
-                            Referee: <strong>{{ row['referee'] }}</strong>
-                            {% endfor %}
-                        </div>
-                        <div class="match-bet-options">
-                            {% for row in selected_data_fixt %}
-                            <button class="match-bet-option">{{ row['bet_option1'] }}</button>
-                            <button class="match-bet-option">{{ row['bet_option2'] }}</button>
-                            <button class="match-bet-option">{{ row['bet_option3'] }}</button>
-                        </div>
-                        <button class="match-bet-place">{{ row['bet_place_text'] }}</button>
-                        {% endfor %}
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="team team--away">
-                        <div class="team-logo">
-                            {% for row in selected_data_fixt %}
-                            <img src="{{ row['away_team_logo'] }}" alt="Away Team Logo" />
-                        </div>
-                        <h2 class="team-name">{{ row['away_team_name'] }}</h2>
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
-        </div>
+</div>
 {% endif %}
-
-
-
-
 
     <div class="js-current-fixtures" >
         <div class="league-table__container">
@@ -165,7 +147,8 @@
                 <input type="hidden" name="form_type" value="fixture_form">
                 <select id="fixture" name="fixture" style="width: 250px;" class="selectB">
                     {% for id in fixture_ids %}
-                        <option value="{{ id }}">{{ id }}</option>
+                        {% set index = loop.index - 1 %}
+                        <option value="{{ id }}">{{ teams_home_name_v[index] ~ " - " ~ teams_away_name_v[index] }}</option>
                     {% endfor %}
                 </select>
                 <br><br>
