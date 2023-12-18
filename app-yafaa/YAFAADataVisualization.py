@@ -27,9 +27,10 @@ class yafaaSQL:
         """
         if isinstance(dataframe, pd.DataFrame):
             # Already loaded in DuckDB, use SQL query
+            df = dataframe
             query = f"""
             SELECT *
-            FROM {dataframe}
+            FROM df
             WHERE League_season = ?
             """
             parameters = (year,)
@@ -53,10 +54,11 @@ class yafaaSQL:
         """
         if isinstance(dataframe, pd.DataFrame):
             # Already loaded in DuckDB, use SQL query
+            df = dataframe
             column = "teams_home_id" if home else "teams_away_id"
             query = f"""
                 SELECT *
-                FROM {dataframe}
+                FROM df
                 WHERE {column} = ?
             """
             parameters = (team,)
