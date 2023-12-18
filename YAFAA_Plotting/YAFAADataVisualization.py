@@ -199,3 +199,17 @@ class yaffaPLT:
         fig.update_yaxes(visible=False, fixedrange=True)
         self._update_layout(fig=fig)
         return fig
+
+
+#? EXAMPLE USAGE : 
+# database = yafaaSQL()
+# year_df = database.select_by_season(df, '2019')
+# team_df = database.filter_by_team(year_df,team=54 ,home=False)
+# teams_summary = database.team_goals_summary(year_df)
+# aggregated_columns = database.aggregate_columns(teams_summary, ['total_goals', 'home_goals', 'away_goals'], aggregation='sum')
+
+#* Plotting 
+# plt_instance = yaffaPLT()
+
+# fig = plt_instance.plot_metric(label="Total Goals Scored", column_name="sum_of_total_goals", dataframe=aggregated_columns, prefix="", suffix=" Goals", bold_label=True)
+# fig
