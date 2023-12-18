@@ -15,20 +15,19 @@ def index_home():
     date_var = datetime.now().year
 
     database = yafaaSQL()
-    df = pd.read_csv('static/flats/fixt/39data.csv')
-    year_df = database.select_by_season(df, date_var)
-    # team_df = database.filter_by_team(year_df,team=54 ,home=False)
+    df_pl = pd.read_csv('static/flats/fixt/39data.csv')
+    year_df = database.select_by_season(df_pl, date_var)
     teams_summary = database.team_goals_summary(year_df)
-    aggregated_columns = database.aggregate_columns(teams_summary, ['total_goals', 'home_goals', 'away_goals'], aggregation='sum')
+    aggregated__goals_pl = database.aggregate_columns(teams_summary, ['total_goals'], aggregation='sum')
 
     #* Plotting 
-    plt_instance = yaffaPLT()
+    # plt_instance = yaffaPLT()
 
-    fig = plt_instance.plot_metric(label="Total Goals Scored", column_name="sum_of_total_goals", dataframe=aggregated_columns, prefix="", suffix=" Goals", bold_label=True)
+    # fig = plt_instance.plot_metric(label="Total Goals Scored", column_name="sum_of_total_goals", dataframe=aggregated__goals_pl, prefix="", suffix=" Goals", bold_label=True)
     # fig
     additional_data = {
         'current_date': date_var,
-        'fig':fig
+        'fig_pl':aggregated__goals_pl['sum_of_total_goals'].iloc[0]
     }
     return render_template('index.html', **additional_data)
 

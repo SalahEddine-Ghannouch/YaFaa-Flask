@@ -77,31 +77,22 @@
 
 <div class="js-current-fixtures">
     <div class="fixtures">
-        <h2 class="heading-secondary">Latest matches</h2>
+        <h2 class="heading-secondary">Total Goals Scored</h2>
         <ul class="fixtures-list">
             <li class="fixtures-list__item">
-                <div class="fixture__date">5/13</div>
-                <div class="fixture__homeTeam">Burnley FC</div>
-                <div class="fixture__result">
-                    1 : 2
-                </div>
-                <div class="fixture__away-team">AFC Bournemouth</div>
+                <div class="fixture__date">Premier League  : {{fig_pl|int}}</div>
             </li>
             <li class="fixtures-list__item">
-                <div class="fixture__date">5/13</div>
-                <div class="fixture__homeTeam">Crystal Palace FC</div>
-                <div class="fixture__result">
-                    2 : 0
-                </div>
-                <div class="fixture__away-team">West Bromwich Albion FC</div>
+                <div class="fixture__date">ITA Serie A  : {{fig_pl|int}}</div>
             </li>
             <li class="fixtures-list__item">
-                <div class="fixture__date">5/13</div>
-                <div class="fixture__homeTeam">Huddersfield Town</div>
-                <div class="fixture__result">
-                    0 : 1
-                </div>
-                <div class="fixture__away-team">Arsenal FC</div>
+                <div class="fixture__date">FRA Ligue 1 : {{fig_pl|int}}</div>
+            </li>
+            <li class="fixtures-list__item">
+                <div class="fixture__date">GER Bundesliga : {{fig_pl|int}}</div>
+            </li>
+            <li class="fixtures-list__item">
+                <div class="fixture__date">ESP La Liga :  {{fig_pl|int}}</div>
             </li>
            
         </ul>
@@ -110,7 +101,7 @@
 
 <div class="js-next-fixtures">
     <div class="fixtures">
-        {{fig|safe}}
+        tzzzz
     </div>
 </div>
 {% endblock %}

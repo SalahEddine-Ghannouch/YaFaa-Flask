@@ -182,13 +182,13 @@ class yaffaPLT:
                 number={
                     "prefix": prefix,
                     "suffix": suffix,
-                    "font.size": 40,
+                    "font.size": 20,
                     "font.color": "#ffaf00",
                 },
                 title={
                     "text": label,
                     "font": {
-                        "size": 30,
+                        "size": 10,
                         "color": "#131116",
                     },
                 },
