@@ -1,0 +1,763 @@
+,,,,date,round,day,venue,result,GF,GA,opponent,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,time
+,,,,,,,,,,,,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
+league,season,team,game,,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1920,Arsenal,2019-08-11 Newcastle Utd-Arsenal,2019-08-11,Matchweek 1,Sun,Away,W,1,0,Newcastle Utd,1,8,2,25.0,0.13,0.5,13.9,0,0,0,1.1,1.1,0.14,-0.1,-0.1,14:00:00
+ENG-Premier League,1920,Arsenal,2019-08-17 Arsenal-Burnley,2019-08-17,Matchweek 2,Sat,Home,W,2,1,Burnley,2,15,9,60.0,0.13,0.22,18.7,0,0,0,0.8,0.8,0.06,1.2,1.2,12:30:00
+ENG-Premier League,1920,Arsenal,2019-08-24 Liverpool-Arsenal,2019-08-24,Matchweek 3,Sat,Away,L,1,3,Liverpool,1,9,3,33.3,0.11,0.33,19.0,1,0,0,1.0,1.0,0.11,0.0,0.0,17:30:00
+ENG-Premier League,1920,Arsenal,2019-09-01 Arsenal-Tottenham,2019-09-01,Matchweek 4,Sun,Home,D,2,2,Tottenham,2,26,8,30.8,0.08,0.25,18.1,2,0,0,2.4,2.4,0.09,-0.4,-0.4,16:30:00
+ENG-Premier League,1920,Arsenal,2019-09-15 Watford-Arsenal,2019-09-15,Matchweek 5,Sun,Away,D,2,2,Watford,2,7,4,57.1,0.29,0.5,20.8,0,0,0,0.8,0.8,0.12,1.2,1.2,16:30:00
+ENG-Premier League,1920,Arsenal,2019-09-22 Arsenal-Aston Villa,2019-09-22,Matchweek 6,Sun,Home,W,3,2,Aston Villa,3,20,5,25.0,0.1,0.4,16.9,2,1,1,2.4,1.6,0.08,0.6,0.4,16:30:00
+ENG-Premier League,1920,Arsenal,2019-09-30 Manchester Utd-Arsenal,2019-09-30,Matchweek 7,Mon,Away,D,1,1,Manchester Utd,1,10,5,50.0,0.1,0.2,16.6,1,0,0,1.9,1.9,0.19,-0.9,-0.9,20:00:00
+ENG-Premier League,1920,Arsenal,2019-10-06 Arsenal-Bournemouth,2019-10-06,Matchweek 8,Sun,Home,W,1,0,Bournemouth,1,12,2,16.7,0.08,0.5,15.3,0,0,0,1.2,1.2,0.1,-0.2,-0.2,14:00:00
+ENG-Premier League,1920,Arsenal,2019-10-21 Sheffield Utd-Arsenal,2019-10-21,Matchweek 9,Mon,Away,L,0,1,Sheffield Utd,0,9,3,33.3,0.0,0.0,18.8,1,0,0,1.0,1.0,0.11,-1.0,-1.0,20:00:00
+ENG-Premier League,1920,Arsenal,2019-10-27 Arsenal-Crystal Palace,2019-10-27,Matchweek 10,Sun,Home,D,2,2,Crystal Palace,2,15,6,40.0,0.13,0.33,15.8,1,0,0,1.3,1.3,0.09,0.7,0.7,16:30:00
+ENG-Premier League,1920,Arsenal,2019-11-02 Arsenal-Wolves,2019-11-02,Matchweek 11,Sat,Home,D,1,1,Wolves,1,10,4,40.0,0.1,0.25,14.9,0,0,0,0.9,0.9,0.09,0.1,0.1,15:00:00
+ENG-Premier League,1920,Arsenal,2019-11-09 Leicester City-Arsenal,2019-11-09,Matchweek 12,Sat,Away,L,0,2,Leicester City,0,8,1,12.5,0.0,0.0,15.8,0,0,0,1.0,1.0,0.14,-1.0,-1.0,17:30:00
+ENG-Premier League,1920,Arsenal,2019-11-23 Arsenal-Southampton,2019-11-23,Matchweek 13,Sat,Home,D,2,2,Southampton,2,12,5,41.7,0.17,0.4,11.2,0,0,0,1.8,1.8,0.15,0.2,0.2,15:00:00
+ENG-Premier League,1920,Arsenal,2019-12-01 Norwich City-Arsenal,2019-12-01,Matchweek 14,Sun,Away,D,2,2,Norwich City,2,15,5,33.3,0.07,0.2,14.5,0,1,1,1.9,1.2,0.08,0.1,-0.2,14:00:00
+ENG-Premier League,1920,Arsenal,2019-12-05 Arsenal-Brighton,2019-12-05,Matchweek 15,Thu,Home,L,1,2,Brighton,1,12,5,41.7,0.08,0.2,16.2,1,0,0,0.9,0.9,0.08,0.1,0.1,20:15:00
+ENG-Premier League,1920,Arsenal,2019-12-09 West Ham-Arsenal,2019-12-09,Matchweek 16,Mon,Away,W,3,1,West Ham,3,10,3,30.0,0.3,1.0,16.2,0,0,0,1.4,1.4,0.14,1.6,1.6,20:00:00
+ENG-Premier League,1920,Arsenal,2019-12-15 Arsenal-Manchester City,2019-12-15,Matchweek 17,Sun,Home,L,0,3,Manchester City,0,6,1,16.7,0.0,0.0,18.8,0,0,0,0.5,0.5,0.08,-0.5,-0.5,16:30:00
+ENG-Premier League,1920,Arsenal,2019-12-21 Everton-Arsenal,2019-12-21,Matchweek 18,Sat,Away,D,0,0,Everton,0,6,2,33.3,0.0,0.0,13.2,0,0,0,0.6,0.6,0.1,-0.6,-0.6,12:30:00
+ENG-Premier League,1920,Arsenal,2019-12-26 Bournemouth-Arsenal,2019-12-26,Matchweek 19,Thu,Away,D,1,1,Bournemouth,1,17,2,11.8,0.06,0.5,18.0,0,0,0,1.4,1.4,0.09,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Arsenal,2019-12-29 Arsenal-Chelsea,2019-12-29,Matchweek 20,Sun,Home,L,1,2,Chelsea,1,7,2,28.6,0.14,0.5,15.4,1,0,0,0.5,0.5,0.07,0.5,0.5,14:00:00
+ENG-Premier League,1920,Arsenal,2020-01-01 Arsenal-Manchester Utd,2020-01-01,Matchweek 21,Wed,Home,W,2,0,Manchester Utd,2,10,4,40.0,0.2,0.5,13.9,0,0,0,1.5,1.5,0.15,0.5,0.5,20:00:00
+ENG-Premier League,1920,Arsenal,2020-01-11 Crystal Palace-Arsenal,2020-01-11,Matchweek 22,Sat,Away,D,1,1,Crystal Palace,1,7,4,57.1,0.14,0.25,14.4,1,0,0,1.4,1.4,0.27,-0.4,-0.4,12:30:00
+ENG-Premier League,1920,Arsenal,2020-01-18 Arsenal-Sheffield Utd,2020-01-18,Matchweek 23,Sat,Home,D,1,1,Sheffield Utd,1,11,4,36.4,0.09,0.25,18.3,1,0,0,1.4,1.4,0.12,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Arsenal,2020-01-21 Chelsea-Arsenal,2020-01-21,Matchweek 24,Tue,Away,D,2,2,Chelsea,2,2,2,100.0,1.0,1.0,18.8,0,0,0,0.4,0.4,0.2,1.6,1.6,20:15:00
+ENG-Premier League,1920,Arsenal,2020-02-02 Burnley-Arsenal,2020-02-02,Matchweek 25,Sun,Away,D,0,0,Burnley,0,13,2,15.4,0.0,0.0,17.5,0,0,0,1.2,1.2,0.09,-1.2,-1.2,14:00:00
+ENG-Premier League,1920,Arsenal,2020-02-16 Arsenal-Newcastle Utd,2020-02-16,Matchweek 26,Sun,Home,W,4,0,Newcastle Utd,4,15,7,46.7,0.27,0.57,17.1,1,0,0,2.6,2.6,0.17,1.4,1.4,16:30:00
+ENG-Premier League,1920,Arsenal,2020-02-23 Arsenal-Everton,2020-02-23,Matchweek 27,Sun,Home,W,3,2,Everton,3,9,4,44.4,0.33,0.75,13.8,0,0,0,1.3,1.3,0.14,1.7,1.7,16:30:00
+ENG-Premier League,1920,Arsenal,2020-03-07 Arsenal-West Ham,2020-03-07,Matchweek 29,Sat,Home,W,1,0,West Ham,1,9,2,22.2,0.11,0.5,16.7,0,0,0,1.2,1.2,0.14,-0.2,-0.2,15:00:00
+ENG-Premier League,1920,Arsenal,2020-06-17 Manchester City-Arsenal,2020-06-17,Matchweek 28,Wed,Away,L,0,3,Manchester City,0,3,0,0.0,0.0,,16.3,0,0,0,0.3,0.3,0.09,-0.3,-0.3,20:15:00
+ENG-Premier League,1920,Arsenal,2020-06-20 Brighton-Arsenal,2020-06-20,Matchweek 30,Sat,Away,L,1,2,Brighton,1,13,6,46.2,0.08,0.17,17.1,0,0,0,0.8,0.8,0.06,0.2,0.2,15:00:00
+ENG-Premier League,1920,Arsenal,2020-06-25 Southampton-Arsenal,2020-06-25,Matchweek 31,Thu,Away,W,2,0,Southampton,2,10,5,50.0,0.2,0.4,14.2,1,0,0,1.9,1.9,0.2,0.1,0.1,18:00:00
+ENG-Premier League,1920,Arsenal,2020-07-01 Arsenal-Norwich City,2020-07-01,Matchweek 32,Wed,Home,W,4,0,Norwich City,4,13,8,61.5,0.31,0.5,18.3,2,0,0,1.5,1.5,0.12,2.5,2.5,18:00:00
+ENG-Premier League,1920,Arsenal,2020-07-04 Wolves-Arsenal,2020-07-04,Matchweek 33,Sat,Away,W,2,0,Wolves,2,8,4,50.0,0.25,0.5,13.4,0,0,0,1.3,1.3,0.16,0.7,0.7,17:30:00
+ENG-Premier League,1920,Arsenal,2020-07-07 Arsenal-Leicester City,2020-07-07,Matchweek 34,Tue,Home,D,1,1,Leicester City,1,11,7,63.6,0.09,0.14,16.3,1,0,0,1.1,1.1,0.1,-0.1,-0.1,20:15:00
+ENG-Premier League,1920,Arsenal,2020-07-12 Tottenham-Arsenal,2020-07-12,Matchweek 35,Sun,Away,L,1,2,Tottenham,1,13,4,30.8,0.08,0.25,19.2,2,0,0,0.6,0.6,0.05,0.4,0.4,16:30:00
+ENG-Premier League,1920,Arsenal,2020-07-15 Arsenal-Liverpool,2020-07-15,Matchweek 36,Wed,Home,W,2,1,Liverpool,2,3,2,66.7,0.67,1.0,12.4,0,0,0,0.8,0.8,0.27,1.2,1.2,20:15:00
+ENG-Premier League,1920,Arsenal,2020-07-21 Aston Villa-Arsenal,2020-07-21,Matchweek 37,Tue,Away,L,0,1,Aston Villa,0,7,0,0.0,0.0,,15.3,0,0,0,0.6,0.6,0.09,-0.6,-0.6,20:15:00
+ENG-Premier League,1920,Arsenal,2020-07-26 Arsenal-Watford,2020-07-26,Matchweek 38,Sun,Home,W,3,2,Watford,3,12,4,33.3,0.17,0.5,14.1,0,1,1,2.3,1.5,0.13,0.7,0.5,16:00:00
+ENG-Premier League,1920,Aston Villa,2019-08-10 Tottenham-Aston Villa,2019-08-10,Matchweek 1,Sat,Away,L,1,3,Tottenham,1,7,4,57.1,0.14,0.25,19.8,0,0,0,0.7,0.7,0.09,0.3,0.3,17:30:00
+ENG-Premier League,1920,Aston Villa,2019-08-17 Aston Villa-Bournemouth,2019-08-17,Matchweek 2,Sat,Home,L,1,2,Bournemouth,1,21,7,33.3,0.05,0.14,18.6,1,0,0,2.0,2.0,0.1,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-08-23 Aston Villa-Everton,2019-08-23,Matchweek 3,Fri,Home,W,2,0,Everton,2,7,3,42.9,0.29,0.67,19.8,0,0,0,1.0,1.0,0.15,1.0,1.0,20:00:00
+ENG-Premier League,1920,Aston Villa,2019-08-31 Crystal Palace-Aston Villa,2019-08-31,Matchweek 4,Sat,Away,L,0,1,Crystal Palace,0,10,2,20.0,0.0,0.0,24.9,2,0,0,0.4,0.4,0.04,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-09-16 Aston Villa-West Ham,2019-09-16,Matchweek 5,Mon,Home,D,0,0,West Ham,0,10,5,50.0,0.0,0.0,18.0,0,0,0,1.3,1.3,0.13,-1.3,-1.3,20:00:00
+ENG-Premier League,1920,Aston Villa,2019-09-22 Arsenal-Aston Villa,2019-09-22,Matchweek 6,Sun,Away,L,2,3,Arsenal,2,14,9,64.3,0.14,0.22,19.0,2,0,0,1.5,1.5,0.11,0.5,0.5,16:30:00
+ENG-Premier League,1920,Aston Villa,2019-09-28 Aston Villa-Burnley,2019-09-28,Matchweek 7,Sat,Home,D,2,2,Burnley,2,16,3,18.8,0.13,0.67,20.0,1,0,0,1.0,1.0,0.06,1.0,1.0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-10-05 Norwich City-Aston Villa,2019-10-05,Matchweek 8,Sat,Away,W,5,1,Norwich City,5,21,11,52.4,0.24,0.45,18.9,0,0,1,3.0,2.1,0.1,2.0,2.9,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-10-19 Aston Villa-Brighton,2019-10-19,Matchweek 9,Sat,Home,W,2,1,Brighton,2,24,8,33.3,0.08,0.25,16.9,3,0,0,3.0,3.0,0.13,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-10-26 Manchester City-Aston Villa,2019-10-26,Matchweek 10,Sat,Away,L,0,3,Manchester City,0,11,5,45.5,0.0,0.0,17.0,0,0,0,1.0,1.0,0.1,-1.0,-1.0,12:30:00
+ENG-Premier League,1920,Aston Villa,2019-11-02 Aston Villa-Liverpool,2019-11-02,Matchweek 11,Sat,Home,L,1,2,Liverpool,1,4,2,50.0,0.25,0.5,13.8,0,0,0,0.4,0.4,0.1,0.6,0.6,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-11-10 Wolves-Aston Villa,2019-11-10,Matchweek 12,Sun,Away,L,1,2,Wolves,1,13,4,30.8,0.08,0.25,23.2,1,0,0,0.6,0.6,0.05,0.4,0.4,14:00:00
+ENG-Premier League,1920,Aston Villa,2019-11-25 Aston Villa-Newcastle Utd,2019-11-25,Matchweek 13,Mon,Home,W,2,0,Newcastle Utd,2,17,8,47.1,0.12,0.25,17.5,1,0,0,2.3,2.3,0.14,-0.3,-0.3,20:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-01 Manchester Utd-Aston Villa,2019-12-01,Matchweek 14,Sun,Away,D,2,2,Manchester Utd,2,9,3,33.3,0.22,0.67,15.9,0,0,0,1.2,1.2,0.14,0.8,0.8,16:30:00
+ENG-Premier League,1920,Aston Villa,2019-12-04 Chelsea-Aston Villa,2019-12-04,Matchweek 15,Wed,Away,L,1,2,Chelsea,1,9,3,33.3,0.11,0.33,14.2,0,0,0,1.0,1.0,0.12,0.0,0.0,19:30:00
+ENG-Premier League,1920,Aston Villa,2019-12-08 Aston Villa-Leicester City,2019-12-08,Matchweek 16,Sun,Home,L,1,4,Leicester City,1,15,2,13.3,0.07,0.5,15.2,0,0,0,1.2,1.2,0.08,-0.2,-0.2,14:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-14 Sheffield Utd-Aston Villa,2019-12-14,Matchweek 17,Sat,Away,L,0,2,Sheffield Utd,0,7,0,0.0,0.0,,20.4,0,0,1,1.1,0.3,0.04,-1.1,-0.3,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-21 Aston Villa-Southampton,2019-12-21,Matchweek 18,Sat,Home,L,1,3,Southampton,1,19,6,31.6,0.05,0.17,19.1,2,0,0,1.1,1.1,0.06,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-26 Aston Villa-Norwich City,2019-12-26,Matchweek 19,Thu,Home,W,1,0,Norwich City,1,11,2,18.2,0.09,0.5,17.5,0,0,0,0.6,0.6,0.05,0.4,0.4,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-28 Watford-Aston Villa,2019-12-28,Matchweek 20,Sat,Away,L,0,3,Watford,0,11,2,18.2,0.0,0.0,21.8,0,0,0,0.6,0.6,0.06,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-01-01 Burnley-Aston Villa,2020-01-01,Matchweek 21,Wed,Away,W,2,1,Burnley,2,11,6,54.5,0.18,0.33,16.0,0,0,0,1.3,1.3,0.12,0.7,0.7,12:30:00
+ENG-Premier League,1920,Aston Villa,2020-01-12 Aston Villa-Manchester City,2020-01-12,Matchweek 22,Sun,Home,L,1,6,Manchester City,1,6,0,0.0,0.0,,16.2,0,1,1,1.1,0.3,0.06,-0.1,-0.3,16:30:00
+ENG-Premier League,1920,Aston Villa,2020-01-18 Brighton-Aston Villa,2020-01-18,Matchweek 23,Sat,Away,D,1,1,Brighton,1,8,3,37.5,0.13,0.33,16.4,1,0,0,0.6,0.6,0.08,0.4,0.4,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-01-21 Aston Villa-Watford,2020-01-21,Matchweek 24,Tue,Home,W,2,1,Watford,2,16,5,31.3,0.13,0.4,15.8,0,0,0,1.3,1.3,0.08,0.7,0.7,19:30:00
+ENG-Premier League,1920,Aston Villa,2020-02-01 Bournemouth-Aston Villa,2020-02-01,Matchweek 25,Sat,Away,L,1,2,Bournemouth,1,17,4,23.5,0.06,0.25,13.6,0,0,0,1.7,1.7,0.1,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-02-16 Aston Villa-Tottenham,2020-02-16,Matchweek 26,Sun,Home,L,2,3,Tottenham,1,18,4,22.2,0.06,0.25,14.8,1,0,0,1.8,1.8,0.1,-0.8,-0.8,14:00:00
+ENG-Premier League,1920,Aston Villa,2020-02-22 Southampton-Aston Villa,2020-02-22,Matchweek 27,Sat,Away,L,0,2,Southampton,0,4,1,25.0,0.0,0.0,16.9,0,0,0,0.5,0.5,0.12,-0.5,-0.5,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-03-09 Leicester City-Aston Villa,2020-03-09,Matchweek 29,Mon,Away,L,0,4,Leicester City,0,4,1,25.0,0.0,0.0,15.4,0,0,0,0.5,0.5,0.12,-0.5,-0.5,20:00:00
+ENG-Premier League,1920,Aston Villa,2020-06-17 Aston Villa-Sheffield Utd,2020-06-17,Matchweek 28,Wed,Home,D,0,0,Sheffield Utd,0,14,6,42.9,0.0,0.0,10.0,0,0,0,1.4,1.4,0.1,-1.4,-1.4,18:00:00
+ENG-Premier League,1920,Aston Villa,2020-06-21 Aston Villa-Chelsea,2020-06-21,Matchweek 30,Sun,Home,L,1,2,Chelsea,1,8,4,50.0,0.13,0.25,15.0,1,0,0,1.0,1.0,0.15,0.0,0.0,16:15:00
+ENG-Premier League,1920,Aston Villa,2020-06-24 Newcastle Utd-Aston Villa,2020-06-24,Matchweek 31,Wed,Away,D,1,1,Newcastle Utd,1,14,2,14.3,0.07,0.5,18.3,1,0,0,1.6,1.6,0.12,-0.6,-0.6,18:00:00
+ENG-Premier League,1920,Aston Villa,2020-06-27 Aston Villa-Wolves,2020-06-27,Matchweek 32,Sat,Home,L,0,1,Wolves,0,11,1,9.1,0.0,0.0,15.4,0,0,0,0.6,0.6,0.06,-0.6,-0.6,12:30:00
+ENG-Premier League,1920,Aston Villa,2020-07-05 Liverpool-Aston Villa,2020-07-05,Matchweek 33,Sun,Away,L,0,2,Liverpool,0,9,3,33.3,0.0,0.0,18.0,0,0,0,0.7,0.7,0.07,-0.7,-0.7,16:30:00
+ENG-Premier League,1920,Aston Villa,2020-07-09 Aston Villa-Manchester Utd,2020-07-09,Matchweek 34,Thu,Home,L,0,3,Manchester Utd,0,9,1,11.1,0.0,0.0,20.4,1,0,0,0.5,0.5,0.06,-0.5,-0.5,20:15:00
+ENG-Premier League,1920,Aston Villa,2020-07-12 Aston Villa-Crystal Palace,2020-07-12,Matchweek 35,Sun,Home,W,2,0,Crystal Palace,2,12,9,75.0,0.17,0.22,18.5,1,0,0,1.7,1.7,0.15,0.3,0.3,14:15:00
+ENG-Premier League,1920,Aston Villa,2020-07-16 Everton-Aston Villa,2020-07-16,Matchweek 36,Thu,Away,D,1,1,Everton,1,15,1,6.7,0.07,1.0,18.7,1,0,0,1.3,1.3,0.09,-0.3,-0.3,18:00:00
+ENG-Premier League,1920,Aston Villa,2020-07-21 Aston Villa-Arsenal,2020-07-21,Matchweek 37,Tue,Home,W,1,0,Arsenal,1,8,3,37.5,0.13,0.33,17.9,0,0,0,0.6,0.6,0.07,0.4,0.4,20:15:00
+ENG-Premier League,1920,Aston Villa,2020-07-26 West Ham-Aston Villa,2020-07-26,Matchweek 38,Sun,Away,D,1,1,West Ham,1,13,4,30.8,0.08,0.25,16.7,1,0,0,1.0,1.0,0.08,0.0,0.0,16:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-10 Bournemouth-Sheffield Utd,2019-08-10,Matchweek 1,Sat,Home,D,1,1,Sheffield Utd,1,13,3,23.1,0.08,0.33,18.8,1,0,0,1.3,1.3,0.14,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-17 Aston Villa-Bournemouth,2019-08-17,Matchweek 2,Sat,Away,W,2,1,Aston Villa,2,11,3,27.3,0.09,0.33,19.5,0,1,1,1.6,0.9,0.08,0.4,0.1,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-25 Bournemouth-Manchester City,2019-08-25,Matchweek 3,Sun,Home,L,1,3,Manchester City,1,10,7,70.0,0.1,0.14,14.2,1,0,0,2.2,2.2,0.22,-1.2,-1.2,14:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-31 Leicester City-Bournemouth,2019-08-31,Matchweek 4,Sat,Away,L,1,3,Leicester City,1,8,2,25.0,0.13,0.5,21.3,0,0,0,0.6,0.6,0.08,0.4,0.4,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-09-15 Bournemouth-Everton,2019-09-15,Matchweek 5,Sun,Home,W,3,1,Everton,3,13,6,46.2,0.23,0.5,18.9,3,0,0,1.4,1.4,0.11,1.6,1.6,14:00:00
+ENG-Premier League,1920,Bournemouth,2019-09-20 Southampton-Bournemouth,2019-09-20,Matchweek 6,Fri,Away,W,3,1,Southampton,3,6,3,50.0,0.5,1.0,19.8,1,0,0,1.2,1.2,0.2,1.8,1.8,20:00:00
+ENG-Premier League,1920,Bournemouth,2019-09-28 Bournemouth-West Ham,2019-09-28,Matchweek 7,Sat,Home,D,2,2,West Ham,2,13,5,38.5,0.15,0.4,11.7,0,0,0,1.9,1.9,0.15,0.1,0.1,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-10-06 Arsenal-Bournemouth,2019-10-06,Matchweek 8,Sun,Away,L,0,1,Arsenal,0,10,2,20.0,0.0,0.0,19.4,0,0,0,0.6,0.6,0.06,-0.6,-0.6,14:00:00
+ENG-Premier League,1920,Bournemouth,2019-10-19 Bournemouth-Norwich City,2019-10-19,Matchweek 9,Sat,Home,D,0,0,Norwich City,0,11,2,18.2,0.0,0.0,20.6,1,0,0,0.7,0.7,0.07,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-10-26 Watford-Bournemouth,2019-10-26,Matchweek 10,Sat,Away,D,0,0,Watford,0,15,5,33.3,0.0,0.0,21.8,2,0,0,1.0,1.0,0.06,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-11-02 Bournemouth-Manchester Utd,2019-11-02,Matchweek 11,Sat,Home,W,1,0,Manchester Utd,1,13,6,46.2,0.08,0.17,16.8,1,0,0,1.9,1.9,0.15,-0.9,-0.9,12:30:00
+ENG-Premier League,1920,Bournemouth,2019-11-09 Newcastle Utd-Bournemouth,2019-11-09,Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,1,16,4,25.0,0.06,0.25,17.0,1,0,0,1.8,1.8,0.11,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-11-23 Bournemouth-Wolves,2019-11-23,Matchweek 13,Sat,Home,L,1,2,Wolves,1,9,2,22.2,0.11,0.5,14.6,0,0,0,0.6,0.6,0.07,0.4,0.4,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-11-30 Tottenham-Bournemouth,2019-11-30,Matchweek 14,Sat,Away,L,2,3,Tottenham,2,20,6,30.0,0.1,0.33,19.2,1,0,0,1.1,1.1,0.06,0.9,0.9,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-03 Crystal Palace-Bournemouth,2019-12-03,Matchweek 15,Tue,Away,L,0,1,Crystal Palace,0,6,3,50.0,0.0,0.0,17.5,0,0,0,0.4,0.4,0.07,-0.4,-0.4,19:30:00
+ENG-Premier League,1920,Bournemouth,2019-12-07 Bournemouth-Liverpool,2019-12-07,Matchweek 16,Sat,Home,L,0,3,Liverpool,0,3,0,0.0,0.0,,15.6,0,0,0,0.1,0.1,0.05,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-14 Chelsea-Bournemouth,2019-12-14,Matchweek 17,Sat,Away,W,1,0,Chelsea,1,11,2,18.2,0.09,0.5,11.6,0,0,0,1.0,1.0,0.09,0.0,0.0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-21 Bournemouth-Burnley,2019-12-21,Matchweek 18,Sat,Home,L,0,1,Burnley,0,3,0,0.0,0.0,,19.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-26 Bournemouth-Arsenal,2019-12-26,Matchweek 19,Thu,Home,D,1,1,Arsenal,1,12,4,33.3,0.08,0.25,15.0,1,0,0,2.0,2.0,0.17,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-28 Brighton-Bournemouth,2019-12-28,Matchweek 20,Sat,Away,L,0,2,Brighton,0,10,2,20.0,0.0,0.0,18.9,0,0,0,0.5,0.5,0.05,-0.5,-0.5,12:30:00
+ENG-Premier League,1920,Bournemouth,2020-01-01 West Ham-Bournemouth,2020-01-01,Matchweek 21,Wed,Away,L,0,4,West Ham,0,3,2,66.7,0.0,0.0,13.1,0,0,0,0.6,0.6,0.2,-0.6,-0.6,17:30:00
+ENG-Premier League,1920,Bournemouth,2020-01-12 Bournemouth-Watford,2020-01-12,Matchweek 22,Sun,Home,L,0,3,Watford,0,10,1,10.0,0.0,0.0,25.2,1,0,0,0.4,0.4,0.04,-0.4,-0.4,14:00:00
+ENG-Premier League,1920,Bournemouth,2020-01-18 Norwich City-Bournemouth,2020-01-18,Matchweek 23,Sat,Away,L,0,1,Norwich City,0,6,3,50.0,0.0,0.0,12.1,0,0,0,0.7,0.7,0.11,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-01-21 Bournemouth-Brighton,2020-01-21,Matchweek 24,Tue,Home,W,3,1,Brighton,2,11,3,27.3,0.18,0.67,16.2,0,0,0,1.4,1.4,0.13,0.6,0.6,19:30:00
+ENG-Premier League,1920,Bournemouth,2020-02-01 Bournemouth-Aston Villa,2020-02-01,Matchweek 25,Sat,Home,W,2,1,Aston Villa,2,16,6,37.5,0.13,0.33,18.9,2,0,0,2.2,2.2,0.14,-0.2,-0.2,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-02-09 Sheffield Utd-Bournemouth,2020-02-09,Matchweek 26,Sun,Away,L,1,2,Sheffield Utd,1,10,2,20.0,0.1,0.5,13.6,0,0,0,1.4,1.4,0.15,-0.4,-0.4,14:00:00
+ENG-Premier League,1920,Bournemouth,2020-02-22 Burnley-Bournemouth,2020-02-22,Matchweek 27,Sat,Away,L,0,3,Burnley,0,12,4,33.3,0.0,0.0,17.1,1,0,0,1.8,1.8,0.15,-1.8,-1.8,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-02-29 Bournemouth-Chelsea,2020-02-29,Matchweek 28,Sat,Home,D,2,2,Chelsea,2,9,5,55.6,0.22,0.4,9.6,0,0,0,1.4,1.4,0.15,0.6,0.6,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-03-07 Liverpool-Bournemouth,2020-03-07,Matchweek 29,Sat,Away,L,1,2,Liverpool,1,6,3,50.0,0.17,0.33,15.6,0,0,0,1.4,1.4,0.23,-0.4,-0.4,12:30:00
+ENG-Premier League,1920,Bournemouth,2020-06-20 Bournemouth-Crystal Palace,2020-06-20,Matchweek 30,Sat,Home,L,0,2,Crystal Palace,0,12,1,8.3,0.0,0.0,19.7,1,0,0,0.5,0.5,0.04,-0.5,-0.5,19:45:00
+ENG-Premier League,1920,Bournemouth,2020-06-24 Wolves-Bournemouth,2020-06-24,Matchweek 31,Wed,Away,L,0,1,Wolves,0,4,0,0.0,0.0,,24.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-01 Bournemouth-Newcastle Utd,2020-07-01,Matchweek 32,Wed,Home,L,1,4,Newcastle Utd,1,12,1,8.3,0.08,1.0,17.4,1,0,0,1.6,1.6,0.14,-0.6,-0.6,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-04 Manchester Utd-Bournemouth,2020-07-04,Matchweek 33,Sat,Away,L,2,5,Manchester Utd,2,6,2,33.3,0.17,0.5,17.9,0,1,1,1.8,1.0,0.18,0.2,0.0,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-09 Bournemouth-Tottenham,2020-07-09,Matchweek 34,Thu,Home,D,0,0,Tottenham,0,9,2,22.2,0.0,0.0,12.4,0,0,0,1.4,1.4,0.16,-1.4,-1.4,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-12 Bournemouth-Leicester City,2020-07-12,Matchweek 35,Sun,Home,W,4,1,Leicester City,3,8,3,37.5,0.25,0.67,17.5,0,1,1,2.5,1.7,0.21,0.5,0.3,19:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-15 Manchester City-Bournemouth,2020-07-15,Matchweek 36,Wed,Away,L,1,2,Manchester City,1,15,3,20.0,0.07,0.33,15.3,1,0,0,1.6,1.6,0.11,-0.6,-0.6,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-19 Bournemouth-Southampton,2020-07-19,Matchweek 37,Sun,Home,L,0,2,Southampton,0,11,3,27.3,0.0,0.0,16.8,0,0,0,0.5,0.5,0.05,-0.5,-0.5,14:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-26 Everton-Bournemouth,2020-07-26,Matchweek 38,Sun,Away,W,3,1,Everton,3,12,6,50.0,0.17,0.33,19.4,1,1,1,1.5,0.8,0.06,1.5,1.2,16:00:00
+ENG-Premier League,1920,Brighton,2019-08-10 Watford-Brighton,2019-08-10,Matchweek 1,Sat,Away,W,3,0,Watford,2,5,3,60.0,0.4,0.67,17.7,0,0,0,0.8,0.8,0.17,1.2,1.2,15:00:00
+ENG-Premier League,1920,Brighton,2019-08-17 Brighton-West Ham,2019-08-17,Matchweek 2,Sat,Home,D,1,1,West Ham,1,16,4,25.0,0.06,0.25,16.9,0,0,0,2.0,2.0,0.13,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Brighton,2019-08-24 Brighton-Southampton,2019-08-24,Matchweek 3,Sat,Home,L,0,2,Southampton,0,12,3,25.0,0.0,0.0,15.4,0,0,0,0.8,0.8,0.07,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Brighton,2019-08-31 Manchester City-Brighton,2019-08-31,Matchweek 4,Sat,Away,L,0,4,Manchester City,0,6,1,16.7,0.0,0.0,14.7,0,0,0,0.9,0.9,0.15,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Brighton,2019-09-14 Brighton-Burnley,2019-09-14,Matchweek 5,Sat,Home,D,1,1,Burnley,1,14,5,35.7,0.07,0.2,16.1,0,0,0,1.4,1.4,0.1,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Brighton,2019-09-21 Newcastle Utd-Brighton,2019-09-21,Matchweek 6,Sat,Away,D,0,0,Newcastle Utd,0,16,2,12.5,0.0,0.0,18.3,0,0,0,1.4,1.4,0.09,-1.4,-1.4,17:30:00
+ENG-Premier League,1920,Brighton,2019-09-28 Chelsea-Brighton,2019-09-28,Matchweek 7,Sat,Away,L,0,2,Chelsea,0,8,1,12.5,0.0,0.0,17.4,0,0,0,0.6,0.6,0.07,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Brighton,2019-10-05 Brighton-Tottenham,2019-10-05,Matchweek 8,Sat,Home,W,3,0,Tottenham,3,17,6,35.3,0.18,0.5,17.6,1,0,0,2.4,2.4,0.15,0.6,0.6,12:30:00
+ENG-Premier League,1920,Brighton,2019-10-19 Aston Villa-Brighton,2019-10-19,Matchweek 9,Sat,Away,L,1,2,Aston Villa,1,20,5,25.0,0.05,0.2,20.3,0,0,0,1.2,1.2,0.06,-0.2,-0.2,15:00:00
+ENG-Premier League,1920,Brighton,2019-10-26 Brighton-Everton,2019-10-26,Matchweek 10,Sat,Home,W,3,2,Everton,2,7,3,42.9,0.14,0.33,20.4,2,1,1,1.2,0.4,0.06,0.8,0.6,15:00:00
+ENG-Premier League,1920,Brighton,2019-11-02 Brighton-Norwich City,2019-11-02,Matchweek 11,Sat,Home,W,2,0,Norwich City,2,21,5,23.8,0.1,0.4,14.8,0,0,0,2.7,2.7,0.13,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Brighton,2019-11-10 Manchester Utd-Brighton,2019-11-10,Matchweek 12,Sun,Away,L,1,3,Manchester Utd,1,6,2,33.3,0.17,0.5,11.0,0,0,0,0.8,0.8,0.14,0.2,0.2,14:00:00
+ENG-Premier League,1920,Brighton,2019-11-23 Brighton-Leicester City,2019-11-23,Matchweek 13,Sat,Home,L,0,2,Leicester City,0,7,0,0.0,0.0,,15.1,0,0,0,0.6,0.6,0.08,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Brighton,2019-11-30 Liverpool-Brighton,2019-11-30,Matchweek 14,Sat,Away,L,1,2,Liverpool,1,12,5,41.7,0.08,0.2,21.0,1,0,0,0.8,0.8,0.07,0.2,0.2,15:00:00
+ENG-Premier League,1920,Brighton,2019-12-05 Arsenal-Brighton,2019-12-05,Matchweek 15,Thu,Away,W,2,1,Arsenal,2,20,9,45.0,0.1,0.22,14.6,1,0,0,1.7,1.7,0.09,0.3,0.3,20:15:00
+ENG-Premier League,1920,Brighton,2019-12-08 Brighton-Wolves,2019-12-08,Matchweek 16,Sun,Home,D,2,2,Wolves,2,13,5,38.5,0.15,0.4,18.0,0,0,0,1.2,1.2,0.1,0.8,0.8,16:30:00
+ENG-Premier League,1920,Brighton,2019-12-16 Crystal Palace-Brighton,2019-12-16,Matchweek 17,Mon,Away,D,1,1,Crystal Palace,1,15,10,66.7,0.07,0.1,19.3,0,0,0,2.3,2.3,0.16,-1.3,-1.3,19:45:00
+ENG-Premier League,1920,Brighton,2019-12-21 Brighton-Sheffield Utd,2019-12-21,Matchweek 18,Sat,Home,L,0,1,Sheffield Utd,0,9,2,22.2,0.0,0.0,19.4,1,0,0,0.5,0.5,0.05,-0.5,-0.5,15:00:00
+ENG-Premier League,1920,Brighton,2019-12-26 Tottenham-Brighton,2019-12-26,Matchweek 19,Thu,Away,L,1,2,Tottenham,1,11,5,45.5,0.09,0.2,21.5,1,0,0,1.0,1.0,0.09,0.0,0.0,12:30:00
+ENG-Premier League,1920,Brighton,2019-12-28 Brighton-Bournemouth,2019-12-28,Matchweek 20,Sat,Home,W,2,0,Bournemouth,2,16,6,37.5,0.13,0.33,20.9,0,0,0,0.8,0.8,0.05,1.2,1.2,12:30:00
+ENG-Premier League,1920,Brighton,2020-01-01 Brighton-Chelsea,2020-01-01,Matchweek 21,Wed,Home,D,1,1,Chelsea,1,16,5,31.3,0.06,0.2,16.9,1,0,0,1.3,1.3,0.08,-0.3,-0.3,12:30:00
+ENG-Premier League,1920,Brighton,2020-01-11 Everton-Brighton,2020-01-11,Matchweek 22,Sat,Away,L,0,1,Everton,0,9,2,22.2,0.0,0.0,15.8,0,0,0,1.3,1.3,0.14,-1.3,-1.3,15:00:00
+ENG-Premier League,1920,Brighton,2020-01-18 Brighton-Aston Villa,2020-01-18,Matchweek 23,Sat,Home,D,1,1,Aston Villa,1,10,2,20.0,0.1,0.5,13.6,0,0,0,1.1,1.1,0.11,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Brighton,2020-01-21 Bournemouth-Brighton,2020-01-21,Matchweek 24,Tue,Away,L,1,3,Bournemouth,1,21,8,38.1,0.05,0.13,19.4,0,0,0,1.8,1.8,0.09,-0.8,-0.8,19:30:00
+ENG-Premier League,1920,Brighton,2020-02-01 West Ham-Brighton,2020-02-01,Matchweek 25,Sat,Away,D,3,3,West Ham,2,19,6,31.6,0.11,0.33,17.7,2,0,0,1.9,1.9,0.1,0.1,0.1,15:00:00
+ENG-Premier League,1920,Brighton,2020-02-08 Brighton-Watford,2020-02-08,Matchweek 26,Sat,Home,D,1,1,Watford,0,10,2,20.0,0.0,0.0,15.9,0,0,0,0.8,0.8,0.08,-0.8,-0.8,17:30:00
+ENG-Premier League,1920,Brighton,2020-02-22 Sheffield Utd-Brighton,2020-02-22,Matchweek 27,Sat,Away,D,1,1,Sheffield Utd,1,9,2,22.2,0.11,0.5,16.3,0,0,0,1.2,1.2,0.13,-0.2,-0.2,15:00:00
+ENG-Premier League,1920,Brighton,2020-02-29 Brighton-Crystal Palace,2020-02-29,Matchweek 28,Sat,Home,L,0,1,Crystal Palace,0,23,8,34.8,0.0,0.0,17.8,0,0,0,2.2,2.2,0.09,-2.2,-2.2,12:30:00
+ENG-Premier League,1920,Brighton,2020-03-07 Wolves-Brighton,2020-03-07,Matchweek 29,Sat,Away,D,0,0,Wolves,0,7,1,14.3,0.0,0.0,23.9,0,0,0,0.3,0.3,0.04,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Brighton,2020-06-20 Brighton-Arsenal,2020-06-20,Matchweek 30,Sat,Home,W,2,1,Arsenal,2,9,5,55.6,0.22,0.4,16.2,0,0,0,1.0,1.0,0.12,1.0,1.0,15:00:00
+ENG-Premier League,1920,Brighton,2020-06-23 Leicester City-Brighton,2020-06-23,Matchweek 31,Tue,Away,D,0,0,Leicester City,0,9,1,11.1,0.0,0.0,27.6,1,0,1,1.1,0.3,0.03,-1.1,-0.3,18:00:00
+ENG-Premier League,1920,Brighton,2020-06-30 Brighton-Manchester Utd,2020-06-30,Matchweek 32,Tue,Home,L,0,3,Manchester Utd,0,8,2,25.0,0.0,0.0,17.6,0,0,0,0.4,0.4,0.05,-0.4,-0.4,20:15:00
+ENG-Premier League,1920,Brighton,2020-07-04 Norwich City-Brighton,2020-07-04,Matchweek 33,Sat,Away,W,1,0,Norwich City,1,8,2,25.0,0.13,0.5,16.5,0,0,0,1.0,1.0,0.13,0.0,0.0,12:30:00
+ENG-Premier League,1920,Brighton,2020-07-08 Brighton-Liverpool,2020-07-08,Matchweek 34,Wed,Home,L,1,3,Liverpool,1,12,2,16.7,0.08,0.5,13.1,0,0,0,2.4,2.4,0.2,-1.4,-1.4,20:15:00
+ENG-Premier League,1920,Brighton,2020-07-11 Brighton-Manchester City,2020-07-11,Matchweek 35,Sat,Home,L,0,5,Manchester City,0,3,0,0.0,0.0,,13.3,0,0,0,0.2,0.2,0.05,-0.2,-0.2,20:00:00
+ENG-Premier League,1920,Brighton,2020-07-16 Southampton-Brighton,2020-07-16,Matchweek 36,Thu,Away,D,1,1,Southampton,1,10,2,20.0,0.1,0.5,15.1,0,0,0,0.7,0.7,0.07,0.3,0.3,20:15:00
+ENG-Premier League,1920,Brighton,2020-07-20 Brighton-Newcastle Utd,2020-07-20,Matchweek 37,Mon,Home,D,0,0,Newcastle Utd,0,11,3,27.3,0.0,0.0,17.9,0,0,0,0.8,0.8,0.07,-0.8,-0.8,18:00:00
+ENG-Premier League,1920,Brighton,2020-07-26 Burnley-Brighton,2020-07-26,Matchweek 38,Sun,Away,W,2,1,Burnley,2,15,4,26.7,0.13,0.5,18.5,0,0,0,1.2,1.2,0.08,0.8,0.8,16:00:00
+ENG-Premier League,1920,Burnley,2019-08-10 Burnley-Southampton,2019-08-10,Matchweek 1,Sat,Home,W,3,0,Southampton,3,10,4,40.0,0.3,0.75,15.0,0,0,0,0.9,0.9,0.09,2.1,2.1,15:00:00
+ENG-Premier League,1920,Burnley,2019-08-17 Arsenal-Burnley,2019-08-17,Matchweek 2,Sat,Away,L,1,2,Arsenal,1,18,4,22.2,0.06,0.25,14.9,0,0,0,1.5,1.5,0.08,-0.5,-0.5,12:30:00
+ENG-Premier League,1920,Burnley,2019-08-25 Wolves-Burnley,2019-08-25,Matchweek 3,Sun,Away,D,1,1,Wolves,1,13,4,30.8,0.08,0.25,16.3,0,0,0,1.6,1.6,0.12,-0.6,-0.6,16:30:00
+ENG-Premier League,1920,Burnley,2019-08-31 Burnley-Liverpool,2019-08-31,Matchweek 4,Sat,Home,L,0,3,Liverpool,0,7,2,28.6,0.0,0.0,19.7,0,0,0,0.9,0.9,0.12,-0.9,-0.9,17:30:00
+ENG-Premier League,1920,Burnley,2019-09-14 Brighton-Burnley,2019-09-14,Matchweek 5,Sat,Away,D,1,1,Brighton,1,7,1,14.3,0.14,1.0,17.7,0,0,0,0.4,0.4,0.05,0.6,0.6,15:00:00
+ENG-Premier League,1920,Burnley,2019-09-21 Burnley-Norwich City,2019-09-21,Matchweek 6,Sat,Home,W,2,0,Norwich City,2,13,6,46.2,0.15,0.33,14.4,1,0,0,2.0,2.0,0.15,0.0,0.0,15:00:00
+ENG-Premier League,1920,Burnley,2019-09-28 Aston Villa-Burnley,2019-09-28,Matchweek 7,Sat,Away,D,2,2,Aston Villa,2,10,3,30.0,0.2,0.67,13.2,2,0,0,1.5,1.5,0.15,0.5,0.5,15:00:00
+ENG-Premier League,1920,Burnley,2019-10-05 Burnley-Everton,2019-10-05,Matchweek 8,Sat,Home,W,1,0,Everton,1,9,3,33.3,0.11,0.33,15.6,1,0,0,0.6,0.6,0.06,0.4,0.4,15:00:00
+ENG-Premier League,1920,Burnley,2019-10-19 Leicester City-Burnley,2019-10-19,Matchweek 9,Sat,Away,L,1,2,Leicester City,1,13,4,30.8,0.08,0.25,18.4,1,0,0,1.5,1.5,0.12,-0.5,-0.5,15:00:00
+ENG-Premier League,1920,Burnley,2019-10-26 Burnley-Chelsea,2019-10-26,Matchweek 10,Sat,Home,L,2,4,Chelsea,2,13,5,38.5,0.15,0.4,14.8,0,0,0,2.1,2.1,0.16,-0.1,-0.1,17:30:00
+ENG-Premier League,1920,Burnley,2019-11-02 Sheffield Utd-Burnley,2019-11-02,Matchweek 11,Sat,Away,L,0,3,Sheffield Utd,0,6,0,0.0,0.0,,14.7,1,0,0,0.8,0.8,0.13,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Burnley,2019-11-09 Burnley-West Ham,2019-11-09,Matchweek 12,Sat,Home,W,3,0,West Ham,2,14,12,85.7,0.14,0.17,17.4,0,0,0,2.1,2.1,0.15,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Burnley,2019-11-23 Watford-Burnley,2019-11-23,Matchweek 13,Sat,Away,W,3,0,Watford,3,10,4,40.0,0.2,0.5,17.7,0,1,1,1.9,1.4,0.14,1.1,0.6,15:00:00
+ENG-Premier League,1920,Burnley,2019-11-30 Burnley-Crystal Palace,2019-11-30,Matchweek 14,Sat,Home,L,0,2,Crystal Palace,0,15,3,20.0,0.0,0.0,13.0,0,0,0,1.9,1.9,0.14,-1.9,-1.9,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-03 Burnley-Manchester City,2019-12-03,Matchweek 15,Tue,Home,L,1,4,Manchester City,1,4,2,50.0,0.25,0.5,14.9,1,0,0,0.6,0.6,0.15,0.4,0.4,20:15:00
+ENG-Premier League,1920,Burnley,2019-12-07 Tottenham-Burnley,2019-12-07,Matchweek 16,Sat,Away,L,0,5,Tottenham,0,7,1,14.3,0.0,0.0,15.1,0,0,0,0.9,0.9,0.14,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-14 Burnley-Newcastle Utd,2019-12-14,Matchweek 17,Sat,Home,W,1,0,Newcastle Utd,1,7,4,57.1,0.14,0.25,12.1,0,0,0,1.4,1.4,0.2,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-21 Bournemouth-Burnley,2019-12-21,Matchweek 18,Sat,Away,W,1,0,Bournemouth,1,2,1,50.0,0.5,1.0,18.3,0,0,0,0.2,0.2,0.09,0.8,0.8,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-26 Everton-Burnley,2019-12-26,Matchweek 19,Thu,Away,L,0,1,Everton,0,6,0,0.0,0.0,,16.9,0,0,0,0.3,0.3,0.06,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-28 Burnley-Manchester Utd,2019-12-28,Matchweek 20,Sat,Home,L,0,2,Manchester Utd,0,8,1,12.5,0.0,0.0,19.9,1,0,0,0.5,0.5,0.06,-0.5,-0.5,19:45:00
+ENG-Premier League,1920,Burnley,2020-01-01 Burnley-Aston Villa,2020-01-01,Matchweek 21,Wed,Home,L,1,2,Aston Villa,1,20,1,5.0,0.05,1.0,15.9,1,0,0,2.2,2.2,0.11,-1.2,-1.2,12:30:00
+ENG-Premier League,1920,Burnley,2020-01-11 Chelsea-Burnley,2020-01-11,Matchweek 22,Sat,Away,L,0,3,Chelsea,0,7,1,14.3,0.0,0.0,15.8,2,0,0,0.8,0.8,0.13,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Burnley,2020-01-19 Burnley-Leicester City,2020-01-19,Matchweek 23,Sun,Home,W,2,1,Leicester City,2,8,5,62.5,0.25,0.4,16.7,1,0,0,1.4,1.4,0.19,0.6,0.6,14:00:00
+ENG-Premier League,1920,Burnley,2020-01-22 Manchester Utd-Burnley,2020-01-22,Matchweek 24,Wed,Away,W,2,0,Manchester Utd,2,5,2,40.0,0.4,1.0,15.1,1,0,0,0.6,0.6,0.12,1.4,1.4,20:15:00
+ENG-Premier League,1920,Burnley,2020-02-02 Burnley-Arsenal,2020-02-02,Matchweek 25,Sun,Home,D,0,0,Arsenal,0,15,2,13.3,0.0,0.0,14.9,0,0,0,1.9,1.9,0.13,-1.9,-1.9,14:00:00
+ENG-Premier League,1920,Burnley,2020-02-15 Southampton-Burnley,2020-02-15,Matchweek 26,Sat,Away,W,2,1,Southampton,2,9,6,66.7,0.22,0.33,19.4,0,0,0,0.8,0.8,0.09,1.2,1.2,12:30:00
+ENG-Premier League,1920,Burnley,2020-02-22 Burnley-Bournemouth,2020-02-22,Matchweek 27,Sat,Home,W,3,0,Bournemouth,3,15,9,60.0,0.13,0.22,22.1,0,1,1,3.2,2.4,0.16,-0.2,-0.4,15:00:00
+ENG-Premier League,1920,Burnley,2020-02-29 Newcastle Utd-Burnley,2020-02-29,Matchweek 28,Sat,Away,D,0,0,Newcastle Utd,0,7,0,0.0,0.0,,15.3,0,0,0,0.7,0.7,0.1,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Burnley,2020-03-07 Burnley-Tottenham,2020-03-07,Matchweek 29,Sat,Home,D,1,1,Tottenham,1,21,7,33.3,0.05,0.14,15.6,2,0,0,3.0,3.0,0.15,-2.0,-2.0,17:30:00
+ENG-Premier League,1920,Burnley,2020-06-22 Manchester City-Burnley,2020-06-22,Matchweek 30,Mon,Away,L,0,5,Manchester City,0,1,0,0.0,0.0,,34.9,1,0,0,0.0,0.0,0.04,0.0,0.0,20:00:00
+ENG-Premier League,1920,Burnley,2020-06-25 Burnley-Watford,2020-06-25,Matchweek 31,Thu,Home,W,1,0,Watford,1,9,4,44.4,0.11,0.25,16.2,0,0,0,0.9,0.9,0.11,0.1,0.1,18:00:00
+ENG-Premier League,1920,Burnley,2020-06-29 Crystal Palace-Burnley,2020-06-29,Matchweek 32,Mon,Away,W,1,0,Crystal Palace,1,8,4,50.0,0.13,0.25,17.2,0,0,0,0.4,0.4,0.04,0.6,0.6,20:00:00
+ENG-Premier League,1920,Burnley,2020-07-05 Burnley-Sheffield Utd,2020-07-05,Matchweek 33,Sun,Home,D,1,1,Sheffield Utd,1,9,4,44.4,0.11,0.25,20.5,0,0,0,1.3,1.3,0.15,-0.3,-0.3,12:00:00
+ENG-Premier League,1920,Burnley,2020-07-08 West Ham-Burnley,2020-07-08,Matchweek 34,Wed,Away,W,1,0,West Ham,1,8,4,50.0,0.13,0.25,13.3,0,0,0,0.9,0.9,0.11,0.1,0.1,18:00:00
+ENG-Premier League,1920,Burnley,2020-07-11 Liverpool-Burnley,2020-07-11,Matchweek 35,Sat,Away,D,1,1,Liverpool,1,6,2,33.3,0.17,0.5,14.6,0,0,0,0.4,0.4,0.06,0.6,0.6,15:00:00
+ENG-Premier League,1920,Burnley,2020-07-15 Burnley-Wolves,2020-07-15,Matchweek 36,Wed,Home,D,1,1,Wolves,1,8,0,0.0,0.0,,16.6,0,1,1,1.9,1.1,0.14,-0.9,-1.1,18:00:00
+ENG-Premier League,1920,Burnley,2020-07-18 Norwich City-Burnley,2020-07-18,Matchweek 37,Sat,Away,W,2,0,Norwich City,1,23,8,34.8,0.04,0.13,19.3,2,0,0,1.8,1.8,0.08,-0.8,-0.8,17:30:00
+ENG-Premier League,1920,Burnley,2020-07-26 Burnley-Brighton,2020-07-26,Matchweek 38,Sun,Home,L,1,2,Brighton,1,13,1,7.7,0.08,1.0,13.1,0,0,0,1.7,1.7,0.14,-0.7,-0.7,16:00:00
+ENG-Premier League,1920,Chelsea,2019-08-11 Manchester Utd-Chelsea,2019-08-11,Matchweek 1,Sun,Away,L,0,4,Manchester Utd,0,18,7,38.9,0.0,0.0,19.1,0,0,0,1.0,1.0,0.06,-1.0,-1.0,16:30:00
+ENG-Premier League,1920,Chelsea,2019-08-18 Chelsea-Leicester City,2019-08-18,Matchweek 2,Sun,Home,D,1,1,Leicester City,1,14,5,35.7,0.07,0.2,18.2,1,0,0,1.1,1.1,0.08,-0.1,-0.1,16:30:00
+ENG-Premier League,1920,Chelsea,2019-08-24 Norwich City-Chelsea,2019-08-24,Matchweek 3,Sat,Away,W,3,2,Norwich City,3,23,8,34.8,0.13,0.38,18.9,0,0,0,1.5,1.5,0.07,1.5,1.5,12:30:00
+ENG-Premier League,1920,Chelsea,2019-08-31 Chelsea-Sheffield Utd,2019-08-31,Matchweek 4,Sat,Home,D,2,2,Sheffield Utd,2,13,5,38.5,0.15,0.4,16.3,1,0,0,2.0,2.0,0.18,0.0,0.0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-09-14 Wolves-Chelsea,2019-09-14,Matchweek 5,Sat,Away,W,5,2,Wolves,5,15,6,40.0,0.33,0.83,13.2,0,0,0,2.7,2.7,0.18,2.3,2.3,15:00:00
+ENG-Premier League,1920,Chelsea,2019-09-22 Chelsea-Liverpool,2019-09-22,Matchweek 6,Sun,Home,L,1,2,Liverpool,1,13,2,15.4,0.08,0.5,16.6,0,0,0,1.3,1.3,0.1,-0.3,-0.3,16:30:00
+ENG-Premier League,1920,Chelsea,2019-09-28 Chelsea-Brighton,2019-09-28,Matchweek 7,Sat,Home,W,2,0,Brighton,2,23,9,39.1,0.04,0.11,16.6,0,1,1,3.7,2.9,0.13,-1.7,-1.9,15:00:00
+ENG-Premier League,1920,Chelsea,2019-10-06 Southampton-Chelsea,2019-10-06,Matchweek 8,Sun,Away,W,4,1,Southampton,4,13,7,53.8,0.31,0.57,18.0,0,0,0,1.7,1.7,0.13,2.3,2.3,14:00:00
+ENG-Premier League,1920,Chelsea,2019-10-19 Chelsea-Newcastle Utd,2019-10-19,Matchweek 9,Sat,Home,W,1,0,Newcastle Utd,1,16,7,43.8,0.06,0.14,13.0,1,0,0,2.0,2.0,0.13,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-10-26 Burnley-Chelsea,2019-10-26,Matchweek 10,Sat,Away,W,4,2,Burnley,4,16,7,43.8,0.25,0.57,19.1,1,0,0,0.9,0.9,0.05,3.1,3.1,17:30:00
+ENG-Premier League,1920,Chelsea,2019-11-02 Watford-Chelsea,2019-11-02,Matchweek 11,Sat,Away,W,2,1,Watford,2,16,10,62.5,0.13,0.2,17.4,1,0,0,2.1,2.1,0.13,-0.1,-0.1,17:30:00
+ENG-Premier League,1920,Chelsea,2019-11-09 Chelsea-Crystal Palace,2019-11-09,Matchweek 12,Sat,Home,W,2,0,Crystal Palace,2,23,5,21.7,0.09,0.4,18.3,4,0,0,3.6,3.6,0.16,-1.6,-1.6,12:30:00
+ENG-Premier League,1920,Chelsea,2019-11-23 Manchester City-Chelsea,2019-11-23,Matchweek 13,Sat,Away,L,1,2,Manchester City,1,11,2,18.2,0.09,0.5,17.8,1,0,0,0.9,0.9,0.08,0.1,0.1,17:30:00
+ENG-Premier League,1920,Chelsea,2019-11-30 Chelsea-West Ham,2019-11-30,Matchweek 14,Sat,Home,L,0,1,West Ham,0,19,6,31.6,0.0,0.0,15.0,0,0,0,2.3,2.3,0.12,-2.3,-2.3,15:00:00
+ENG-Premier League,1920,Chelsea,2019-12-04 Chelsea-Aston Villa,2019-12-04,Matchweek 15,Wed,Home,W,2,1,Aston Villa,2,25,9,36.0,0.08,0.22,17.5,1,0,0,1.8,1.8,0.07,0.2,0.2,19:30:00
+ENG-Premier League,1920,Chelsea,2019-12-07 Everton-Chelsea,2019-12-07,Matchweek 16,Sat,Away,L,1,3,Everton,1,15,4,26.7,0.07,0.25,15.3,0,0,0,1.1,1.1,0.07,-0.1,-0.1,12:30:00
+ENG-Premier League,1920,Chelsea,2019-12-14 Chelsea-Bournemouth,2019-12-14,Matchweek 17,Sat,Home,L,0,1,Bournemouth,0,18,5,27.8,0.0,0.0,12.4,1,0,0,2.1,2.1,0.12,-2.1,-2.1,15:00:00
+ENG-Premier League,1920,Chelsea,2019-12-22 Tottenham-Chelsea,2019-12-22,Matchweek 18,Sun,Away,W,2,0,Tottenham,2,12,2,16.7,0.08,0.5,19.7,1,1,1,1.3,0.6,0.05,0.7,0.4,16:30:00
+ENG-Premier League,1920,Chelsea,2019-12-26 Chelsea-Southampton,2019-12-26,Matchweek 19,Thu,Home,L,0,2,Southampton,0,10,3,30.0,0.0,0.0,15.8,1,0,0,0.7,0.7,0.07,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Chelsea,2019-12-29 Arsenal-Chelsea,2019-12-29,Matchweek 20,Sun,Away,W,2,1,Arsenal,2,13,4,30.8,0.15,0.5,13.7,0,0,0,1.4,1.4,0.11,0.6,0.6,14:00:00
+ENG-Premier League,1920,Chelsea,2020-01-01 Brighton-Chelsea,2020-01-01,Matchweek 21,Wed,Away,D,1,1,Brighton,1,16,4,25.0,0.06,0.25,17.0,0,0,0,1.3,1.3,0.09,-0.3,-0.3,12:30:00
+ENG-Premier League,1920,Chelsea,2020-01-11 Chelsea-Burnley,2020-01-11,Matchweek 22,Sat,Home,W,3,0,Burnley,3,17,7,41.2,0.12,0.29,15.4,1,1,1,2.7,1.9,0.12,0.3,0.1,15:00:00
+ENG-Premier League,1920,Chelsea,2020-01-18 Newcastle Utd-Chelsea,2020-01-18,Matchweek 23,Sat,Away,L,0,1,Newcastle Utd,0,19,3,15.8,0.0,0.0,19.0,1,0,0,2.4,2.4,0.13,-2.4,-2.4,17:30:00
+ENG-Premier League,1920,Chelsea,2020-01-21 Chelsea-Arsenal,2020-01-21,Matchweek 24,Tue,Home,D,2,2,Arsenal,2,18,7,38.9,0.06,0.14,15.3,0,1,1,2.9,2.1,0.12,-0.9,-1.1,20:15:00
+ENG-Premier League,1920,Chelsea,2020-02-01 Leicester City-Chelsea,2020-02-01,Matchweek 25,Sat,Away,D,2,2,Leicester City,2,7,3,42.9,0.29,0.67,14.9,1,0,0,0.6,0.6,0.08,1.4,1.4,12:30:00
+ENG-Premier League,1920,Chelsea,2020-02-17 Chelsea-Manchester Utd,2020-02-17,Matchweek 26,Mon,Home,L,0,2,Manchester Utd,0,17,1,5.9,0.0,0.0,17.2,1,0,0,0.9,0.9,0.06,-0.9,-0.9,20:00:00
+ENG-Premier League,1920,Chelsea,2020-02-22 Chelsea-Tottenham,2020-02-22,Matchweek 27,Sat,Home,W,2,1,Tottenham,2,17,7,41.2,0.12,0.29,18.4,1,0,0,1.7,1.7,0.11,0.3,0.3,12:30:00
+ENG-Premier League,1920,Chelsea,2020-02-29 Bournemouth-Chelsea,2020-02-29,Matchweek 28,Sat,Away,D,2,2,Bournemouth,2,23,6,26.1,0.09,0.33,16.3,0,0,0,1.9,1.9,0.09,0.1,0.1,15:00:00
+ENG-Premier League,1920,Chelsea,2020-03-08 Chelsea-Everton,2020-03-08,Matchweek 29,Sun,Home,W,4,0,Everton,4,17,11,64.7,0.24,0.36,20.1,1,0,0,1.8,1.8,0.11,2.2,2.2,14:00:00
+ENG-Premier League,1920,Chelsea,2020-06-21 Aston Villa-Chelsea,2020-06-21,Matchweek 30,Sun,Away,W,2,1,Aston Villa,2,19,5,26.3,0.11,0.4,18.7,0,0,0,1.1,1.1,0.06,0.9,0.9,16:15:00
+ENG-Premier League,1920,Chelsea,2020-06-25 Chelsea-Manchester City,2020-06-25,Matchweek 31,Thu,Home,W,2,1,Manchester City,2,14,6,42.9,0.07,0.17,11.4,0,1,1,3.2,3.2,0.28,-1.2,-2.2,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-01 West Ham-Chelsea,2020-07-01,Matchweek 32,Wed,Away,L,2,3,West Ham,2,16,5,31.3,0.06,0.2,18.2,1,1,1,1.6,0.8,0.05,0.4,0.2,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-04 Chelsea-Watford,2020-07-04,Matchweek 33,Sat,Home,W,3,0,Watford,3,20,8,40.0,0.1,0.25,19.5,4,1,1,2.5,1.7,0.09,0.5,0.3,20:00:00
+ENG-Premier League,1920,Chelsea,2020-07-07 Crystal Palace-Chelsea,2020-07-07,Matchweek 34,Tue,Away,W,3,2,Crystal Palace,3,14,6,42.9,0.21,0.5,16.0,1,0,0,1.9,1.9,0.14,1.1,1.1,18:00:00
+ENG-Premier League,1920,Chelsea,2020-07-11 Sheffield Utd-Chelsea,2020-07-11,Matchweek 35,Sat,Away,L,0,3,Sheffield Utd,0,15,4,26.7,0.0,0.0,15.6,1,0,0,1.2,1.2,0.08,-1.2,-1.2,17:30:00
+ENG-Premier League,1920,Chelsea,2020-07-14 Chelsea-Norwich City,2020-07-14,Matchweek 36,Tue,Home,W,1,0,Norwich City,1,22,6,27.3,0.05,0.17,12.8,1,0,0,2.5,2.5,0.11,-1.5,-1.5,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-22 Liverpool-Chelsea,2020-07-22,Matchweek 37,Wed,Away,L,3,5,Liverpool,3,10,5,50.0,0.3,0.6,12.3,0,0,0,2.4,2.4,0.28,0.6,0.6,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-26 Chelsea-Wolves,2020-07-26,Matchweek 38,Sun,Home,W,2,0,Wolves,2,11,3,27.3,0.18,0.67,16.1,1,0,0,1.4,1.4,0.13,0.6,0.6,16:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-10 Crystal Palace-Everton,2019-08-10,Matchweek 1,Sat,Home,D,0,0,Everton,0,6,2,33.3,0.0,0.0,11.7,0,0,0,0.9,0.9,0.16,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-18 Sheffield Utd-Crystal Palace,2019-08-18,Matchweek 2,Sun,Away,L,0,1,Sheffield Utd,0,6,4,66.7,0.0,0.0,22.4,1,0,0,0.3,0.3,0.05,-0.3,-0.3,14:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-24 Manchester Utd-Crystal Palace,2019-08-24,Matchweek 3,Sat,Away,W,2,1,Manchester Utd,2,5,3,60.0,0.4,0.67,10.7,0,0,0,1.1,1.1,0.22,0.9,0.9,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-31 Crystal Palace-Aston Villa,2019-08-31,Matchweek 4,Sat,Home,W,1,0,Aston Villa,1,22,5,22.7,0.05,0.2,16.8,1,0,0,1.4,1.4,0.07,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-09-14 Tottenham-Crystal Palace,2019-09-14,Matchweek 5,Sat,Away,L,0,4,Tottenham,0,11,6,54.5,0.0,0.0,15.7,0,0,0,0.6,0.6,0.06,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-09-22 Crystal Palace-Wolves,2019-09-22,Matchweek 6,Sun,Home,D,1,1,Wolves,0,13,4,30.8,0.0,0.0,19.7,1,0,0,0.9,0.9,0.07,-0.9,-0.9,14:00:00
+ENG-Premier League,1920,Crystal Palace,2019-09-28 Crystal Palace-Norwich City,2019-09-28,Matchweek 7,Sat,Home,W,2,0,Norwich City,2,14,2,14.3,0.07,0.5,17.0,0,1,1,1.5,0.8,0.06,0.5,0.2,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-10-05 West Ham-Crystal Palace,2019-10-05,Matchweek 8,Sat,Away,W,2,1,West Ham,2,6,2,33.3,0.17,0.5,17.8,0,1,1,2.1,1.4,0.23,-0.1,-0.4,17:30:00
+ENG-Premier League,1920,Crystal Palace,2019-10-19 Crystal Palace-Manchester City,2019-10-19,Matchweek 9,Sat,Home,L,0,2,Manchester City,0,7,2,28.6,0.0,0.0,16.3,1,0,0,0.9,0.9,0.13,-0.9,-0.9,17:30:00
+ENG-Premier League,1920,Crystal Palace,2019-10-27 Arsenal-Crystal Palace,2019-10-27,Matchweek 10,Sun,Away,D,2,2,Arsenal,2,9,3,33.3,0.11,0.33,17.8,0,1,1,1.6,0.8,0.09,0.4,0.2,16:30:00
+ENG-Premier League,1920,Crystal Palace,2019-11-03 Crystal Palace-Leicester City,2019-11-03,Matchweek 11,Sun,Home,L,0,2,Leicester City,0,12,3,25.0,0.0,0.0,21.9,0,0,0,0.5,0.5,0.04,-0.5,-0.5,14:00:00
+ENG-Premier League,1920,Crystal Palace,2019-11-09 Chelsea-Crystal Palace,2019-11-09,Matchweek 12,Sat,Away,L,0,2,Chelsea,0,3,1,33.3,0.0,0.0,16.8,0,0,0,0.2,0.2,0.08,-0.2,-0.2,12:30:00
+ENG-Premier League,1920,Crystal Palace,2019-11-23 Crystal Palace-Liverpool,2019-11-23,Matchweek 13,Sat,Home,L,1,2,Liverpool,1,16,6,37.5,0.06,0.17,21.3,0,0,0,1.0,1.0,0.06,0.0,0.0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-11-30 Burnley-Crystal Palace,2019-11-30,Matchweek 14,Sat,Away,W,2,0,Burnley,2,7,2,28.6,0.29,1.0,14.1,1,0,0,0.7,0.7,0.1,1.3,1.3,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-03 Crystal Palace-Bournemouth,2019-12-03,Matchweek 15,Tue,Home,W,1,0,Bournemouth,1,7,2,28.6,0.14,0.5,19.0,1,0,0,0.3,0.3,0.05,0.7,0.7,19:30:00
+ENG-Premier League,1920,Crystal Palace,2019-12-07 Watford-Crystal Palace,2019-12-07,Matchweek 16,Sat,Away,D,0,0,Watford,0,3,0,0.0,0.0,,15.3,0,0,0,0.2,0.2,0.06,-0.2,-0.2,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-16 Crystal Palace-Brighton,2019-12-16,Matchweek 17,Mon,Home,D,1,1,Brighton,1,11,4,36.4,0.09,0.25,15.7,0,0,0,0.7,0.7,0.06,0.3,0.3,19:45:00
+ENG-Premier League,1920,Crystal Palace,2019-12-21 Newcastle Utd-Crystal Palace,2019-12-21,Matchweek 18,Sat,Away,L,0,1,Newcastle Utd,0,16,4,25.0,0.0,0.0,17.4,1,0,0,1.3,1.3,0.08,-1.3,-1.3,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-26 Crystal Palace-West Ham,2019-12-26,Matchweek 19,Thu,Home,W,2,1,West Ham,2,13,4,30.8,0.15,0.5,13.0,0,0,0,2.7,2.7,0.21,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-28 Southampton-Crystal Palace,2019-12-28,Matchweek 20,Sat,Away,D,1,1,Southampton,1,5,2,40.0,0.2,0.5,19.4,0,0,0,0.3,0.3,0.05,0.7,0.7,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-01-01 Norwich City-Crystal Palace,2020-01-01,Matchweek 21,Wed,Away,D,1,1,Norwich City,1,12,3,25.0,0.08,0.33,17.9,0,0,0,1.3,1.3,0.12,-0.3,-0.3,17:30:00
+ENG-Premier League,1920,Crystal Palace,2020-01-11 Crystal Palace-Arsenal,2020-01-11,Matchweek 22,Sat,Home,D,1,1,Arsenal,1,6,2,33.3,0.17,0.5,17.2,0,0,0,0.6,0.6,0.1,0.4,0.4,12:30:00
+ENG-Premier League,1920,Crystal Palace,2020-01-18 Manchester City-Crystal Palace,2020-01-18,Matchweek 23,Sat,Away,D,2,2,Manchester City,1,5,3,60.0,0.2,0.33,14.1,0,0,0,0.4,0.4,0.07,0.6,0.6,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-01-21 Crystal Palace-Southampton,2020-01-21,Matchweek 24,Tue,Home,L,0,2,Southampton,0,6,0,0.0,0.0,,14.5,0,0,0,0.6,0.6,0.1,-0.6,-0.6,19:30:00
+ENG-Premier League,1920,Crystal Palace,2020-02-01 Crystal Palace-Sheffield Utd,2020-02-01,Matchweek 25,Sat,Home,L,0,1,Sheffield Utd,0,13,3,23.1,0.0,0.0,17.3,0,0,0,0.8,0.8,0.06,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-02-08 Everton-Crystal Palace,2020-02-08,Matchweek 26,Sat,Away,L,1,3,Everton,1,10,2,20.0,0.1,0.5,16.0,0,0,0,1.1,1.1,0.11,-0.1,-0.1,12:30:00
+ENG-Premier League,1920,Crystal Palace,2020-02-22 Crystal Palace-Newcastle Utd,2020-02-22,Matchweek 27,Sat,Home,W,1,0,Newcastle Utd,1,18,9,50.0,0.06,0.11,16.8,2,0,0,1.6,1.6,0.09,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-02-29 Brighton-Crystal Palace,2020-02-29,Matchweek 28,Sat,Away,W,1,0,Brighton,1,12,3,25.0,0.08,0.33,10.8,0,0,0,2.5,2.5,0.21,-1.5,-1.5,12:30:00
+ENG-Premier League,1920,Crystal Palace,2020-03-07 Crystal Palace-Watford,2020-03-07,Matchweek 29,Sat,Home,W,1,0,Watford,1,10,3,30.0,0.1,0.33,18.3,0,0,0,0.8,0.8,0.08,0.2,0.2,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-06-20 Bournemouth-Crystal Palace,2020-06-20,Matchweek 30,Sat,Away,W,2,0,Bournemouth,2,7,2,28.6,0.29,1.0,18.5,1,0,0,0.8,0.8,0.11,1.2,1.2,19:45:00
+ENG-Premier League,1920,Crystal Palace,2020-06-24 Liverpool-Crystal Palace,2020-06-24,Matchweek 31,Wed,Away,L,0,4,Liverpool,0,3,0,0.0,0.0,,29.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,20:15:00
+ENG-Premier League,1920,Crystal Palace,2020-06-29 Crystal Palace-Burnley,2020-06-29,Matchweek 32,Mon,Home,L,0,1,Burnley,0,17,4,23.5,0.0,0.0,18.2,2,0,0,0.9,0.9,0.05,-0.9,-0.9,20:00:00
+ENG-Premier League,1920,Crystal Palace,2020-07-04 Leicester City-Crystal Palace,2020-07-04,Matchweek 33,Sat,Away,L,0,3,Leicester City,0,7,1,14.3,0.0,0.0,15.6,1,0,0,0.8,0.8,0.11,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-07-07 Crystal Palace-Chelsea,2020-07-07,Matchweek 34,Tue,Home,L,2,3,Chelsea,2,13,4,30.8,0.15,0.5,17.8,0,0,0,1.5,1.5,0.12,0.5,0.5,18:00:00
+ENG-Premier League,1920,Crystal Palace,2020-07-12 Aston Villa-Crystal Palace,2020-07-12,Matchweek 35,Sun,Away,L,0,2,Aston Villa,0,9,5,55.6,0.0,0.0,12.0,0,0,0,1.2,1.2,0.13,-1.2,-1.2,14:15:00
+ENG-Premier League,1920,Crystal Palace,2020-07-16 Crystal Palace-Manchester Utd,2020-07-16,Matchweek 36,Thu,Home,L,0,2,Manchester Utd,0,13,5,38.5,0.0,0.0,19.9,1,0,0,0.6,0.6,0.05,-0.6,-0.6,20:15:00
+ENG-Premier League,1920,Crystal Palace,2020-07-20 Wolves-Crystal Palace,2020-07-20,Matchweek 37,Mon,Away,L,0,2,Wolves,0,7,3,42.9,0.0,0.0,19.7,1,0,0,0.4,0.4,0.06,-0.4,-0.4,20:15:00
+ENG-Premier League,1920,Crystal Palace,2020-07-26 Crystal Palace-Tottenham,2020-07-26,Matchweek 38,Sun,Home,D,1,1,Tottenham,1,13,2,15.4,0.08,0.5,13.8,0,0,0,0.8,0.8,0.06,0.2,0.2,16:00:00
+ENG-Premier League,1920,Everton,2019-08-10 Crystal Palace-Everton,2019-08-10,Matchweek 1,Sat,Away,D,0,0,Crystal Palace,0,10,2,20.0,0.0,0.0,17.1,0,0,0,1.1,1.1,0.12,-1.1,-1.1,15:00:00
+ENG-Premier League,1920,Everton,2019-08-17 Everton-Watford,2019-08-17,Matchweek 2,Sat,Home,W,1,0,Watford,1,12,2,16.7,0.08,0.5,19.0,1,0,0,0.7,0.7,0.06,0.3,0.3,15:00:00
+ENG-Premier League,1920,Everton,2019-08-23 Aston Villa-Everton,2019-08-23,Matchweek 3,Fri,Away,L,0,2,Aston Villa,0,12,1,8.3,0.0,0.0,21.0,0,0,0,1.3,1.3,0.1,-1.3,-1.3,20:00:00
+ENG-Premier League,1920,Everton,2019-09-01 Everton-Wolves,2019-09-01,Matchweek 4,Sun,Home,W,3,2,Wolves,3,15,6,40.0,0.2,0.5,15.6,0,0,0,1.3,1.3,0.09,1.7,1.7,14:00:00
+ENG-Premier League,1920,Everton,2019-09-15 Bournemouth-Everton,2019-09-15,Matchweek 5,Sun,Away,L,1,3,Bournemouth,1,14,5,35.7,0.07,0.2,16.4,0,0,0,1.5,1.5,0.11,-0.5,-0.5,14:00:00
+ENG-Premier League,1920,Everton,2019-09-21 Everton-Sheffield Utd,2019-09-21,Matchweek 6,Sat,Home,L,0,2,Sheffield Utd,0,16,3,18.8,0.0,0.0,18.3,1,0,0,1.0,1.0,0.06,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Everton,2019-09-28 Everton-Manchester City,2019-09-28,Matchweek 7,Sat,Home,L,1,3,Manchester City,1,12,7,58.3,0.08,0.14,10.7,1,0,0,2.4,2.4,0.21,-1.4,-1.4,17:30:00
+ENG-Premier League,1920,Everton,2019-10-05 Burnley-Everton,2019-10-05,Matchweek 8,Sat,Away,L,0,1,Burnley,0,11,2,18.2,0.0,0.0,15.7,1,0,0,1.3,1.3,0.12,-1.3,-1.3,15:00:00
+ENG-Premier League,1920,Everton,2019-10-19 Everton-West Ham,2019-10-19,Matchweek 9,Sat,Home,W,2,0,West Ham,2,19,10,52.6,0.11,0.2,16.4,1,0,0,2.1,2.1,0.11,-0.1,-0.1,12:30:00
+ENG-Premier League,1920,Everton,2019-10-26 Brighton-Everton,2019-10-26,Matchweek 10,Sat,Away,L,2,3,Brighton,1,10,6,60.0,0.1,0.17,17.2,0,0,0,0.9,0.9,0.09,0.1,0.1,15:00:00
+ENG-Premier League,1920,Everton,2019-11-03 Everton-Tottenham,2019-11-03,Matchweek 11,Sun,Home,D,1,1,Tottenham,1,7,3,42.9,0.14,0.33,14.3,0,0,0,1.1,1.1,0.16,-0.1,-0.1,16:30:00
+ENG-Premier League,1920,Everton,2019-11-09 Southampton-Everton,2019-11-09,Matchweek 12,Sat,Away,W,2,1,Southampton,2,24,5,20.8,0.08,0.4,15.8,0,0,0,1.8,1.8,0.08,0.2,0.2,15:00:00
+ENG-Premier League,1920,Everton,2019-11-23 Everton-Norwich City,2019-11-23,Matchweek 13,Sat,Home,L,0,2,Norwich City,0,18,7,38.9,0.0,0.0,17.6,1,0,0,0.9,0.9,0.05,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Everton,2019-12-01 Leicester City-Everton,2019-12-01,Matchweek 14,Sun,Away,L,1,2,Leicester City,1,11,3,27.3,0.09,0.33,13.8,0,0,0,1.1,1.1,0.1,-0.1,-0.1,16:30:00
+ENG-Premier League,1920,Everton,2019-12-04 Liverpool-Everton,2019-12-04,Matchweek 15,Wed,Away,L,2,5,Liverpool,2,12,4,33.3,0.17,0.5,15.5,1,0,0,1.5,1.5,0.13,0.5,0.5,20:15:00
+ENG-Premier League,1920,Everton,2019-12-07 Everton-Chelsea,2019-12-07,Matchweek 16,Sat,Home,W,3,1,Chelsea,3,13,7,53.8,0.23,0.43,17.1,0,0,0,1.8,1.8,0.14,1.2,1.2,12:30:00
+ENG-Premier League,1920,Everton,2019-12-15 Manchester Utd-Everton,2019-12-15,Matchweek 17,Sun,Away,D,1,1,Manchester Utd,0,8,3,37.5,0.0,0.0,23.8,1,0,0,0.3,0.3,0.04,-0.3,-0.3,14:00:00
+ENG-Premier League,1920,Everton,2019-12-21 Everton-Arsenal,2019-12-21,Matchweek 18,Sat,Home,D,0,0,Arsenal,0,9,0,0.0,0.0,,19.7,1,0,0,0.5,0.5,0.06,-0.5,-0.5,12:30:00
+ENG-Premier League,1920,Everton,2019-12-26 Everton-Burnley,2019-12-26,Matchweek 19,Thu,Home,W,1,0,Burnley,1,21,5,23.8,0.05,0.2,19.2,1,0,0,1.4,1.4,0.07,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Everton,2019-12-28 Newcastle Utd-Everton,2019-12-28,Matchweek 20,Sat,Away,W,2,1,Newcastle Utd,2,22,9,40.9,0.09,0.22,14.7,1,0,0,2.9,2.9,0.14,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Everton,2020-01-01 Manchester City-Everton,2020-01-01,Matchweek 21,Wed,Away,L,1,2,Manchester City,1,7,2,28.6,0.14,0.5,11.3,0,0,0,1.0,1.0,0.15,0.0,0.0,17:30:00
+ENG-Premier League,1920,Everton,2020-01-11 Everton-Brighton,2020-01-11,Matchweek 22,Sat,Home,W,1,0,Brighton,1,14,6,42.9,0.07,0.17,13.2,0,0,0,1.7,1.7,0.12,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Everton,2020-01-18 West Ham-Everton,2020-01-18,Matchweek 23,Sat,Away,D,1,1,West Ham,1,11,3,27.3,0.09,0.33,12.7,0,0,0,1.7,1.7,0.16,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Everton,2020-01-21 Everton-Newcastle Utd,2020-01-21,Matchweek 24,Tue,Home,D,2,2,Newcastle Utd,2,17,8,47.1,0.12,0.25,18.8,1,0,0,1.8,1.8,0.11,0.2,0.2,19:30:00
+ENG-Premier League,1920,Everton,2020-02-01 Watford-Everton,2020-02-01,Matchweek 25,Sat,Away,W,3,2,Watford,3,12,5,41.7,0.25,0.6,12.8,1,0,0,2.2,2.2,0.25,0.8,0.8,15:00:00
+ENG-Premier League,1920,Everton,2020-02-08 Everton-Crystal Palace,2020-02-08,Matchweek 26,Sat,Home,W,3,1,Crystal Palace,3,14,8,57.1,0.21,0.38,15.4,1,0,0,2.5,2.5,0.18,0.5,0.5,12:30:00
+ENG-Premier League,1920,Everton,2020-02-23 Arsenal-Everton,2020-02-23,Matchweek 27,Sun,Away,L,2,3,Arsenal,2,17,5,29.4,0.12,0.4,15.6,0,0,0,2.7,2.7,0.17,-0.7,-0.7,16:30:00
+ENG-Premier League,1920,Everton,2020-03-01 Everton-Manchester Utd,2020-03-01,Matchweek 28,Sun,Home,D,1,1,Manchester Utd,1,16,5,31.3,0.06,0.2,15.4,2,0,0,2.1,2.1,0.13,-1.1,-1.1,14:00:00
+ENG-Premier League,1920,Everton,2020-03-08 Chelsea-Everton,2020-03-08,Matchweek 29,Sun,Away,L,0,4,Chelsea,0,3,1,33.3,0.0,0.0,17.5,0,0,0,0.5,0.5,0.17,-0.5,-0.5,14:00:00
+ENG-Premier League,1920,Everton,2020-06-21 Everton-Liverpool,2020-06-21,Matchweek 30,Sun,Home,D,0,0,Liverpool,0,8,3,37.5,0.0,0.0,11.6,0,0,0,0.9,0.9,0.12,-0.9,-0.9,19:00:00
+ENG-Premier League,1920,Everton,2020-06-24 Norwich City-Everton,2020-06-24,Matchweek 31,Wed,Away,W,1,0,Norwich City,1,12,5,41.7,0.08,0.2,16.8,1,0,0,0.8,0.8,0.06,0.2,0.2,18:00:00
+ENG-Premier League,1920,Everton,2020-07-01 Everton-Leicester City,2020-07-01,Matchweek 32,Wed,Home,W,2,1,Leicester City,2,6,1,16.7,0.17,1.0,18.4,0,1,1,1.2,0.4,0.07,0.8,0.6,18:00:00
+ENG-Premier League,1920,Everton,2020-07-06 Tottenham-Everton,2020-07-06,Matchweek 33,Mon,Away,L,0,1,Tottenham,0,11,3,27.3,0.0,0.0,23.2,1,0,0,0.5,0.5,0.04,-0.5,-0.5,20:00:00
+ENG-Premier League,1920,Everton,2020-07-09 Everton-Southampton,2020-07-09,Matchweek 34,Thu,Home,D,1,1,Southampton,1,11,4,36.4,0.09,0.25,19.7,2,0,0,1.0,1.0,0.1,0.0,0.0,18:00:00
+ENG-Premier League,1920,Everton,2020-07-12 Wolves-Everton,2020-07-12,Matchweek 35,Sun,Away,L,0,3,Wolves,0,6,2,33.3,0.0,0.0,15.4,0,0,0,0.3,0.3,0.05,-0.3,-0.3,12:00:00
+ENG-Premier League,1920,Everton,2020-07-16 Everton-Aston Villa,2020-07-16,Matchweek 36,Thu,Home,D,1,1,Aston Villa,1,9,1,11.1,0.11,1.0,18.0,0,0,0,0.9,0.9,0.1,0.1,0.1,18:00:00
+ENG-Premier League,1920,Everton,2020-07-20 Sheffield Utd-Everton,2020-07-20,Matchweek 37,Mon,Away,W,1,0,Sheffield Utd,1,5,2,40.0,0.2,0.5,14.8,0,0,0,0.4,0.4,0.08,0.6,0.6,18:00:00
+ENG-Premier League,1920,Everton,2020-07-26 Everton-Bournemouth,2020-07-26,Matchweek 38,Sun,Home,L,1,3,Bournemouth,1,13,5,38.5,0.08,0.2,13.5,0,0,0,1.7,1.7,0.14,-0.7,-0.7,16:00:00
+ENG-Premier League,1920,Leicester City,2019-08-11 Leicester City-Wolves,2019-08-11,Matchweek 1,Sun,Home,D,0,0,Wolves,0,16,1,6.3,0.0,0.0,23.9,0,0,0,0.7,0.7,0.05,-0.7,-0.7,14:00:00
+ENG-Premier League,1920,Leicester City,2019-08-18 Chelsea-Leicester City,2019-08-18,Matchweek 2,Sun,Away,D,1,1,Chelsea,1,12,3,25.0,0.08,0.33,20.8,0,0,0,0.8,0.8,0.06,0.2,0.2,16:30:00
+ENG-Premier League,1920,Leicester City,2019-08-24 Sheffield Utd-Leicester City,2019-08-24,Matchweek 3,Sat,Away,W,2,1,Sheffield Utd,2,10,2,20.0,0.2,1.0,19.1,2,0,0,0.8,0.8,0.08,1.2,1.2,15:00:00
+ENG-Premier League,1920,Leicester City,2019-08-31 Leicester City-Bournemouth,2019-08-31,Matchweek 4,Sat,Home,W,3,1,Bournemouth,3,15,6,40.0,0.2,0.5,20.5,0,0,0,2.0,2.0,0.14,1.0,1.0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-09-14 Manchester Utd-Leicester City,2019-09-14,Matchweek 5,Sat,Away,L,0,1,Manchester Utd,0,9,3,33.3,0.0,0.0,24.7,1,0,0,0.6,0.6,0.07,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Leicester City,2019-09-21 Leicester City-Tottenham,2019-09-21,Matchweek 6,Sat,Home,W,2,1,Tottenham,2,16,7,43.8,0.13,0.29,18.0,0,0,0,1.3,1.3,0.08,0.7,0.7,12:30:00
+ENG-Premier League,1920,Leicester City,2019-09-29 Leicester City-Newcastle Utd,2019-09-29,Matchweek 7,Sun,Home,W,5,0,Newcastle Utd,4,13,5,38.5,0.31,0.8,15.4,0,0,0,1.6,1.6,0.13,2.4,2.4,16:30:00
+ENG-Premier League,1920,Leicester City,2019-10-05 Liverpool-Leicester City,2019-10-05,Matchweek 8,Sat,Away,L,1,2,Liverpool,1,2,1,50.0,0.5,1.0,19.5,0,0,0,0.1,0.1,0.05,0.9,0.9,15:00:00
+ENG-Premier League,1920,Leicester City,2019-10-19 Leicester City-Burnley,2019-10-19,Matchweek 9,Sat,Home,W,2,1,Burnley,2,19,3,15.8,0.11,0.67,19.0,1,0,0,1.0,1.0,0.05,1.0,1.0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-10-25 Southampton-Leicester City,2019-10-25,Matchweek 10,Fri,Away,W,9,0,Southampton,9,24,14,58.3,0.33,0.57,17.5,1,1,1,4.6,3.8,0.16,4.4,4.2,20:00:00
+ENG-Premier League,1920,Leicester City,2019-11-03 Crystal Palace-Leicester City,2019-11-03,Matchweek 11,Sun,Away,W,2,0,Crystal Palace,2,14,5,35.7,0.14,0.4,13.8,1,0,0,1.1,1.1,0.08,0.9,0.9,14:00:00
+ENG-Premier League,1920,Leicester City,2019-11-09 Leicester City-Arsenal,2019-11-09,Matchweek 12,Sat,Home,W,2,0,Arsenal,2,19,7,36.8,0.11,0.29,20.5,1,0,0,1.2,1.2,0.07,0.8,0.8,17:30:00
+ENG-Premier League,1920,Leicester City,2019-11-23 Brighton-Leicester City,2019-11-23,Matchweek 13,Sat,Away,W,2,0,Brighton,2,18,8,44.4,0.06,0.13,15.1,1,1,1,3.6,2.8,0.16,-1.6,-1.8,15:00:00
+ENG-Premier League,1920,Leicester City,2019-12-01 Leicester City-Everton,2019-12-01,Matchweek 14,Sun,Home,W,2,1,Everton,2,16,6,37.5,0.13,0.33,15.3,0,0,0,2.2,2.2,0.14,-0.2,-0.2,16:30:00
+ENG-Premier League,1920,Leicester City,2019-12-04 Leicester City-Watford,2019-12-04,Matchweek 15,Wed,Home,W,2,0,Watford,2,11,4,36.4,0.09,0.25,12.4,0,1,1,2.4,1.6,0.15,-0.4,-0.6,19:30:00
+ENG-Premier League,1920,Leicester City,2019-12-08 Aston Villa-Leicester City,2019-12-08,Matchweek 16,Sun,Away,W,4,1,Aston Villa,4,23,8,34.8,0.17,0.5,11.8,0,0,0,4.6,4.6,0.21,-0.6,-0.6,14:00:00
+ENG-Premier League,1920,Leicester City,2019-12-14 Leicester City-Norwich City,2019-12-14,Matchweek 17,Sat,Home,D,1,1,Norwich City,0,18,5,27.8,0.0,0.0,16.7,0,0,0,1.1,1.1,0.06,-1.1,-1.1,15:00:00
+ENG-Premier League,1920,Leicester City,2019-12-21 Manchester City-Leicester City,2019-12-21,Matchweek 18,Sat,Away,L,1,3,Manchester City,1,5,2,40.0,0.2,0.5,14.1,0,0,0,1.1,1.1,0.22,-0.1,-0.1,17:30:00
+ENG-Premier League,1920,Leicester City,2019-12-26 Leicester City-Liverpool,2019-12-26,Matchweek 19,Thu,Home,L,0,4,Liverpool,0,3,0,0.0,0.0,,20.7,0,0,0,0.1,0.1,0.04,-0.1,-0.1,20:00:00
+ENG-Premier League,1920,Leicester City,2019-12-28 West Ham-Leicester City,2019-12-28,Matchweek 20,Sat,Away,W,2,1,West Ham,2,12,7,58.3,0.17,0.29,16.8,1,0,1,2.5,1.7,0.14,-0.5,0.3,17:30:00
+ENG-Premier League,1920,Leicester City,2020-01-01 Newcastle Utd-Leicester City,2020-01-01,Matchweek 21,Wed,Away,W,3,0,Newcastle Utd,3,17,10,58.8,0.18,0.3,15.0,1,0,0,2.6,2.6,0.18,0.4,0.4,15:00:00
+ENG-Premier League,1920,Leicester City,2020-01-11 Leicester City-Southampton,2020-01-11,Matchweek 22,Sat,Home,L,1,2,Southampton,1,5,5,100.0,0.2,0.2,12.7,0,0,0,0.7,0.7,0.14,0.3,0.3,15:00:00
+ENG-Premier League,1920,Leicester City,2020-01-19 Burnley-Leicester City,2020-01-19,Matchweek 23,Sun,Away,L,1,2,Burnley,1,17,7,41.2,0.06,0.14,18.3,0,0,1,2.5,1.7,0.1,-1.5,-0.7,14:00:00
+ENG-Premier League,1920,Leicester City,2020-01-22 Leicester City-West Ham,2020-01-22,Matchweek 24,Wed,Home,W,4,1,West Ham,4,18,7,38.9,0.17,0.43,17.1,0,1,1,2.8,2.0,0.12,1.2,1.0,19:30:00
+ENG-Premier League,1920,Leicester City,2020-02-01 Leicester City-Chelsea,2020-02-01,Matchweek 25,Sat,Home,D,2,2,Chelsea,2,14,4,28.6,0.14,0.5,18.2,2,0,0,1.4,1.4,0.1,0.6,0.6,12:30:00
+ENG-Premier League,1920,Leicester City,2020-02-14 Wolves-Leicester City,2020-02-14,Matchweek 26,Fri,Away,D,0,0,Wolves,0,9,3,33.3,0.0,0.0,16.7,0,0,0,0.7,0.7,0.08,-0.7,-0.7,20:00:00
+ENG-Premier League,1920,Leicester City,2020-02-22 Leicester City-Manchester City,2020-02-22,Matchweek 27,Sat,Home,L,0,1,Manchester City,0,10,3,30.0,0.0,0.0,19.8,2,0,0,0.8,0.8,0.08,-0.8,-0.8,17:30:00
+ENG-Premier League,1920,Leicester City,2020-02-28 Norwich City-Leicester City,2020-02-28,Matchweek 28,Fri,Away,L,0,1,Norwich City,0,19,4,21.1,0.0,0.0,16.6,0,0,0,1.3,1.3,0.07,-1.3,-1.3,20:00:00
+ENG-Premier League,1920,Leicester City,2020-03-09 Leicester City-Aston Villa,2020-03-09,Matchweek 29,Mon,Home,W,4,0,Aston Villa,4,14,6,42.9,0.21,0.5,15.5,0,1,1,2.1,1.3,0.1,1.9,1.7,20:00:00
+ENG-Premier League,1920,Leicester City,2020-06-20 Watford-Leicester City,2020-06-20,Matchweek 30,Sat,Away,D,1,1,Watford,1,15,2,13.3,0.07,0.5,22.7,1,0,0,1.0,1.0,0.06,0.0,0.0,12:30:00
+ENG-Premier League,1920,Leicester City,2020-06-23 Leicester City-Brighton,2020-06-23,Matchweek 31,Tue,Home,D,0,0,Brighton,0,11,2,18.2,0.0,0.0,16.8,1,0,0,0.6,0.6,0.06,-0.6,-0.6,18:00:00
+ENG-Premier League,1920,Leicester City,2020-07-01 Everton-Leicester City,2020-07-01,Matchweek 32,Wed,Away,L,1,2,Everton,1,15,3,20.0,0.07,0.33,15.7,0,0,0,1.8,1.8,0.12,-0.8,-0.8,18:00:00
+ENG-Premier League,1920,Leicester City,2020-07-04 Leicester City-Crystal Palace,2020-07-04,Matchweek 33,Sat,Home,W,3,0,Crystal Palace,3,15,4,26.7,0.2,0.75,15.4,0,0,0,2.8,2.8,0.19,0.2,0.2,15:00:00
+ENG-Premier League,1920,Leicester City,2020-07-07 Arsenal-Leicester City,2020-07-07,Matchweek 34,Tue,Away,D,1,1,Arsenal,1,13,5,38.5,0.08,0.2,21.2,1,0,0,0.9,0.9,0.07,0.1,0.1,20:15:00
+ENG-Premier League,1920,Leicester City,2020-07-12 Bournemouth-Leicester City,2020-07-12,Matchweek 35,Sun,Away,L,1,4,Bournemouth,1,13,5,38.5,0.08,0.2,17.9,0,0,0,1.5,1.5,0.12,-0.5,-0.5,19:00:00
+ENG-Premier League,1920,Leicester City,2020-07-16 Leicester City-Sheffield Utd,2020-07-16,Matchweek 36,Thu,Home,W,2,0,Sheffield Utd,2,15,7,46.7,0.13,0.29,16.0,0,0,0,2.6,2.6,0.17,-0.6,-0.6,18:00:00
+ENG-Premier League,1920,Leicester City,2020-07-19 Tottenham-Leicester City,2020-07-19,Matchweek 37,Sun,Away,L,0,3,Tottenham,0,24,6,25.0,0.0,0.0,18.4,2,0,0,1.7,1.7,0.09,-1.7,-1.7,16:00:00
+ENG-Premier League,1920,Leicester City,2020-07-26 Leicester City-Manchester Utd,2020-07-26,Matchweek 38,Sun,Home,L,0,2,Manchester Utd,0,14,3,21.4,0.0,0.0,17.2,1,0,0,0.8,0.8,0.06,-0.8,-0.8,16:00:00
+ENG-Premier League,1920,Liverpool,2019-08-09 Liverpool-Norwich City,2019-08-09,Matchweek 1,Fri,Home,W,4,1,Norwich City,3,15,7,46.7,0.2,0.43,17.1,1,0,0,1.8,1.8,0.12,1.2,1.2,20:00:00
+ENG-Premier League,1920,Liverpool,2019-08-17 Southampton-Liverpool,2019-08-17,Matchweek 2,Sat,Away,W,2,1,Southampton,2,15,6,40.0,0.13,0.33,18.6,1,0,0,1.3,1.3,0.09,0.7,0.7,15:00:00
+ENG-Premier League,1920,Liverpool,2019-08-24 Liverpool-Arsenal,2019-08-24,Matchweek 3,Sat,Home,W,3,1,Arsenal,3,24,4,16.7,0.08,0.5,18.8,0,1,1,2.5,1.7,0.07,0.5,0.3,17:30:00
+ENG-Premier League,1920,Liverpool,2019-08-31 Burnley-Liverpool,2019-08-31,Matchweek 4,Sat,Away,W,3,0,Burnley,2,15,7,46.7,0.13,0.29,21.0,0,0,0,1.0,1.0,0.07,1.0,1.0,17:30:00
+ENG-Premier League,1920,Liverpool,2019-09-14 Liverpool-Newcastle Utd,2019-09-14,Matchweek 5,Sat,Home,W,3,1,Newcastle Utd,3,21,8,38.1,0.14,0.38,13.6,0,0,0,3.0,3.0,0.14,0.0,0.0,12:30:00
+ENG-Premier League,1920,Liverpool,2019-09-22 Chelsea-Liverpool,2019-09-22,Matchweek 6,Sun,Away,W,2,1,Chelsea,2,6,3,50.0,0.33,0.67,13.9,0,0,0,0.6,0.6,0.09,1.4,1.4,16:30:00
+ENG-Premier League,1920,Liverpool,2019-09-28 Sheffield Utd-Liverpool,2019-09-28,Matchweek 7,Sat,Away,W,1,0,Sheffield Utd,1,16,4,25.0,0.06,0.25,19.2,1,0,0,1.9,1.9,0.12,-0.9,-0.9,12:30:00
+ENG-Premier League,1920,Liverpool,2019-10-05 Liverpool-Leicester City,2019-10-05,Matchweek 8,Sat,Home,W,2,1,Leicester City,2,17,7,41.2,0.06,0.14,15.0,1,1,1,3.5,2.8,0.17,-1.5,-1.8,15:00:00
+ENG-Premier League,1920,Liverpool,2019-10-20 Manchester Utd-Liverpool,2019-10-20,Matchweek 9,Sun,Away,D,1,1,Manchester Utd,1,10,4,40.0,0.1,0.25,19.0,0,0,0,1.2,1.2,0.12,-0.2,-0.2,16:30:00
+ENG-Premier League,1920,Liverpool,2019-10-27 Liverpool-Tottenham,2019-10-27,Matchweek 10,Sun,Home,W,2,1,Tottenham,2,20,12,60.0,0.05,0.08,16.4,1,1,1,2.6,1.8,0.09,-0.6,-0.8,16:30:00
+ENG-Premier League,1920,Liverpool,2019-11-02 Aston Villa-Liverpool,2019-11-02,Matchweek 11,Sat,Away,W,2,1,Aston Villa,2,25,6,24.0,0.08,0.33,14.6,1,0,0,2.4,2.4,0.1,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Liverpool,2019-11-10 Liverpool-Manchester City,2019-11-10,Matchweek 12,Sun,Home,W,3,1,Manchester City,3,12,5,41.7,0.25,0.6,15.9,0,0,0,1.1,1.1,0.09,1.9,1.9,16:30:00
+ENG-Premier League,1920,Liverpool,2019-11-23 Crystal Palace-Liverpool,2019-11-23,Matchweek 13,Sat,Away,W,2,1,Crystal Palace,2,12,4,33.3,0.17,0.5,13.6,0,0,0,1.4,1.4,0.13,0.6,0.6,15:00:00
+ENG-Premier League,1920,Liverpool,2019-11-30 Liverpool-Brighton,2019-11-30,Matchweek 14,Sat,Home,W,2,1,Brighton,2,15,7,46.7,0.13,0.29,15.2,0,0,0,1.3,1.3,0.09,0.7,0.7,15:00:00
+ENG-Premier League,1920,Liverpool,2019-12-04 Liverpool-Everton,2019-12-04,Matchweek 15,Wed,Home,W,5,2,Everton,5,11,5,45.5,0.45,1.0,15.0,0,0,0,2.0,2.0,0.19,3.0,3.0,20:15:00
+ENG-Premier League,1920,Liverpool,2019-12-07 Bournemouth-Liverpool,2019-12-07,Matchweek 16,Sat,Away,W,3,0,Bournemouth,3,21,9,42.9,0.14,0.33,15.9,1,0,0,2.4,2.4,0.12,0.6,0.6,15:00:00
+ENG-Premier League,1920,Liverpool,2019-12-14 Liverpool-Watford,2019-12-14,Matchweek 17,Sat,Home,W,2,0,Watford,2,16,6,37.5,0.13,0.33,16.4,0,0,0,1.4,1.4,0.09,0.6,0.6,12:30:00
+ENG-Premier League,1920,Liverpool,2019-12-26 Leicester City-Liverpool,2019-12-26,Matchweek 19,Thu,Away,W,4,0,Leicester City,4,14,5,35.7,0.21,0.6,14.4,0,1,1,3.2,2.5,0.18,0.8,0.5,20:00:00
+ENG-Premier League,1920,Liverpool,2019-12-29 Liverpool-Wolves,2019-12-29,Matchweek 20,Sun,Home,W,1,0,Wolves,1,10,3,30.0,0.1,0.33,14.4,0,0,0,1.2,1.2,0.12,-0.2,-0.2,16:30:00
+ENG-Premier League,1920,Liverpool,2020-01-02 Liverpool-Sheffield Utd,2020-01-02,Matchweek 21,Thu,Home,W,2,0,Sheffield Utd,2,19,7,36.8,0.11,0.29,15.1,0,0,0,2.8,2.8,0.17,-0.8,-0.8,20:00:00
+ENG-Premier League,1920,Liverpool,2020-01-11 Tottenham-Liverpool,2020-01-11,Matchweek 22,Sat,Away,W,1,0,Tottenham,1,13,6,46.2,0.08,0.17,13.8,0,0,0,1.2,1.2,0.09,-0.2,-0.2,17:30:00
+ENG-Premier League,1920,Liverpool,2020-01-19 Liverpool-Manchester Utd,2020-01-19,Matchweek 23,Sun,Home,W,2,0,Manchester Utd,2,16,5,31.3,0.13,0.4,15.5,0,0,0,1.9,1.9,0.12,0.1,0.1,16:30:00
+ENG-Premier League,1920,Liverpool,2020-01-23 Wolves-Liverpool,2020-01-23,Matchweek 24,Thu,Away,W,2,1,Wolves,2,13,6,46.2,0.15,0.33,14.7,1,0,0,1.1,1.1,0.09,0.9,0.9,20:00:00
+ENG-Premier League,1920,Liverpool,2020-01-29 West Ham-Liverpool,2020-01-29,Matchweek 18,Wed,Away,W,2,0,West Ham,2,12,4,33.3,0.08,0.25,20.2,1,1,1,2.8,2.0,0.17,-0.8,-1.0,19:45:00
+ENG-Premier League,1920,Liverpool,2020-02-01 Liverpool-Southampton,2020-02-01,Matchweek 25,Sat,Home,W,4,0,Southampton,4,16,9,56.3,0.25,0.44,15.0,1,0,0,3.2,3.2,0.2,0.8,0.8,15:00:00
+ENG-Premier League,1920,Liverpool,2020-02-15 Norwich City-Liverpool,2020-02-15,Matchweek 26,Sat,Away,W,1,0,Norwich City,1,17,6,35.3,0.06,0.17,16.5,0,0,0,2.0,2.0,0.12,-1.0,-1.0,17:30:00
+ENG-Premier League,1920,Liverpool,2020-02-24 Liverpool-West Ham,2020-02-24,Matchweek 27,Mon,Home,W,3,2,West Ham,3,25,7,28.0,0.12,0.43,16.2,1,0,0,2.4,2.4,0.1,0.6,0.6,20:00:00
+ENG-Premier League,1920,Liverpool,2020-02-29 Watford-Liverpool,2020-02-29,Matchweek 28,Sat,Away,L,0,3,Watford,0,7,1,14.3,0.0,0.0,22.6,1,0,0,0.3,0.3,0.04,-0.3,-0.3,17:30:00
+ENG-Premier League,1920,Liverpool,2020-03-07 Liverpool-Bournemouth,2020-03-07,Matchweek 29,Sat,Home,W,2,1,Bournemouth,2,14,6,42.9,0.14,0.33,19.7,0,0,0,1.8,1.8,0.13,0.2,0.2,12:30:00
+ENG-Premier League,1920,Liverpool,2020-06-21 Everton-Liverpool,2020-06-21,Matchweek 30,Sun,Away,D,0,0,Everton,0,10,3,30.0,0.0,0.0,18.5,3,0,0,0.7,0.7,0.07,-0.7,-0.7,19:00:00
+ENG-Premier League,1920,Liverpool,2020-06-24 Liverpool-Crystal Palace,2020-06-24,Matchweek 31,Wed,Home,W,4,0,Crystal Palace,4,21,7,33.3,0.19,0.57,17.8,2,0,0,2.4,2.4,0.12,1.6,1.6,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-02 Manchester City-Liverpool,2020-07-02,Matchweek 32,Thu,Away,L,0,4,Manchester City,0,11,3,27.3,0.0,0.0,16.3,1,0,0,1.1,1.1,0.1,-1.1,-1.1,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-05 Liverpool-Aston Villa,2020-07-05,Matchweek 33,Sun,Home,W,2,0,Aston Villa,2,6,4,66.7,0.33,0.5,18.1,0,0,0,0.7,0.7,0.12,1.3,1.3,16:30:00
+ENG-Premier League,1920,Liverpool,2020-07-08 Brighton-Liverpool,2020-07-08,Matchweek 34,Wed,Away,W,3,1,Brighton,3,20,8,40.0,0.15,0.38,14.2,0,0,0,2.5,2.5,0.12,0.5,0.5,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-11 Liverpool-Burnley,2020-07-11,Matchweek 35,Sat,Home,D,1,1,Burnley,1,23,9,39.1,0.04,0.11,18.3,1,0,0,1.7,1.7,0.07,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Liverpool,2020-07-15 Arsenal-Liverpool,2020-07-15,Matchweek 36,Wed,Away,L,1,2,Arsenal,1,24,8,33.3,0.04,0.13,16.7,0,0,0,2.1,2.1,0.09,-1.1,-1.1,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-22 Liverpool-Chelsea,2020-07-22,Matchweek 37,Wed,Home,W,5,3,Chelsea,5,10,7,70.0,0.5,0.71,14.4,1,0,0,1.7,1.7,0.17,3.3,3.3,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-26 Newcastle Utd-Liverpool,2020-07-26,Matchweek 38,Sun,Away,W,3,1,Newcastle Utd,3,14,6,42.9,0.21,0.5,20.0,0,0,0,0.6,0.6,0.05,2.4,2.4,16:00:00
+ENG-Premier League,1920,Manchester City,2019-08-10 West Ham-Manchester City,2019-08-10,Matchweek 1,Sat,Away,W,5,0,West Ham,5,13,8,61.5,0.31,0.5,16.7,0,1,1,3.2,2.4,0.19,1.8,1.6,12:30:00
+ENG-Premier League,1920,Manchester City,2019-08-17 Manchester City-Tottenham,2019-08-17,Matchweek 2,Sat,Home,D,2,2,Tottenham,2,30,10,33.3,0.07,0.2,15.4,0,0,0,2.9,2.9,0.1,-0.9,-0.9,17:30:00
+ENG-Premier League,1920,Manchester City,2019-08-25 Bournemouth-Manchester City,2019-08-25,Matchweek 3,Sun,Away,W,3,1,Bournemouth,3,18,5,27.8,0.17,0.6,14.8,0,0,0,3.0,3.0,0.17,0.0,0.0,14:00:00
+ENG-Premier League,1920,Manchester City,2019-08-31 Manchester City-Brighton,2019-08-31,Matchweek 4,Sat,Home,W,4,0,Brighton,4,15,6,40.0,0.27,0.67,15.4,1,0,0,1.9,1.9,0.13,2.1,2.1,15:00:00
+ENG-Premier League,1920,Manchester City,2019-09-14 Norwich City-Manchester City,2019-09-14,Matchweek 5,Sat,Away,L,2,3,Norwich City,2,25,8,32.0,0.08,0.25,15.1,0,0,0,2.3,2.3,0.09,-0.3,-0.3,17:30:00
+ENG-Premier League,1920,Manchester City,2019-09-21 Manchester City-Watford,2019-09-21,Matchweek 6,Sat,Home,W,8,0,Watford,8,27,10,37.0,0.26,0.7,14.9,2,1,1,5.9,5.1,0.19,2.1,1.9,15:00:00
+ENG-Premier League,1920,Manchester City,2019-09-28 Everton-Manchester City,2019-09-28,Matchweek 7,Sat,Away,W,3,1,Everton,3,19,8,42.1,0.16,0.38,14.7,1,0,0,2.8,2.8,0.15,0.2,0.2,17:30:00
+ENG-Premier League,1920,Manchester City,2019-10-06 Manchester City-Wolves,2019-10-06,Matchweek 8,Sun,Home,L,0,2,Wolves,0,18,2,11.1,0.0,0.0,18.7,2,0,0,1.4,1.4,0.08,-1.4,-1.4,14:00:00
+ENG-Premier League,1920,Manchester City,2019-10-19 Crystal Palace-Manchester City,2019-10-19,Matchweek 9,Sat,Away,W,2,0,Crystal Palace,2,21,10,47.6,0.1,0.2,13.4,0,0,0,3.5,3.5,0.17,-1.5,-1.5,17:30:00
+ENG-Premier League,1920,Manchester City,2019-10-26 Manchester City-Aston Villa,2019-10-26,Matchweek 10,Sat,Home,W,3,0,Aston Villa,3,26,9,34.6,0.12,0.33,15.1,0,0,0,2.9,2.9,0.11,0.1,0.1,12:30:00
+ENG-Premier League,1920,Manchester City,2019-11-02 Manchester City-Southampton,2019-11-02,Matchweek 11,Sat,Home,W,2,1,Southampton,2,26,4,15.4,0.08,0.5,15.6,1,0,0,2.9,2.9,0.11,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Manchester City,2019-11-10 Liverpool-Manchester City,2019-11-10,Matchweek 12,Sun,Away,L,1,3,Liverpool,1,18,3,16.7,0.06,0.33,17.3,0,0,0,1.3,1.3,0.07,-0.3,-0.3,16:30:00
+ENG-Premier League,1920,Manchester City,2019-11-23 Manchester City-Chelsea,2019-11-23,Matchweek 13,Sat,Home,W,2,1,Chelsea,2,15,4,26.7,0.13,0.5,17.9,0,0,0,1.0,1.0,0.07,1.0,1.0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-11-30 Newcastle Utd-Manchester City,2019-11-30,Matchweek 14,Sat,Away,D,2,2,Newcastle Utd,2,24,9,37.5,0.08,0.22,16.6,0,0,0,2.4,2.4,0.1,-0.4,-0.4,12:30:00
+ENG-Premier League,1920,Manchester City,2019-12-03 Burnley-Manchester City,2019-12-03,Matchweek 15,Tue,Away,W,4,1,Burnley,4,17,8,47.1,0.24,0.5,17.9,0,0,0,2.2,2.2,0.13,1.8,1.8,20:15:00
+ENG-Premier League,1920,Manchester City,2019-12-07 Manchester City-Manchester Utd,2019-12-07,Matchweek 16,Sat,Home,L,1,2,Manchester Utd,1,23,5,21.7,0.04,0.2,14.7,2,0,0,2.2,2.2,0.1,-1.2,-1.2,17:30:00
+ENG-Premier League,1920,Manchester City,2019-12-15 Arsenal-Manchester City,2019-12-15,Matchweek 17,Sun,Away,W,3,0,Arsenal,3,14,7,50.0,0.21,0.43,18.9,0,0,0,1.3,1.3,0.09,1.7,1.7,16:30:00
+ENG-Premier League,1920,Manchester City,2019-12-21 Manchester City-Leicester City,2019-12-21,Matchweek 18,Sat,Home,W,3,1,Leicester City,3,22,11,50.0,0.09,0.18,15.7,1,1,1,3.3,2.5,0.12,-0.3,-0.5,17:30:00
+ENG-Premier League,1920,Manchester City,2019-12-27 Wolves-Manchester City,2019-12-27,Matchweek 19,Fri,Away,L,2,3,Wolves,2,6,2,33.3,0.33,1.0,19.0,1,0,1,1.5,0.6,0.1,0.5,1.4,19:45:00
+ENG-Premier League,1920,Manchester City,2019-12-29 Manchester City-Sheffield Utd,2019-12-29,Matchweek 20,Sun,Home,W,2,0,Sheffield Utd,2,16,4,25.0,0.13,0.5,23.1,2,0,0,1.1,1.1,0.07,0.9,0.9,18:00:00
+ENG-Premier League,1920,Manchester City,2020-01-01 Manchester City-Everton,2020-01-01,Matchweek 21,Wed,Home,W,2,1,Everton,2,16,7,43.8,0.13,0.29,16.0,0,0,0,1.5,1.5,0.09,0.5,0.5,17:30:00
+ENG-Premier League,1920,Manchester City,2020-01-12 Aston Villa-Manchester City,2020-01-12,Matchweek 22,Sun,Away,W,6,1,Aston Villa,6,22,11,50.0,0.27,0.55,16.1,1,0,0,2.8,2.8,0.13,3.2,3.2,16:30:00
+ENG-Premier League,1920,Manchester City,2020-01-18 Manchester City-Crystal Palace,2020-01-18,Matchweek 23,Sat,Home,D,2,2,Crystal Palace,2,25,6,24.0,0.08,0.33,16.7,1,0,0,2.6,2.6,0.11,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Manchester City,2020-01-21 Sheffield Utd-Manchester City,2020-01-21,Matchweek 24,Tue,Away,W,1,0,Sheffield Utd,1,17,4,23.5,0.06,0.25,17.3,1,0,1,2.8,2.0,0.12,-1.8,-1.0,19:30:00
+ENG-Premier League,1920,Manchester City,2020-02-02 Tottenham-Manchester City,2020-02-02,Matchweek 25,Sun,Away,L,0,2,Tottenham,0,18,4,22.2,0.0,0.0,15.2,0,0,1,2.4,1.9,0.12,-2.4,-1.9,16:30:00
+ENG-Premier League,1920,Manchester City,2020-02-19 Manchester City-West Ham,2020-02-19,Matchweek 26,Wed,Home,W,2,0,West Ham,2,20,7,35.0,0.1,0.29,15.0,0,0,0,2.1,2.1,0.11,-0.1,-0.1,19:30:00
+ENG-Premier League,1920,Manchester City,2020-02-22 Leicester City-Manchester City,2020-02-22,Matchweek 27,Sat,Away,W,1,0,Leicester City,1,17,6,35.3,0.06,0.17,21.1,2,0,1,2.4,1.7,0.1,-1.4,-0.7,17:30:00
+ENG-Premier League,1920,Manchester City,2020-03-08 Manchester Utd-Manchester City,2020-03-08,Matchweek 29,Sun,Away,L,0,2,Manchester Utd,0,7,4,57.1,0.0,0.0,16.9,0,0,0,0.6,0.6,0.09,-0.6,-0.6,16:30:00
+ENG-Premier League,1920,Manchester City,2020-06-17 Manchester City-Arsenal,2020-06-17,Matchweek 28,Wed,Home,W,3,0,Arsenal,3,19,11,57.9,0.11,0.18,18.3,2,1,1,2.6,1.9,0.11,0.4,0.1,20:15:00
+ENG-Premier League,1920,Manchester City,2020-06-22 Manchester City-Burnley,2020-06-22,Matchweek 30,Mon,Home,W,5,0,Burnley,5,18,6,33.3,0.22,0.67,19.6,1,1,1,2.4,1.6,0.09,2.6,2.4,20:00:00
+ENG-Premier League,1920,Manchester City,2020-06-25 Chelsea-Manchester City,2020-06-25,Matchweek 31,Thu,Away,L,1,2,Chelsea,1,11,2,18.2,0.09,0.5,21.4,1,0,0,0.8,0.8,0.07,0.2,0.2,20:15:00
+ENG-Premier League,1920,Manchester City,2020-07-02 Manchester City-Liverpool,2020-07-02,Matchweek 32,Thu,Home,W,4,0,Liverpool,3,13,4,30.8,0.15,0.5,17.5,0,1,1,2.4,1.6,0.13,0.6,0.4,20:15:00
+ENG-Premier League,1920,Manchester City,2020-07-05 Southampton-Manchester City,2020-07-05,Matchweek 33,Sun,Away,L,0,1,Southampton,0,26,6,23.1,0.0,0.0,15.4,1,0,0,3.2,3.2,0.13,-3.2,-3.2,19:00:00
+ENG-Premier League,1920,Manchester City,2020-07-08 Manchester City-Newcastle Utd,2020-07-08,Matchweek 34,Wed,Home,W,5,0,Newcastle Utd,4,23,9,39.1,0.17,0.44,15.9,1,0,0,2.8,2.8,0.12,1.2,1.2,18:00:00
+ENG-Premier League,1920,Manchester City,2020-07-11 Brighton-Manchester City,2020-07-11,Matchweek 35,Sat,Away,W,5,0,Brighton,5,26,8,30.8,0.19,0.63,13.6,1,0,0,4.4,4.4,0.18,0.6,0.6,20:00:00
+ENG-Premier League,1920,Manchester City,2020-07-15 Manchester City-Bournemouth,2020-07-15,Matchweek 36,Wed,Home,W,2,1,Bournemouth,2,8,4,50.0,0.25,0.5,15.8,1,0,0,0.7,0.7,0.08,1.3,1.3,18:00:00
+ENG-Premier League,1920,Manchester City,2020-07-21 Watford-Manchester City,2020-07-21,Matchweek 37,Tue,Away,W,4,0,Watford,4,25,9,36.0,0.16,0.44,17.4,1,0,1,3.3,2.4,0.1,0.7,1.6,18:00:00
+ENG-Premier League,1920,Manchester City,2020-07-26 Manchester City-Norwich City,2020-07-26,Matchweek 38,Sun,Home,W,5,0,Norwich City,5,31,9,29.0,0.16,0.56,15.3,0,0,0,3.2,3.2,0.11,1.8,1.8,16:00:00
+ENG-Premier League,1920,Manchester Utd,2019-08-11 Manchester Utd-Chelsea,2019-08-11,Matchweek 1,Sun,Home,W,4,0,Chelsea,4,10,4,40.0,0.3,0.75,17.6,0,1,1,2.2,1.4,0.14,1.8,1.6,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-08-19 Wolves-Manchester Utd,2019-08-19,Matchweek 2,Mon,Away,D,1,1,Wolves,1,8,1,12.5,0.13,1.0,20.9,1,0,1,1.2,0.4,0.05,-0.2,0.6,20:00:00
+ENG-Premier League,1920,Manchester Utd,2019-08-24 Manchester Utd-Crystal Palace,2019-08-24,Matchweek 3,Sat,Home,L,1,2,Crystal Palace,1,21,3,14.3,0.05,0.33,17.0,3,0,1,2.5,1.7,0.08,-1.5,-0.7,15:00:00
+ENG-Premier League,1920,Manchester Utd,2019-08-31 Southampton-Manchester Utd,2019-08-31,Matchweek 4,Sat,Away,D,1,1,Southampton,1,21,8,38.1,0.05,0.13,17.6,0,0,0,1.5,1.5,0.07,-0.5,-0.5,12:30:00
+ENG-Premier League,1920,Manchester Utd,2019-09-14 Manchester Utd-Leicester City,2019-09-14,Matchweek 5,Sat,Home,W,1,0,Leicester City,1,9,4,44.4,0.0,0.0,23.8,2,1,1,1.2,0.4,0.04,-0.2,-0.4,15:00:00
+ENG-Premier League,1920,Manchester Utd,2019-09-22 West Ham-Manchester Utd,2019-09-22,Matchweek 6,Sun,Away,L,0,2,West Ham,0,9,3,33.3,0.0,0.0,19.3,0,0,0,0.9,0.9,0.1,-0.9,-0.9,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-09-30 Manchester Utd-Arsenal,2019-09-30,Matchweek 7,Mon,Home,D,1,1,Arsenal,1,16,4,25.0,0.06,0.25,22.3,1,0,0,0.9,0.9,0.05,0.1,0.1,20:00:00
+ENG-Premier League,1920,Manchester Utd,2019-10-06 Newcastle Utd-Manchester Utd,2019-10-06,Matchweek 8,Sun,Away,L,0,1,Newcastle Utd,0,12,3,25.0,0.0,0.0,17.9,1,0,0,0.9,0.9,0.07,-0.9,-0.9,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-10-20 Manchester Utd-Liverpool,2019-10-20,Matchweek 9,Sun,Home,D,1,1,Liverpool,1,7,2,28.6,0.14,0.5,21.6,0,0,0,0.7,0.7,0.1,0.3,0.3,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-10-27 Norwich City-Manchester Utd,2019-10-27,Matchweek 10,Sun,Away,W,3,1,Norwich City,3,19,9,47.4,0.16,0.33,19.1,1,0,2,4.2,2.6,0.14,-1.2,0.4,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-11-02 Bournemouth-Manchester Utd,2019-11-02,Matchweek 11,Sat,Away,L,0,1,Bournemouth,0,15,4,26.7,0.0,0.0,22.2,0,0,0,0.8,0.8,0.05,-0.8,-0.8,12:30:00
+ENG-Premier League,1920,Manchester Utd,2019-11-10 Manchester Utd-Brighton,2019-11-10,Matchweek 12,Sun,Home,W,3,1,Brighton,3,21,11,52.4,0.14,0.27,17.5,2,0,0,3.6,3.6,0.17,-0.6,-0.6,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-11-24 Sheffield Utd-Manchester Utd,2019-11-24,Matchweek 13,Sun,Away,D,3,3,Sheffield Utd,3,11,5,45.5,0.27,0.6,19.7,0,0,0,1.3,1.3,0.12,1.7,1.7,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-01 Manchester Utd-Aston Villa,2019-12-01,Matchweek 14,Sun,Home,D,2,2,Aston Villa,1,16,6,37.5,0.06,0.17,14.9,0,0,0,1.7,1.7,0.11,-0.7,-0.7,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-04 Manchester Utd-Tottenham,2019-12-04,Matchweek 15,Wed,Home,W,2,1,Tottenham,2,11,6,54.5,0.09,0.17,21.9,1,1,1,1.4,0.6,0.05,0.6,0.4,19:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-07 Manchester City-Manchester Utd,2019-12-07,Matchweek 16,Sat,Away,W,2,1,Manchester City,2,10,6,60.0,0.1,0.17,16.9,0,1,1,1.4,0.6,0.06,0.6,0.4,17:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-15 Manchester Utd-Everton,2019-12-15,Matchweek 17,Sun,Home,D,1,1,Everton,1,24,8,33.3,0.04,0.13,20.8,2,0,0,1.4,1.4,0.06,-0.4,-0.4,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-12-22 Watford-Manchester Utd,2019-12-22,Matchweek 18,Sun,Away,L,0,2,Watford,0,17,8,47.1,0.0,0.0,18.9,2,0,0,1.8,1.8,0.11,-1.8,-1.8,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-12-26 Manchester Utd-Newcastle Utd,2019-12-26,Matchweek 19,Thu,Home,W,4,1,Newcastle Utd,4,22,10,45.5,0.18,0.4,21.0,2,0,0,1.9,1.9,0.09,2.1,2.1,17:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-28 Burnley-Manchester Utd,2019-12-28,Matchweek 20,Sat,Away,W,2,0,Burnley,2,14,4,28.6,0.14,0.5,20.7,3,0,0,2.2,2.2,0.16,-0.2,-0.2,19:45:00
+ENG-Premier League,1920,Manchester Utd,2020-01-01 Arsenal-Manchester Utd,2020-01-01,Matchweek 21,Wed,Away,L,0,2,Arsenal,0,10,4,40.0,0.0,0.0,20.8,1,0,0,0.7,0.7,0.07,-0.7,-0.7,20:00:00
+ENG-Premier League,1920,Manchester Utd,2020-01-11 Manchester Utd-Norwich City,2020-01-11,Matchweek 22,Sat,Home,W,4,0,Norwich City,4,12,5,41.7,0.25,0.6,16.2,0,1,1,2.9,2.1,0.17,1.1,0.9,15:00:00
+ENG-Premier League,1920,Manchester Utd,2020-01-19 Liverpool-Manchester Utd,2020-01-19,Matchweek 23,Sun,Away,L,0,2,Liverpool,0,9,4,44.4,0.0,0.0,20.0,0,0,0,1.3,1.3,0.14,-1.3,-1.3,16:30:00
+ENG-Premier League,1920,Manchester Utd,2020-01-22 Manchester Utd-Burnley,2020-01-22,Matchweek 24,Wed,Home,L,0,2,Burnley,0,24,7,29.2,0.0,0.0,19.7,1,0,0,1.4,1.4,0.06,-1.4,-1.4,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-02-01 Manchester Utd-Wolves,2020-02-01,Matchweek 25,Sat,Home,D,0,0,Wolves,0,16,5,31.3,0.0,0.0,20.9,1,0,0,1.0,1.0,0.06,-1.0,-1.0,17:30:00
+ENG-Premier League,1920,Manchester Utd,2020-02-17 Chelsea-Manchester Utd,2020-02-17,Matchweek 26,Mon,Away,W,2,0,Chelsea,2,9,3,33.3,0.22,0.67,17.9,1,0,0,0.6,0.6,0.07,1.4,1.4,20:00:00
+ENG-Premier League,1920,Manchester Utd,2020-02-23 Manchester Utd-Watford,2020-02-23,Matchweek 27,Sun,Home,W,3,0,Watford,3,20,7,35.0,0.1,0.29,18.0,0,1,1,2.4,1.6,0.08,0.6,0.4,14:00:00
+ENG-Premier League,1920,Manchester Utd,2020-03-01 Everton-Manchester Utd,2020-03-01,Matchweek 28,Sun,Away,D,1,1,Everton,1,14,5,35.7,0.07,0.2,19.8,0,0,0,1.1,1.1,0.08,-0.1,-0.1,14:00:00
+ENG-Premier League,1920,Manchester Utd,2020-03-08 Manchester Utd-Manchester City,2020-03-08,Matchweek 29,Sun,Home,W,2,0,Manchester City,2,12,6,50.0,0.17,0.33,18.3,1,0,0,1.6,1.6,0.13,0.4,0.4,16:30:00
+ENG-Premier League,1920,Manchester Utd,2020-06-19 Tottenham-Manchester Utd,2020-06-19,Matchweek 30,Fri,Away,D,1,1,Tottenham,1,11,5,45.5,0.0,0.0,21.2,0,1,1,1.7,0.9,0.08,-0.7,-0.9,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-06-24 Manchester Utd-Sheffield Utd,2020-06-24,Matchweek 31,Wed,Home,W,3,0,Sheffield Utd,3,15,6,40.0,0.2,0.5,15.7,1,0,0,2.4,2.4,0.16,0.6,0.6,18:00:00
+ENG-Premier League,1920,Manchester Utd,2020-06-30 Brighton-Manchester Utd,2020-06-30,Matchweek 32,Tue,Away,W,3,0,Brighton,3,12,6,50.0,0.25,0.5,17.3,1,0,0,1.0,1.0,0.08,2.0,2.0,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-07-04 Manchester Utd-Bournemouth,2020-07-04,Matchweek 33,Sat,Home,W,5,2,Bournemouth,5,18,9,50.0,0.22,0.44,19.9,3,1,1,2.5,1.7,0.1,2.5,2.3,15:00:00
+ENG-Premier League,1920,Manchester Utd,2020-07-09 Aston Villa-Manchester Utd,2020-07-09,Matchweek 34,Thu,Away,W,3,0,Aston Villa,3,13,5,38.5,0.15,0.4,17.9,1,1,1,2.3,1.5,0.12,0.7,0.5,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-07-13 Manchester Utd-Southampton,2020-07-13,Matchweek 35,Mon,Home,D,2,2,Southampton,2,8,4,50.0,0.25,0.5,19.3,0,0,0,1.5,1.5,0.19,0.5,0.5,20:00:00
+ENG-Premier League,1920,Manchester Utd,2020-07-16 Crystal Palace-Manchester Utd,2020-07-16,Matchweek 36,Thu,Away,W,2,0,Crystal Palace,2,17,5,29.4,0.12,0.4,18.0,1,0,0,2.2,2.2,0.13,-0.2,-0.2,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-07-22 Manchester Utd-West Ham,2020-07-22,Matchweek 37,Wed,Home,D,1,1,West Ham,1,11,4,36.4,0.09,0.25,19.9,0,0,0,0.6,0.6,0.06,0.4,0.4,18:00:00
+ENG-Premier League,1920,Manchester Utd,2020-07-26 Leicester City-Manchester Utd,2020-07-26,Matchweek 38,Sun,Away,W,2,0,Leicester City,2,6,2,33.3,0.17,0.5,16.8,0,1,1,1.3,0.5,0.09,0.7,0.5,16:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-11 Newcastle Utd-Arsenal,2019-08-11,Matchweek 1,Sun,Home,L,0,1,Arsenal,0,9,2,22.2,0.0,0.0,21.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-17 Norwich City-Newcastle Utd,2019-08-17,Matchweek 2,Sat,Away,L,1,3,Norwich City,1,12,4,33.3,0.08,0.25,15.4,0,0,0,0.9,0.9,0.08,0.1,0.1,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-25 Tottenham-Newcastle Utd,2019-08-25,Matchweek 3,Sun,Away,W,1,0,Tottenham,1,8,3,37.5,0.13,0.33,15.0,0,0,0,0.8,0.8,0.1,0.2,0.2,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-31 Newcastle Utd-Watford,2019-08-31,Matchweek 4,Sat,Home,D,1,1,Watford,1,13,5,38.5,0.08,0.2,20.2,1,0,0,1.0,1.0,0.08,0.0,0.0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-09-14 Liverpool-Newcastle Utd,2019-09-14,Matchweek 5,Sat,Away,L,1,3,Liverpool,1,8,1,12.5,0.13,1.0,23.0,0,0,0,0.3,0.3,0.04,0.7,0.7,12:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-09-21 Newcastle Utd-Brighton,2019-09-21,Matchweek 6,Sat,Home,D,0,0,Brighton,0,11,4,36.4,0.0,0.0,17.9,0,0,0,0.9,0.9,0.08,-0.9,-0.9,17:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-09-29 Leicester City-Newcastle Utd,2019-09-29,Matchweek 7,Sun,Away,L,0,5,Leicester City,0,3,0,0.0,0.0,,31.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-10-06 Newcastle Utd-Manchester Utd,2019-10-06,Matchweek 8,Sun,Home,W,1,0,Manchester Utd,1,12,2,16.7,0.08,0.5,22.2,1,0,0,0.8,0.8,0.06,0.2,0.2,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-10-19 Chelsea-Newcastle Utd,2019-10-19,Matchweek 9,Sat,Away,L,0,1,Chelsea,0,5,0,0.0,0.0,,18.1,0,0,0,0.4,0.4,0.08,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-10-27 Newcastle Utd-Wolves,2019-10-27,Matchweek 10,Sun,Home,D,1,1,Wolves,1,13,2,15.4,0.08,0.5,17.0,0,0,0,1.0,1.0,0.08,0.0,0.0,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-02 West Ham-Newcastle Utd,2019-11-02,Matchweek 11,Sat,Away,W,3,2,West Ham,3,12,9,75.0,0.25,0.33,18.6,1,0,0,1.5,1.5,0.13,1.5,1.5,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-09 Newcastle Utd-Bournemouth,2019-11-09,Matchweek 12,Sat,Home,W,2,1,Bournemouth,2,21,9,42.9,0.1,0.22,19.4,0,0,0,2.4,2.4,0.12,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-25 Aston Villa-Newcastle Utd,2019-11-25,Matchweek 13,Mon,Away,L,0,2,Aston Villa,0,11,5,45.5,0.0,0.0,19.9,1,0,0,0.6,0.6,0.06,-0.6,-0.6,20:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-30 Newcastle Utd-Manchester City,2019-11-30,Matchweek 14,Sat,Home,D,2,2,Manchester City,2,6,3,50.0,0.33,0.67,26.2,2,0,0,0.3,0.3,0.04,1.7,1.7,12:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-05 Sheffield Utd-Newcastle Utd,2019-12-05,Matchweek 15,Thu,Away,W,2,0,Sheffield Utd,2,6,4,66.7,0.33,0.5,21.2,1,0,0,0.5,0.5,0.09,1.5,1.5,19:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-08 Newcastle Utd-Southampton,2019-12-08,Matchweek 16,Sun,Home,W,2,1,Southampton,2,12,6,50.0,0.17,0.33,17.0,0,0,0,0.9,0.9,0.08,1.1,1.1,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-14 Burnley-Newcastle Utd,2019-12-14,Matchweek 17,Sat,Away,L,0,1,Burnley,0,9,0,0.0,0.0,,19.2,0,0,0,1.0,1.0,0.11,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-21 Newcastle Utd-Crystal Palace,2019-12-21,Matchweek 18,Sat,Home,W,1,0,Crystal Palace,1,8,3,37.5,0.13,0.33,23.6,0,0,0,0.5,0.5,0.06,0.5,0.5,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-26 Manchester Utd-Newcastle Utd,2019-12-26,Matchweek 19,Thu,Away,L,1,4,Manchester Utd,1,7,2,28.6,0.14,0.5,18.9,0,0,0,0.8,0.8,0.12,0.2,0.2,17:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-28 Newcastle Utd-Everton,2019-12-28,Matchweek 20,Sat,Home,L,1,2,Everton,1,20,5,25.0,0.05,0.2,16.5,0,0,0,1.8,1.8,0.09,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-01 Newcastle Utd-Leicester City,2020-01-01,Matchweek 21,Wed,Home,L,0,3,Leicester City,0,5,2,40.0,0.0,0.0,21.1,0,0,0,0.7,0.7,0.15,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-11 Wolves-Newcastle Utd,2020-01-11,Matchweek 22,Sat,Away,D,1,1,Wolves,1,5,1,20.0,0.2,1.0,25.1,0,0,0,0.2,0.2,0.04,0.8,0.8,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-18 Newcastle Utd-Chelsea,2020-01-18,Matchweek 23,Sat,Home,W,1,0,Chelsea,1,7,2,28.6,0.14,0.5,17.3,0,0,0,0.6,0.6,0.08,0.4,0.4,17:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-21 Everton-Newcastle Utd,2020-01-21,Matchweek 24,Tue,Away,D,2,2,Everton,2,9,3,33.3,0.22,0.67,13.4,0,0,0,1.3,1.3,0.17,0.7,0.7,19:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-01 Newcastle Utd-Norwich City,2020-02-01,Matchweek 25,Sat,Home,D,0,0,Norwich City,0,15,5,33.3,0.0,0.0,18.3,2,0,0,1.0,1.0,0.07,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-16 Arsenal-Newcastle Utd,2020-02-16,Matchweek 26,Sun,Away,L,0,4,Arsenal,0,10,2,20.0,0.0,0.0,19.5,1,0,0,0.9,0.9,0.09,-0.9,-0.9,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-22 Crystal Palace-Newcastle Utd,2020-02-22,Matchweek 27,Sat,Away,L,0,1,Crystal Palace,0,8,2,25.0,0.0,0.0,24.5,0,0,0,0.2,0.2,0.03,-0.2,-0.2,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-29 Newcastle Utd-Burnley,2020-02-29,Matchweek 28,Sat,Home,D,0,0,Burnley,0,21,4,19.0,0.0,0.0,19.2,1,0,0,1.1,1.1,0.05,-1.1,-1.1,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-03-07 Southampton-Newcastle Utd,2020-03-07,Matchweek 29,Sat,Away,W,1,0,Southampton,1,13,6,46.2,0.08,0.17,14.5,0,0,1,2.8,2.0,0.2,-1.8,-1.0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-06-21 Newcastle Utd-Sheffield Utd,2020-06-21,Matchweek 30,Sun,Home,W,3,0,Sheffield Utd,3,12,8,66.7,0.25,0.38,19.1,1,0,0,2.0,2.0,0.17,1.0,1.0,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-06-24 Newcastle Utd-Aston Villa,2020-06-24,Matchweek 31,Wed,Home,D,1,1,Aston Villa,1,13,3,23.1,0.08,0.33,20.9,0,0,0,0.9,0.9,0.07,0.1,0.1,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-01 Bournemouth-Newcastle Utd,2020-07-01,Matchweek 32,Wed,Away,W,4,1,Bournemouth,4,12,7,58.3,0.33,0.57,18.4,0,0,0,1.8,1.8,0.15,2.2,2.2,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-05 Newcastle Utd-West Ham,2020-07-05,Matchweek 33,Sun,Home,D,2,2,West Ham,2,11,4,36.4,0.18,0.5,21.5,1,0,0,1.4,1.4,0.13,0.6,0.6,14:15:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-08 Manchester City-Newcastle Utd,2020-07-08,Matchweek 34,Wed,Away,L,0,5,Manchester City,0,6,1,16.7,0.0,0.0,20.8,0,0,0,0.3,0.3,0.05,-0.3,-0.3,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-11 Watford-Newcastle Utd,2020-07-11,Matchweek 35,Sat,Away,L,1,2,Watford,1,8,4,50.0,0.13,0.25,15.2,0,0,0,1.3,1.3,0.16,-0.3,-0.3,12:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-15 Newcastle Utd-Tottenham,2020-07-15,Matchweek 36,Wed,Home,L,1,3,Tottenham,1,22,6,27.3,0.05,0.17,20.7,1,0,0,1.1,1.1,0.05,-0.1,-0.1,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-20 Brighton-Newcastle Utd,2020-07-20,Matchweek 37,Mon,Away,D,0,0,Brighton,0,12,1,8.3,0.0,0.0,14.5,0,0,0,0.9,0.9,0.08,-0.9,-0.9,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-26 Newcastle Utd-Liverpool,2020-07-26,Matchweek 38,Sun,Home,L,1,3,Liverpool,1,3,2,66.7,0.33,0.5,21.2,0,0,0,0.1,0.1,0.04,0.9,0.9,16:00:00
+ENG-Premier League,1920,Norwich City,2019-08-09 Liverpool-Norwich City,2019-08-09,Matchweek 1,Fri,Away,L,1,4,Liverpool,1,12,5,41.7,0.08,0.2,17.3,1,0,0,0.9,0.9,0.08,0.1,0.1,20:00:00
+ENG-Premier League,1920,Norwich City,2019-08-17 Norwich City-Newcastle Utd,2019-08-17,Matchweek 2,Sat,Home,W,3,1,Newcastle Utd,3,15,8,53.3,0.2,0.38,14.4,0,0,0,1.7,1.7,0.11,1.3,1.3,15:00:00
+ENG-Premier League,1920,Norwich City,2019-08-24 Norwich City-Chelsea,2019-08-24,Matchweek 3,Sat,Home,L,2,3,Chelsea,2,6,5,83.3,0.33,0.4,12.8,0,0,0,1.1,1.1,0.18,0.9,0.9,12:30:00
+ENG-Premier League,1920,Norwich City,2019-08-31 West Ham-Norwich City,2019-08-31,Matchweek 4,Sat,Away,L,0,2,West Ham,0,8,3,37.5,0.0,0.0,14.3,0,0,0,1.4,1.4,0.17,-1.4,-1.4,15:00:00
+ENG-Premier League,1920,Norwich City,2019-09-14 Norwich City-Manchester City,2019-09-14,Matchweek 5,Sat,Home,W,3,2,Manchester City,3,7,3,42.9,0.43,1.0,13.1,1,0,0,1.5,1.5,0.21,1.5,1.5,17:30:00
+ENG-Premier League,1920,Norwich City,2019-09-21 Burnley-Norwich City,2019-09-21,Matchweek 6,Sat,Away,L,0,2,Burnley,0,11,2,18.2,0.0,0.0,18.7,0,0,0,0.8,0.8,0.08,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Norwich City,2019-09-28 Crystal Palace-Norwich City,2019-09-28,Matchweek 7,Sat,Away,L,0,2,Crystal Palace,0,10,3,30.0,0.0,0.0,17.8,0,0,0,0.7,0.7,0.07,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Norwich City,2019-10-05 Norwich City-Aston Villa,2019-10-05,Matchweek 8,Sat,Home,L,1,5,Aston Villa,1,21,5,23.8,0.05,0.2,16.8,0,0,0,2.6,2.6,0.13,-1.6,-1.6,15:00:00
+ENG-Premier League,1920,Norwich City,2019-10-19 Bournemouth-Norwich City,2019-10-19,Matchweek 9,Sat,Away,D,0,0,Bournemouth,0,10,1,10.0,0.0,0.0,22.0,0,0,0,0.4,0.4,0.04,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Norwich City,2019-10-27 Norwich City-Manchester Utd,2019-10-27,Matchweek 10,Sun,Home,L,1,3,Manchester Utd,1,10,3,30.0,0.1,0.33,17.3,0,0,0,1.0,1.0,0.1,0.0,0.0,16:30:00
+ENG-Premier League,1920,Norwich City,2019-11-02 Brighton-Norwich City,2019-11-02,Matchweek 11,Sat,Away,L,0,2,Brighton,0,7,0,0.0,0.0,,16.0,1,0,0,0.4,0.4,0.06,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Norwich City,2019-11-08 Norwich City-Watford,2019-11-08,Matchweek 12,Fri,Home,L,0,2,Watford,0,17,5,29.4,0.0,0.0,22.3,1,0,0,0.7,0.7,0.04,-0.7,-0.7,20:00:00
+ENG-Premier League,1920,Norwich City,2019-11-23 Everton-Norwich City,2019-11-23,Matchweek 13,Sat,Away,W,2,0,Everton,2,13,5,38.5,0.15,0.4,13.9,0,0,0,1.7,1.7,0.13,0.3,0.3,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-01 Norwich City-Arsenal,2019-12-01,Matchweek 14,Sun,Home,D,2,2,Arsenal,2,15,8,53.3,0.13,0.25,18.1,0,0,0,0.8,0.8,0.05,1.2,1.2,14:00:00
+ENG-Premier League,1920,Norwich City,2019-12-04 Southampton-Norwich City,2019-12-04,Matchweek 15,Wed,Away,L,1,2,Southampton,1,10,3,30.0,0.1,0.33,17.7,0,0,0,0.9,0.9,0.09,0.1,0.1,19:30:00
+ENG-Premier League,1920,Norwich City,2019-12-08 Norwich City-Sheffield Utd,2019-12-08,Matchweek 16,Sun,Home,L,1,2,Sheffield Utd,1,14,4,28.6,0.07,0.25,18.4,0,0,0,0.7,0.7,0.05,0.3,0.3,14:00:00
+ENG-Premier League,1920,Norwich City,2019-12-14 Leicester City-Norwich City,2019-12-14,Matchweek 17,Sat,Away,D,1,1,Leicester City,1,10,3,30.0,0.1,0.33,17.4,1,0,0,1.1,1.1,0.11,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-21 Norwich City-Wolves,2019-12-21,Matchweek 18,Sat,Home,L,1,2,Wolves,1,13,7,53.8,0.08,0.14,17.9,1,0,0,1.3,1.3,0.1,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-26 Aston Villa-Norwich City,2019-12-26,Matchweek 19,Thu,Away,L,0,1,Aston Villa,0,16,5,31.3,0.0,0.0,15.6,1,0,0,1.2,1.2,0.07,-1.2,-1.2,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-28 Norwich City-Tottenham,2019-12-28,Matchweek 20,Sat,Home,D,2,2,Tottenham,1,5,2,40.0,0.2,0.5,18.7,0,0,0,0.2,0.2,0.05,0.8,0.8,17:30:00
+ENG-Premier League,1920,Norwich City,2020-01-01 Norwich City-Crystal Palace,2020-01-01,Matchweek 21,Wed,Home,D,1,1,Crystal Palace,1,15,4,26.7,0.07,0.25,15.3,1,0,0,1.4,1.4,0.1,-0.4,-0.4,17:30:00
+ENG-Premier League,1920,Norwich City,2020-01-11 Manchester Utd-Norwich City,2020-01-11,Matchweek 22,Sat,Away,L,0,4,Manchester Utd,0,8,3,37.5,0.0,0.0,25.1,1,0,0,0.3,0.3,0.04,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Norwich City,2020-01-18 Norwich City-Bournemouth,2020-01-18,Matchweek 23,Sat,Home,W,1,0,Bournemouth,1,15,3,20.0,0.0,0.0,22.5,1,1,1,1.8,1.1,0.07,-0.8,-1.1,15:00:00
+ENG-Premier League,1920,Norwich City,2020-01-22 Tottenham-Norwich City,2020-01-22,Matchweek 24,Wed,Away,L,1,2,Tottenham,1,12,1,8.3,0.0,0.0,19.8,0,1,1,1.5,0.7,0.06,-0.5,-0.7,19:30:00
+ENG-Premier League,1920,Norwich City,2020-02-01 Newcastle Utd-Norwich City,2020-02-01,Matchweek 25,Sat,Away,D,0,0,Newcastle Utd,0,19,4,21.1,0.0,0.0,16.4,0,0,0,2.2,2.2,0.12,-2.2,-2.2,15:00:00
+ENG-Premier League,1920,Norwich City,2020-02-15 Norwich City-Liverpool,2020-02-15,Matchweek 26,Sat,Home,L,0,1,Liverpool,0,5,1,20.0,0.0,0.0,16.5,0,0,0,0.3,0.3,0.07,-0.3,-0.3,17:30:00
+ENG-Premier League,1920,Norwich City,2020-02-23 Wolves-Norwich City,2020-02-23,Matchweek 27,Sun,Away,L,0,3,Wolves,0,6,4,66.7,0.0,0.0,16.8,0,0,0,0.4,0.4,0.06,-0.4,-0.4,14:00:00
+ENG-Premier League,1920,Norwich City,2020-02-28 Norwich City-Leicester City,2020-02-28,Matchweek 28,Fri,Home,W,1,0,Leicester City,1,11,6,54.5,0.09,0.17,19.1,2,0,0,0.6,0.6,0.06,0.4,0.4,20:00:00
+ENG-Premier League,1920,Norwich City,2020-03-07 Sheffield Utd-Norwich City,2020-03-07,Matchweek 29,Sat,Away,L,0,1,Sheffield Utd,0,12,4,33.3,0.0,0.0,14.8,0,0,0,2.4,2.4,0.25,-2.4,-2.4,15:00:00
+ENG-Premier League,1920,Norwich City,2020-06-19 Norwich City-Southampton,2020-06-19,Matchweek 30,Fri,Home,L,0,3,Southampton,0,9,1,11.1,0.0,0.0,19.3,0,0,0,0.6,0.6,0.07,-0.6,-0.6,18:00:00
+ENG-Premier League,1920,Norwich City,2020-06-24 Norwich City-Everton,2020-06-24,Matchweek 31,Wed,Home,L,0,1,Everton,0,9,1,11.1,0.0,0.0,23.7,1,0,0,0.4,0.4,0.05,-0.4,-0.4,18:00:00
+ENG-Premier League,1920,Norwich City,2020-07-01 Arsenal-Norwich City,2020-07-01,Matchweek 32,Wed,Away,L,0,4,Arsenal,0,8,2,25.0,0.0,0.0,30.7,1,0,0,0.3,0.3,0.03,-0.3,-0.3,18:00:00
+ENG-Premier League,1920,Norwich City,2020-07-04 Norwich City-Brighton,2020-07-04,Matchweek 33,Sat,Home,L,0,1,Brighton,0,12,1,8.3,0.0,0.0,18.4,0,0,0,0.6,0.6,0.05,-0.6,-0.6,12:30:00
+ENG-Premier League,1920,Norwich City,2020-07-07 Watford-Norwich City,2020-07-07,Matchweek 34,Tue,Away,L,1,2,Watford,1,12,3,25.0,0.08,0.33,16.9,1,0,0,1.2,1.2,0.11,-0.2,-0.2,18:00:00
+ENG-Premier League,1920,Norwich City,2020-07-11 Norwich City-West Ham,2020-07-11,Matchweek 35,Sat,Home,L,0,4,West Ham,0,11,2,18.2,0.0,0.0,19.8,1,0,0,0.6,0.6,0.06,-0.6,-0.6,12:30:00
+ENG-Premier League,1920,Norwich City,2020-07-14 Chelsea-Norwich City,2020-07-14,Matchweek 36,Tue,Away,L,0,1,Chelsea,0,2,0,0.0,0.0,,20.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,20:15:00
+ENG-Premier League,1920,Norwich City,2020-07-18 Norwich City-Burnley,2020-07-18,Matchweek 37,Sat,Home,L,0,2,Burnley,0,6,2,33.3,0.0,0.0,13.4,0,0,0,0.3,0.3,0.05,-0.3,-0.3,17:30:00
+ENG-Premier League,1920,Norwich City,2020-07-26 Manchester City-Norwich City,2020-07-26,Matchweek 38,Sun,Away,L,0,5,Manchester City,0,5,4,80.0,0.0,0.0,19.8,0,0,0,1.0,1.0,0.2,-1.0,-1.0,16:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-10 Bournemouth-Sheffield Utd,2019-08-10,Matchweek 1,Sat,Away,D,1,1,Bournemouth,1,8,3,37.5,0.13,0.33,19.0,0,0,0,1.3,1.3,0.18,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-18 Sheffield Utd-Crystal Palace,2019-08-18,Matchweek 2,Sun,Home,W,1,0,Crystal Palace,1,15,3,20.0,0.07,0.33,15.6,0,0,0,2.2,2.2,0.15,-1.2,-1.2,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-24 Sheffield Utd-Leicester City,2019-08-24,Matchweek 3,Sat,Home,L,1,2,Leicester City,1,7,2,28.6,0.14,0.5,19.0,1,0,0,0.3,0.3,0.05,0.7,0.7,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-31 Chelsea-Sheffield Utd,2019-08-31,Matchweek 4,Sat,Away,D,2,2,Chelsea,1,8,2,25.0,0.13,0.5,20.1,0,0,0,1.1,1.1,0.14,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-09-14 Sheffield Utd-Southampton,2019-09-14,Matchweek 5,Sat,Home,L,0,1,Southampton,0,17,4,23.5,0.0,0.0,16.7,0,0,0,1.8,1.8,0.11,-1.8,-1.8,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-09-21 Everton-Sheffield Utd,2019-09-21,Matchweek 6,Sat,Away,W,2,0,Everton,1,2,1,50.0,0.5,1.0,12.8,0,0,0,0.5,0.5,0.23,0.5,0.5,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-09-28 Sheffield Utd-Liverpool,2019-09-28,Matchweek 7,Sat,Home,L,0,1,Liverpool,0,12,2,16.7,0.0,0.0,14.0,0,0,0,1.3,1.3,0.11,-1.3,-1.3,12:30:00
+ENG-Premier League,1920,Sheffield Utd,2019-10-05 Watford-Sheffield Utd,2019-10-05,Matchweek 8,Sat,Away,D,0,0,Watford,0,9,3,33.3,0.0,0.0,19.8,0,0,0,0.4,0.4,0.05,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-10-21 Sheffield Utd-Arsenal,2019-10-21,Matchweek 9,Mon,Home,W,1,0,Arsenal,1,8,2,25.0,0.13,0.5,17.6,0,0,0,0.9,0.9,0.12,0.1,0.1,20:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-10-26 West Ham-Sheffield Utd,2019-10-26,Matchweek 10,Sat,Away,D,1,1,West Ham,1,10,3,30.0,0.1,0.33,12.7,0,0,0,1.0,1.0,0.1,0.0,0.0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-11-02 Sheffield Utd-Burnley,2019-11-02,Matchweek 11,Sat,Home,W,3,0,Burnley,3,13,6,46.2,0.23,0.5,13.8,0,0,0,2.3,2.3,0.19,0.7,0.7,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-11-09 Tottenham-Sheffield Utd,2019-11-09,Matchweek 12,Sat,Away,D,1,1,Tottenham,1,14,4,28.6,0.07,0.25,19.6,0,0,0,0.9,0.9,0.06,0.1,0.1,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-11-24 Sheffield Utd-Manchester Utd,2019-11-24,Matchweek 13,Sun,Home,D,3,3,Manchester Utd,3,12,8,66.7,0.25,0.38,18.0,0,0,0,1.3,1.3,0.13,1.7,1.7,16:30:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-01 Wolves-Sheffield Utd,2019-12-01,Matchweek 14,Sun,Away,D,1,1,Wolves,1,10,4,40.0,0.1,0.25,13.6,0,0,0,1.5,1.5,0.15,-0.5,-0.5,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-05 Sheffield Utd-Newcastle Utd,2019-12-05,Matchweek 15,Thu,Home,L,0,2,Newcastle Utd,0,13,6,46.2,0.0,0.0,15.1,1,0,0,1.1,1.1,0.09,-1.1,-1.1,19:30:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-08 Norwich City-Sheffield Utd,2019-12-08,Matchweek 16,Sun,Away,W,2,1,Norwich City,2,9,3,33.3,0.22,0.67,18.2,0,0,0,0.8,0.8,0.08,1.2,1.2,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-14 Sheffield Utd-Aston Villa,2019-12-14,Matchweek 17,Sat,Home,W,2,0,Aston Villa,2,7,3,42.9,0.29,0.67,11.1,0,0,0,1.7,1.7,0.24,0.3,0.3,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-21 Brighton-Sheffield Utd,2019-12-21,Matchweek 18,Sat,Away,W,1,0,Brighton,1,7,2,28.6,0.14,0.5,13.1,0,0,0,1.3,1.3,0.18,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-26 Sheffield Utd-Watford,2019-12-26,Matchweek 19,Thu,Home,D,1,1,Watford,1,15,3,20.0,0.0,0.0,15.7,0,1,1,2.4,1.6,0.11,-1.4,-1.6,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-29 Manchester City-Sheffield Utd,2019-12-29,Matchweek 20,Sun,Away,L,0,2,Manchester City,0,8,0,0.0,0.0,,13.8,0,0,0,1.1,1.1,0.13,-1.1,-1.1,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-02 Liverpool-Sheffield Utd,2020-01-02,Matchweek 21,Thu,Away,L,0,2,Liverpool,0,3,2,66.7,0.0,0.0,13.9,0,0,0,0.6,0.6,0.21,-0.6,-0.6,20:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-10 Sheffield Utd-West Ham,2020-01-10,Matchweek 22,Fri,Home,W,1,0,West Ham,1,13,3,23.1,0.08,0.33,15.0,0,0,0,1.4,1.4,0.11,-0.4,-0.4,20:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-18 Arsenal-Sheffield Utd,2020-01-18,Matchweek 23,Sat,Away,D,1,1,Arsenal,1,12,3,25.0,0.08,0.33,15.2,0,0,0,0.8,0.8,0.07,0.2,0.2,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-21 Sheffield Utd-Manchester City,2020-01-21,Matchweek 24,Tue,Home,L,0,1,Manchester City,0,4,1,25.0,0.0,0.0,11.6,0,0,0,0.8,0.8,0.19,-0.8,-0.8,19:30:00
+ENG-Premier League,1920,Sheffield Utd,2020-02-01 Crystal Palace-Sheffield Utd,2020-02-01,Matchweek 25,Sat,Away,W,1,0,Crystal Palace,0,10,3,30.0,0.0,0.0,18.8,1,0,0,0.7,0.7,0.07,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-02-09 Sheffield Utd-Bournemouth,2020-02-09,Matchweek 26,Sun,Home,W,2,1,Bournemouth,2,16,5,31.3,0.13,0.4,11.3,1,0,0,1.9,1.9,0.13,0.1,0.1,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-02-22 Sheffield Utd-Brighton,2020-02-22,Matchweek 27,Sat,Home,D,1,1,Brighton,1,13,3,23.1,0.08,0.33,13.8,0,0,0,1.6,1.6,0.13,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-03-07 Sheffield Utd-Norwich City,2020-03-07,Matchweek 29,Sat,Home,W,1,0,Norwich City,1,10,3,30.0,0.1,0.33,13.2,0,0,0,0.9,0.9,0.1,0.1,0.1,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-06-17 Aston Villa-Sheffield Utd,2020-06-17,Matchweek 28,Wed,Away,D,0,0,Aston Villa,0,5,1,20.0,0.0,0.0,15.6,0,0,0,0.3,0.3,0.07,-0.3,-0.3,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-06-21 Newcastle Utd-Sheffield Utd,2020-06-21,Matchweek 30,Sun,Away,L,0,3,Newcastle Utd,0,7,1,14.3,0.0,0.0,13.8,0,0,0,0.6,0.6,0.09,-0.6,-0.6,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-06-24 Manchester Utd-Sheffield Utd,2020-06-24,Matchweek 31,Wed,Away,L,0,3,Manchester Utd,0,4,1,25.0,0.0,0.0,24.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-02 Sheffield Utd-Tottenham,2020-07-02,Matchweek 32,Thu,Home,W,3,1,Tottenham,3,7,5,71.4,0.43,0.6,13.1,0,0,0,1.6,1.6,0.23,1.4,1.4,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-05 Burnley-Sheffield Utd,2020-07-05,Matchweek 33,Sun,Away,D,1,1,Burnley,1,10,3,30.0,0.1,0.33,14.7,0,0,0,1.1,1.1,0.11,-0.1,-0.1,12:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-08 Sheffield Utd-Wolves,2020-07-08,Matchweek 34,Wed,Home,W,1,0,Wolves,1,7,3,42.9,0.14,0.33,12.9,0,0,0,0.5,0.5,0.08,0.5,0.5,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-11 Sheffield Utd-Chelsea,2020-07-11,Matchweek 35,Sat,Home,W,3,0,Chelsea,3,9,4,44.4,0.33,0.75,10.6,0,0,0,2.3,2.3,0.27,0.7,0.7,17:30:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-16 Leicester City-Sheffield Utd,2020-07-16,Matchweek 36,Thu,Away,L,0,2,Leicester City,0,5,1,20.0,0.0,0.0,13.3,0,0,0,0.7,0.7,0.15,-0.7,-0.7,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-20 Sheffield Utd-Everton,2020-07-20,Matchweek 37,Mon,Home,L,0,1,Everton,0,8,0,0.0,0.0,,13.4,0,0,0,0.5,0.5,0.07,-0.5,-0.5,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-26 Southampton-Sheffield Utd,2020-07-26,Matchweek 38,Sun,Away,L,1,3,Southampton,1,5,3,60.0,0.2,0.33,11.6,0,0,0,1.4,1.4,0.29,-0.4,-0.4,16:00:00
+ENG-Premier League,1920,Southampton,2019-08-10 Burnley-Southampton,2019-08-10,Matchweek 1,Sat,Away,L,0,3,Burnley,0,11,3,27.3,0.0,0.0,18.7,1,0,0,1.2,1.2,0.11,-1.2,-1.2,15:00:00
+ENG-Premier League,1920,Southampton,2019-08-17 Southampton-Liverpool,2019-08-17,Matchweek 2,Sat,Home,L,1,2,Liverpool,1,14,3,21.4,0.07,0.33,15.3,0,0,0,1.9,1.9,0.14,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Southampton,2019-08-24 Brighton-Southampton,2019-08-24,Matchweek 3,Sat,Away,W,2,0,Brighton,2,12,4,33.3,0.17,0.5,18.0,2,0,0,1.7,1.7,0.18,0.3,0.3,15:00:00
+ENG-Premier League,1920,Southampton,2019-08-31 Southampton-Manchester Utd,2019-08-31,Matchweek 4,Sat,Home,D,1,1,Manchester Utd,1,10,2,20.0,0.1,0.5,20.7,0,0,0,0.9,0.9,0.09,0.1,0.1,12:30:00
+ENG-Premier League,1920,Southampton,2019-09-14 Sheffield Utd-Southampton,2019-09-14,Matchweek 5,Sat,Away,W,1,0,Sheffield Utd,1,11,7,63.6,0.09,0.14,16.7,0,0,0,1.6,1.6,0.14,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Southampton,2019-09-20 Southampton-Bournemouth,2019-09-20,Matchweek 6,Fri,Home,L,1,3,Bournemouth,1,24,5,20.8,0.0,0.0,19.4,0,1,1,2.5,1.7,0.07,-1.5,-1.7,20:00:00
+ENG-Premier League,1920,Southampton,2019-09-28 Tottenham-Southampton,2019-09-28,Matchweek 7,Sat,Away,L,1,2,Tottenham,1,14,6,42.9,0.07,0.17,19.9,1,0,0,1.5,1.5,0.11,-0.5,-0.5,15:00:00
+ENG-Premier League,1920,Southampton,2019-10-06 Southampton-Chelsea,2019-10-06,Matchweek 8,Sun,Home,L,1,4,Chelsea,1,10,2,20.0,0.1,0.5,17.3,1,0,0,1.4,1.4,0.14,-0.4,-0.4,14:00:00
+ENG-Premier League,1920,Southampton,2019-10-19 Wolves-Southampton,2019-10-19,Matchweek 9,Sat,Away,D,1,1,Wolves,1,14,5,35.7,0.07,0.2,14.4,1,0,0,1.4,1.4,0.1,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Southampton,2019-10-25 Southampton-Leicester City,2019-10-25,Matchweek 10,Fri,Home,L,0,9,Leicester City,0,6,3,50.0,0.0,0.0,22.4,1,0,0,0.3,0.3,0.06,-0.3,-0.3,20:00:00
+ENG-Premier League,1920,Southampton,2019-11-02 Manchester City-Southampton,2019-11-02,Matchweek 11,Sat,Away,L,1,2,Manchester City,1,3,3,100.0,0.33,0.33,18.8,0,0,0,0.9,0.9,0.31,0.1,0.1,15:00:00
+ENG-Premier League,1920,Southampton,2019-11-09 Southampton-Everton,2019-11-09,Matchweek 12,Sat,Home,L,1,2,Everton,1,4,3,75.0,0.25,0.33,20.1,1,0,0,0.9,0.9,0.22,0.1,0.1,15:00:00
+ENG-Premier League,1920,Southampton,2019-11-23 Arsenal-Southampton,2019-11-23,Matchweek 13,Sat,Away,D,2,2,Arsenal,2,20,4,20.0,0.1,0.5,22.0,0,0,1,2.4,1.5,0.08,-0.4,0.5,15:00:00
+ENG-Premier League,1920,Southampton,2019-11-30 Southampton-Watford,2019-11-30,Matchweek 14,Sat,Home,W,2,1,Watford,2,11,5,45.5,0.18,0.4,16.6,2,0,0,2.1,2.1,0.19,-0.1,-0.1,17:30:00
+ENG-Premier League,1920,Southampton,2019-12-04 Southampton-Norwich City,2019-12-04,Matchweek 15,Wed,Home,W,2,1,Norwich City,2,14,5,35.7,0.14,0.4,16.7,0,0,0,1.7,1.7,0.12,0.3,0.3,19:30:00
+ENG-Premier League,1920,Southampton,2019-12-08 Newcastle Utd-Southampton,2019-12-08,Matchweek 16,Sun,Away,L,1,2,Newcastle Utd,1,19,4,21.1,0.05,0.25,16.0,2,0,0,1.7,1.7,0.1,-0.7,-0.7,14:00:00
+ENG-Premier League,1920,Southampton,2019-12-14 Southampton-West Ham,2019-12-14,Matchweek 17,Sat,Home,L,0,1,West Ham,0,11,2,18.2,0.0,0.0,17.1,1,0,0,0.9,0.9,0.08,-0.9,-0.9,17:30:00
+ENG-Premier League,1920,Southampton,2019-12-21 Aston Villa-Southampton,2019-12-21,Matchweek 18,Sat,Away,W,3,1,Aston Villa,3,17,8,47.1,0.18,0.38,14.9,2,0,0,2.8,2.8,0.17,0.2,0.2,15:00:00
+ENG-Premier League,1920,Southampton,2019-12-26 Chelsea-Southampton,2019-12-26,Matchweek 19,Thu,Away,W,2,0,Chelsea,2,5,3,60.0,0.4,0.67,15.5,0,0,0,1.1,1.1,0.22,0.9,0.9,15:00:00
+ENG-Premier League,1920,Southampton,2019-12-28 Southampton-Crystal Palace,2019-12-28,Matchweek 20,Sat,Home,D,1,1,Crystal Palace,1,14,5,35.7,0.07,0.2,15.8,1,0,0,1.4,1.4,0.1,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-01 Southampton-Tottenham,2020-01-01,Matchweek 21,Wed,Home,W,1,0,Tottenham,1,12,3,25.0,0.08,0.33,15.3,0,0,0,1.3,1.3,0.11,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-11 Leicester City-Southampton,2020-01-11,Matchweek 22,Sat,Away,W,2,1,Leicester City,2,16,9,56.3,0.13,0.22,16.2,1,0,0,2.1,2.1,0.14,-0.1,-0.1,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-18 Southampton-Wolves,2020-01-18,Matchweek 23,Sat,Home,L,2,3,Wolves,2,11,5,45.5,0.18,0.4,13.7,0,0,0,0.7,0.7,0.06,1.3,1.3,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-21 Crystal Palace-Southampton,2020-01-21,Matchweek 24,Tue,Away,W,2,0,Crystal Palace,2,15,6,40.0,0.13,0.33,21.7,0,0,0,1.1,1.1,0.08,0.9,0.9,19:30:00
+ENG-Premier League,1920,Southampton,2020-02-01 Liverpool-Southampton,2020-02-01,Matchweek 25,Sat,Away,L,0,4,Liverpool,0,17,4,23.5,0.0,0.0,18.7,0,0,0,0.8,0.8,0.05,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Southampton,2020-02-15 Southampton-Burnley,2020-02-15,Matchweek 26,Sat,Home,L,1,2,Burnley,1,10,2,20.0,0.1,0.5,15.7,0,0,0,0.8,0.8,0.08,0.2,0.2,12:30:00
+ENG-Premier League,1920,Southampton,2020-02-22 Southampton-Aston Villa,2020-02-22,Matchweek 27,Sat,Home,W,2,0,Aston Villa,2,28,9,32.1,0.07,0.22,18.9,1,0,0,2.6,2.6,0.1,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Southampton,2020-02-29 West Ham-Southampton,2020-02-29,Matchweek 28,Sat,Away,L,1,3,West Ham,1,10,2,20.0,0.1,0.5,17.7,0,0,0,0.7,0.7,0.07,0.3,0.3,15:00:00
+ENG-Premier League,1920,Southampton,2020-03-07 Southampton-Newcastle Utd,2020-03-07,Matchweek 29,Sat,Home,L,0,1,Newcastle Utd,0,6,3,50.0,0.0,0.0,15.8,0,0,0,0.6,0.6,0.1,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Southampton,2020-06-19 Norwich City-Southampton,2020-06-19,Matchweek 30,Fri,Away,W,3,0,Norwich City,3,22,8,36.4,0.14,0.38,18.9,2,0,0,1.7,1.7,0.08,1.3,1.3,18:00:00
+ENG-Premier League,1920,Southampton,2020-06-25 Southampton-Arsenal,2020-06-25,Matchweek 31,Thu,Home,L,0,2,Arsenal,0,12,3,25.0,0.0,0.0,16.6,0,0,0,0.9,0.9,0.08,-0.9,-0.9,18:00:00
+ENG-Premier League,1920,Southampton,2020-06-28 Watford-Southampton,2020-06-28,Matchweek 32,Sun,Away,W,3,1,Watford,3,11,7,63.6,0.27,0.43,19.0,3,0,0,1.3,1.3,0.12,1.7,1.7,16:30:00
+ENG-Premier League,1920,Southampton,2020-07-05 Southampton-Manchester City,2020-07-05,Matchweek 33,Sun,Home,W,1,0,Manchester City,1,8,4,50.0,0.13,0.25,23.5,1,0,0,0.6,0.6,0.08,0.4,0.4,19:00:00
+ENG-Premier League,1920,Southampton,2020-07-09 Everton-Southampton,2020-07-09,Matchweek 34,Thu,Away,D,1,1,Everton,1,15,4,26.7,0.07,0.25,17.6,2,0,1,2.4,1.6,0.11,-1.4,-0.6,18:00:00
+ENG-Premier League,1920,Southampton,2020-07-13 Manchester Utd-Southampton,2020-07-13,Matchweek 35,Mon,Away,D,2,2,Manchester Utd,2,9,5,55.6,0.22,0.4,11.6,0,0,0,1.6,1.6,0.19,0.4,0.4,20:00:00
+ENG-Premier League,1920,Southampton,2020-07-16 Southampton-Brighton,2020-07-16,Matchweek 36,Thu,Home,D,1,1,Brighton,1,21,5,23.8,0.05,0.2,18.1,1,0,0,2.5,2.5,0.12,-1.5,-1.5,20:15:00
+ENG-Premier League,1920,Southampton,2020-07-19 Bournemouth-Southampton,2020-07-19,Matchweek 37,Sun,Away,W,2,0,Bournemouth,2,15,7,46.7,0.13,0.29,18.3,0,0,1,2.5,1.7,0.12,-0.5,0.3,14:00:00
+ENG-Premier League,1920,Southampton,2020-07-26 Southampton-Sheffield Utd,2020-07-26,Matchweek 38,Sun,Home,W,3,1,Sheffield Utd,3,12,3,25.0,0.17,0.67,21.1,0,1,1,1.7,0.9,0.07,1.3,1.1,16:00:00
+ENG-Premier League,1920,Tottenham,2019-08-10 Tottenham-Aston Villa,2019-08-10,Matchweek 1,Sat,Home,W,3,1,Aston Villa,3,31,6,19.4,0.1,0.5,18.6,2,0,0,2.4,2.4,0.08,0.6,0.6,17:30:00
+ENG-Premier League,1920,Tottenham,2019-08-17 Manchester City-Tottenham,2019-08-17,Matchweek 2,Sat,Away,D,2,2,Manchester City,2,3,2,66.7,0.67,1.0,34.9,0,0,0,0.1,0.1,0.04,1.9,1.9,17:30:00
+ENG-Premier League,1920,Tottenham,2019-08-25 Tottenham-Newcastle Utd,2019-08-25,Matchweek 3,Sun,Home,L,0,1,Newcastle Utd,0,17,2,11.8,0.0,0.0,20.3,0,0,0,1.1,1.1,0.07,-1.1,-1.1,16:30:00
+ENG-Premier League,1920,Tottenham,2019-09-01 Arsenal-Tottenham,2019-09-01,Matchweek 4,Sun,Away,D,2,2,Arsenal,2,12,8,66.7,0.08,0.13,21.3,1,1,1,2.0,1.2,0.1,0.0,-0.2,16:30:00
+ENG-Premier League,1920,Tottenham,2019-09-14 Tottenham-Crystal Palace,2019-09-14,Matchweek 5,Sat,Home,W,4,0,Crystal Palace,3,13,5,38.5,0.23,0.6,19.3,1,0,0,1.0,1.0,0.08,2.0,2.0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-09-21 Leicester City-Tottenham,2019-09-21,Matchweek 6,Sat,Away,L,1,2,Leicester City,1,11,4,36.4,0.09,0.25,16.6,0,0,0,1.1,1.1,0.1,-0.1,-0.1,12:30:00
+ENG-Premier League,1920,Tottenham,2019-09-28 Tottenham-Southampton,2019-09-28,Matchweek 7,Sat,Home,W,2,1,Southampton,2,9,4,44.4,0.22,0.5,20.5,0,0,0,1.0,1.0,0.11,1.0,1.0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-10-05 Brighton-Tottenham,2019-10-05,Matchweek 8,Sat,Away,L,0,3,Brighton,0,8,3,37.5,0.0,0.0,22.9,1,0,0,0.4,0.4,0.05,-0.4,-0.4,12:30:00
+ENG-Premier League,1920,Tottenham,2019-10-19 Tottenham-Watford,2019-10-19,Matchweek 9,Sat,Home,D,1,1,Watford,1,12,2,16.7,0.08,0.5,18.1,1,0,0,1.0,1.0,0.09,0.0,0.0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-10-27 Liverpool-Tottenham,2019-10-27,Matchweek 10,Sun,Away,L,1,2,Liverpool,1,11,4,36.4,0.09,0.25,17.3,0,0,0,1.2,1.2,0.11,-0.2,-0.2,16:30:00
+ENG-Premier League,1920,Tottenham,2019-11-03 Everton-Tottenham,2019-11-03,Matchweek 11,Sun,Away,D,1,1,Everton,1,5,2,40.0,0.2,0.5,16.6,0,0,0,0.6,0.6,0.12,0.4,0.4,16:30:00
+ENG-Premier League,1920,Tottenham,2019-11-09 Tottenham-Sheffield Utd,2019-11-09,Matchweek 12,Sat,Home,D,1,1,Sheffield Utd,1,17,5,29.4,0.06,0.2,20.3,0,0,0,1.8,1.8,0.11,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Tottenham,2019-11-23 West Ham-Tottenham,2019-11-23,Matchweek 13,Sat,Away,W,3,2,West Ham,3,15,6,40.0,0.2,0.5,15.9,1,0,0,2.1,2.1,0.14,0.9,0.9,12:30:00
+ENG-Premier League,1920,Tottenham,2019-11-30 Tottenham-Bournemouth,2019-11-30,Matchweek 14,Sat,Home,W,3,2,Bournemouth,3,14,5,35.7,0.21,0.6,14.2,0,0,0,2.3,2.3,0.17,0.7,0.7,15:00:00
+ENG-Premier League,1920,Tottenham,2019-12-04 Manchester Utd-Tottenham,2019-12-04,Matchweek 15,Wed,Away,L,1,2,Manchester Utd,1,8,5,62.5,0.13,0.2,17.0,1,0,0,0.9,0.9,0.12,0.1,0.1,19:30:00
+ENG-Premier League,1920,Tottenham,2019-12-07 Tottenham-Burnley,2019-12-07,Matchweek 16,Sat,Home,W,5,0,Burnley,5,13,7,53.8,0.38,0.71,19.2,0,0,0,2.6,2.6,0.21,2.4,2.4,15:00:00
+ENG-Premier League,1920,Tottenham,2019-12-15 Wolves-Tottenham,2019-12-15,Matchweek 17,Sun,Away,W,2,1,Wolves,2,9,5,55.6,0.22,0.4,13.5,0,0,0,0.9,0.9,0.1,1.1,1.1,14:00:00
+ENG-Premier League,1920,Tottenham,2019-12-22 Tottenham-Chelsea,2019-12-22,Matchweek 18,Sun,Home,L,0,2,Chelsea,0,5,1,20.0,0.0,0.0,18.4,1,0,0,0.3,0.3,0.06,-0.3,-0.3,16:30:00
+ENG-Premier League,1920,Tottenham,2019-12-26 Tottenham-Brighton,2019-12-26,Matchweek 19,Thu,Home,W,2,1,Brighton,2,11,5,45.5,0.18,0.4,18.1,1,0,0,0.8,0.8,0.07,1.2,1.2,12:30:00
+ENG-Premier League,1920,Tottenham,2019-12-28 Norwich City-Tottenham,2019-12-28,Matchweek 20,Sat,Away,D,2,2,Norwich City,2,14,6,42.9,0.07,0.17,23.2,1,1,1,1.9,1.1,0.08,0.1,-0.1,17:30:00
+ENG-Premier League,1920,Tottenham,2020-01-01 Southampton-Tottenham,2020-01-01,Matchweek 21,Wed,Away,L,0,1,Southampton,0,11,5,45.5,0.0,0.0,17.1,1,0,0,0.9,0.9,0.08,-0.9,-0.9,15:00:00
+ENG-Premier League,1920,Tottenham,2020-01-11 Tottenham-Liverpool,2020-01-11,Matchweek 22,Sat,Home,L,0,1,Liverpool,0,14,4,28.6,0.0,0.0,16.7,0,0,0,1.2,1.2,0.09,-1.2,-1.2,17:30:00
+ENG-Premier League,1920,Tottenham,2020-01-18 Watford-Tottenham,2020-01-18,Matchweek 23,Sat,Away,D,0,0,Watford,0,16,4,25.0,0.0,0.0,17.1,0,0,0,1.9,1.9,0.13,-1.9,-1.9,12:30:00
+ENG-Premier League,1920,Tottenham,2020-01-22 Tottenham-Norwich City,2020-01-22,Matchweek 24,Wed,Home,W,2,1,Norwich City,2,14,3,21.4,0.14,0.67,16.7,1,0,0,2.1,2.1,0.15,-0.1,-0.1,19:30:00
+ENG-Premier League,1920,Tottenham,2020-02-02 Tottenham-Manchester City,2020-02-02,Matchweek 25,Sun,Home,W,2,0,Manchester City,2,3,3,100.0,0.67,0.67,17.1,0,0,0,0.3,0.3,0.1,1.7,1.7,16:30:00
+ENG-Premier League,1920,Tottenham,2020-02-16 Aston Villa-Tottenham,2020-02-16,Matchweek 26,Sun,Away,W,3,2,Aston Villa,3,22,9,40.9,0.14,0.33,15.5,0,0,1,3.4,2.5,0.12,-0.4,0.5,14:00:00
+ENG-Premier League,1920,Tottenham,2020-02-22 Chelsea-Tottenham,2020-02-22,Matchweek 27,Sat,Away,L,1,2,Chelsea,0,5,3,60.0,0.0,0.0,17.7,1,0,0,0.2,0.2,0.05,-0.2,-0.2,12:30:00
+ENG-Premier League,1920,Tottenham,2020-03-01 Tottenham-Wolves,2020-03-01,Matchweek 28,Sun,Home,L,2,3,Wolves,2,13,5,38.5,0.15,0.4,14.6,0,0,0,1.7,1.7,0.15,0.3,0.3,14:00:00
+ENG-Premier League,1920,Tottenham,2020-03-07 Burnley-Tottenham,2020-03-07,Matchweek 29,Sat,Away,D,1,1,Burnley,1,12,1,8.3,0.0,0.0,24.9,0,1,1,1.2,0.4,0.03,-0.2,-0.4,17:30:00
+ENG-Premier League,1920,Tottenham,2020-06-19 Tottenham-Manchester Utd,2020-06-19,Matchweek 30,Fri,Home,D,1,1,Manchester Utd,1,10,3,30.0,0.1,0.33,21.8,2,0,0,0.4,0.4,0.04,0.6,0.6,20:15:00
+ENG-Premier League,1920,Tottenham,2020-06-23 Tottenham-West Ham,2020-06-23,Matchweek 31,Tue,Home,W,2,0,West Ham,1,15,4,26.7,0.07,0.25,18.2,0,0,0,2.3,2.3,0.15,-1.3,-1.3,20:15:00
+ENG-Premier League,1920,Tottenham,2020-07-02 Sheffield Utd-Tottenham,2020-07-02,Matchweek 32,Thu,Away,L,1,3,Sheffield Utd,1,9,2,22.2,0.11,0.5,15.8,2,0,0,1.1,1.1,0.12,-0.1,-0.1,18:00:00
+ENG-Premier League,1920,Tottenham,2020-07-06 Tottenham-Everton,2020-07-06,Matchweek 33,Mon,Home,W,1,0,Everton,0,12,2,16.7,0.0,0.0,23.0,2,0,0,0.5,0.5,0.04,-0.5,-0.5,20:00:00
+ENG-Premier League,1920,Tottenham,2020-07-09 Bournemouth-Tottenham,2020-07-09,Matchweek 34,Thu,Away,D,0,0,Bournemouth,0,9,0,0.0,0.0,,18.4,1,0,0,0.5,0.5,0.06,-0.5,-0.5,18:00:00
+ENG-Premier League,1920,Tottenham,2020-07-12 Tottenham-Arsenal,2020-07-12,Matchweek 35,Sun,Home,W,2,1,Arsenal,2,15,9,60.0,0.13,0.22,18.5,0,0,0,2.0,2.0,0.14,0.0,0.0,16:30:00
+ENG-Premier League,1920,Tottenham,2020-07-15 Newcastle Utd-Tottenham,2020-07-15,Matchweek 36,Wed,Away,W,3,1,Newcastle Utd,3,8,5,62.5,0.38,0.6,15.6,0,0,0,1.5,1.5,0.24,1.5,1.5,18:00:00
+ENG-Premier League,1920,Tottenham,2020-07-19 Tottenham-Leicester City,2020-07-19,Matchweek 37,Sun,Home,W,3,0,Leicester City,2,7,3,42.9,0.29,0.67,17.4,0,0,0,0.8,0.8,0.11,1.2,1.2,16:00:00
+ENG-Premier League,1920,Tottenham,2020-07-26 Crystal Palace-Tottenham,2020-07-26,Matchweek 38,Sun,Away,D,1,1,Crystal Palace,1,7,2,28.6,0.14,0.5,19.7,0,0,0,0.3,0.3,0.04,0.7,0.7,16:00:00
+ENG-Premier League,1920,Watford,2019-08-10 Watford-Brighton,2019-08-10,Matchweek 1,Sat,Home,L,0,3,Brighton,0,11,3,27.3,0.0,0.0,21.4,2,0,0,0.7,0.7,0.06,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Watford,2019-08-17 Everton-Watford,2019-08-17,Matchweek 2,Sat,Away,L,0,1,Everton,0,8,2,25.0,0.0,0.0,17.1,0,0,0,1.2,1.2,0.15,-1.2,-1.2,15:00:00
+ENG-Premier League,1920,Watford,2019-08-24 Watford-West Ham,2019-08-24,Matchweek 3,Sat,Home,L,1,3,West Ham,1,23,3,13.0,0.04,0.33,15.4,0,0,0,2.3,2.3,0.1,-1.3,-1.3,15:00:00
+ENG-Premier League,1920,Watford,2019-08-31 Newcastle Utd-Watford,2019-08-31,Matchweek 4,Sat,Away,D,1,1,Newcastle Utd,1,13,3,23.1,0.08,0.33,17.2,0,0,0,1.0,1.0,0.08,0.0,0.0,15:00:00
+ENG-Premier League,1920,Watford,2019-09-15 Watford-Arsenal,2019-09-15,Matchweek 5,Sun,Home,D,2,2,Arsenal,2,30,9,30.0,0.03,0.11,19.5,1,1,1,2.7,1.9,0.07,-0.7,-0.9,16:30:00
+ENG-Premier League,1920,Watford,2019-09-21 Manchester City-Watford,2019-09-21,Matchweek 6,Sat,Away,L,0,8,Manchester City,0,5,4,80.0,0.0,0.0,14.9,1,0,0,0.4,0.4,0.08,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Watford,2019-09-28 Wolves-Watford,2019-09-28,Matchweek 7,Sat,Away,L,0,2,Wolves,0,14,5,35.7,0.0,0.0,16.4,0,0,0,1.4,1.4,0.11,-1.4,-1.4,15:00:00
+ENG-Premier League,1920,Watford,2019-10-05 Watford-Sheffield Utd,2019-10-05,Matchweek 8,Sat,Home,D,0,0,Sheffield Utd,0,8,2,25.0,0.0,0.0,17.4,0,0,0,1.4,1.4,0.18,-1.4,-1.4,15:00:00
+ENG-Premier League,1920,Watford,2019-10-19 Tottenham-Watford,2019-10-19,Matchweek 9,Sat,Away,D,1,1,Tottenham,1,7,2,28.6,0.14,0.5,19.1,2,0,0,0.7,0.7,0.1,0.3,0.3,15:00:00
+ENG-Premier League,1920,Watford,2019-10-26 Watford-Bournemouth,2019-10-26,Matchweek 10,Sat,Home,D,0,0,Bournemouth,0,7,3,42.9,0.0,0.0,19.4,0,0,0,0.8,0.8,0.12,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Watford,2019-11-02 Watford-Chelsea,2019-11-02,Matchweek 11,Sat,Home,L,1,2,Chelsea,1,11,2,18.2,0.0,0.0,20.7,0,1,1,1.3,0.5,0.05,-0.3,-0.5,17:30:00
+ENG-Premier League,1920,Watford,2019-11-08 Norwich City-Watford,2019-11-08,Matchweek 12,Fri,Away,W,2,0,Norwich City,2,12,2,16.7,0.17,1.0,18.6,0,0,0,1.3,1.3,0.1,0.7,0.7,20:00:00
+ENG-Premier League,1920,Watford,2019-11-23 Watford-Burnley,2019-11-23,Matchweek 13,Sat,Home,L,0,3,Burnley,0,15,4,26.7,0.0,0.0,18.9,3,0,0,1.0,1.0,0.07,-1.0,-1.0,15:00:00
+ENG-Premier League,1920,Watford,2019-11-30 Southampton-Watford,2019-11-30,Matchweek 14,Sat,Away,L,1,2,Southampton,1,6,3,50.0,0.17,0.33,18.2,0,0,0,0.6,0.6,0.1,0.4,0.4,17:30:00
+ENG-Premier League,1920,Watford,2019-12-04 Leicester City-Watford,2019-12-04,Matchweek 15,Wed,Away,L,0,2,Leicester City,0,4,1,25.0,0.0,0.0,20.0,0,0,0,0.2,0.2,0.05,-0.2,-0.2,19:30:00
+ENG-Premier League,1920,Watford,2019-12-07 Watford-Crystal Palace,2019-12-07,Matchweek 16,Sat,Home,D,0,0,Crystal Palace,0,13,3,23.1,0.0,0.0,18.4,1,0,0,1.4,1.4,0.11,-1.4,-1.4,15:00:00
+ENG-Premier League,1920,Watford,2019-12-14 Liverpool-Watford,2019-12-14,Matchweek 17,Sat,Away,L,0,2,Liverpool,0,8,2,25.0,0.0,0.0,17.2,0,0,0,1.0,1.0,0.12,-1.0,-1.0,12:30:00
+ENG-Premier League,1920,Watford,2019-12-22 Watford-Manchester Utd,2019-12-22,Matchweek 18,Sun,Home,W,2,0,Manchester Utd,2,10,2,20.0,0.1,0.5,17.0,0,1,1,1.5,0.7,0.07,0.5,0.3,14:00:00
+ENG-Premier League,1920,Watford,2019-12-26 Sheffield Utd-Watford,2019-12-26,Matchweek 19,Thu,Away,D,1,1,Sheffield Utd,1,5,2,40.0,0.2,0.5,19.7,2,0,0,0.6,0.6,0.12,0.4,0.4,15:00:00
+ENG-Premier League,1920,Watford,2019-12-28 Watford-Aston Villa,2019-12-28,Matchweek 20,Sat,Home,W,3,0,Aston Villa,3,19,5,26.3,0.11,0.4,17.8,0,1,1,2.8,2.0,0.11,0.2,0.0,15:00:00
+ENG-Premier League,1920,Watford,2020-01-01 Watford-Wolves,2020-01-01,Matchweek 21,Wed,Home,W,2,1,Wolves,2,9,3,33.3,0.22,0.67,17.7,0,0,0,1.1,1.1,0.12,0.9,0.9,15:00:00
+ENG-Premier League,1920,Watford,2020-01-12 Bournemouth-Watford,2020-01-12,Matchweek 22,Sun,Away,W,3,0,Bournemouth,3,18,5,27.8,0.17,0.6,14.6,0,0,0,2.0,2.0,0.12,1.0,1.0,14:00:00
+ENG-Premier League,1920,Watford,2020-01-18 Watford-Tottenham,2020-01-18,Matchweek 23,Sat,Home,D,0,0,Tottenham,0,14,1,7.1,0.0,0.0,18.5,1,0,1,2.5,1.8,0.13,-2.5,-1.8,12:30:00
+ENG-Premier League,1920,Watford,2020-01-21 Aston Villa-Watford,2020-01-21,Matchweek 24,Tue,Away,L,1,2,Aston Villa,1,8,2,25.0,0.13,0.5,11.5,0,0,0,1.8,1.8,0.23,-0.8,-0.8,19:30:00
+ENG-Premier League,1920,Watford,2020-02-01 Watford-Everton,2020-02-01,Matchweek 25,Sat,Home,L,2,3,Everton,2,11,2,18.2,0.18,1.0,17.6,0,0,0,0.9,0.9,0.08,1.1,1.1,15:00:00
+ENG-Premier League,1920,Watford,2020-02-08 Brighton-Watford,2020-02-08,Matchweek 26,Sat,Away,D,1,1,Brighton,1,5,2,40.0,0.2,0.5,20.4,0,0,0,0.2,0.2,0.05,0.8,0.8,17:30:00
+ENG-Premier League,1920,Watford,2020-02-23 Manchester Utd-Watford,2020-02-23,Matchweek 27,Sun,Away,L,0,3,Manchester Utd,0,7,2,28.6,0.0,0.0,19.3,1,0,0,0.3,0.3,0.05,-0.3,-0.3,14:00:00
+ENG-Premier League,1920,Watford,2020-02-29 Watford-Liverpool,2020-02-29,Matchweek 28,Sat,Home,W,3,0,Liverpool,3,14,5,35.7,0.21,0.6,17.4,0,0,0,2.3,2.3,0.17,0.7,0.7,17:30:00
+ENG-Premier League,1920,Watford,2020-03-07 Crystal Palace-Watford,2020-03-07,Matchweek 29,Sat,Away,L,0,1,Crystal Palace,0,10,3,30.0,0.0,0.0,17.7,0,0,0,0.6,0.6,0.06,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Watford,2020-06-20 Watford-Leicester City,2020-06-20,Matchweek 30,Sat,Home,D,1,1,Leicester City,1,8,4,50.0,0.13,0.25,15.3,0,0,0,1.3,1.3,0.16,-0.3,-0.3,12:30:00
+ENG-Premier League,1920,Watford,2020-06-25 Burnley-Watford,2020-06-25,Matchweek 31,Thu,Away,L,0,1,Burnley,0,10,3,30.0,0.0,0.0,15.4,1,0,0,0.7,0.7,0.07,-0.7,-0.7,18:00:00
+ENG-Premier League,1920,Watford,2020-06-28 Watford-Southampton,2020-06-28,Matchweek 32,Sun,Home,L,1,3,Southampton,0,8,0,0.0,0.0,,20.2,0,0,0,0.5,0.5,0.06,-0.5,-0.5,16:30:00
+ENG-Premier League,1920,Watford,2020-07-04 Chelsea-Watford,2020-07-04,Matchweek 33,Sat,Away,L,0,3,Chelsea,0,7,3,42.9,0.0,0.0,21.8,2,0,0,0.6,0.6,0.09,-0.6,-0.6,20:00:00
+ENG-Premier League,1920,Watford,2020-07-07 Watford-Norwich City,2020-07-07,Matchweek 34,Tue,Home,W,2,1,Norwich City,2,9,4,44.4,0.22,0.5,13.2,0,0,0,1.2,1.2,0.13,0.8,0.8,18:00:00
+ENG-Premier League,1920,Watford,2020-07-11 Watford-Newcastle Utd,2020-07-11,Matchweek 35,Sat,Home,W,2,1,Newcastle Utd,2,15,3,20.0,0.0,0.0,13.9,0,2,2,3.4,1.8,0.14,-1.4,-1.8,12:30:00
+ENG-Premier League,1920,Watford,2020-07-17 West Ham-Watford,2020-07-17,Matchweek 36,Fri,Away,L,1,3,West Ham,1,14,3,21.4,0.07,0.33,14.9,0,0,0,1.5,1.5,0.11,-0.5,-0.5,20:00:00
+ENG-Premier League,1920,Watford,2020-07-21 Watford-Manchester City,2020-07-21,Matchweek 37,Tue,Home,L,0,4,Manchester City,0,2,0,0.0,0.0,,15.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,18:00:00
+ENG-Premier League,1920,Watford,2020-07-26 Arsenal-Watford,2020-07-26,Matchweek 38,Sun,Away,L,2,3,Arsenal,2,18,5,27.8,0.06,0.2,13.7,1,1,1,3.7,2.9,0.16,-1.7,-1.9,16:00:00
+ENG-Premier League,1920,West Ham,2019-08-10 West Ham-Manchester City,2019-08-10,Matchweek 1,Sat,Home,L,0,5,Manchester City,0,5,3,60.0,0.0,0.0,12.7,1,0,0,1.1,1.1,0.23,-1.1,-1.1,12:30:00
+ENG-Premier League,1920,West Ham,2019-08-17 Brighton-West Ham,2019-08-17,Matchweek 2,Sat,Away,D,1,1,Brighton,1,8,3,37.5,0.13,0.33,19.2,0,0,0,0.8,0.8,0.1,0.2,0.2,15:00:00
+ENG-Premier League,1920,West Ham,2019-08-24 Watford-West Ham,2019-08-24,Matchweek 3,Sat,Away,W,3,1,Watford,3,15,9,60.0,0.13,0.22,14.0,0,1,1,3.5,2.7,0.21,-0.5,-0.7,15:00:00
+ENG-Premier League,1920,West Ham,2019-08-31 West Ham-Norwich City,2019-08-31,Matchweek 4,Sat,Home,W,2,0,Norwich City,2,18,7,38.9,0.11,0.29,14.9,0,0,0,2.0,2.0,0.11,0.0,0.0,15:00:00
+ENG-Premier League,1920,West Ham,2019-09-16 Aston Villa-West Ham,2019-09-16,Matchweek 5,Mon,Away,D,0,0,Aston Villa,0,13,1,7.7,0.0,0.0,22.0,0,0,0,0.6,0.6,0.04,-0.6,-0.6,20:00:00
+ENG-Premier League,1920,West Ham,2019-09-22 West Ham-Manchester Utd,2019-09-22,Matchweek 6,Sun,Home,W,2,0,Manchester Utd,2,8,6,75.0,0.25,0.33,20.7,2,0,0,0.4,0.4,0.05,1.6,1.6,14:00:00
+ENG-Premier League,1920,West Ham,2019-09-28 Bournemouth-West Ham,2019-09-28,Matchweek 7,Sat,Away,D,2,2,Bournemouth,2,17,6,35.3,0.12,0.33,16.6,1,0,0,1.6,1.6,0.09,0.4,0.4,15:00:00
+ENG-Premier League,1920,West Ham,2019-10-05 West Ham-Crystal Palace,2019-10-05,Matchweek 8,Sat,Home,L,1,2,Crystal Palace,1,9,4,44.4,0.11,0.25,12.0,0,0,0,1.4,1.4,0.15,-0.4,-0.4,17:30:00
+ENG-Premier League,1920,West Ham,2019-10-19 Everton-West Ham,2019-10-19,Matchweek 9,Sat,Away,L,0,2,Everton,0,8,4,50.0,0.0,0.0,18.4,2,0,0,0.8,0.8,0.1,-0.8,-0.8,12:30:00
+ENG-Premier League,1920,West Ham,2019-10-26 West Ham-Sheffield Utd,2019-10-26,Matchweek 10,Sat,Home,D,1,1,Sheffield Utd,1,12,4,33.3,0.08,0.25,15.4,0,0,0,2.3,2.3,0.22,-1.3,-1.3,15:00:00
+ENG-Premier League,1920,West Ham,2019-11-02 West Ham-Newcastle Utd,2019-11-02,Matchweek 11,Sat,Home,L,2,3,Newcastle Utd,2,16,6,37.5,0.13,0.33,14.4,0,0,0,1.8,1.8,0.12,0.2,0.2,15:00:00
+ENG-Premier League,1920,West Ham,2019-11-09 Burnley-West Ham,2019-11-09,Matchweek 12,Sat,Away,L,0,3,Burnley,0,7,4,57.1,0.0,0.0,18.4,0,0,0,0.5,0.5,0.07,-0.5,-0.5,15:00:00
+ENG-Premier League,1920,West Ham,2019-11-23 West Ham-Tottenham,2019-11-23,Matchweek 13,Sat,Home,L,2,3,Tottenham,2,11,4,36.4,0.18,0.5,17.2,1,0,0,0.7,0.7,0.06,1.3,1.3,12:30:00
+ENG-Premier League,1920,West Ham,2019-11-30 Chelsea-West Ham,2019-11-30,Matchweek 14,Sat,Away,W,1,0,Chelsea,1,5,4,80.0,0.2,0.25,9.4,0,0,0,0.9,0.9,0.19,0.1,0.1,15:00:00
+ENG-Premier League,1920,West Ham,2019-12-04 Wolves-West Ham,2019-12-04,Matchweek 15,Wed,Away,L,0,2,Wolves,0,6,3,50.0,0.0,0.0,18.6,0,0,0,0.6,0.6,0.09,-0.6,-0.6,19:30:00
+ENG-Premier League,1920,West Ham,2019-12-09 West Ham-Arsenal,2019-12-09,Matchweek 16,Mon,Home,L,1,3,Arsenal,1,11,4,36.4,0.09,0.25,18.4,0,0,0,0.6,0.6,0.06,0.4,0.4,20:00:00
+ENG-Premier League,1920,West Ham,2019-12-14 Southampton-West Ham,2019-12-14,Matchweek 17,Sat,Away,W,1,0,Southampton,1,11,4,36.4,0.09,0.25,13.6,0,0,0,0.9,0.9,0.08,0.1,0.1,17:30:00
+ENG-Premier League,1920,West Ham,2019-12-26 Crystal Palace-West Ham,2019-12-26,Matchweek 19,Thu,Away,L,1,2,Crystal Palace,1,10,2,20.0,0.1,0.5,16.8,0,0,0,0.9,0.9,0.09,0.1,0.1,15:00:00
+ENG-Premier League,1920,West Ham,2019-12-28 West Ham-Leicester City,2019-12-28,Matchweek 20,Sat,Home,L,1,2,Leicester City,1,14,4,28.6,0.07,0.25,14.2,0,0,0,1.0,1.0,0.08,0.0,0.0,17:30:00
+ENG-Premier League,1920,West Ham,2020-01-01 West Ham-Bournemouth,2020-01-01,Matchweek 21,Wed,Home,W,4,0,Bournemouth,4,13,6,46.2,0.23,0.5,18.0,1,1,1,2.4,1.6,0.12,1.6,1.4,17:30:00
+ENG-Premier League,1920,West Ham,2020-01-10 Sheffield Utd-West Ham,2020-01-10,Matchweek 22,Fri,Away,L,0,1,Sheffield Utd,0,7,2,28.6,0.0,0.0,15.6,1,0,0,0.7,0.7,0.11,-0.7,-0.7,20:00:00
+ENG-Premier League,1920,West Ham,2020-01-18 West Ham-Everton,2020-01-18,Matchweek 23,Sat,Home,D,1,1,Everton,1,12,5,41.7,0.08,0.2,14.0,0,0,0,1.3,1.3,0.11,-0.3,-0.3,15:00:00
+ENG-Premier League,1920,West Ham,2020-01-22 Leicester City-West Ham,2020-01-22,Matchweek 24,Wed,Away,L,1,4,Leicester City,1,5,1,20.0,0.0,0.0,12.6,0,1,1,1.6,0.8,0.17,-0.6,-0.8,19:30:00
+ENG-Premier League,1920,West Ham,2020-01-29 West Ham-Liverpool,2020-01-29,Matchweek 18,Wed,Home,L,0,2,Liverpool,0,7,4,57.1,0.0,0.0,16.8,0,0,0,0.7,0.7,0.1,-0.7,-0.7,19:45:00
+ENG-Premier League,1920,West Ham,2020-02-01 West Ham-Brighton,2020-02-01,Matchweek 25,Sat,Home,D,3,3,Brighton,3,12,6,50.0,0.25,0.5,17.1,0,0,0,0.8,0.8,0.07,2.2,2.2,15:00:00
+ENG-Premier League,1920,West Ham,2020-02-19 Manchester City-West Ham,2020-02-19,Matchweek 26,Wed,Away,L,0,2,Manchester City,0,3,0,0.0,0.0,,24.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,19:30:00
+ENG-Premier League,1920,West Ham,2020-02-24 Liverpool-West Ham,2020-02-24,Matchweek 27,Mon,Away,L,2,3,Liverpool,2,7,4,57.1,0.29,0.5,14.4,0,0,0,0.7,0.7,0.1,1.3,1.3,20:00:00
+ENG-Premier League,1920,West Ham,2020-02-29 West Ham-Southampton,2020-02-29,Matchweek 28,Sat,Home,W,3,1,Southampton,3,14,7,50.0,0.21,0.43,15.2,0,0,0,2.3,2.3,0.17,0.7,0.7,15:00:00
+ENG-Premier League,1920,West Ham,2020-03-07 Arsenal-West Ham,2020-03-07,Matchweek 29,Sat,Away,L,0,1,Arsenal,0,14,6,42.9,0.0,0.0,17.8,1,0,0,1.5,1.5,0.11,-1.5,-1.5,15:00:00
+ENG-Premier League,1920,West Ham,2020-06-20 West Ham-Wolves,2020-06-20,Matchweek 30,Sat,Home,L,0,2,Wolves,0,7,2,28.6,0.0,0.0,21.9,0,0,0,0.5,0.5,0.08,-0.5,-0.5,17:30:00
+ENG-Premier League,1920,West Ham,2020-06-23 Tottenham-West Ham,2020-06-23,Matchweek 31,Tue,Away,L,0,2,Tottenham,0,10,2,20.0,0.0,0.0,16.4,0,0,0,1.2,1.2,0.13,-1.2,-1.2,20:15:00
+ENG-Premier League,1920,West Ham,2020-07-01 West Ham-Chelsea,2020-07-01,Matchweek 32,Wed,Home,W,3,2,Chelsea,3,10,4,40.0,0.3,0.75,13.8,0,0,0,2.2,2.2,0.22,0.8,0.8,20:15:00
+ENG-Premier League,1920,West Ham,2020-07-05 Newcastle Utd-West Ham,2020-07-05,Matchweek 33,Sun,Away,D,2,2,Newcastle Utd,2,17,7,41.2,0.12,0.29,14.0,0,0,0,2.1,2.1,0.12,-0.1,-0.1,14:15:00
+ENG-Premier League,1920,West Ham,2020-07-08 West Ham-Burnley,2020-07-08,Matchweek 34,Wed,Home,L,0,1,Burnley,0,21,4,19.0,0.0,0.0,17.2,0,0,0,1.6,1.6,0.08,-1.6,-1.6,18:00:00
+ENG-Premier League,1920,West Ham,2020-07-11 Norwich City-West Ham,2020-07-11,Matchweek 35,Sat,Away,W,4,0,Norwich City,4,19,7,36.8,0.21,0.57,12.3,0,0,0,3.5,3.5,0.2,0.5,0.5,12:30:00
+ENG-Premier League,1920,West Ham,2020-07-17 West Ham-Watford,2020-07-17,Matchweek 36,Fri,Home,W,3,1,Watford,3,10,4,40.0,0.3,0.75,20.3,1,0,0,0.9,0.9,0.09,2.1,2.1,20:00:00
+ENG-Premier League,1920,West Ham,2020-07-22 Manchester Utd-West Ham,2020-07-22,Matchweek 37,Wed,Away,D,1,1,Manchester Utd,1,11,2,18.2,0.0,0.0,20.3,0,1,1,1.5,0.7,0.07,-0.5,-0.7,18:00:00
+ENG-Premier League,1920,West Ham,2020-07-26 West Ham-Aston Villa,2020-07-26,Matchweek 38,Sun,Home,D,1,1,Aston Villa,1,10,1,10.0,0.1,1.0,22.6,2,0,0,0.9,0.9,0.09,0.1,0.1,16:00:00
+ENG-Premier League,1920,Wolves,2019-08-11 Leicester City-Wolves,2019-08-11,Matchweek 1,Sun,Away,D,0,0,Leicester City,0,8,2,25.0,0.0,0.0,16.4,0,0,0,0.7,0.7,0.09,-0.7,-0.7,14:00:00
+ENG-Premier League,1920,Wolves,2019-08-19 Wolves-Manchester Utd,2019-08-19,Matchweek 2,Mon,Home,D,1,1,Manchester Utd,1,6,2,33.3,0.17,0.5,16.3,0,0,0,0.3,0.3,0.05,0.7,0.7,20:00:00
+ENG-Premier League,1920,Wolves,2019-08-25 Wolves-Burnley,2019-08-25,Matchweek 3,Sun,Home,D,1,1,Burnley,1,16,1,6.3,0.0,0.0,22.5,0,1,1,1.5,0.8,0.05,-0.5,-0.8,16:30:00
+ENG-Premier League,1920,Wolves,2019-09-01 Everton-Wolves,2019-09-01,Matchweek 4,Sun,Away,L,2,3,Everton,2,8,5,62.5,0.25,0.4,14.1,0,0,0,2.0,2.0,0.25,0.0,0.0,14:00:00
+ENG-Premier League,1920,Wolves,2019-09-14 Wolves-Chelsea,2019-09-14,Matchweek 5,Sat,Home,L,2,5,Chelsea,1,11,4,36.4,0.09,0.25,13.4,0,0,0,1.7,1.7,0.17,-0.7,-0.7,15:00:00
+ENG-Premier League,1920,Wolves,2019-09-22 Crystal Palace-Wolves,2019-09-22,Matchweek 6,Sun,Away,D,1,1,Crystal Palace,1,13,4,30.8,0.08,0.25,17.3,0,0,0,1.5,1.5,0.12,-0.5,-0.5,14:00:00
+ENG-Premier League,1920,Wolves,2019-09-28 Wolves-Watford,2019-09-28,Matchweek 7,Sat,Home,W,2,0,Watford,1,6,2,33.3,0.17,0.5,10.0,0,0,0,1.4,1.4,0.23,-0.4,-0.4,15:00:00
+ENG-Premier League,1920,Wolves,2019-10-06 Manchester City-Wolves,2019-10-06,Matchweek 8,Sun,Away,W,2,0,Manchester City,2,7,2,28.6,0.29,1.0,17.5,0,0,0,1.0,1.0,0.14,1.0,1.0,14:00:00
+ENG-Premier League,1920,Wolves,2019-10-19 Wolves-Southampton,2019-10-19,Matchweek 9,Sat,Home,D,1,1,Southampton,1,3,0,0.0,0.0,,25.9,0,1,1,0.9,0.1,0.05,0.1,-0.1,15:00:00
+ENG-Premier League,1920,Wolves,2019-10-27 Newcastle Utd-Wolves,2019-10-27,Matchweek 10,Sun,Away,D,1,1,Newcastle Utd,1,13,5,38.5,0.08,0.2,16.8,0,0,0,2.1,2.1,0.16,-1.1,-1.1,14:00:00
+ENG-Premier League,1920,Wolves,2019-11-02 Arsenal-Wolves,2019-11-02,Matchweek 11,Sat,Away,D,1,1,Arsenal,1,24,8,33.3,0.04,0.13,19.5,1,0,0,1.8,1.8,0.07,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Wolves,2019-11-10 Wolves-Aston Villa,2019-11-10,Matchweek 12,Sun,Home,W,2,1,Aston Villa,2,17,5,29.4,0.12,0.4,16.3,0,0,0,2.4,2.4,0.14,-0.4,-0.4,14:00:00
+ENG-Premier League,1920,Wolves,2019-11-23 Bournemouth-Wolves,2019-11-23,Matchweek 13,Sat,Away,W,2,1,Bournemouth,2,18,7,38.9,0.11,0.29,22.9,1,0,0,1.1,1.1,0.06,0.9,0.9,15:00:00
+ENG-Premier League,1920,Wolves,2019-12-01 Wolves-Sheffield Utd,2019-12-01,Matchweek 14,Sun,Home,D,1,1,Sheffield Utd,1,13,3,23.1,0.08,0.33,17.5,0,0,0,1.3,1.3,0.1,-0.3,-0.3,14:00:00
+ENG-Premier League,1920,Wolves,2019-12-04 Wolves-West Ham,2019-12-04,Matchweek 15,Wed,Home,W,2,0,West Ham,2,13,7,53.8,0.15,0.29,13.6,0,0,0,1.5,1.5,0.12,0.5,0.5,19:30:00
+ENG-Premier League,1920,Wolves,2019-12-08 Brighton-Wolves,2019-12-08,Matchweek 16,Sun,Away,D,2,2,Brighton,2,13,6,46.2,0.15,0.33,13.9,0,0,0,1.5,1.5,0.12,0.5,0.5,16:30:00
+ENG-Premier League,1920,Wolves,2019-12-15 Wolves-Tottenham,2019-12-15,Matchweek 17,Sun,Home,L,1,2,Tottenham,1,19,5,26.3,0.05,0.2,18.2,0,0,0,0.9,0.9,0.05,0.1,0.1,14:00:00
+ENG-Premier League,1920,Wolves,2019-12-21 Norwich City-Wolves,2019-12-21,Matchweek 18,Sat,Away,W,2,1,Norwich City,2,14,4,28.6,0.14,0.5,15.6,0,0,0,1.4,1.4,0.11,0.6,0.6,15:00:00
+ENG-Premier League,1920,Wolves,2019-12-27 Wolves-Manchester City,2019-12-27,Matchweek 19,Fri,Home,W,3,2,Manchester City,3,21,8,38.1,0.14,0.38,18.5,1,0,0,2.6,2.6,0.12,0.4,0.4,19:45:00
+ENG-Premier League,1920,Wolves,2019-12-29 Liverpool-Wolves,2019-12-29,Matchweek 20,Sun,Away,L,0,1,Liverpool,0,10,2,20.0,0.0,0.0,20.2,1,0,0,0.5,0.5,0.05,-0.5,-0.5,16:30:00
+ENG-Premier League,1920,Wolves,2020-01-01 Watford-Wolves,2020-01-01,Matchweek 21,Wed,Away,L,1,2,Watford,1,16,4,25.0,0.06,0.25,20.4,1,0,0,1.2,1.2,0.07,-0.2,-0.2,15:00:00
+ENG-Premier League,1920,Wolves,2020-01-11 Wolves-Newcastle Utd,2020-01-11,Matchweek 22,Sat,Home,D,1,1,Newcastle Utd,1,9,3,33.3,0.11,0.33,17.3,0,0,0,1.6,1.6,0.18,-0.6,-0.6,15:00:00
+ENG-Premier League,1920,Wolves,2020-01-18 Southampton-Wolves,2020-01-18,Matchweek 23,Sat,Away,W,3,2,Southampton,3,7,3,42.9,0.29,0.67,15.7,0,1,1,2.4,1.6,0.23,0.6,0.4,15:00:00
+ENG-Premier League,1920,Wolves,2020-01-23 Wolves-Liverpool,2020-01-23,Matchweek 24,Thu,Home,L,1,2,Liverpool,1,10,3,30.0,0.1,0.33,13.0,0,0,0,1.8,1.8,0.18,-0.8,-0.8,20:00:00
+ENG-Premier League,1920,Wolves,2020-02-01 Manchester Utd-Wolves,2020-02-01,Matchweek 25,Sat,Away,D,0,0,Manchester Utd,0,15,4,26.7,0.0,0.0,13.6,1,0,0,1.3,1.3,0.09,-1.3,-1.3,17:30:00
+ENG-Premier League,1920,Wolves,2020-02-14 Wolves-Leicester City,2020-02-14,Matchweek 26,Fri,Home,D,0,0,Leicester City,0,15,3,20.0,0.0,0.0,17.2,2,0,0,1.0,1.0,0.06,-1.0,-1.0,20:00:00
+ENG-Premier League,1920,Wolves,2020-02-23 Wolves-Norwich City,2020-02-23,Matchweek 27,Sun,Home,W,3,0,Norwich City,3,19,6,31.6,0.16,0.5,15.4,2,0,0,2.9,2.9,0.17,0.1,0.1,14:00:00
+ENG-Premier League,1920,Wolves,2020-03-01 Tottenham-Wolves,2020-03-01,Matchweek 28,Sun,Away,W,3,2,Tottenham,3,14,4,28.6,0.21,0.75,14.5,0,0,0,2.6,2.6,0.19,0.4,0.4,14:00:00
+ENG-Premier League,1920,Wolves,2020-03-07 Wolves-Brighton,2020-03-07,Matchweek 29,Sat,Home,D,0,0,Brighton,0,11,1,9.1,0.0,0.0,20.6,0,0,0,0.8,0.8,0.07,-0.8,-0.8,15:00:00
+ENG-Premier League,1920,Wolves,2020-06-20 West Ham-Wolves,2020-06-20,Matchweek 30,Sat,Away,W,2,0,West Ham,2,10,6,60.0,0.2,0.33,18.1,0,0,0,1.0,1.0,0.1,1.0,1.0,17:30:00
+ENG-Premier League,1920,Wolves,2020-06-24 Wolves-Bournemouth,2020-06-24,Matchweek 31,Wed,Home,W,1,0,Bournemouth,1,10,2,20.0,0.1,0.5,20.6,1,0,0,1.7,1.7,0.17,-0.7,-0.7,18:00:00
+ENG-Premier League,1920,Wolves,2020-06-27 Aston Villa-Wolves,2020-06-27,Matchweek 32,Sat,Away,W,1,0,Aston Villa,1,9,2,22.2,0.11,0.5,15.7,0,0,0,0.7,0.7,0.08,0.3,0.3,12:30:00
+ENG-Premier League,1920,Wolves,2020-07-04 Wolves-Arsenal,2020-07-04,Matchweek 33,Sat,Home,L,0,2,Arsenal,0,10,1,10.0,0.0,0.0,19.5,1,0,0,1.2,1.2,0.12,-1.2,-1.2,17:30:00
+ENG-Premier League,1920,Wolves,2020-07-08 Sheffield Utd-Wolves,2020-07-08,Matchweek 34,Wed,Away,L,0,1,Sheffield Utd,0,6,1,16.7,0.0,0.0,21.7,1,0,0,0.4,0.4,0.06,-0.4,-0.4,18:00:00
+ENG-Premier League,1920,Wolves,2020-07-12 Wolves-Everton,2020-07-12,Matchweek 35,Sun,Home,W,3,0,Everton,3,13,6,46.2,0.15,0.33,17.6,0,1,1,2.6,1.8,0.14,0.4,0.2,12:00:00
+ENG-Premier League,1920,Wolves,2020-07-15 Burnley-Wolves,2020-07-15,Matchweek 36,Wed,Away,D,1,1,Burnley,1,14,5,35.7,0.07,0.2,16.6,0,0,0,1.2,1.2,0.09,-0.2,-0.2,18:00:00
+ENG-Premier League,1920,Wolves,2020-07-20 Wolves-Crystal Palace,2020-07-20,Matchweek 37,Mon,Home,W,2,0,Crystal Palace,2,11,5,45.5,0.18,0.4,13.8,0,0,0,1.5,1.5,0.14,0.5,0.5,20:15:00
+ENG-Premier League,1920,Wolves,2020-07-26 Chelsea-Wolves,2020-07-26,Matchweek 38,Sun,Away,L,0,2,Chelsea,0,5,1,20.0,0.0,0.0,23.3,0,0,0,0.2,0.2,0.04,-0.2,-0.2,16:00:00
