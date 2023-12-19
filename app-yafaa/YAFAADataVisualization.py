@@ -27,9 +27,10 @@ class yafaaSQL:
         """
         if isinstance(dataframe, pd.DataFrame):
             # Already loaded in DuckDB, use SQL query
+            df = dataframe
             query = f"""
             SELECT *
-            FROM {dataframe}
+            FROM df
             WHERE League_season = ?
             """
             parameters = (year,)
@@ -53,10 +54,11 @@ class yafaaSQL:
         """
         if isinstance(dataframe, pd.DataFrame):
             # Already loaded in DuckDB, use SQL query
+            df = dataframe
             column = "teams_home_id" if home else "teams_away_id"
             query = f"""
                 SELECT *
-                FROM {dataframe}
+                FROM df
                 WHERE {column} = ?
             """
             parameters = (team,)
@@ -230,7 +232,8 @@ class yaffaPLT:
                             width=300)
         
         return fig.to_html(full_html=False)
-    
+
+
     def plot_stacked_bar(self, key_cols, plot_cols, x_column, dataframe, title=None):
         # Sort the values
         sorted_cols = [col for col in key_cols if col is not None]
