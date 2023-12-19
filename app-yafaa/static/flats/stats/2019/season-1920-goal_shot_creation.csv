@@ -1,0 +1,763 @@
+,,,,date,round,day,venue,result,GF,GA,opponent,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,time
+,,,,,,,,,,,,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,
+league,season,team,game,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1920,Arsenal,2019-08-11 Newcastle Utd-Arsenal,2019-08-11,Matchweek 1,Sun,Away,W,1,0,Newcastle Utd,15,10,2,0,1,1,1,2,1,0,0,0,0,1,14:00:00
+ENG-Premier League,1920,Arsenal,2019-08-17 Arsenal-Burnley,2019-08-17,Matchweek 2,Sat,Home,W,2,1,Burnley,27,21,2,1,2,0,1,3,0,1,0,1,0,1,12:30:00
+ENG-Premier League,1920,Arsenal,2019-08-24 Liverpool-Arsenal,2019-08-24,Matchweek 3,Sat,Away,L,1,3,Liverpool,13,10,1,2,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Arsenal,2019-09-01 Arsenal-Tottenham,2019-09-01,Matchweek 4,Sun,Home,D,2,2,Tottenham,45,31,3,3,4,3,1,4,3,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Arsenal,2019-09-15 Watford-Arsenal,2019-09-15,Matchweek 5,Sun,Away,D,2,2,Watford,13,11,0,1,0,0,1,3,3,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Arsenal,2019-09-22 Arsenal-Aston Villa,2019-09-22,Matchweek 6,Sun,Home,W,3,2,Aston Villa,37,22,4,3,4,3,1,4,1,0,0,0,2,1,16:30:00
+ENG-Premier League,1920,Arsenal,2019-09-30 Manchester Utd-Arsenal,2019-09-30,Matchweek 7,Mon,Away,D,1,1,Manchester Utd,16,12,0,2,1,1,0,1,1,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Arsenal,2019-10-06 Arsenal-Bournemouth,2019-10-06,Matchweek 8,Sun,Home,W,1,0,Bournemouth,20,15,3,1,0,0,1,2,1,1,0,0,0,0,14:00:00
+ENG-Premier League,1920,Arsenal,2019-10-21 Sheffield Utd-Arsenal,2019-10-21,Matchweek 9,Mon,Away,L,0,1,Sheffield Utd,16,13,1,0,1,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Arsenal,2019-10-27 Arsenal-Crystal Palace,2019-10-27,Matchweek 10,Sun,Home,D,2,2,Crystal Palace,28,18,6,1,1,2,0,3,1,1,0,1,0,0,16:30:00
+ENG-Premier League,1920,Arsenal,2019-11-02 Arsenal-Wolves,2019-11-02,Matchweek 11,Sat,Home,D,1,1,Wolves,17,13,2,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Arsenal,2019-11-09 Leicester City-Arsenal,2019-11-09,Matchweek 12,Sat,Away,L,0,2,Leicester City,14,9,0,2,2,0,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Arsenal,2019-11-23 Arsenal-Southampton,2019-11-23,Matchweek 13,Sat,Home,D,2,2,Southampton,22,13,4,0,3,2,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Arsenal,2019-12-01 Norwich City-Arsenal,2019-12-01,Matchweek 14,Sun,Away,D,2,2,Norwich City,27,17,4,1,4,1,0,2,0,0,0,1,1,0,14:00:00
+ENG-Premier League,1920,Arsenal,2019-12-05 Arsenal-Brighton,2019-12-05,Matchweek 15,Thu,Home,L,1,2,Brighton,24,14,2,3,3,1,1,2,1,1,0,0,0,0,20:15:00
+ENG-Premier League,1920,Arsenal,2019-12-09 West Ham-Arsenal,2019-12-09,Matchweek 16,Mon,Away,W,3,1,West Ham,17,16,0,1,0,0,0,6,6,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Arsenal,2019-12-15 Arsenal-Manchester City,2019-12-15,Matchweek 17,Sun,Home,L,0,3,Manchester City,12,11,0,0,0,0,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Arsenal,2019-12-21 Everton-Arsenal,2019-12-21,Matchweek 18,Sat,Away,D,0,0,Everton,10,7,1,1,1,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Arsenal,2019-12-26 Bournemouth-Arsenal,2019-12-26,Matchweek 19,Thu,Away,D,1,1,Bournemouth,29,23,1,1,4,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Arsenal,2019-12-29 Arsenal-Chelsea,2019-12-29,Matchweek 20,Sun,Home,L,1,2,Chelsea,12,6,3,0,1,1,1,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Arsenal,2020-01-01 Arsenal-Manchester Utd,2020-01-01,Matchweek 21,Wed,Home,W,2,0,Manchester Utd,19,13,1,4,1,0,0,3,2,0,0,1,0,0,20:00:00
+ENG-Premier League,1920,Arsenal,2020-01-11 Crystal Palace-Arsenal,2020-01-11,Matchweek 22,Sat,Away,D,1,1,Crystal Palace,11,7,1,0,2,1,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Arsenal,2020-01-18 Arsenal-Sheffield Utd,2020-01-18,Matchweek 23,Sat,Home,D,1,1,Sheffield Utd,21,15,2,2,0,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Arsenal,2020-01-21 Chelsea-Arsenal,2020-01-21,Matchweek 24,Tue,Away,D,2,2,Chelsea,2,2,0,0,0,0,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Arsenal,2020-02-02 Burnley-Arsenal,2020-02-02,Matchweek 25,Sun,Away,D,0,0,Burnley,25,19,1,2,2,0,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Arsenal,2020-02-16 Arsenal-Newcastle Utd,2020-02-16,Matchweek 26,Sun,Home,W,4,0,Newcastle Utd,29,22,1,3,2,1,0,8,7,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Arsenal,2020-02-23 Arsenal-Everton,2020-02-23,Matchweek 27,Sun,Home,W,3,2,Everton,16,14,1,1,0,0,0,6,6,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Arsenal,2020-03-07 Arsenal-West Ham,2020-03-07,Matchweek 29,Sat,Home,W,1,0,West Ham,17,12,0,3,2,0,0,2,1,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Arsenal,2020-06-17 Manchester City-Arsenal,2020-06-17,Matchweek 28,Wed,Away,L,0,3,Manchester City,4,4,0,0,0,0,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Arsenal,2020-06-20 Brighton-Arsenal,2020-06-20,Matchweek 30,Sat,Away,L,1,2,Brighton,21,16,1,2,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Arsenal,2020-06-25 Southampton-Arsenal,2020-06-25,Matchweek 31,Thu,Away,W,2,0,Southampton,15,9,0,1,2,1,2,2,0,0,0,1,0,1,18:00:00
+ENG-Premier League,1920,Arsenal,2020-07-01 Arsenal-Norwich City,2020-07-01,Matchweek 32,Wed,Home,W,4,0,Norwich City,21,13,2,2,0,2,2,5,3,0,0,0,0,2,18:00:00
+ENG-Premier League,1920,Arsenal,2020-07-04 Wolves-Arsenal,2020-07-04,Matchweek 33,Sat,Away,W,2,0,Wolves,12,8,1,1,0,1,1,4,3,0,1,0,0,0,17:30:00
+ENG-Premier League,1920,Arsenal,2020-07-07 Arsenal-Leicester City,2020-07-07,Matchweek 34,Tue,Home,D,1,1,Leicester City,19,13,2,1,2,1,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Arsenal,2020-07-12 Tottenham-Arsenal,2020-07-12,Matchweek 35,Sun,Away,L,1,2,Tottenham,21,15,0,2,1,3,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Arsenal,2020-07-15 Arsenal-Liverpool,2020-07-15,Matchweek 36,Wed,Home,W,2,1,Liverpool,4,3,0,1,0,0,0,2,1,0,1,0,0,0,20:15:00
+ENG-Premier League,1920,Arsenal,2020-07-21 Aston Villa-Arsenal,2020-07-21,Matchweek 37,Tue,Away,L,0,1,Aston Villa,13,9,3,0,0,1,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Arsenal,2020-07-26 Arsenal-Watford,2020-07-26,Matchweek 38,Sun,Home,W,3,2,Watford,25,15,4,4,0,2,0,6,4,1,0,0,1,0,16:00:00
+ENG-Premier League,1920,Aston Villa,2019-08-10 Tottenham-Aston Villa,2019-08-10,Matchweek 1,Sat,Away,L,1,3,Tottenham,9,8,0,0,0,0,1,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Aston Villa,2019-08-17 Aston Villa-Bournemouth,2019-08-17,Matchweek 2,Sat,Home,L,1,2,Bournemouth,41,33,3,2,1,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-08-23 Aston Villa-Everton,2019-08-23,Matchweek 3,Fri,Home,W,2,0,Everton,13,11,1,1,0,0,0,4,3,0,1,0,0,0,20:00:00
+ENG-Premier League,1920,Aston Villa,2019-08-31 Crystal Palace-Aston Villa,2019-08-31,Matchweek 4,Sat,Away,L,0,1,Crystal Palace,19,14,2,0,0,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-09-16 Aston Villa-West Ham,2019-09-16,Matchweek 5,Mon,Home,D,0,0,West Ham,20,18,2,0,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Aston Villa,2019-09-22 Arsenal-Aston Villa,2019-09-22,Matchweek 6,Sun,Away,L,2,3,Arsenal,26,22,1,2,0,1,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Aston Villa,2019-09-28 Aston Villa-Burnley,2019-09-28,Matchweek 7,Sat,Home,D,2,2,Burnley,29,26,2,1,0,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-10-05 Norwich City-Aston Villa,2019-10-05,Matchweek 8,Sat,Away,W,5,1,Norwich City,35,27,1,1,4,1,1,8,8,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-10-19 Aston Villa-Brighton,2019-10-19,Matchweek 9,Sat,Home,W,2,1,Brighton,45,33,1,5,2,3,1,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-10-26 Manchester City-Aston Villa,2019-10-26,Matchweek 10,Sat,Away,L,0,3,Manchester City,14,9,0,1,4,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Aston Villa,2019-11-02 Aston Villa-Liverpool,2019-11-02,Matchweek 11,Sat,Home,L,1,2,Liverpool,6,3,2,0,0,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-11-10 Wolves-Aston Villa,2019-11-10,Matchweek 12,Sun,Away,L,1,2,Wolves,25,14,3,4,1,3,0,2,0,1,0,0,1,0,14:00:00
+ENG-Premier League,1920,Aston Villa,2019-11-25 Aston Villa-Newcastle Utd,2019-11-25,Matchweek 13,Mon,Home,W,2,0,Newcastle Utd,34,28,3,0,1,2,0,4,2,1,0,0,1,0,20:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-01 Manchester Utd-Aston Villa,2019-12-01,Matchweek 14,Sun,Away,D,2,2,Manchester Utd,17,12,0,1,1,2,1,4,3,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Aston Villa,2019-12-04 Chelsea-Aston Villa,2019-12-04,Matchweek 15,Wed,Away,L,1,2,Chelsea,18,14,2,1,1,0,0,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Aston Villa,2019-12-08 Aston Villa-Leicester City,2019-12-08,Matchweek 16,Sun,Home,L,1,4,Leicester City,29,19,5,1,0,3,1,2,0,1,0,0,1,0,14:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-14 Sheffield Utd-Aston Villa,2019-12-14,Matchweek 17,Sat,Away,L,0,2,Sheffield Utd,14,13,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-21 Aston Villa-Southampton,2019-12-21,Matchweek 18,Sat,Home,L,1,3,Southampton,34,24,4,2,2,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-26 Aston Villa-Norwich City,2019-12-26,Matchweek 19,Thu,Home,W,1,0,Norwich City,18,11,3,1,2,1,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2019-12-28 Watford-Aston Villa,2019-12-28,Matchweek 20,Sat,Away,L,0,3,Watford,22,17,2,0,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-01-01 Burnley-Aston Villa,2020-01-01,Matchweek 21,Wed,Away,W,2,1,Burnley,21,16,2,1,1,1,0,4,4,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Aston Villa,2020-01-12 Aston Villa-Manchester City,2020-01-12,Matchweek 22,Sun,Home,L,1,6,Manchester City,14,6,1,4,2,1,0,2,0,0,1,0,1,0,16:30:00
+ENG-Premier League,1920,Aston Villa,2020-01-18 Brighton-Aston Villa,2020-01-18,Matchweek 23,Sat,Away,D,1,1,Brighton,14,8,2,1,0,3,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-01-21 Aston Villa-Watford,2020-01-21,Matchweek 24,Tue,Home,W,2,1,Watford,29,19,6,0,2,2,0,2,0,0,0,2,0,0,19:30:00
+ENG-Premier League,1920,Aston Villa,2020-02-01 Bournemouth-Aston Villa,2020-02-01,Matchweek 25,Sat,Away,L,1,2,Bournemouth,26,20,1,3,1,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-02-16 Aston Villa-Tottenham,2020-02-16,Matchweek 26,Sun,Home,L,2,3,Tottenham,35,21,6,5,2,1,0,2,1,1,0,0,0,0,14:00:00
+ENG-Premier League,1920,Aston Villa,2020-02-22 Southampton-Aston Villa,2020-02-22,Matchweek 27,Sat,Away,L,0,2,Southampton,8,8,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Aston Villa,2020-03-09 Leicester City-Aston Villa,2020-03-09,Matchweek 29,Mon,Away,L,0,4,Leicester City,7,5,1,0,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Aston Villa,2020-06-17 Aston Villa-Sheffield Utd,2020-06-17,Matchweek 28,Wed,Home,D,0,0,Sheffield Utd,26,10,11,0,3,2,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Aston Villa,2020-06-21 Aston Villa-Chelsea,2020-06-21,Matchweek 30,Sun,Home,L,1,2,Chelsea,15,9,2,0,1,3,0,1,0,0,0,1,0,0,16:15:00
+ENG-Premier League,1920,Aston Villa,2020-06-24 Newcastle Utd-Aston Villa,2020-06-24,Matchweek 31,Wed,Away,D,1,1,Newcastle Utd,26,19,3,2,0,2,0,2,1,1,0,0,0,0,18:00:00
+ENG-Premier League,1920,Aston Villa,2020-06-27 Aston Villa-Wolves,2020-06-27,Matchweek 32,Sat,Home,L,0,1,Wolves,21,14,3,0,1,3,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Aston Villa,2020-07-05 Liverpool-Aston Villa,2020-07-05,Matchweek 33,Sun,Away,L,0,2,Liverpool,17,12,2,1,1,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Aston Villa,2020-07-09 Aston Villa-Manchester Utd,2020-07-09,Matchweek 34,Thu,Home,L,0,3,Manchester Utd,15,11,1,0,0,2,1,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Aston Villa,2020-07-12 Aston Villa-Crystal Palace,2020-07-12,Matchweek 35,Sun,Home,W,2,0,Crystal Palace,24,20,2,0,0,2,0,4,3,0,0,0,1,0,14:15:00
+ENG-Premier League,1920,Aston Villa,2020-07-16 Everton-Aston Villa,2020-07-16,Matchweek 36,Thu,Away,D,1,1,Everton,28,21,3,0,1,2,1,2,0,1,0,0,1,0,18:00:00
+ENG-Premier League,1920,Aston Villa,2020-07-21 Aston Villa-Arsenal,2020-07-21,Matchweek 37,Tue,Home,W,1,0,Arsenal,14,10,2,1,0,1,0,1,0,1,0,0,0,0,20:15:00
+ENG-Premier League,1920,Aston Villa,2020-07-26 West Ham-Aston Villa,2020-07-26,Matchweek 38,Sun,Away,D,1,1,West Ham,20,14,2,1,1,2,0,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-10 Bournemouth-Sheffield Utd,2019-08-10,Matchweek 1,Sat,Home,D,1,1,Sheffield Utd,22,12,2,1,3,3,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-17 Aston Villa-Bournemouth,2019-08-17,Matchweek 2,Sat,Away,W,2,1,Aston Villa,21,17,2,0,1,1,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-25 Bournemouth-Manchester City,2019-08-25,Matchweek 3,Sun,Home,L,1,3,Manchester City,17,10,2,1,0,3,1,2,1,0,0,0,1,0,14:00:00
+ENG-Premier League,1920,Bournemouth,2019-08-31 Leicester City-Bournemouth,2019-08-31,Matchweek 4,Sat,Away,L,1,3,Leicester City,15,13,1,1,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-09-15 Bournemouth-Everton,2019-09-15,Matchweek 5,Sun,Home,W,3,1,Everton,21,13,3,1,1,3,0,4,1,0,1,1,1,0,14:00:00
+ENG-Premier League,1920,Bournemouth,2019-09-20 Southampton-Bournemouth,2019-09-20,Matchweek 6,Fri,Away,W,3,1,Southampton,9,5,1,2,0,1,0,6,4,1,1,0,0,0,20:00:00
+ENG-Premier League,1920,Bournemouth,2019-09-28 Bournemouth-West Ham,2019-09-28,Matchweek 7,Sat,Home,D,2,2,West Ham,23,14,5,1,3,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-10-06 Arsenal-Bournemouth,2019-10-06,Matchweek 8,Sun,Away,L,0,1,Arsenal,18,12,3,1,0,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Bournemouth,2019-10-19 Bournemouth-Norwich City,2019-10-19,Matchweek 9,Sat,Home,D,0,0,Norwich City,21,15,3,0,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-10-26 Watford-Bournemouth,2019-10-26,Matchweek 10,Sat,Away,D,0,0,Watford,27,20,2,0,2,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-11-02 Bournemouth-Manchester Utd,2019-11-02,Matchweek 11,Sat,Home,W,1,0,Manchester Utd,22,18,0,1,1,2,0,2,1,0,1,0,0,0,12:30:00
+ENG-Premier League,1920,Bournemouth,2019-11-09 Newcastle Utd-Bournemouth,2019-11-09,Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,29,25,0,0,2,1,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-11-23 Bournemouth-Wolves,2019-11-23,Matchweek 13,Sat,Home,L,1,2,Wolves,16,9,2,0,3,2,0,2,0,1,0,1,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-11-30 Tottenham-Bournemouth,2019-11-30,Matchweek 14,Sat,Away,L,2,3,Tottenham,37,26,3,4,2,2,0,4,1,1,1,0,1,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-03 Crystal Palace-Bournemouth,2019-12-03,Matchweek 15,Tue,Away,L,0,1,Crystal Palace,11,9,1,0,0,1,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Bournemouth,2019-12-07 Bournemouth-Liverpool,2019-12-07,Matchweek 16,Sat,Home,L,0,3,Liverpool,6,6,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-14 Chelsea-Bournemouth,2019-12-14,Matchweek 17,Sat,Away,W,1,0,Chelsea,17,7,3,2,4,0,1,2,1,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-21 Bournemouth-Burnley,2019-12-21,Matchweek 18,Sat,Home,L,0,1,Burnley,6,6,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-26 Bournemouth-Arsenal,2019-12-26,Matchweek 19,Thu,Home,D,1,1,Arsenal,22,15,3,2,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2019-12-28 Brighton-Bournemouth,2019-12-28,Matchweek 20,Sat,Away,L,0,2,Brighton,14,11,1,1,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Bournemouth,2020-01-01 West Ham-Bournemouth,2020-01-01,Matchweek 21,Wed,Away,L,0,4,West Ham,6,6,0,0,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Bournemouth,2020-01-12 Bournemouth-Watford,2020-01-12,Matchweek 22,Sun,Home,L,0,3,Watford,20,16,1,1,0,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Bournemouth,2020-01-18 Norwich City-Bournemouth,2020-01-18,Matchweek 23,Sat,Away,L,0,1,Norwich City,9,5,3,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-01-21 Bournemouth-Brighton,2020-01-21,Matchweek 24,Tue,Home,W,3,1,Brighton,18,13,2,1,0,1,1,4,3,0,1,0,0,0,19:30:00
+ENG-Premier League,1920,Bournemouth,2020-02-01 Bournemouth-Aston Villa,2020-02-01,Matchweek 25,Sat,Home,W,2,1,Aston Villa,29,18,3,0,4,4,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-02-09 Sheffield Utd-Bournemouth,2020-02-09,Matchweek 26,Sun,Away,L,1,2,Sheffield Utd,17,11,1,3,1,1,0,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Bournemouth,2020-02-22 Burnley-Bournemouth,2020-02-22,Matchweek 27,Sat,Away,L,0,3,Burnley,20,18,0,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-02-29 Bournemouth-Chelsea,2020-02-29,Matchweek 28,Sat,Home,D,2,2,Chelsea,17,12,3,1,1,0,0,4,2,2,0,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-03-07 Liverpool-Bournemouth,2020-03-07,Matchweek 29,Sat,Away,L,1,2,Liverpool,12,9,1,1,0,1,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Bournemouth,2020-06-20 Bournemouth-Crystal Palace,2020-06-20,Matchweek 30,Sat,Home,L,0,2,Crystal Palace,19,12,5,0,0,1,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1920,Bournemouth,2020-06-24 Wolves-Bournemouth,2020-06-24,Matchweek 31,Wed,Away,L,0,1,Wolves,7,5,1,1,0,0,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-01 Bournemouth-Newcastle Utd,2020-07-01,Matchweek 32,Wed,Home,L,1,4,Newcastle Utd,22,14,1,2,1,4,0,1,0,0,0,1,0,0,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-04 Manchester Utd-Bournemouth,2020-07-04,Matchweek 33,Sat,Away,L,2,5,Manchester Utd,9,7,0,1,1,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-09 Bournemouth-Tottenham,2020-07-09,Matchweek 34,Thu,Home,D,0,0,Tottenham,15,7,4,1,2,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-12 Bournemouth-Leicester City,2020-07-12,Matchweek 35,Sun,Home,W,4,1,Leicester City,12,9,1,1,0,1,0,4,2,0,1,0,1,0,19:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-15 Manchester City-Bournemouth,2020-07-15,Matchweek 36,Wed,Away,L,1,2,Manchester City,26,22,1,1,1,1,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-19 Bournemouth-Southampton,2020-07-19,Matchweek 37,Sun,Home,L,0,2,Southampton,14,10,2,0,2,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Bournemouth,2020-07-26 Everton-Bournemouth,2020-07-26,Matchweek 38,Sun,Away,W,3,1,Everton,23,15,3,1,2,2,0,5,2,1,0,1,1,0,16:00:00
+ENG-Premier League,1920,Brighton,2019-08-10 Watford-Brighton,2019-08-10,Matchweek 1,Sat,Away,W,3,0,Watford,10,9,0,1,0,0,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-08-17 Brighton-West Ham,2019-08-17,Matchweek 2,Sat,Home,D,1,1,West Ham,27,18,4,2,2,1,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-08-24 Brighton-Southampton,2019-08-24,Matchweek 3,Sat,Home,L,0,2,Southampton,21,13,4,1,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-08-31 Manchester City-Brighton,2019-08-31,Matchweek 4,Sat,Away,L,0,4,Manchester City,11,10,0,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-09-14 Brighton-Burnley,2019-09-14,Matchweek 5,Sat,Home,D,1,1,Burnley,25,21,2,0,2,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-09-21 Newcastle Utd-Brighton,2019-09-21,Matchweek 6,Sat,Away,D,0,0,Newcastle Utd,30,27,1,1,1,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Brighton,2019-09-28 Chelsea-Brighton,2019-09-28,Matchweek 7,Sat,Away,L,0,2,Chelsea,14,10,2,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-10-05 Brighton-Tottenham,2019-10-05,Matchweek 8,Sat,Home,W,3,0,Tottenham,33,25,3,1,2,2,0,5,4,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Brighton,2019-10-19 Aston Villa-Brighton,2019-10-19,Matchweek 9,Sat,Away,L,1,2,Aston Villa,36,29,2,2,2,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-10-26 Brighton-Everton,2019-10-26,Matchweek 10,Sat,Home,W,3,2,Everton,15,12,0,0,0,3,0,4,2,0,0,0,2,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-11-02 Brighton-Norwich City,2019-11-02,Matchweek 11,Sat,Home,W,2,0,Norwich City,35,24,4,5,0,1,1,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-11-10 Manchester Utd-Brighton,2019-11-10,Matchweek 12,Sun,Away,L,1,3,Manchester Utd,10,4,3,0,1,2,0,1,0,1,0,0,0,0,14:00:00
+ENG-Premier League,1920,Brighton,2019-11-23 Brighton-Leicester City,2019-11-23,Matchweek 13,Sat,Home,L,0,2,Leicester City,14,13,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-11-30 Liverpool-Brighton,2019-11-30,Matchweek 14,Sat,Away,L,1,2,Liverpool,21,18,1,0,2,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-12-05 Arsenal-Brighton,2019-12-05,Matchweek 15,Thu,Away,W,2,1,Arsenal,34,20,7,0,3,4,0,4,3,1,0,0,0,0,20:15:00
+ENG-Premier League,1920,Brighton,2019-12-08 Brighton-Wolves,2019-12-08,Matchweek 16,Sun,Home,D,2,2,Wolves,19,13,2,1,2,1,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Brighton,2019-12-16 Crystal Palace-Brighton,2019-12-16,Matchweek 17,Mon,Away,D,1,1,Crystal Palace,26,15,5,1,3,1,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1920,Brighton,2019-12-21 Brighton-Sheffield Utd,2019-12-21,Matchweek 18,Sat,Home,L,0,1,Sheffield Utd,15,12,0,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2019-12-26 Tottenham-Brighton,2019-12-26,Matchweek 19,Thu,Away,L,1,2,Tottenham,20,12,2,1,1,4,0,2,0,1,0,0,1,0,12:30:00
+ENG-Premier League,1920,Brighton,2019-12-28 Brighton-Bournemouth,2019-12-28,Matchweek 20,Sat,Home,W,2,0,Bournemouth,31,25,2,3,1,0,0,4,3,0,1,0,0,0,12:30:00
+ENG-Premier League,1920,Brighton,2020-01-01 Brighton-Chelsea,2020-01-01,Matchweek 21,Wed,Home,D,1,1,Chelsea,27,15,4,1,4,3,0,2,1,1,0,0,0,0,12:30:00
+ENG-Premier League,1920,Brighton,2020-01-11 Everton-Brighton,2020-01-11,Matchweek 22,Sat,Away,L,0,1,Everton,18,13,1,3,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2020-01-18 Brighton-Aston Villa,2020-01-18,Matchweek 23,Sat,Home,D,1,1,Aston Villa,17,12,2,0,2,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2020-01-21 Bournemouth-Brighton,2020-01-21,Matchweek 24,Tue,Away,L,1,3,Bournemouth,34,28,1,1,2,1,1,2,1,0,1,0,0,0,19:30:00
+ENG-Premier League,1920,Brighton,2020-02-01 West Ham-Brighton,2020-02-01,Matchweek 25,Sat,Away,D,3,3,West Ham,35,29,1,1,2,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2020-02-08 Brighton-Watford,2020-02-08,Matchweek 26,Sat,Home,D,1,1,Watford,20,17,1,1,1,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Brighton,2020-02-22 Sheffield Utd-Brighton,2020-02-22,Matchweek 27,Sat,Away,D,1,1,Sheffield Utd,12,5,3,0,3,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2020-02-29 Brighton-Crystal Palace,2020-02-29,Matchweek 28,Sat,Home,L,0,1,Crystal Palace,42,35,4,3,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Brighton,2020-03-07 Wolves-Brighton,2020-03-07,Matchweek 29,Sat,Away,D,0,0,Wolves,12,11,0,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2020-06-20 Brighton-Arsenal,2020-06-20,Matchweek 30,Sat,Home,W,2,1,Arsenal,14,12,1,0,0,0,1,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Brighton,2020-06-23 Leicester City-Brighton,2020-06-23,Matchweek 31,Tue,Away,D,0,0,Leicester City,15,8,1,1,2,2,1,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Brighton,2020-06-30 Brighton-Manchester Utd,2020-06-30,Matchweek 32,Tue,Home,L,0,3,Manchester Utd,12,9,2,0,0,1,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Brighton,2020-07-04 Norwich City-Brighton,2020-07-04,Matchweek 33,Sat,Away,W,1,0,Norwich City,16,13,1,0,0,2,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Brighton,2020-07-08 Brighton-Liverpool,2020-07-08,Matchweek 34,Wed,Home,L,1,3,Liverpool,19,15,2,1,1,0,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Brighton,2020-07-11 Brighton-Manchester City,2020-07-11,Matchweek 35,Sat,Home,L,0,5,Manchester City,5,3,1,1,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Brighton,2020-07-16 Southampton-Brighton,2020-07-16,Matchweek 36,Thu,Away,D,1,1,Southampton,15,12,1,0,2,0,0,2,1,1,0,0,0,0,20:15:00
+ENG-Premier League,1920,Brighton,2020-07-20 Brighton-Newcastle Utd,2020-07-20,Matchweek 37,Mon,Home,D,0,0,Newcastle Utd,21,15,2,2,0,2,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Brighton,2020-07-26 Burnley-Brighton,2020-07-26,Matchweek 38,Sun,Away,W,2,1,Burnley,23,17,0,2,4,0,0,4,3,0,1,0,0,0,16:00:00
+ENG-Premier League,1920,Burnley,2019-08-10 Burnley-Southampton,2019-08-10,Matchweek 1,Sat,Home,W,3,0,Southampton,14,8,3,2,1,0,0,5,4,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-08-17 Arsenal-Burnley,2019-08-17,Matchweek 2,Sat,Away,L,1,2,Arsenal,30,16,8,1,3,2,0,1,0,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Burnley,2019-08-25 Wolves-Burnley,2019-08-25,Matchweek 3,Sun,Away,D,1,1,Wolves,23,19,1,1,2,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Burnley,2019-08-31 Burnley-Liverpool,2019-08-31,Matchweek 4,Sat,Home,L,0,3,Liverpool,12,8,2,1,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Burnley,2019-09-14 Brighton-Burnley,2019-09-14,Matchweek 5,Sat,Away,D,1,1,Brighton,13,11,1,0,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-09-21 Burnley-Norwich City,2019-09-21,Matchweek 6,Sat,Home,W,2,0,Norwich City,25,16,4,1,1,3,0,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-09-28 Aston Villa-Burnley,2019-09-28,Matchweek 7,Sat,Away,D,2,2,Aston Villa,19,12,4,0,1,2,0,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-10-05 Burnley-Everton,2019-10-05,Matchweek 8,Sat,Home,W,1,0,Everton,15,12,2,0,0,1,0,1,0,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-10-19 Leicester City-Burnley,2019-10-19,Matchweek 9,Sat,Away,L,1,2,Leicester City,22,14,4,0,1,2,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-10-26 Burnley-Chelsea,2019-10-26,Matchweek 10,Sat,Home,L,2,4,Chelsea,24,18,3,1,2,0,0,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Burnley,2019-11-02 Sheffield Utd-Burnley,2019-11-02,Matchweek 11,Sat,Away,L,0,3,Sheffield Utd,9,7,1,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-11-09 Burnley-West Ham,2019-11-09,Matchweek 12,Sat,Home,W,3,0,West Ham,22,13,4,3,1,1,0,4,2,1,1,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-11-23 Watford-Burnley,2019-11-23,Matchweek 13,Sat,Away,W,3,0,Watford,17,9,1,0,5,2,0,4,0,0,0,3,1,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-11-30 Burnley-Crystal Palace,2019-11-30,Matchweek 14,Sat,Home,L,0,2,Crystal Palace,24,13,5,0,4,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-03 Burnley-Manchester City,2019-12-03,Matchweek 15,Tue,Home,L,1,4,Manchester City,7,3,1,0,1,2,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Burnley,2019-12-07 Tottenham-Burnley,2019-12-07,Matchweek 16,Sat,Away,L,0,5,Tottenham,11,7,2,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-14 Burnley-Newcastle Utd,2019-12-14,Matchweek 17,Sat,Home,W,1,0,Newcastle Utd,14,10,2,1,0,0,1,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-21 Bournemouth-Burnley,2019-12-21,Matchweek 18,Sat,Away,W,1,0,Bournemouth,2,2,0,0,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-26 Everton-Burnley,2019-12-26,Matchweek 19,Thu,Away,L,0,1,Everton,11,6,3,0,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2019-12-28 Burnley-Manchester Utd,2019-12-28,Matchweek 20,Sat,Home,L,0,2,Manchester Utd,16,12,1,0,0,2,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1920,Burnley,2020-01-01 Burnley-Aston Villa,2020-01-01,Matchweek 21,Wed,Home,L,1,2,Aston Villa,36,32,0,1,2,1,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Burnley,2020-01-11 Chelsea-Burnley,2020-01-11,Matchweek 22,Sat,Away,L,0,3,Chelsea,11,3,2,1,3,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2020-01-19 Burnley-Leicester City,2020-01-19,Matchweek 23,Sun,Home,W,2,1,Leicester City,13,10,1,0,1,1,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Burnley,2020-01-22 Manchester Utd-Burnley,2020-01-22,Matchweek 24,Wed,Away,W,2,0,Manchester Utd,10,6,3,0,0,1,0,4,3,1,0,0,0,0,20:15:00
+ENG-Premier League,1920,Burnley,2020-02-02 Burnley-Arsenal,2020-02-02,Matchweek 25,Sun,Home,D,0,0,Arsenal,29,21,3,1,1,3,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Burnley,2020-02-15 Southampton-Burnley,2020-02-15,Matchweek 26,Sat,Away,W,2,1,Southampton,14,11,1,2,0,0,0,3,1,1,1,0,0,0,12:30:00
+ENG-Premier League,1920,Burnley,2020-02-22 Burnley-Bournemouth,2020-02-22,Matchweek 27,Sat,Home,W,3,0,Bournemouth,24,17,2,2,0,2,1,4,2,0,1,0,0,1,15:00:00
+ENG-Premier League,1920,Burnley,2020-02-29 Newcastle Utd-Burnley,2020-02-29,Matchweek 28,Sat,Away,D,0,0,Newcastle Utd,12,7,2,2,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2020-03-07 Burnley-Tottenham,2020-03-07,Matchweek 29,Sat,Home,D,1,1,Tottenham,37,23,3,2,6,2,1,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,1920,Burnley,2020-06-22 Manchester City-Burnley,2020-06-22,Matchweek 30,Mon,Away,L,0,5,Manchester City,2,0,0,1,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Burnley,2020-06-25 Burnley-Watford,2020-06-25,Matchweek 31,Thu,Home,W,1,0,Watford,14,12,0,0,2,0,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Burnley,2020-06-29 Crystal Palace-Burnley,2020-06-29,Matchweek 32,Mon,Away,W,1,0,Crystal Palace,14,7,3,1,0,2,1,2,0,1,0,0,1,0,20:00:00
+ENG-Premier League,1920,Burnley,2020-07-05 Burnley-Sheffield Utd,2020-07-05,Matchweek 33,Sun,Home,D,1,1,Sheffield Utd,14,9,3,0,1,1,0,2,1,1,0,0,0,0,12:00:00
+ENG-Premier League,1920,Burnley,2020-07-08 West Ham-Burnley,2020-07-08,Matchweek 34,Wed,Away,W,1,0,West Ham,15,13,1,0,0,1,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Burnley,2020-07-11 Liverpool-Burnley,2020-07-11,Matchweek 35,Sat,Away,D,1,1,Liverpool,9,6,1,0,1,0,1,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Burnley,2020-07-15 Burnley-Wolves,2020-07-15,Matchweek 36,Wed,Home,D,1,1,Wolves,17,12,2,1,0,2,0,1,1,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Burnley,2020-07-18 Norwich City-Burnley,2020-07-18,Matchweek 37,Sat,Away,W,2,0,Norwich City,42,35,2,2,1,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Burnley,2020-07-26 Burnley-Brighton,2020-07-26,Matchweek 38,Sun,Home,L,1,2,Brighton,24,19,2,0,2,0,1,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1920,Chelsea,2019-08-11 Manchester Utd-Chelsea,2019-08-11,Matchweek 1,Sun,Away,L,0,4,Manchester Utd,34,26,3,1,2,1,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Chelsea,2019-08-18 Chelsea-Leicester City,2019-08-18,Matchweek 2,Sun,Home,D,1,1,Leicester City,26,24,1,0,0,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Chelsea,2019-08-24 Norwich City-Chelsea,2019-08-24,Matchweek 3,Sat,Away,W,3,2,Norwich City,45,36,1,4,2,0,2,6,6,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Chelsea,2019-08-31 Chelsea-Sheffield Utd,2019-08-31,Matchweek 4,Sat,Home,D,2,2,Sheffield Utd,25,18,1,3,1,2,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-09-14 Wolves-Chelsea,2019-09-14,Matchweek 5,Sat,Away,W,5,2,Wolves,29,18,4,5,0,2,0,10,7,0,3,0,0,0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-09-22 Chelsea-Liverpool,2019-09-22,Matchweek 6,Sun,Home,L,1,2,Liverpool,25,21,2,0,2,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Chelsea,2019-09-28 Chelsea-Brighton,2019-09-28,Matchweek 7,Sat,Home,W,2,0,Brighton,39,32,1,0,4,1,1,3,2,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-10-06 Southampton-Chelsea,2019-10-06,Matchweek 8,Sun,Away,W,4,1,Southampton,23,17,2,1,1,0,2,8,6,0,1,0,0,1,14:00:00
+ENG-Premier League,1920,Chelsea,2019-10-19 Chelsea-Newcastle Utd,2019-10-19,Matchweek 9,Sat,Home,W,1,0,Newcastle Utd,31,20,4,2,2,2,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-10-26 Burnley-Chelsea,2019-10-26,Matchweek 10,Sat,Away,W,4,2,Burnley,29,22,2,1,1,2,1,6,4,0,1,0,0,1,17:30:00
+ENG-Premier League,1920,Chelsea,2019-11-02 Watford-Chelsea,2019-11-02,Matchweek 11,Sat,Away,W,2,1,Watford,27,21,1,3,1,1,0,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Chelsea,2019-11-09 Chelsea-Crystal Palace,2019-11-09,Matchweek 12,Sat,Home,W,2,0,Crystal Palace,42,31,1,4,2,3,1,3,2,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Chelsea,2019-11-23 Manchester City-Chelsea,2019-11-23,Matchweek 13,Sat,Away,L,1,2,Manchester City,21,19,0,0,1,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Chelsea,2019-11-30 Chelsea-West Ham,2019-11-30,Matchweek 14,Sat,Home,L,0,1,West Ham,34,25,4,3,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-12-04 Chelsea-Aston Villa,2019-12-04,Matchweek 15,Wed,Home,W,2,1,Aston Villa,46,36,1,5,2,1,1,4,4,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Chelsea,2019-12-07 Everton-Chelsea,2019-12-07,Matchweek 16,Sat,Away,L,1,3,Everton,27,20,3,1,1,2,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Chelsea,2019-12-14 Chelsea-Bournemouth,2019-12-14,Matchweek 17,Sat,Home,L,0,1,Bournemouth,24,15,3,0,5,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-12-22 Tottenham-Chelsea,2019-12-22,Matchweek 18,Sun,Away,W,2,0,Tottenham,24,20,1,1,0,2,0,4,2,1,0,0,1,0,16:30:00
+ENG-Premier League,1920,Chelsea,2019-12-26 Chelsea-Southampton,2019-12-26,Matchweek 19,Thu,Home,L,0,2,Southampton,20,15,4,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Chelsea,2019-12-29 Arsenal-Chelsea,2019-12-29,Matchweek 20,Sun,Away,W,2,1,Arsenal,25,14,5,0,2,3,1,4,2,1,0,0,1,0,14:00:00
+ENG-Premier League,1920,Chelsea,2020-01-01 Brighton-Chelsea,2020-01-01,Matchweek 21,Wed,Away,D,1,1,Brighton,27,20,2,2,2,1,0,1,0,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Chelsea,2020-01-11 Chelsea-Burnley,2020-01-11,Matchweek 22,Sat,Home,W,3,0,Burnley,35,28,2,0,2,2,1,6,5,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Chelsea,2020-01-18 Newcastle Utd-Chelsea,2020-01-18,Matchweek 23,Sat,Away,L,0,1,Newcastle Utd,37,34,1,1,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Chelsea,2020-01-21 Chelsea-Arsenal,2020-01-21,Matchweek 24,Tue,Home,D,2,2,Arsenal,33,26,4,1,0,2,0,4,1,1,1,0,1,0,20:15:00
+ENG-Premier League,1920,Chelsea,2020-02-01 Leicester City-Chelsea,2020-02-01,Matchweek 25,Sat,Away,D,2,2,Leicester City,13,9,2,0,0,2,0,3,0,2,0,0,1,0,12:30:00
+ENG-Premier League,1920,Chelsea,2020-02-17 Chelsea-Manchester Utd,2020-02-17,Matchweek 26,Mon,Home,L,0,2,Manchester Utd,31,27,0,0,3,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Chelsea,2020-02-22 Chelsea-Tottenham,2020-02-22,Matchweek 27,Sat,Home,W,2,1,Tottenham,29,16,2,4,4,2,1,3,2,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Chelsea,2020-02-29 Bournemouth-Chelsea,2020-02-29,Matchweek 28,Sat,Away,D,2,2,Bournemouth,41,33,3,1,4,0,0,2,0,0,0,2,0,0,15:00:00
+ENG-Premier League,1920,Chelsea,2020-03-08 Chelsea-Everton,2020-03-08,Matchweek 29,Sun,Home,W,4,0,Everton,30,20,4,4,1,1,0,8,7,0,1,0,0,0,14:00:00
+ENG-Premier League,1920,Chelsea,2020-06-21 Aston Villa-Chelsea,2020-06-21,Matchweek 30,Sun,Away,W,2,1,Aston Villa,33,28,2,0,2,0,1,4,4,0,0,0,0,0,16:15:00
+ENG-Premier League,1920,Chelsea,2020-06-25 Chelsea-Manchester City,2020-06-25,Matchweek 31,Thu,Home,W,2,1,Manchester City,20,10,2,3,5,0,0,2,0,0,1,1,0,0,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-01 West Ham-Chelsea,2020-07-01,Matchweek 32,Wed,Away,L,2,3,West Ham,32,25,3,1,0,3,0,4,2,0,0,0,2,0,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-04 Chelsea-Watford,2020-07-04,Matchweek 33,Sat,Home,W,3,0,Watford,36,25,1,1,4,5,0,6,5,0,0,0,1,0,20:00:00
+ENG-Premier League,1920,Chelsea,2020-07-07 Crystal Palace-Chelsea,2020-07-07,Matchweek 34,Tue,Away,W,3,2,Crystal Palace,25,19,3,2,1,0,0,6,6,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Chelsea,2020-07-11 Sheffield Utd-Chelsea,2020-07-11,Matchweek 35,Sat,Away,L,0,3,Sheffield Utd,27,20,2,1,2,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Chelsea,2020-07-14 Chelsea-Norwich City,2020-07-14,Matchweek 36,Tue,Home,W,1,0,Norwich City,40,32,4,0,2,1,1,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-22 Liverpool-Chelsea,2020-07-22,Matchweek 37,Wed,Away,L,3,5,Liverpool,19,15,2,1,1,0,0,5,2,1,1,1,0,0,20:15:00
+ENG-Premier League,1920,Chelsea,2020-07-26 Chelsea-Wolves,2020-07-26,Matchweek 38,Sun,Home,W,2,0,Wolves,17,10,3,1,1,2,0,4,1,0,1,1,1,0,16:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-10 Crystal Palace-Everton,2019-08-10,Matchweek 1,Sat,Home,D,0,0,Everton,11,7,2,0,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-18 Sheffield Utd-Crystal Palace,2019-08-18,Matchweek 2,Sun,Away,L,0,1,Sheffield Utd,10,7,0,1,0,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-24 Manchester Utd-Crystal Palace,2019-08-24,Matchweek 3,Sat,Away,W,2,1,Manchester Utd,9,7,0,0,0,1,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-08-31 Crystal Palace-Aston Villa,2019-08-31,Matchweek 4,Sat,Home,W,1,0,Aston Villa,39,22,6,3,4,3,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-09-14 Tottenham-Crystal Palace,2019-09-14,Matchweek 5,Sat,Away,L,0,4,Tottenham,20,16,2,0,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-09-22 Crystal Palace-Wolves,2019-09-22,Matchweek 6,Sun,Home,D,1,1,Wolves,19,12,1,3,2,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Crystal Palace,2019-09-28 Crystal Palace-Norwich City,2019-09-28,Matchweek 7,Sat,Home,W,2,0,Norwich City,24,18,1,2,2,1,0,4,1,0,1,1,1,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-10-05 West Ham-Crystal Palace,2019-10-05,Matchweek 8,Sat,Away,W,2,1,West Ham,11,6,1,2,1,1,0,3,3,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Crystal Palace,2019-10-19 Crystal Palace-Manchester City,2019-10-19,Matchweek 9,Sat,Home,L,0,2,Manchester City,12,7,2,1,1,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Crystal Palace,2019-10-27 Arsenal-Crystal Palace,2019-10-27,Matchweek 10,Sun,Away,D,2,2,Arsenal,18,13,2,1,0,2,0,4,3,0,0,0,1,0,16:30:00
+ENG-Premier League,1920,Crystal Palace,2019-11-03 Crystal Palace-Leicester City,2019-11-03,Matchweek 11,Sun,Home,L,0,2,Leicester City,23,14,2,5,1,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Crystal Palace,2019-11-09 Chelsea-Crystal Palace,2019-11-09,Matchweek 12,Sat,Away,L,0,2,Chelsea,6,3,1,1,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Crystal Palace,2019-11-23 Crystal Palace-Liverpool,2019-11-23,Matchweek 13,Sat,Home,L,1,2,Liverpool,25,22,0,0,3,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-11-30 Burnley-Crystal Palace,2019-11-30,Matchweek 14,Sat,Away,W,2,0,Burnley,11,9,1,0,0,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-03 Crystal Palace-Bournemouth,2019-12-03,Matchweek 15,Tue,Home,W,1,0,Bournemouth,11,5,2,0,1,1,2,2,1,0,0,1,0,0,19:30:00
+ENG-Premier League,1920,Crystal Palace,2019-12-07 Watford-Crystal Palace,2019-12-07,Matchweek 16,Sat,Away,D,0,0,Watford,6,4,0,2,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-16 Crystal Palace-Brighton,2019-12-16,Matchweek 17,Mon,Home,D,1,1,Brighton,15,13,1,1,0,0,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1920,Crystal Palace,2019-12-21 Newcastle Utd-Crystal Palace,2019-12-21,Matchweek 18,Sat,Away,L,0,1,Newcastle Utd,32,21,4,3,1,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-26 Crystal Palace-West Ham,2019-12-26,Matchweek 19,Thu,Home,W,2,1,West Ham,22,14,1,6,1,0,0,4,2,0,2,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2019-12-28 Southampton-Crystal Palace,2019-12-28,Matchweek 20,Sat,Away,D,1,1,Southampton,7,3,2,1,0,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-01-01 Norwich City-Crystal Palace,2020-01-01,Matchweek 21,Wed,Away,D,1,1,Norwich City,21,14,2,0,2,3,0,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,1920,Crystal Palace,2020-01-11 Crystal Palace-Arsenal,2020-01-11,Matchweek 22,Sat,Home,D,1,1,Arsenal,11,6,2,1,0,2,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Crystal Palace,2020-01-18 Manchester City-Crystal Palace,2020-01-18,Matchweek 23,Sat,Away,D,2,2,Manchester City,10,5,2,1,1,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-01-21 Crystal Palace-Southampton,2020-01-21,Matchweek 24,Tue,Home,L,0,2,Southampton,10,8,0,0,0,1,1,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Crystal Palace,2020-02-01 Crystal Palace-Sheffield Utd,2020-02-01,Matchweek 25,Sat,Home,L,0,1,Sheffield Utd,23,20,1,1,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-02-08 Everton-Crystal Palace,2020-02-08,Matchweek 26,Sat,Away,L,1,3,Everton,18,11,0,5,2,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Crystal Palace,2020-02-22 Crystal Palace-Newcastle Utd,2020-02-22,Matchweek 27,Sat,Home,W,1,0,Newcastle Utd,32,16,6,3,2,5,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-02-29 Brighton-Crystal Palace,2020-02-29,Matchweek 28,Sat,Away,W,1,0,Brighton,21,9,5,4,2,1,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Crystal Palace,2020-03-07 Crystal Palace-Watford,2020-03-07,Matchweek 29,Sat,Home,W,1,0,Watford,19,13,3,1,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-06-20 Bournemouth-Crystal Palace,2020-06-20,Matchweek 30,Sat,Away,W,2,0,Bournemouth,11,8,2,0,0,1,0,4,3,0,0,0,1,0,19:45:00
+ENG-Premier League,1920,Crystal Palace,2020-06-24 Liverpool-Crystal Palace,2020-06-24,Matchweek 31,Wed,Away,L,0,4,Liverpool,3,2,0,1,0,0,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Crystal Palace,2020-06-29 Crystal Palace-Burnley,2020-06-29,Matchweek 32,Mon,Home,L,0,1,Burnley,26,17,3,1,2,3,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Crystal Palace,2020-07-04 Leicester City-Crystal Palace,2020-07-04,Matchweek 33,Sat,Away,L,0,3,Leicester City,14,11,1,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Crystal Palace,2020-07-07 Crystal Palace-Chelsea,2020-07-07,Matchweek 34,Tue,Home,L,2,3,Chelsea,20,13,3,1,1,2,0,4,3,0,1,0,0,0,18:00:00
+ENG-Premier League,1920,Crystal Palace,2020-07-12 Aston Villa-Crystal Palace,2020-07-12,Matchweek 35,Sun,Away,L,0,2,Aston Villa,16,11,1,1,2,1,0,0,0,0,0,0,0,0,14:15:00
+ENG-Premier League,1920,Crystal Palace,2020-07-16 Crystal Palace-Manchester Utd,2020-07-16,Matchweek 36,Thu,Home,L,0,2,Manchester Utd,22,17,0,2,2,1,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Crystal Palace,2020-07-20 Wolves-Crystal Palace,2020-07-20,Matchweek 37,Mon,Away,L,0,2,Wolves,13,10,0,2,0,1,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Crystal Palace,2020-07-26 Crystal Palace-Tottenham,2020-07-26,Matchweek 38,Sun,Home,D,1,1,Tottenham,22,13,6,0,1,2,0,1,0,0,0,1,0,0,16:00:00
+ENG-Premier League,1920,Everton,2019-08-10 Crystal Palace-Everton,2019-08-10,Matchweek 1,Sat,Away,D,0,0,Crystal Palace,15,12,1,0,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-08-17 Everton-Watford,2019-08-17,Matchweek 2,Sat,Home,W,1,0,Watford,21,8,4,4,1,3,1,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-08-23 Aston Villa-Everton,2019-08-23,Matchweek 3,Fri,Away,L,0,2,Aston Villa,23,19,3,0,1,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Everton,2019-09-01 Everton-Wolves,2019-09-01,Matchweek 4,Sun,Home,W,3,2,Wolves,26,12,6,2,3,2,1,4,4,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Everton,2019-09-15 Bournemouth-Everton,2019-09-15,Matchweek 5,Sun,Away,L,1,3,Bournemouth,24,20,0,1,3,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Everton,2019-09-21 Everton-Sheffield Utd,2019-09-21,Matchweek 6,Sat,Home,L,0,2,Sheffield Utd,30,24,1,1,1,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-09-28 Everton-Manchester City,2019-09-28,Matchweek 7,Sat,Home,L,1,3,Manchester City,22,10,5,1,2,4,0,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,1920,Everton,2019-10-05 Burnley-Everton,2019-10-05,Matchweek 8,Sat,Away,L,0,1,Burnley,19,13,2,1,1,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-10-19 Everton-West Ham,2019-10-19,Matchweek 9,Sat,Home,W,2,0,West Ham,35,20,6,2,3,3,1,4,2,0,2,0,0,0,12:30:00
+ENG-Premier League,1920,Everton,2019-10-26 Brighton-Everton,2019-10-26,Matchweek 10,Sat,Away,L,2,3,Brighton,18,13,2,1,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-11-03 Everton-Tottenham,2019-11-03,Matchweek 11,Sun,Home,D,1,1,Tottenham,13,11,1,1,0,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Everton,2019-11-09 Southampton-Everton,2019-11-09,Matchweek 12,Sat,Away,W,2,1,Southampton,39,24,7,2,5,1,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-11-23 Everton-Norwich City,2019-11-23,Matchweek 13,Sat,Home,L,0,2,Norwich City,35,24,4,1,4,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-12-01 Leicester City-Everton,2019-12-01,Matchweek 14,Sun,Away,L,1,2,Leicester City,22,10,4,5,2,1,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Everton,2019-12-04 Liverpool-Everton,2019-12-04,Matchweek 15,Wed,Away,L,2,5,Liverpool,20,14,2,0,1,2,1,3,2,0,0,1,0,0,20:15:00
+ENG-Premier League,1920,Everton,2019-12-07 Everton-Chelsea,2019-12-07,Matchweek 16,Sat,Home,W,3,1,Chelsea,22,14,2,2,1,1,2,6,6,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Everton,2019-12-15 Manchester Utd-Everton,2019-12-15,Matchweek 17,Sun,Away,D,1,1,Manchester Utd,13,8,1,1,1,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Everton,2019-12-21 Everton-Arsenal,2019-12-21,Matchweek 18,Sat,Home,D,0,0,Arsenal,11,9,0,1,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Everton,2019-12-26 Everton-Burnley,2019-12-26,Matchweek 19,Thu,Home,W,1,0,Burnley,38,25,5,0,3,4,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2019-12-28 Newcastle Utd-Everton,2019-12-28,Matchweek 20,Sat,Away,W,2,1,Newcastle Utd,36,25,1,1,8,1,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Everton,2020-01-01 Manchester City-Everton,2020-01-01,Matchweek 21,Wed,Away,L,1,2,Manchester City,10,6,3,0,1,0,0,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,1920,Everton,2020-01-11 Everton-Brighton,2020-01-11,Matchweek 22,Sat,Home,W,1,0,Brighton,27,22,1,3,1,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2020-01-18 West Ham-Everton,2020-01-18,Matchweek 23,Sat,Away,D,1,1,West Ham,18,13,3,0,1,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Everton,2020-01-21 Everton-Newcastle Utd,2020-01-21,Matchweek 24,Tue,Home,D,2,2,Newcastle Utd,30,26,0,1,1,1,1,4,4,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Everton,2020-02-01 Watford-Everton,2020-02-01,Matchweek 25,Sat,Away,W,3,2,Watford,20,13,2,0,2,2,1,4,1,1,0,2,0,0,15:00:00
+ENG-Premier League,1920,Everton,2020-02-08 Everton-Crystal Palace,2020-02-08,Matchweek 26,Sat,Home,W,3,1,Crystal Palace,21,11,2,3,2,2,1,4,2,0,1,1,0,0,12:30:00
+ENG-Premier League,1920,Everton,2020-02-23 Arsenal-Everton,2020-02-23,Matchweek 27,Sun,Away,L,2,3,Arsenal,24,12,2,2,4,2,2,2,0,0,0,1,1,0,16:30:00
+ENG-Premier League,1920,Everton,2020-03-01 Everton-Manchester Utd,2020-03-01,Matchweek 28,Sun,Home,D,1,1,Manchester Utd,22,11,2,3,4,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Everton,2020-03-08 Chelsea-Everton,2020-03-08,Matchweek 29,Sun,Away,L,0,4,Chelsea,5,2,1,0,0,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Everton,2020-06-21 Everton-Liverpool,2020-06-21,Matchweek 30,Sun,Home,D,0,0,Liverpool,12,8,2,1,1,0,0,0,0,0,0,0,0,0,19:00:00
+ENG-Premier League,1920,Everton,2020-06-24 Norwich City-Everton,2020-06-24,Matchweek 31,Wed,Away,W,1,0,Norwich City,21,14,3,0,2,1,1,2,1,1,0,0,0,0,18:00:00
+ENG-Premier League,1920,Everton,2020-07-01 Everton-Leicester City,2020-07-01,Matchweek 32,Wed,Home,W,2,1,Leicester City,12,9,1,0,1,1,0,3,2,0,0,0,1,0,18:00:00
+ENG-Premier League,1920,Everton,2020-07-06 Tottenham-Everton,2020-07-06,Matchweek 33,Mon,Away,L,0,1,Tottenham,18,10,2,2,1,3,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Everton,2020-07-09 Everton-Southampton,2020-07-09,Matchweek 34,Thu,Home,D,1,1,Southampton,17,8,2,1,4,2,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Everton,2020-07-12 Wolves-Everton,2020-07-12,Matchweek 35,Sun,Away,L,0,3,Wolves,12,12,0,0,0,0,0,0,0,0,0,0,0,0,12:00:00
+ENG-Premier League,1920,Everton,2020-07-16 Everton-Aston Villa,2020-07-16,Matchweek 36,Thu,Home,D,1,1,Aston Villa,18,15,1,1,0,1,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Everton,2020-07-20 Sheffield Utd-Everton,2020-07-20,Matchweek 37,Mon,Away,W,1,0,Sheffield Utd,10,8,1,0,0,1,0,2,0,1,0,0,1,0,18:00:00
+ENG-Premier League,1920,Everton,2020-07-26 Everton-Bournemouth,2020-07-26,Matchweek 38,Sun,Home,L,1,3,Bournemouth,26,21,1,3,1,0,0,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1920,Leicester City,2019-08-11 Leicester City-Wolves,2019-08-11,Matchweek 1,Sun,Home,D,0,0,Wolves,29,23,2,1,0,3,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Leicester City,2019-08-18 Chelsea-Leicester City,2019-08-18,Matchweek 2,Sun,Away,D,1,1,Chelsea,17,14,1,1,1,0,0,2,1,1,0,0,0,0,16:30:00
+ENG-Premier League,1920,Leicester City,2019-08-24 Sheffield Utd-Leicester City,2019-08-24,Matchweek 3,Sat,Away,W,2,1,Sheffield Utd,19,14,0,2,0,2,1,4,3,0,0,0,0,1,15:00:00
+ENG-Premier League,1920,Leicester City,2019-08-31 Leicester City-Bournemouth,2019-08-31,Matchweek 4,Sat,Home,W,3,1,Bournemouth,27,23,2,1,1,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-09-14 Manchester Utd-Leicester City,2019-09-14,Matchweek 5,Sat,Away,L,0,1,Manchester Utd,15,10,1,2,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-09-21 Leicester City-Tottenham,2019-09-21,Matchweek 6,Sat,Home,W,2,1,Tottenham,26,19,0,5,2,0,0,3,3,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Leicester City,2019-09-29 Leicester City-Newcastle Utd,2019-09-29,Matchweek 7,Sun,Home,W,5,0,Newcastle Utd,25,23,0,2,0,0,0,8,8,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Leicester City,2019-10-05 Liverpool-Leicester City,2019-10-05,Matchweek 8,Sat,Away,L,1,2,Liverpool,4,4,0,0,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-10-19 Leicester City-Burnley,2019-10-19,Matchweek 9,Sat,Home,W,2,1,Burnley,36,28,4,2,1,1,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-10-25 Southampton-Leicester City,2019-10-25,Matchweek 10,Fri,Away,W,9,0,Southampton,43,29,0,7,3,2,2,16,10,0,3,1,2,0,20:00:00
+ENG-Premier League,1920,Leicester City,2019-11-03 Crystal Palace-Leicester City,2019-11-03,Matchweek 11,Sun,Away,W,2,0,Crystal Palace,27,9,8,2,3,5,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Leicester City,2019-11-09 Leicester City-Arsenal,2019-11-09,Matchweek 12,Sat,Home,W,2,0,Arsenal,32,28,1,2,0,1,0,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Leicester City,2019-11-23 Brighton-Leicester City,2019-11-23,Matchweek 13,Sat,Away,W,2,0,Brighton,33,22,3,2,1,3,2,3,2,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-12-01 Leicester City-Everton,2019-12-01,Matchweek 14,Sun,Home,W,2,1,Everton,31,25,2,2,1,1,0,3,2,0,0,1,0,0,16:30:00
+ENG-Premier League,1920,Leicester City,2019-12-04 Leicester City-Watford,2019-12-04,Matchweek 15,Wed,Home,W,2,0,Watford,22,15,1,3,1,2,0,4,2,0,1,0,1,0,19:30:00
+ENG-Premier League,1920,Leicester City,2019-12-08 Aston Villa-Leicester City,2019-12-08,Matchweek 16,Sun,Away,W,4,1,Aston Villa,41,25,5,4,4,3,0,7,4,1,2,0,0,0,14:00:00
+ENG-Premier League,1920,Leicester City,2019-12-14 Leicester City-Norwich City,2019-12-14,Matchweek 17,Sat,Home,D,1,1,Norwich City,31,21,4,3,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2019-12-21 Manchester City-Leicester City,2019-12-21,Matchweek 18,Sat,Away,L,1,3,Manchester City,9,8,0,1,0,0,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Leicester City,2019-12-26 Leicester City-Liverpool,2019-12-26,Matchweek 19,Thu,Home,L,0,4,Liverpool,6,4,0,2,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Leicester City,2019-12-28 West Ham-Leicester City,2019-12-28,Matchweek 20,Sat,Away,W,2,1,West Ham,25,15,1,5,1,3,0,4,3,0,1,0,0,0,17:30:00
+ENG-Premier League,1920,Leicester City,2020-01-01 Newcastle Utd-Leicester City,2020-01-01,Matchweek 21,Wed,Away,W,3,0,Newcastle Utd,29,20,3,1,3,2,0,5,4,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2020-01-11 Leicester City-Southampton,2020-01-11,Matchweek 22,Sat,Home,L,1,2,Southampton,8,6,2,0,0,0,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2020-01-19 Burnley-Leicester City,2020-01-19,Matchweek 23,Sun,Away,L,1,2,Burnley,33,23,3,1,2,3,1,1,0,0,0,0,0,1,14:00:00
+ENG-Premier League,1920,Leicester City,2020-01-22 Leicester City-West Ham,2020-01-22,Matchweek 24,Wed,Home,W,4,1,West Ham,36,25,3,3,2,2,1,7,4,0,1,1,1,0,19:30:00
+ENG-Premier League,1920,Leicester City,2020-02-01 Leicester City-Chelsea,2020-02-01,Matchweek 25,Sat,Home,D,2,2,Chelsea,27,20,3,0,2,2,0,4,4,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Leicester City,2020-02-14 Wolves-Leicester City,2020-02-14,Matchweek 26,Fri,Away,D,0,0,Wolves,17,9,3,1,1,3,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Leicester City,2020-02-22 Leicester City-Manchester City,2020-02-22,Matchweek 27,Sat,Home,L,0,1,Manchester City,17,12,0,2,1,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Leicester City,2020-02-28 Norwich City-Leicester City,2020-02-28,Matchweek 28,Fri,Away,L,0,1,Norwich City,34,27,4,1,1,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Leicester City,2020-03-09 Leicester City-Aston Villa,2020-03-09,Matchweek 29,Mon,Home,W,4,0,Aston Villa,25,18,4,1,1,1,0,7,6,0,1,0,0,0,20:00:00
+ENG-Premier League,1920,Leicester City,2020-06-20 Watford-Leicester City,2020-06-20,Matchweek 30,Sat,Away,D,1,1,Watford,26,18,1,3,1,2,1,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Leicester City,2020-06-23 Leicester City-Brighton,2020-06-23,Matchweek 31,Tue,Home,D,0,0,Brighton,20,14,1,0,2,3,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Leicester City,2020-07-01 Everton-Leicester City,2020-07-01,Matchweek 32,Wed,Away,L,1,2,Everton,28,18,1,6,3,0,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Leicester City,2020-07-04 Leicester City-Crystal Palace,2020-07-04,Matchweek 33,Sat,Home,W,3,0,Crystal Palace,25,20,2,2,1,0,0,5,5,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Leicester City,2020-07-07 Arsenal-Leicester City,2020-07-07,Matchweek 34,Tue,Away,D,1,1,Arsenal,26,21,3,1,0,1,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Leicester City,2020-07-12 Bournemouth-Leicester City,2020-07-12,Matchweek 35,Sun,Away,L,1,4,Bournemouth,22,20,0,2,0,0,0,2,2,0,0,0,0,0,19:00:00
+ENG-Premier League,1920,Leicester City,2020-07-16 Leicester City-Sheffield Utd,2020-07-16,Matchweek 36,Thu,Home,W,2,0,Sheffield Utd,28,26,0,0,2,0,0,4,4,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Leicester City,2020-07-19 Tottenham-Leicester City,2020-07-19,Matchweek 37,Sun,Away,L,0,3,Tottenham,42,30,3,1,5,2,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1920,Leicester City,2020-07-26 Leicester City-Manchester Utd,2020-07-26,Matchweek 38,Sun,Home,L,0,2,Manchester Utd,28,21,2,1,0,3,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1920,Liverpool,2019-08-09 Liverpool-Norwich City,2019-08-09,Matchweek 1,Fri,Home,W,4,1,Norwich City,25,19,1,1,1,2,1,5,4,1,0,0,0,0,20:00:00
+ENG-Premier League,1920,Liverpool,2019-08-17 Southampton-Liverpool,2019-08-17,Matchweek 2,Sat,Away,W,2,1,Southampton,26,21,1,1,1,2,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Liverpool,2019-08-24 Liverpool-Arsenal,2019-08-24,Matchweek 3,Sat,Home,W,3,1,Arsenal,46,37,4,3,1,1,0,6,3,1,1,0,1,0,17:30:00
+ENG-Premier League,1920,Liverpool,2019-08-31 Burnley-Liverpool,2019-08-31,Matchweek 4,Sat,Away,W,3,0,Burnley,27,21,1,1,1,1,2,3,3,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Liverpool,2019-09-14 Liverpool-Newcastle Utd,2019-09-14,Matchweek 5,Sat,Home,W,3,1,Newcastle Utd,38,28,5,2,1,1,1,5,2,0,2,0,0,1,12:30:00
+ENG-Premier League,1920,Liverpool,2019-09-22 Chelsea-Liverpool,2019-09-22,Matchweek 6,Sun,Away,W,2,1,Chelsea,11,7,3,0,0,1,0,4,1,2,0,0,1,0,16:30:00
+ENG-Premier League,1920,Liverpool,2019-09-28 Sheffield Utd-Liverpool,2019-09-28,Matchweek 7,Sat,Away,W,1,0,Sheffield Utd,23,17,2,2,2,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Liverpool,2019-10-05 Liverpool-Leicester City,2019-10-05,Matchweek 8,Sat,Home,W,2,1,Leicester City,32,24,2,3,1,2,0,3,2,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Liverpool,2019-10-20 Manchester Utd-Liverpool,2019-10-20,Matchweek 9,Sun,Away,D,1,1,Manchester Utd,19,16,1,1,0,1,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Liverpool,2019-10-27 Liverpool-Tottenham,2019-10-27,Matchweek 10,Sun,Home,W,2,1,Tottenham,38,25,6,2,2,3,0,3,2,0,0,0,1,0,16:30:00
+ENG-Premier League,1920,Liverpool,2019-11-02 Aston Villa-Liverpool,2019-11-02,Matchweek 11,Sat,Away,W,2,1,Aston Villa,46,33,4,3,4,1,1,4,2,1,0,1,0,0,15:00:00
+ENG-Premier League,1920,Liverpool,2019-11-10 Liverpool-Manchester City,2019-11-10,Matchweek 12,Sun,Home,W,3,1,Manchester City,23,20,1,1,0,0,1,6,6,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Liverpool,2019-11-23 Crystal Palace-Liverpool,2019-11-23,Matchweek 13,Sat,Away,W,2,1,Crystal Palace,22,17,3,0,2,0,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Liverpool,2019-11-30 Liverpool-Brighton,2019-11-30,Matchweek 14,Sat,Home,W,2,1,Brighton,23,17,2,0,2,1,1,3,0,2,0,0,1,0,15:00:00
+ENG-Premier League,1920,Liverpool,2019-12-04 Liverpool-Everton,2019-12-04,Matchweek 15,Wed,Home,W,5,2,Everton,21,15,1,3,1,1,0,10,8,0,2,0,0,0,20:15:00
+ENG-Premier League,1920,Liverpool,2019-12-07 Bournemouth-Liverpool,2019-12-07,Matchweek 16,Sat,Away,W,3,0,Bournemouth,38,33,3,1,1,0,0,5,5,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Liverpool,2019-12-14 Liverpool-Watford,2019-12-14,Matchweek 17,Sat,Home,W,2,0,Watford,25,21,0,2,1,0,1,3,2,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Liverpool,2019-12-26 Leicester City-Liverpool,2019-12-26,Matchweek 19,Thu,Away,W,4,0,Leicester City,26,20,2,2,1,0,1,7,6,0,0,1,0,0,20:00:00
+ENG-Premier League,1920,Liverpool,2019-12-29 Liverpool-Wolves,2019-12-29,Matchweek 20,Sun,Home,W,1,0,Wolves,19,15,3,0,1,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Liverpool,2020-01-02 Liverpool-Sheffield Utd,2020-01-02,Matchweek 21,Thu,Home,W,2,0,Sheffield Utd,35,30,2,1,2,0,0,3,2,0,0,1,0,0,20:00:00
+ENG-Premier League,1920,Liverpool,2020-01-11 Tottenham-Liverpool,2020-01-11,Matchweek 22,Sat,Away,W,1,0,Tottenham,25,20,1,2,1,0,1,2,1,1,0,0,0,0,17:30:00
+ENG-Premier League,1920,Liverpool,2020-01-19 Liverpool-Manchester Utd,2020-01-19,Matchweek 23,Sun,Home,W,2,0,Manchester Utd,27,20,2,4,0,1,0,3,2,1,0,0,0,0,16:30:00
+ENG-Premier League,1920,Liverpool,2020-01-23 Wolves-Liverpool,2020-01-23,Matchweek 24,Thu,Away,W,2,1,Wolves,22,14,1,4,2,1,0,4,2,1,0,1,0,0,20:00:00
+ENG-Premier League,1920,Liverpool,2020-01-29 West Ham-Liverpool,2020-01-29,Matchweek 18,Wed,Away,W,2,0,West Ham,24,18,0,2,1,2,1,4,2,0,1,0,1,0,19:45:00
+ENG-Premier League,1920,Liverpool,2020-02-01 Liverpool-Southampton,2020-02-01,Matchweek 25,Sat,Home,W,4,0,Southampton,31,25,0,2,3,1,0,8,8,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Liverpool,2020-02-15 Norwich City-Liverpool,2020-02-15,Matchweek 26,Sat,Away,W,1,0,Norwich City,28,23,2,0,3,0,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Liverpool,2020-02-24 Liverpool-West Ham,2020-02-24,Matchweek 27,Mon,Home,W,3,2,West Ham,42,24,6,3,6,2,1,5,3,0,0,2,0,0,20:00:00
+ENG-Premier League,1920,Liverpool,2020-02-29 Watford-Liverpool,2020-02-29,Matchweek 28,Sat,Away,L,0,3,Watford,14,13,0,0,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Liverpool,2020-03-07 Liverpool-Bournemouth,2020-03-07,Matchweek 29,Sat,Home,W,2,1,Bournemouth,26,23,1,1,0,0,1,3,2,0,0,0,0,1,12:30:00
+ENG-Premier League,1920,Liverpool,2020-06-21 Everton-Liverpool,2020-06-21,Matchweek 30,Sun,Away,D,0,0,Everton,18,9,4,2,0,3,0,0,0,0,0,0,0,0,19:00:00
+ENG-Premier League,1920,Liverpool,2020-06-24 Liverpool-Crystal Palace,2020-06-24,Matchweek 31,Wed,Home,W,4,0,Crystal Palace,35,24,2,1,4,3,1,7,6,0,0,0,1,0,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-02 Manchester City-Liverpool,2020-07-02,Matchweek 32,Thu,Away,L,0,4,Manchester City,20,17,0,0,2,1,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-05 Liverpool-Aston Villa,2020-07-05,Matchweek 33,Sun,Home,W,2,0,Aston Villa,12,12,0,0,0,0,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Liverpool,2020-07-08 Brighton-Liverpool,2020-07-08,Matchweek 34,Wed,Away,W,3,1,Brighton,34,30,2,1,1,0,0,5,3,1,0,1,0,0,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-11 Liverpool-Burnley,2020-07-11,Matchweek 35,Sat,Home,D,1,1,Burnley,39,31,1,2,2,1,2,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Liverpool,2020-07-15 Arsenal-Liverpool,2020-07-15,Matchweek 36,Wed,Away,L,1,2,Arsenal,43,34,3,2,4,0,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-22 Liverpool-Chelsea,2020-07-22,Matchweek 37,Wed,Home,W,5,3,Chelsea,15,7,3,3,0,2,0,8,5,0,2,0,1,0,20:15:00
+ENG-Premier League,1920,Liverpool,2020-07-26 Newcastle Utd-Liverpool,2020-07-26,Matchweek 38,Sun,Away,W,3,1,Newcastle Utd,26,20,2,2,0,1,1,6,5,0,1,0,0,0,16:00:00
+ENG-Premier League,1920,Manchester City,2019-08-10 West Ham-Manchester City,2019-08-10,Matchweek 1,Sat,Away,W,5,0,West Ham,24,20,0,3,0,1,0,6,4,0,1,0,1,0,12:30:00
+ENG-Premier League,1920,Manchester City,2019-08-17 Manchester City-Tottenham,2019-08-17,Matchweek 2,Sat,Home,D,2,2,Tottenham,53,37,5,4,5,1,1,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-08-25 Bournemouth-Manchester City,2019-08-25,Matchweek 3,Sun,Away,W,3,1,Bournemouth,34,28,2,1,3,0,0,5,3,0,1,1,0,0,14:00:00
+ENG-Premier League,1920,Manchester City,2019-08-31 Manchester City-Brighton,2019-08-31,Matchweek 4,Sat,Home,W,4,0,Brighton,28,24,2,1,0,1,0,8,8,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Manchester City,2019-09-14 Norwich City-Manchester City,2019-09-14,Matchweek 5,Sat,Away,L,2,3,Norwich City,47,34,3,5,3,1,1,4,3,0,1,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-09-21 Manchester City-Watford,2019-09-21,Matchweek 6,Sat,Home,W,8,0,Watford,53,39,4,5,1,3,1,15,8,1,3,1,2,0,15:00:00
+ENG-Premier League,1920,Manchester City,2019-09-28 Everton-Manchester City,2019-09-28,Matchweek 7,Sat,Away,W,3,1,Everton,36,30,0,4,1,1,0,5,3,0,0,1,1,0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-10-06 Manchester City-Wolves,2019-10-06,Matchweek 8,Sun,Home,L,0,2,Wolves,34,29,1,0,2,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Manchester City,2019-10-19 Crystal Palace-Manchester City,2019-10-19,Matchweek 9,Sat,Away,W,2,0,Crystal Palace,40,34,0,5,1,0,0,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-10-26 Manchester City-Aston Villa,2019-10-26,Matchweek 10,Sat,Home,W,3,0,Aston Villa,46,33,4,5,4,0,0,5,4,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Manchester City,2019-11-02 Manchester City-Southampton,2019-11-02,Matchweek 11,Sat,Home,W,2,1,Southampton,48,37,4,3,3,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Manchester City,2019-11-10 Liverpool-Manchester City,2019-11-10,Matchweek 12,Sun,Away,L,1,3,Liverpool,33,19,6,4,2,2,0,1,1,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester City,2019-11-23 Manchester City-Chelsea,2019-11-23,Matchweek 13,Sat,Home,W,2,1,Chelsea,25,18,1,2,1,2,1,3,1,0,2,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-11-30 Newcastle Utd-Manchester City,2019-11-30,Matchweek 14,Sat,Away,D,2,2,Newcastle Utd,39,32,3,0,4,0,0,3,3,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Manchester City,2019-12-03 Burnley-Manchester City,2019-12-03,Matchweek 15,Tue,Away,W,4,1,Burnley,30,27,1,1,1,0,0,6,5,0,0,1,0,0,20:15:00
+ENG-Premier League,1920,Manchester City,2019-12-07 Manchester City-Manchester Utd,2019-12-07,Matchweek 16,Sat,Home,L,1,2,Manchester Utd,40,30,3,2,3,2,0,2,1,1,0,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-12-15 Arsenal-Manchester City,2019-12-15,Matchweek 17,Sun,Away,W,3,0,Arsenal,25,21,0,2,1,0,1,6,5,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester City,2019-12-21 Manchester City-Leicester City,2019-12-21,Matchweek 18,Sat,Home,W,3,1,Leicester City,44,37,1,3,1,2,0,6,4,0,1,0,1,0,17:30:00
+ENG-Premier League,1920,Manchester City,2019-12-27 Wolves-Manchester City,2019-12-27,Matchweek 19,Fri,Away,L,2,3,Wolves,13,8,0,1,2,2,0,3,2,0,0,1,0,0,19:45:00
+ENG-Premier League,1920,Manchester City,2019-12-29 Manchester City-Sheffield Utd,2019-12-29,Matchweek 20,Sun,Home,W,2,0,Sheffield Utd,29,23,1,3,0,2,0,3,2,0,1,0,0,0,18:00:00
+ENG-Premier League,1920,Manchester City,2020-01-01 Manchester City-Everton,2020-01-01,Matchweek 21,Wed,Home,W,2,1,Everton,31,24,3,1,2,1,0,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester City,2020-01-12 Aston Villa-Manchester City,2020-01-12,Matchweek 22,Sun,Away,W,6,1,Aston Villa,40,31,1,5,1,1,1,10,6,0,3,0,0,1,16:30:00
+ENG-Premier League,1920,Manchester City,2020-01-18 Manchester City-Crystal Palace,2020-01-18,Matchweek 23,Sat,Home,D,2,2,Crystal Palace,43,38,1,1,2,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Manchester City,2020-01-21 Sheffield Utd-Manchester City,2020-01-21,Matchweek 24,Tue,Away,W,1,0,Sheffield Utd,35,25,3,4,0,3,0,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Manchester City,2020-02-02 Tottenham-Manchester City,2020-02-02,Matchweek 25,Sun,Away,L,0,2,Tottenham,33,23,1,1,5,2,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester City,2020-02-19 Manchester City-West Ham,2020-02-19,Matchweek 26,Wed,Home,W,2,0,West Ham,38,27,2,5,2,1,1,4,2,1,0,1,0,0,19:30:00
+ENG-Premier League,1920,Manchester City,2020-02-22 Leicester City-Manchester City,2020-02-22,Matchweek 27,Sat,Away,W,1,0,Leicester City,32,23,2,0,3,2,2,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester City,2020-03-08 Manchester Utd-Manchester City,2020-03-08,Matchweek 29,Sun,Away,L,0,2,Manchester Utd,13,11,1,0,1,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester City,2020-06-17 Manchester City-Arsenal,2020-06-17,Matchweek 28,Wed,Home,W,3,0,Arsenal,35,26,1,3,1,4,0,5,2,0,1,1,1,0,20:15:00
+ENG-Premier League,1920,Manchester City,2020-06-22 Manchester City-Burnley,2020-06-22,Matchweek 30,Mon,Home,W,5,0,Burnley,37,31,1,2,1,2,0,9,6,1,0,1,1,0,20:00:00
+ENG-Premier League,1920,Manchester City,2020-06-25 Chelsea-Manchester City,2020-06-25,Matchweek 31,Thu,Away,L,1,2,Chelsea,21,14,3,1,0,3,0,2,1,0,0,0,1,0,20:15:00
+ENG-Premier League,1920,Manchester City,2020-07-02 Manchester City-Liverpool,2020-07-02,Matchweek 32,Thu,Home,W,4,0,Liverpool,26,20,1,4,0,1,0,6,4,1,0,0,1,0,20:15:00
+ENG-Premier League,1920,Manchester City,2020-07-05 Southampton-Manchester City,2020-07-05,Matchweek 33,Sun,Away,L,0,1,Southampton,43,33,2,2,4,1,1,0,0,0,0,0,0,0,19:00:00
+ENG-Premier League,1920,Manchester City,2020-07-08 Manchester City-Newcastle Utd,2020-07-08,Matchweek 34,Wed,Home,W,5,0,Newcastle Utd,44,37,1,3,0,2,1,8,6,0,0,0,1,1,18:00:00
+ENG-Premier League,1920,Manchester City,2020-07-11 Brighton-Manchester City,2020-07-11,Matchweek 35,Sat,Away,W,5,0,Brighton,48,33,3,4,6,1,1,9,7,0,0,2,0,0,20:00:00
+ENG-Premier League,1920,Manchester City,2020-07-15 Manchester City-Bournemouth,2020-07-15,Matchweek 36,Wed,Home,W,2,1,Bournemouth,16,13,0,2,0,1,0,4,2,0,1,0,1,0,18:00:00
+ENG-Premier League,1920,Manchester City,2020-07-21 Watford-Manchester City,2020-07-21,Matchweek 37,Tue,Away,W,4,0,Watford,45,31,2,3,5,3,1,6,2,1,0,2,1,0,18:00:00
+ENG-Premier League,1920,Manchester City,2020-07-26 Manchester City-Norwich City,2020-07-26,Matchweek 38,Sun,Home,W,5,0,Norwich City,55,40,3,6,4,1,1,5,4,0,0,1,0,0,16:00:00
+ENG-Premier League,1920,Manchester Utd,2019-08-11 Manchester Utd-Chelsea,2019-08-11,Matchweek 1,Sun,Home,W,4,0,Chelsea,19,16,0,1,0,1,1,7,6,0,0,0,1,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-08-19 Wolves-Manchester Utd,2019-08-19,Matchweek 2,Mon,Away,D,1,1,Wolves,18,9,5,0,1,3,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Manchester Utd,2019-08-24 Manchester Utd-Crystal Palace,2019-08-24,Matchweek 3,Sat,Home,L,1,2,Crystal Palace,38,22,5,1,2,7,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Manchester Utd,2019-08-31 Southampton-Manchester Utd,2019-08-31,Matchweek 4,Sat,Away,D,1,1,Southampton,40,36,1,3,0,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Manchester Utd,2019-09-14 Manchester Utd-Leicester City,2019-09-14,Matchweek 5,Sat,Home,W,1,0,Leicester City,18,8,2,2,2,3,1,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Manchester Utd,2019-09-22 West Ham-Manchester Utd,2019-09-22,Matchweek 6,Sun,Away,L,0,2,West Ham,14,14,0,0,0,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-09-30 Manchester Utd-Arsenal,2019-09-30,Matchweek 7,Mon,Home,D,1,1,Arsenal,26,20,2,2,1,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Manchester Utd,2019-10-06 Newcastle Utd-Manchester Utd,2019-10-06,Matchweek 8,Sun,Away,L,0,1,Newcastle Utd,24,15,5,1,1,2,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-10-20 Manchester Utd-Liverpool,2019-10-20,Matchweek 9,Sun,Home,D,1,1,Liverpool,14,12,0,2,0,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-10-27 Norwich City-Manchester Utd,2019-10-27,Matchweek 10,Sun,Away,W,3,1,Norwich City,35,21,4,3,5,2,0,6,5,0,0,1,0,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-11-02 Bournemouth-Manchester Utd,2019-11-02,Matchweek 11,Sat,Away,L,0,1,Bournemouth,29,24,2,1,0,1,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Manchester Utd,2019-11-10 Manchester Utd-Brighton,2019-11-10,Matchweek 12,Sun,Home,W,3,1,Brighton,41,32,1,3,1,3,1,6,5,0,0,0,1,0,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-11-24 Sheffield Utd-Manchester Utd,2019-11-24,Matchweek 13,Sun,Away,D,3,3,Sheffield Utd,22,19,0,3,0,0,0,6,6,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-01 Manchester Utd-Aston Villa,2019-12-01,Matchweek 14,Sun,Home,D,2,2,Aston Villa,30,28,1,1,0,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-04 Manchester Utd-Tottenham,2019-12-04,Matchweek 15,Wed,Home,W,2,1,Tottenham,20,16,0,2,0,2,0,2,0,0,1,0,1,0,19:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-07 Manchester City-Manchester Utd,2019-12-07,Matchweek 16,Sat,Away,W,2,1,Manchester City,21,19,0,1,0,1,0,4,3,0,0,0,1,0,17:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-15 Manchester Utd-Everton,2019-12-15,Matchweek 17,Sun,Home,D,1,1,Everton,45,35,2,3,3,2,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-12-22 Watford-Manchester Utd,2019-12-22,Matchweek 18,Sun,Away,L,0,2,Watford,32,25,2,2,1,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Manchester Utd,2019-12-26 Manchester Utd-Newcastle Utd,2019-12-26,Matchweek 19,Thu,Home,W,4,1,Newcastle Utd,39,31,1,3,2,2,0,4,3,0,1,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester Utd,2019-12-28 Burnley-Manchester Utd,2019-12-28,Matchweek 20,Sat,Away,W,2,0,Burnley,22,15,0,2,2,3,0,3,2,0,1,0,0,0,19:45:00
+ENG-Premier League,1920,Manchester Utd,2020-01-01 Arsenal-Manchester Utd,2020-01-01,Matchweek 21,Wed,Away,L,0,2,Arsenal,17,13,1,1,0,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Manchester Utd,2020-01-11 Manchester Utd-Norwich City,2020-01-11,Matchweek 22,Sat,Home,W,4,0,Norwich City,25,23,1,0,0,1,0,8,6,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Manchester Utd,2020-01-19 Liverpool-Manchester Utd,2020-01-19,Matchweek 23,Sun,Away,L,0,2,Liverpool,13,10,0,1,1,0,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2020-01-22 Manchester Utd-Burnley,2020-01-22,Matchweek 24,Wed,Home,L,0,2,Burnley,46,38,3,1,2,2,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-02-01 Manchester Utd-Wolves,2020-02-01,Matchweek 25,Sat,Home,D,0,0,Wolves,24,18,1,1,2,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Manchester Utd,2020-02-17 Chelsea-Manchester Utd,2020-02-17,Matchweek 26,Mon,Away,W,2,0,Chelsea,16,12,1,1,1,1,0,4,3,1,0,0,0,0,20:00:00
+ENG-Premier League,1920,Manchester Utd,2020-02-23 Manchester Utd-Watford,2020-02-23,Matchweek 27,Sun,Home,W,3,0,Watford,38,31,0,3,2,1,1,6,3,0,1,1,1,0,14:00:00
+ENG-Premier League,1920,Manchester Utd,2020-03-01 Everton-Manchester Utd,2020-03-01,Matchweek 28,Sun,Away,D,1,1,Everton,24,21,2,0,1,0,0,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Manchester Utd,2020-03-08 Manchester Utd-Manchester City,2020-03-08,Matchweek 29,Sun,Home,W,2,0,Manchester City,20,13,2,2,1,2,0,2,0,1,0,0,1,0,16:30:00
+ENG-Premier League,1920,Manchester Utd,2020-06-19 Tottenham-Manchester Utd,2020-06-19,Matchweek 30,Fri,Away,D,1,1,Tottenham,23,18,0,4,0,1,0,2,0,0,1,0,1,0,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-06-24 Manchester Utd-Sheffield Utd,2020-06-24,Matchweek 31,Wed,Home,W,3,0,Sheffield Utd,29,25,0,2,1,1,0,6,6,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Manchester Utd,2020-06-30 Brighton-Manchester Utd,2020-06-30,Matchweek 32,Tue,Away,W,3,0,Brighton,22,18,1,1,1,1,0,6,6,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-07-04 Manchester Utd-Bournemouth,2020-07-04,Matchweek 33,Sat,Home,W,5,2,Bournemouth,35,29,1,1,1,3,0,7,6,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Manchester Utd,2020-07-09 Aston Villa-Manchester Utd,2020-07-09,Matchweek 34,Thu,Away,W,3,0,Aston Villa,26,20,2,2,0,2,0,4,2,1,0,0,1,0,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-07-13 Manchester Utd-Southampton,2020-07-13,Matchweek 35,Mon,Home,D,2,2,Southampton,14,11,0,3,0,0,0,4,3,0,1,0,0,0,20:00:00
+ENG-Premier League,1920,Manchester Utd,2020-07-16 Crystal Palace-Manchester Utd,2020-07-16,Matchweek 36,Thu,Away,W,2,0,Crystal Palace,27,21,2,2,1,1,0,3,2,0,1,0,0,0,20:15:00
+ENG-Premier League,1920,Manchester Utd,2020-07-22 Manchester Utd-West Ham,2020-07-22,Matchweek 37,Wed,Home,D,1,1,West Ham,20,19,0,1,0,0,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Manchester Utd,2020-07-26 Leicester City-Manchester Utd,2020-07-26,Matchweek 38,Sun,Away,W,2,0,Leicester City,12,9,0,0,1,1,1,3,1,0,0,0,1,1,16:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-11 Newcastle Utd-Arsenal,2019-08-11,Matchweek 1,Sun,Home,L,0,1,Arsenal,18,13,2,3,0,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-17 Norwich City-Newcastle Utd,2019-08-17,Matchweek 2,Sat,Away,L,1,3,Norwich City,23,16,4,2,1,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-25 Tottenham-Newcastle Utd,2019-08-25,Matchweek 3,Sun,Away,W,1,0,Tottenham,16,12,3,1,0,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-08-31 Newcastle Utd-Watford,2019-08-31,Matchweek 4,Sat,Home,D,1,1,Watford,23,16,3,0,1,3,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-09-14 Liverpool-Newcastle Utd,2019-09-14,Matchweek 5,Sat,Away,L,1,3,Liverpool,15,13,0,1,1,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-09-21 Newcastle Utd-Brighton,2019-09-21,Matchweek 6,Sat,Home,D,0,0,Brighton,21,15,2,3,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-09-29 Leicester City-Newcastle Utd,2019-09-29,Matchweek 7,Sun,Away,L,0,5,Leicester City,4,4,0,0,0,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-10-06 Newcastle Utd-Manchester Utd,2019-10-06,Matchweek 8,Sun,Home,W,1,0,Manchester Utd,22,15,2,2,1,2,0,2,1,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-10-19 Chelsea-Newcastle Utd,2019-10-19,Matchweek 9,Sat,Away,L,0,1,Chelsea,8,8,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-10-27 Newcastle Utd-Wolves,2019-10-27,Matchweek 10,Sun,Home,D,1,1,Wolves,23,14,3,1,2,3,0,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-02 West Ham-Newcastle Utd,2019-11-02,Matchweek 11,Sat,Away,W,3,2,West Ham,16,11,2,0,1,1,1,5,3,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-09 Newcastle Utd-Bournemouth,2019-11-09,Matchweek 12,Sat,Home,W,2,1,Bournemouth,35,26,2,2,5,0,0,2,0,0,0,2,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-25 Aston Villa-Newcastle Utd,2019-11-25,Matchweek 13,Mon,Away,L,0,2,Aston Villa,22,15,1,3,0,1,2,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-11-30 Newcastle Utd-Manchester City,2019-11-30,Matchweek 14,Sat,Home,D,2,2,Manchester City,12,6,1,2,0,3,0,4,2,1,0,0,1,0,12:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-05 Sheffield Utd-Newcastle Utd,2019-12-05,Matchweek 15,Thu,Away,W,2,0,Sheffield Utd,11,9,1,0,0,1,0,4,4,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-08 Newcastle Utd-Southampton,2019-12-08,Matchweek 16,Sun,Home,W,2,1,Southampton,19,11,3,1,2,2,0,3,1,0,0,1,1,0,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-14 Burnley-Newcastle Utd,2019-12-14,Matchweek 17,Sat,Away,L,0,1,Burnley,13,12,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-21 Newcastle Utd-Crystal Palace,2019-12-21,Matchweek 18,Sat,Home,W,1,0,Crystal Palace,15,11,2,2,0,0,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-26 Manchester Utd-Newcastle Utd,2019-12-26,Matchweek 19,Thu,Away,L,1,4,Manchester Utd,12,8,2,1,0,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Newcastle Utd,2019-12-28 Newcastle Utd-Everton,2019-12-28,Matchweek 20,Sat,Home,L,1,2,Everton,32,21,3,4,3,0,1,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-01 Newcastle Utd-Leicester City,2020-01-01,Matchweek 21,Wed,Home,L,0,3,Leicester City,9,7,0,0,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-11 Wolves-Newcastle Utd,2020-01-11,Matchweek 22,Sat,Away,D,1,1,Wolves,9,7,0,1,0,0,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-18 Newcastle Utd-Chelsea,2020-01-18,Matchweek 23,Sat,Home,W,1,0,Chelsea,12,9,2,0,0,1,0,1,1,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-01-21 Everton-Newcastle Utd,2020-01-21,Matchweek 24,Tue,Away,D,2,2,Everton,15,9,3,0,3,0,0,2,0,0,0,2,0,0,19:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-01 Newcastle Utd-Norwich City,2020-02-01,Matchweek 25,Sat,Home,D,0,0,Norwich City,28,15,6,1,3,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-16 Arsenal-Newcastle Utd,2020-02-16,Matchweek 26,Sun,Away,L,0,4,Arsenal,20,13,2,2,0,2,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-22 Crystal Palace-Newcastle Utd,2020-02-22,Matchweek 27,Sat,Away,L,0,1,Crystal Palace,15,11,1,2,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-02-29 Newcastle Utd-Burnley,2020-02-29,Matchweek 28,Sat,Home,D,0,0,Burnley,38,24,4,4,4,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-03-07 Southampton-Newcastle Utd,2020-03-07,Matchweek 29,Sat,Away,W,1,0,Southampton,22,13,2,3,4,0,0,1,0,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-06-21 Newcastle Utd-Sheffield Utd,2020-06-21,Matchweek 30,Sun,Home,W,3,0,Sheffield Utd,20,16,1,2,0,1,0,5,4,0,1,0,0,0,14:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-06-24 Newcastle Utd-Aston Villa,2020-06-24,Matchweek 31,Wed,Home,D,1,1,Aston Villa,24,14,4,3,1,2,0,1,0,1,0,0,0,0,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-01 Bournemouth-Newcastle Utd,2020-07-01,Matchweek 32,Wed,Away,W,4,1,Bournemouth,20,16,0,1,1,0,2,8,7,0,0,0,0,1,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-05 Newcastle Utd-West Ham,2020-07-05,Matchweek 33,Sun,Home,D,2,2,West Ham,20,15,2,2,0,1,0,4,4,0,0,0,0,0,14:15:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-08 Manchester City-Newcastle Utd,2020-07-08,Matchweek 34,Wed,Away,L,0,5,Manchester City,12,9,1,1,0,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-11 Watford-Newcastle Utd,2020-07-11,Matchweek 35,Sat,Away,L,1,2,Watford,13,9,2,0,1,1,0,1,0,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-15 Newcastle Utd-Tottenham,2020-07-15,Matchweek 36,Wed,Home,L,1,3,Tottenham,42,32,2,5,1,2,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-20 Brighton-Newcastle Utd,2020-07-20,Matchweek 37,Mon,Away,D,0,0,Brighton,20,13,4,0,2,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Newcastle Utd,2020-07-26 Newcastle Utd-Liverpool,2020-07-26,Matchweek 38,Sun,Home,L,1,3,Liverpool,6,3,2,0,0,1,0,2,0,1,0,0,1,0,16:00:00
+ENG-Premier League,1920,Norwich City,2019-08-09 Liverpool-Norwich City,2019-08-09,Matchweek 1,Fri,Away,L,1,4,Liverpool,21,16,1,1,1,1,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Norwich City,2019-08-17 Norwich City-Newcastle Utd,2019-08-17,Matchweek 2,Sat,Home,W,3,1,Newcastle Utd,29,24,2,1,2,0,0,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-08-24 Norwich City-Chelsea,2019-08-24,Matchweek 3,Sat,Home,L,2,3,Chelsea,11,7,2,0,1,1,0,4,4,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Norwich City,2019-08-31 West Ham-Norwich City,2019-08-31,Matchweek 4,Sat,Away,L,0,2,West Ham,13,10,0,3,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-09-14 Norwich City-Manchester City,2019-09-14,Matchweek 5,Sat,Home,W,3,2,Manchester City,13,7,2,0,1,1,2,6,4,1,0,0,0,1,17:30:00
+ENG-Premier League,1920,Norwich City,2019-09-21 Burnley-Norwich City,2019-09-21,Matchweek 6,Sat,Away,L,0,2,Burnley,19,17,0,2,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-09-28 Crystal Palace-Norwich City,2019-09-28,Matchweek 7,Sat,Away,L,0,2,Crystal Palace,18,16,1,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-10-05 Norwich City-Aston Villa,2019-10-05,Matchweek 8,Sat,Home,L,1,5,Aston Villa,36,30,1,1,3,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-10-19 Bournemouth-Norwich City,2019-10-19,Matchweek 9,Sat,Away,D,0,0,Bournemouth,20,17,2,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-10-27 Norwich City-Manchester Utd,2019-10-27,Matchweek 10,Sun,Home,L,1,3,Manchester Utd,16,10,0,3,2,1,0,1,0,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Norwich City,2019-11-02 Brighton-Norwich City,2019-11-02,Matchweek 11,Sat,Away,L,0,2,Brighton,14,6,2,4,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-11-08 Norwich City-Watford,2019-11-08,Matchweek 12,Fri,Home,L,0,2,Watford,28,18,3,3,1,2,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Norwich City,2019-11-23 Everton-Norwich City,2019-11-23,Matchweek 13,Sat,Away,W,2,0,Everton,23,15,4,1,2,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-01 Norwich City-Arsenal,2019-12-01,Matchweek 14,Sun,Home,D,2,2,Arsenal,25,19,2,1,2,1,0,4,4,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Norwich City,2019-12-04 Southampton-Norwich City,2019-12-04,Matchweek 15,Wed,Away,L,1,2,Southampton,17,15,0,1,1,0,0,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Norwich City,2019-12-08 Norwich City-Sheffield Utd,2019-12-08,Matchweek 16,Sun,Home,L,1,2,Sheffield Utd,26,18,3,2,3,0,0,1,0,1,0,0,0,0,14:00:00
+ENG-Premier League,1920,Norwich City,2019-12-14 Leicester City-Norwich City,2019-12-14,Matchweek 17,Sat,Away,D,1,1,Leicester City,19,15,1,0,0,2,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-21 Norwich City-Wolves,2019-12-21,Matchweek 18,Sat,Home,L,1,2,Wolves,20,12,2,4,0,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-26 Aston Villa-Norwich City,2019-12-26,Matchweek 19,Thu,Away,L,0,1,Aston Villa,31,19,5,2,2,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2019-12-28 Norwich City-Tottenham,2019-12-28,Matchweek 20,Sat,Home,D,2,2,Tottenham,7,5,1,0,0,0,1,1,0,0,0,0,0,1,17:30:00
+ENG-Premier League,1920,Norwich City,2020-01-01 Norwich City-Crystal Palace,2020-01-01,Matchweek 21,Wed,Home,D,1,1,Crystal Palace,25,16,2,0,3,2,2,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,1920,Norwich City,2020-01-11 Manchester Utd-Norwich City,2020-01-11,Matchweek 22,Sat,Away,L,0,4,Manchester Utd,11,9,0,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2020-01-18 Norwich City-Bournemouth,2020-01-18,Matchweek 23,Sat,Home,W,1,0,Bournemouth,27,20,1,3,2,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2020-01-22 Tottenham-Norwich City,2020-01-22,Matchweek 24,Wed,Away,L,1,2,Tottenham,26,21,2,0,1,2,0,2,1,0,0,0,1,0,19:30:00
+ENG-Premier League,1920,Norwich City,2020-02-01 Newcastle Utd-Norwich City,2020-02-01,Matchweek 25,Sat,Away,D,0,0,Newcastle Utd,34,23,5,0,4,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2020-02-15 Norwich City-Liverpool,2020-02-15,Matchweek 26,Sat,Home,L,0,1,Liverpool,9,7,1,1,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Norwich City,2020-02-23 Wolves-Norwich City,2020-02-23,Matchweek 27,Sun,Away,L,0,3,Wolves,12,12,0,0,0,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Norwich City,2020-02-28 Norwich City-Leicester City,2020-02-28,Matchweek 28,Fri,Home,W,1,0,Leicester City,18,12,0,2,1,3,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Norwich City,2020-03-07 Sheffield Utd-Norwich City,2020-03-07,Matchweek 29,Sat,Away,L,0,1,Sheffield Utd,19,9,3,1,5,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Norwich City,2020-06-19 Norwich City-Southampton,2020-06-19,Matchweek 30,Fri,Home,L,0,3,Southampton,17,12,2,1,0,2,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Norwich City,2020-06-24 Norwich City-Everton,2020-06-24,Matchweek 31,Wed,Home,L,0,1,Everton,17,10,1,2,3,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Norwich City,2020-07-01 Arsenal-Norwich City,2020-07-01,Matchweek 32,Wed,Away,L,0,4,Arsenal,13,10,1,1,0,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Norwich City,2020-07-04 Norwich City-Brighton,2020-07-04,Matchweek 33,Sat,Home,L,0,1,Brighton,24,21,0,3,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Norwich City,2020-07-07 Watford-Norwich City,2020-07-07,Matchweek 34,Tue,Away,L,1,2,Watford,18,12,1,1,2,2,0,2,1,0,1,0,0,0,18:00:00
+ENG-Premier League,1920,Norwich City,2020-07-11 Norwich City-West Ham,2020-07-11,Matchweek 35,Sat,Home,L,0,4,West Ham,20,19,0,0,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Norwich City,2020-07-14 Chelsea-Norwich City,2020-07-14,Matchweek 36,Tue,Away,L,0,1,Chelsea,2,2,0,0,0,0,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Norwich City,2020-07-18 Norwich City-Burnley,2020-07-18,Matchweek 37,Sat,Home,L,0,2,Burnley,11,6,3,0,2,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Norwich City,2020-07-26 Manchester City-Norwich City,2020-07-26,Matchweek 38,Sun,Away,L,0,5,Manchester City,8,5,0,2,1,0,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-10 Bournemouth-Sheffield Utd,2019-08-10,Matchweek 1,Sat,Away,D,1,1,Bournemouth,12,8,1,0,1,1,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-18 Sheffield Utd-Crystal Palace,2019-08-18,Matchweek 2,Sun,Home,W,1,0,Crystal Palace,24,16,4,1,2,0,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-24 Sheffield Utd-Leicester City,2019-08-24,Matchweek 3,Sat,Home,L,1,2,Leicester City,13,10,1,0,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-08-31 Chelsea-Sheffield Utd,2019-08-31,Matchweek 4,Sat,Away,D,2,2,Chelsea,16,13,0,2,0,0,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-09-14 Sheffield Utd-Southampton,2019-09-14,Matchweek 5,Sat,Home,L,0,1,Southampton,34,24,5,3,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-09-21 Everton-Sheffield Utd,2019-09-21,Matchweek 6,Sat,Away,W,2,0,Everton,4,4,0,0,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-09-28 Sheffield Utd-Liverpool,2019-09-28,Matchweek 7,Sat,Home,L,0,1,Liverpool,23,18,3,1,1,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Sheffield Utd,2019-10-05 Watford-Sheffield Utd,2019-10-05,Matchweek 8,Sat,Away,D,0,0,Watford,16,11,1,1,1,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-10-21 Sheffield Utd-Arsenal,2019-10-21,Matchweek 9,Mon,Home,W,1,0,Arsenal,16,9,4,0,1,2,0,2,1,1,0,0,0,0,20:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-10-26 West Ham-Sheffield Utd,2019-10-26,Matchweek 10,Sat,Away,D,1,1,West Ham,18,12,2,1,2,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-11-02 Sheffield Utd-Burnley,2019-11-02,Matchweek 11,Sat,Home,W,3,0,Burnley,20,16,0,1,2,0,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-11-09 Tottenham-Sheffield Utd,2019-11-09,Matchweek 12,Sat,Away,D,1,1,Tottenham,23,16,0,4,2,1,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-11-24 Sheffield Utd-Manchester Utd,2019-11-24,Matchweek 13,Sun,Home,D,3,3,Manchester Utd,22,14,4,1,3,0,0,5,4,0,0,1,0,0,16:30:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-01 Wolves-Sheffield Utd,2019-12-01,Matchweek 14,Sun,Away,D,1,1,Wolves,18,14,1,2,0,1,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-05 Sheffield Utd-Newcastle Utd,2019-12-05,Matchweek 15,Thu,Home,L,0,2,Newcastle Utd,25,19,1,2,1,2,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-08 Norwich City-Sheffield Utd,2019-12-08,Matchweek 16,Sun,Away,W,2,1,Norwich City,17,13,0,4,0,0,0,4,3,0,1,0,0,0,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-14 Sheffield Utd-Aston Villa,2019-12-14,Matchweek 17,Sat,Home,W,2,0,Aston Villa,14,14,0,0,0,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-21 Brighton-Sheffield Utd,2019-12-21,Matchweek 18,Sat,Away,W,1,0,Brighton,11,5,1,3,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-26 Sheffield Utd-Watford,2019-12-26,Matchweek 19,Thu,Home,D,1,1,Watford,29,18,5,0,3,3,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2019-12-29 Manchester City-Sheffield Utd,2019-12-29,Matchweek 20,Sun,Away,L,0,2,Manchester City,14,13,1,0,0,0,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-02 Liverpool-Sheffield Utd,2020-01-02,Matchweek 21,Thu,Away,L,0,2,Liverpool,3,3,0,0,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-10 Sheffield Utd-West Ham,2020-01-10,Matchweek 22,Fri,Home,W,1,0,West Ham,22,17,2,1,1,1,0,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-18 Arsenal-Sheffield Utd,2020-01-18,Matchweek 23,Sat,Away,D,1,1,Arsenal,18,12,4,0,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-01-21 Sheffield Utd-Manchester City,2020-01-21,Matchweek 24,Tue,Home,L,0,1,Manchester City,6,6,0,0,0,0,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Sheffield Utd,2020-02-01 Crystal Palace-Sheffield Utd,2020-02-01,Matchweek 25,Sat,Away,W,1,0,Crystal Palace,18,11,1,2,2,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-02-09 Sheffield Utd-Bournemouth,2020-02-09,Matchweek 26,Sun,Home,W,2,1,Bournemouth,31,22,3,2,3,1,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-02-22 Sheffield Utd-Brighton,2020-02-22,Matchweek 27,Sat,Home,D,1,1,Brighton,24,15,4,4,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-03-07 Sheffield Utd-Norwich City,2020-03-07,Matchweek 29,Sat,Home,W,1,0,Norwich City,18,11,2,3,2,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-06-17 Aston Villa-Sheffield Utd,2020-06-17,Matchweek 28,Wed,Away,D,0,0,Aston Villa,7,4,2,0,1,0,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-06-21 Newcastle Utd-Sheffield Utd,2020-06-21,Matchweek 30,Sun,Away,L,0,3,Newcastle Utd,13,12,1,0,0,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-06-24 Manchester Utd-Sheffield Utd,2020-06-24,Matchweek 31,Wed,Away,L,0,3,Manchester Utd,8,8,0,0,0,0,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-02 Sheffield Utd-Tottenham,2020-07-02,Matchweek 32,Thu,Home,W,3,1,Tottenham,12,10,1,1,0,0,0,6,5,0,1,0,0,0,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-05 Burnley-Sheffield Utd,2020-07-05,Matchweek 33,Sun,Away,D,1,1,Burnley,19,13,3,1,1,1,0,2,2,0,0,0,0,0,12:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-08 Sheffield Utd-Wolves,2020-07-08,Matchweek 34,Wed,Home,W,1,0,Wolves,12,9,1,0,2,0,0,2,0,1,0,1,0,0,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-11 Sheffield Utd-Chelsea,2020-07-11,Matchweek 35,Sat,Home,W,3,0,Chelsea,16,11,0,3,2,0,0,5,3,0,1,1,0,0,17:30:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-16 Leicester City-Sheffield Utd,2020-07-16,Matchweek 36,Thu,Away,L,0,2,Leicester City,9,5,2,0,1,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-20 Sheffield Utd-Everton,2020-07-20,Matchweek 37,Mon,Home,L,0,1,Everton,15,13,1,0,0,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Sheffield Utd,2020-07-26 Southampton-Sheffield Utd,2020-07-26,Matchweek 38,Sun,Away,L,1,3,Southampton,10,8,1,1,0,0,0,2,1,1,0,0,0,0,16:00:00
+ENG-Premier League,1920,Southampton,2019-08-10 Burnley-Southampton,2019-08-10,Matchweek 1,Sat,Away,L,0,3,Burnley,16,9,3,2,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-08-17 Southampton-Liverpool,2019-08-17,Matchweek 2,Sat,Home,L,1,2,Liverpool,18,10,2,2,2,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-08-24 Brighton-Southampton,2019-08-24,Matchweek 3,Sat,Away,W,2,0,Brighton,21,12,1,4,2,2,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-08-31 Southampton-Manchester Utd,2019-08-31,Matchweek 4,Sat,Home,D,1,1,Manchester Utd,16,12,1,1,1,0,1,1,0,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Southampton,2019-09-14 Sheffield Utd-Southampton,2019-09-14,Matchweek 5,Sat,Away,W,1,0,Sheffield Utd,22,11,2,7,0,2,0,2,0,0,2,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-09-20 Southampton-Bournemouth,2019-09-20,Matchweek 6,Fri,Home,L,1,3,Bournemouth,47,36,3,3,1,1,3,2,1,0,0,0,1,0,20:00:00
+ENG-Premier League,1920,Southampton,2019-09-28 Tottenham-Southampton,2019-09-28,Matchweek 7,Sat,Away,L,1,2,Tottenham,24,14,3,1,1,3,2,1,0,0,0,0,0,1,15:00:00
+ENG-Premier League,1920,Southampton,2019-10-06 Southampton-Chelsea,2019-10-06,Matchweek 8,Sun,Home,L,1,4,Chelsea,18,13,2,1,0,2,0,2,1,0,1,0,0,0,14:00:00
+ENG-Premier League,1920,Southampton,2019-10-19 Wolves-Southampton,2019-10-19,Matchweek 9,Sat,Away,D,1,1,Wolves,22,14,4,0,1,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-10-25 Southampton-Leicester City,2019-10-25,Matchweek 10,Fri,Home,L,0,9,Leicester City,10,6,1,1,0,1,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Southampton,2019-11-02 Manchester City-Southampton,2019-11-02,Matchweek 11,Sat,Away,L,1,2,Manchester City,5,4,0,0,1,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-11-09 Southampton-Everton,2019-11-09,Matchweek 12,Sat,Home,L,1,2,Everton,8,2,1,2,0,2,1,2,0,0,2,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-11-23 Arsenal-Southampton,2019-11-23,Matchweek 13,Sat,Away,D,2,2,Arsenal,34,22,2,2,2,3,3,3,0,1,0,1,1,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-11-30 Southampton-Watford,2019-11-30,Matchweek 14,Sat,Home,W,2,1,Watford,19,13,0,4,0,2,0,4,1,0,2,0,1,0,17:30:00
+ENG-Premier League,1920,Southampton,2019-12-04 Southampton-Norwich City,2019-12-04,Matchweek 15,Wed,Home,W,2,1,Norwich City,25,17,3,1,2,1,1,3,0,1,0,1,1,0,19:30:00
+ENG-Premier League,1920,Southampton,2019-12-08 Newcastle Utd-Southampton,2019-12-08,Matchweek 16,Sun,Away,L,1,2,Newcastle Utd,29,15,4,2,6,2,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Southampton,2019-12-14 Southampton-West Ham,2019-12-14,Matchweek 17,Sat,Home,L,0,1,West Ham,19,16,1,0,1,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Southampton,2019-12-21 Aston Villa-Southampton,2019-12-21,Matchweek 18,Sat,Away,W,3,1,Aston Villa,28,16,2,3,3,4,0,5,3,1,0,1,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-12-26 Chelsea-Southampton,2019-12-26,Matchweek 19,Thu,Away,W,2,0,Chelsea,8,5,1,0,1,1,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2019-12-28 Southampton-Crystal Palace,2019-12-28,Matchweek 20,Sat,Home,D,1,1,Crystal Palace,21,10,4,3,1,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-01 Southampton-Tottenham,2020-01-01,Matchweek 21,Wed,Home,W,1,0,Tottenham,22,17,2,2,1,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-11 Leicester City-Southampton,2020-01-11,Matchweek 22,Sat,Away,W,2,1,Leicester City,25,17,2,1,3,2,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-18 Southampton-Wolves,2020-01-18,Matchweek 23,Sat,Home,L,2,3,Wolves,20,14,1,3,0,2,0,3,2,0,0,0,1,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-01-21 Crystal Palace-Southampton,2020-01-21,Matchweek 24,Tue,Away,W,2,0,Crystal Palace,27,20,3,3,1,0,0,3,2,0,1,0,0,0,19:30:00
+ENG-Premier League,1920,Southampton,2020-02-01 Liverpool-Southampton,2020-02-01,Matchweek 25,Sat,Away,L,0,4,Liverpool,28,20,3,2,1,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-02-15 Southampton-Burnley,2020-02-15,Matchweek 26,Sat,Home,L,1,2,Burnley,18,14,1,1,2,0,0,1,0,0,1,0,0,0,12:30:00
+ENG-Premier League,1920,Southampton,2020-02-22 Southampton-Aston Villa,2020-02-22,Matchweek 27,Sat,Home,W,2,0,Aston Villa,48,33,3,4,4,3,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-02-29 West Ham-Southampton,2020-02-29,Matchweek 28,Sat,Away,L,1,3,West Ham,17,11,2,1,1,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-03-07 Southampton-Newcastle Utd,2020-03-07,Matchweek 29,Sat,Home,L,0,1,Newcastle Utd,10,5,2,1,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Southampton,2020-06-19 Norwich City-Southampton,2020-06-19,Matchweek 30,Fri,Away,W,3,0,Norwich City,35,21,5,2,2,2,3,4,3,0,1,0,0,0,18:00:00
+ENG-Premier League,1920,Southampton,2020-06-25 Southampton-Arsenal,2020-06-25,Matchweek 31,Thu,Home,L,0,2,Arsenal,21,15,2,1,1,1,1,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Southampton,2020-06-28 Watford-Southampton,2020-06-28,Matchweek 32,Sun,Away,W,3,1,Watford,21,12,1,3,1,3,1,5,2,0,1,0,1,1,16:30:00
+ENG-Premier League,1920,Southampton,2020-07-05 Southampton-Manchester City,2020-07-05,Matchweek 33,Sun,Home,W,1,0,Manchester City,14,9,0,1,0,1,3,1,0,0,0,0,0,1,19:00:00
+ENG-Premier League,1920,Southampton,2020-07-09 Everton-Southampton,2020-07-09,Matchweek 34,Thu,Away,D,1,1,Everton,28,18,1,2,3,3,1,2,0,0,1,1,0,0,18:00:00
+ENG-Premier League,1920,Southampton,2020-07-13 Manchester Utd-Southampton,2020-07-13,Matchweek 35,Mon,Away,D,2,2,Manchester Utd,16,13,1,1,1,0,0,3,2,0,0,1,0,0,20:00:00
+ENG-Premier League,1920,Southampton,2020-07-16 Southampton-Brighton,2020-07-16,Matchweek 36,Thu,Home,D,1,1,Brighton,38,29,3,0,3,2,1,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Southampton,2020-07-19 Bournemouth-Southampton,2020-07-19,Matchweek 37,Sun,Away,W,2,0,Bournemouth,27,21,2,1,3,0,0,4,3,0,1,0,0,0,14:00:00
+ENG-Premier League,1920,Southampton,2020-07-26 Southampton-Sheffield Utd,2020-07-26,Matchweek 38,Sun,Home,W,3,1,Sheffield Utd,18,14,0,2,1,1,0,4,2,0,0,1,1,0,16:00:00
+ENG-Premier League,1920,Tottenham,2019-08-10 Tottenham-Aston Villa,2019-08-10,Matchweek 1,Sat,Home,W,3,1,Aston Villa,47,37,1,2,2,2,3,5,2,0,2,1,0,0,17:30:00
+ENG-Premier League,1920,Tottenham,2019-08-17 Manchester City-Tottenham,2019-08-17,Matchweek 2,Sat,Away,D,2,2,Manchester City,6,4,1,0,0,0,1,4,3,1,0,0,0,0,17:30:00
+ENG-Premier League,1920,Tottenham,2019-08-25 Tottenham-Newcastle Utd,2019-08-25,Matchweek 3,Sun,Home,L,0,1,Newcastle Utd,31,29,0,1,1,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Tottenham,2019-09-01 Arsenal-Tottenham,2019-09-01,Matchweek 4,Sun,Away,D,2,2,Arsenal,24,16,3,1,2,2,0,3,1,0,0,1,1,0,16:30:00
+ENG-Premier League,1920,Tottenham,2019-09-14 Tottenham-Crystal Palace,2019-09-14,Matchweek 5,Sat,Home,W,4,0,Crystal Palace,20,16,2,0,0,1,1,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-09-21 Leicester City-Tottenham,2019-09-21,Matchweek 6,Sat,Away,L,1,2,Leicester City,22,19,1,1,0,0,1,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Tottenham,2019-09-28 Tottenham-Southampton,2019-09-28,Matchweek 7,Sat,Home,W,2,1,Southampton,17,9,2,2,2,1,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-10-05 Brighton-Tottenham,2019-10-05,Matchweek 8,Sat,Away,L,0,3,Brighton,15,13,0,1,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Tottenham,2019-10-19 Tottenham-Watford,2019-10-19,Matchweek 9,Sat,Home,D,1,1,Watford,23,17,2,2,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-10-27 Liverpool-Tottenham,2019-10-27,Matchweek 10,Sun,Away,L,1,2,Liverpool,21,14,2,3,1,1,0,1,0,0,0,1,0,0,16:30:00
+ENG-Premier League,1920,Tottenham,2019-11-03 Everton-Tottenham,2019-11-03,Matchweek 11,Sun,Away,D,1,1,Everton,9,7,1,1,0,0,0,2,1,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Tottenham,2019-11-09 Tottenham-Sheffield Utd,2019-11-09,Matchweek 12,Sat,Home,D,1,1,Sheffield Utd,32,27,1,3,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-11-23 West Ham-Tottenham,2019-11-23,Matchweek 13,Sat,Away,W,3,2,West Ham,26,17,3,0,4,2,0,6,6,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Tottenham,2019-11-30 Tottenham-Bournemouth,2019-11-30,Matchweek 14,Sat,Home,W,3,2,Bournemouth,23,19,0,2,1,0,1,6,5,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-12-04 Manchester Utd-Tottenham,2019-12-04,Matchweek 15,Wed,Away,L,1,2,Manchester Utd,15,10,0,3,0,1,1,2,0,0,2,0,0,0,19:30:00
+ENG-Premier League,1920,Tottenham,2019-12-07 Tottenham-Burnley,2019-12-07,Matchweek 16,Sat,Home,W,5,0,Burnley,22,15,1,3,1,1,1,8,5,0,2,1,0,0,15:00:00
+ENG-Premier League,1920,Tottenham,2019-12-15 Wolves-Tottenham,2019-12-15,Matchweek 17,Sun,Away,W,2,1,Wolves,17,11,1,4,0,1,0,4,0,1,2,0,1,0,14:00:00
+ENG-Premier League,1920,Tottenham,2019-12-22 Tottenham-Chelsea,2019-12-22,Matchweek 18,Sun,Home,L,0,2,Chelsea,10,9,0,0,0,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Tottenham,2019-12-26 Tottenham-Brighton,2019-12-26,Matchweek 19,Thu,Home,W,2,1,Brighton,16,10,2,0,1,2,1,3,2,0,0,1,0,0,12:30:00
+ENG-Premier League,1920,Tottenham,2019-12-28 Norwich City-Tottenham,2019-12-28,Matchweek 20,Sat,Away,D,2,2,Norwich City,27,24,0,2,0,1,0,3,1,0,1,0,1,0,17:30:00
+ENG-Premier League,1920,Tottenham,2020-01-01 Southampton-Tottenham,2020-01-01,Matchweek 21,Wed,Away,L,0,1,Southampton,19,12,2,0,2,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Tottenham,2020-01-11 Tottenham-Liverpool,2020-01-11,Matchweek 22,Sat,Home,L,0,1,Liverpool,24,16,2,3,2,0,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Tottenham,2020-01-18 Watford-Tottenham,2020-01-18,Matchweek 23,Sat,Away,D,0,0,Watford,29,25,0,2,1,0,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Tottenham,2020-01-22 Tottenham-Norwich City,2020-01-22,Matchweek 24,Wed,Home,W,2,1,Norwich City,27,22,1,1,1,1,1,3,2,0,0,1,0,0,19:30:00
+ENG-Premier League,1920,Tottenham,2020-02-02 Tottenham-Manchester City,2020-02-02,Matchweek 25,Sun,Home,W,2,0,Manchester City,6,4,0,2,0,0,0,4,3,0,1,0,0,0,16:30:00
+ENG-Premier League,1920,Tottenham,2020-02-16 Aston Villa-Tottenham,2020-02-16,Matchweek 26,Sun,Away,W,3,2,Aston Villa,32,24,2,1,3,2,0,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Tottenham,2020-02-22 Chelsea-Tottenham,2020-02-22,Matchweek 27,Sat,Away,L,1,2,Chelsea,10,7,1,0,1,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Tottenham,2020-03-01 Tottenham-Wolves,2020-03-01,Matchweek 28,Sun,Home,L,2,3,Wolves,21,16,1,1,3,0,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Tottenham,2020-03-07 Burnley-Tottenham,2020-03-07,Matchweek 29,Sat,Away,D,1,1,Burnley,24,18,2,2,0,1,1,2,0,0,0,0,1,1,17:30:00
+ENG-Premier League,1920,Tottenham,2020-06-19 Tottenham-Manchester Utd,2020-06-19,Matchweek 30,Fri,Home,D,1,1,Manchester Utd,18,15,0,0,1,2,0,1,1,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Tottenham,2020-06-23 Tottenham-West Ham,2020-06-23,Matchweek 31,Tue,Home,W,2,0,West Ham,29,27,1,1,0,0,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,Tottenham,2020-07-02 Sheffield Utd-Tottenham,2020-07-02,Matchweek 32,Thu,Away,L,1,3,Sheffield Utd,16,10,2,1,1,2,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Tottenham,2020-07-06 Tottenham-Everton,2020-07-06,Matchweek 33,Mon,Home,W,1,0,Everton,23,18,0,0,2,3,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Tottenham,2020-07-09 Bournemouth-Tottenham,2020-07-09,Matchweek 34,Thu,Away,D,0,0,Bournemouth,16,13,1,1,0,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Tottenham,2020-07-12 Tottenham-Arsenal,2020-07-12,Matchweek 35,Sun,Home,W,2,1,Arsenal,23,14,1,3,2,1,2,2,0,1,0,1,0,0,16:30:00
+ENG-Premier League,1920,Tottenham,2020-07-15 Newcastle Utd-Tottenham,2020-07-15,Matchweek 36,Wed,Away,W,3,1,Newcastle Utd,14,8,1,3,1,1,0,5,4,0,0,1,0,0,18:00:00
+ENG-Premier League,1920,Tottenham,2020-07-19 Tottenham-Leicester City,2020-07-19,Matchweek 37,Sun,Home,W,3,0,Leicester City,12,9,1,0,0,1,1,4,3,0,0,0,0,1,16:00:00
+ENG-Premier League,1920,Tottenham,2020-07-26 Crystal Palace-Tottenham,2020-07-26,Matchweek 38,Sun,Away,D,1,1,Crystal Palace,13,8,2,2,0,1,0,2,1,0,1,0,0,0,16:00:00
+ENG-Premier League,1920,Watford,2019-08-10 Watford-Brighton,2019-08-10,Matchweek 1,Sat,Home,L,0,3,Brighton,19,12,2,1,1,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-08-17 Everton-Watford,2019-08-17,Matchweek 2,Sat,Away,L,0,1,Everton,15,12,2,0,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-08-24 Watford-West Ham,2019-08-24,Matchweek 3,Sat,Home,L,1,3,West Ham,45,35,4,1,2,2,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-08-31 Newcastle Utd-Watford,2019-08-31,Matchweek 4,Sat,Away,D,1,1,Newcastle Utd,19,12,3,0,4,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-09-15 Watford-Arsenal,2019-09-15,Matchweek 5,Sun,Home,D,2,2,Arsenal,53,40,2,3,5,2,1,3,2,0,0,0,1,0,16:30:00
+ENG-Premier League,1920,Watford,2019-09-21 Manchester City-Watford,2019-09-21,Matchweek 6,Sat,Away,L,0,8,Manchester City,9,5,2,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-09-28 Wolves-Watford,2019-09-28,Matchweek 7,Sat,Away,L,0,2,Wolves,24,19,2,1,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-10-05 Watford-Sheffield Utd,2019-10-05,Matchweek 8,Sat,Home,D,0,0,Sheffield Utd,16,12,1,1,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-10-19 Tottenham-Watford,2019-10-19,Matchweek 9,Sat,Away,D,1,1,Tottenham,13,8,0,3,0,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-10-26 Watford-Bournemouth,2019-10-26,Matchweek 10,Sat,Home,D,0,0,Bournemouth,11,6,0,3,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-11-02 Watford-Chelsea,2019-11-02,Matchweek 11,Sat,Home,L,1,2,Chelsea,21,15,3,0,0,2,1,2,0,0,0,0,1,1,17:30:00
+ENG-Premier League,1920,Watford,2019-11-08 Norwich City-Watford,2019-11-08,Matchweek 12,Fri,Away,W,2,0,Norwich City,19,11,2,4,0,0,2,4,1,0,2,0,0,1,20:00:00
+ENG-Premier League,1920,Watford,2019-11-23 Watford-Burnley,2019-11-23,Matchweek 13,Sat,Home,L,0,3,Burnley,27,15,2,3,0,5,2,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-11-30 Southampton-Watford,2019-11-30,Matchweek 14,Sat,Away,L,1,2,Southampton,9,5,3,0,0,1,0,1,0,1,0,0,0,0,17:30:00
+ENG-Premier League,1920,Watford,2019-12-04 Leicester City-Watford,2019-12-04,Matchweek 15,Wed,Away,L,0,2,Leicester City,8,8,0,0,0,0,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Watford,2019-12-07 Watford-Crystal Palace,2019-12-07,Matchweek 16,Sat,Home,D,0,0,Crystal Palace,22,17,2,0,0,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-12-14 Liverpool-Watford,2019-12-14,Matchweek 17,Sat,Away,L,0,2,Liverpool,14,11,0,1,1,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Watford,2019-12-22 Watford-Manchester Utd,2019-12-22,Matchweek 18,Sun,Home,W,2,0,Manchester Utd,19,11,1,4,1,2,0,4,2,1,0,0,1,0,14:00:00
+ENG-Premier League,1920,Watford,2019-12-26 Sheffield Utd-Watford,2019-12-26,Matchweek 19,Thu,Away,D,1,1,Sheffield Utd,10,7,0,1,0,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2019-12-28 Watford-Aston Villa,2019-12-28,Matchweek 20,Sat,Home,W,3,0,Aston Villa,33,22,3,1,4,3,0,5,3,0,0,1,1,0,15:00:00
+ENG-Premier League,1920,Watford,2020-01-01 Watford-Wolves,2020-01-01,Matchweek 21,Wed,Home,W,2,1,Wolves,15,12,1,2,0,0,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2020-01-12 Bournemouth-Watford,2020-01-12,Matchweek 22,Sun,Away,W,3,0,Bournemouth,32,26,1,1,4,0,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,1920,Watford,2020-01-18 Watford-Tottenham,2020-01-18,Matchweek 23,Sat,Home,D,0,0,Tottenham,27,20,0,2,2,2,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Watford,2020-01-21 Aston Villa-Watford,2020-01-21,Matchweek 24,Tue,Away,L,1,2,Aston Villa,13,11,0,0,1,0,1,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,Watford,2020-02-01 Watford-Everton,2020-02-01,Matchweek 25,Sat,Home,L,2,3,Everton,17,10,2,2,0,3,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2020-02-08 Brighton-Watford,2020-02-08,Matchweek 26,Sat,Away,D,1,1,Brighton,10,5,3,1,0,0,1,2,1,0,0,0,0,1,17:30:00
+ENG-Premier League,1920,Watford,2020-02-23 Manchester Utd-Watford,2020-02-23,Matchweek 27,Sun,Away,L,0,3,Manchester Utd,13,8,2,0,1,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Watford,2020-02-29 Watford-Liverpool,2020-02-29,Matchweek 28,Sat,Home,W,3,0,Liverpool,23,19,1,1,1,1,0,4,3,1,0,0,0,0,17:30:00
+ENG-Premier League,1920,Watford,2020-03-07 Crystal Palace-Watford,2020-03-07,Matchweek 29,Sat,Away,L,0,1,Crystal Palace,17,14,0,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Watford,2020-06-20 Watford-Leicester City,2020-06-20,Matchweek 30,Sat,Home,D,1,1,Leicester City,13,7,3,1,0,2,0,2,1,1,0,0,0,0,12:30:00
+ENG-Premier League,1920,Watford,2020-06-25 Burnley-Watford,2020-06-25,Matchweek 31,Thu,Away,L,0,1,Burnley,14,6,5,0,1,2,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Watford,2020-06-28 Watford-Southampton,2020-06-28,Matchweek 32,Sun,Home,L,1,3,Southampton,9,6,1,0,1,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Watford,2020-07-04 Chelsea-Watford,2020-07-04,Matchweek 33,Sat,Away,L,0,3,Chelsea,11,6,1,0,0,3,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Watford,2020-07-07 Watford-Norwich City,2020-07-07,Matchweek 34,Tue,Home,W,2,1,Norwich City,15,10,4,0,0,1,0,4,2,1,0,0,1,0,18:00:00
+ENG-Premier League,1920,Watford,2020-07-11 Watford-Newcastle Utd,2020-07-11,Matchweek 35,Sat,Home,W,2,1,Newcastle Utd,28,11,5,4,3,5,0,4,0,1,1,0,2,0,12:30:00
+ENG-Premier League,1920,Watford,2020-07-17 West Ham-Watford,2020-07-17,Matchweek 36,Fri,Away,L,1,3,West Ham,22,17,1,1,3,0,0,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,1920,Watford,2020-07-21 Watford-Manchester City,2020-07-21,Matchweek 37,Tue,Home,L,0,4,Manchester City,3,2,0,0,0,1,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Watford,2020-07-26 Arsenal-Watford,2020-07-26,Matchweek 38,Sun,Away,L,2,3,Arsenal,37,25,5,1,2,3,1,4,3,0,0,0,1,0,16:00:00
+ENG-Premier League,1920,West Ham,2019-08-10 West Ham-Manchester City,2019-08-10,Matchweek 1,Sat,Home,L,0,5,Manchester City,9,4,2,0,1,2,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,West Ham,2019-08-17 Brighton-West Ham,2019-08-17,Matchweek 2,Sat,Away,D,1,1,Brighton,12,8,0,4,0,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-08-24 Watford-West Ham,2019-08-24,Matchweek 3,Sat,Away,W,3,1,Watford,31,21,4,1,4,1,0,5,2,0,1,1,1,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-08-31 West Ham-Norwich City,2019-08-31,Matchweek 4,Sat,Home,W,2,0,Norwich City,33,24,2,3,4,0,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-09-16 Aston Villa-West Ham,2019-09-16,Matchweek 5,Mon,Away,D,0,0,Aston Villa,23,22,0,0,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,West Ham,2019-09-22 West Ham-Manchester Utd,2019-09-22,Matchweek 6,Sun,Home,W,2,0,Manchester Utd,14,9,1,1,0,3,0,4,3,0,0,0,1,0,14:00:00
+ENG-Premier League,1920,West Ham,2019-09-28 Bournemouth-West Ham,2019-09-28,Matchweek 7,Sat,Away,D,2,2,Bournemouth,32,25,2,1,2,1,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-10-05 West Ham-Crystal Palace,2019-10-05,Matchweek 8,Sat,Home,L,1,2,Crystal Palace,16,13,1,0,0,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,West Ham,2019-10-19 Everton-West Ham,2019-10-19,Matchweek 9,Sat,Away,L,0,2,Everton,14,10,1,0,1,2,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,West Ham,2019-10-26 West Ham-Sheffield Utd,2019-10-26,Matchweek 10,Sat,Home,D,1,1,Sheffield Utd,22,17,2,1,1,1,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-11-02 West Ham-Newcastle Utd,2019-11-02,Matchweek 11,Sat,Home,L,2,3,Newcastle Utd,30,19,6,2,2,0,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-11-09 Burnley-West Ham,2019-11-09,Matchweek 12,Sat,Away,L,0,3,Burnley,14,14,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-11-23 West Ham-Tottenham,2019-11-23,Matchweek 13,Sat,Home,L,2,3,Tottenham,21,13,3,2,1,2,0,3,1,1,0,1,0,0,12:30:00
+ENG-Premier League,1920,West Ham,2019-11-30 Chelsea-West Ham,2019-11-30,Matchweek 14,Sat,Away,W,1,0,Chelsea,9,6,2,0,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-12-04 Wolves-West Ham,2019-12-04,Matchweek 15,Wed,Away,L,0,2,Wolves,10,9,1,0,0,0,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,West Ham,2019-12-09 West Ham-Arsenal,2019-12-09,Matchweek 16,Mon,Home,L,1,3,Arsenal,16,14,0,0,0,1,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,West Ham,2019-12-14 Southampton-West Ham,2019-12-14,Matchweek 17,Sat,Away,W,1,0,Southampton,20,14,3,0,2,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,West Ham,2019-12-26 Crystal Palace-West Ham,2019-12-26,Matchweek 19,Thu,Away,L,1,2,Crystal Palace,18,12,3,1,0,1,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2019-12-28 West Ham-Leicester City,2019-12-28,Matchweek 20,Sat,Home,L,1,2,Leicester City,26,19,4,1,1,0,1,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,West Ham,2020-01-01 West Ham-Bournemouth,2020-01-01,Matchweek 21,Wed,Home,W,4,0,Bournemouth,27,19,2,2,1,3,0,8,6,0,1,0,1,0,17:30:00
+ENG-Premier League,1920,West Ham,2020-01-10 Sheffield Utd-West Ham,2020-01-10,Matchweek 22,Fri,Away,L,0,1,Sheffield Utd,10,4,2,2,0,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,West Ham,2020-01-18 West Ham-Everton,2020-01-18,Matchweek 23,Sat,Home,D,1,1,Everton,22,18,2,1,0,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,West Ham,2020-01-22 Leicester City-West Ham,2020-01-22,Matchweek 24,Wed,Away,L,1,4,Leicester City,10,4,3,0,1,2,0,2,0,0,0,0,2,0,19:30:00
+ENG-Premier League,1920,West Ham,2020-01-29 West Ham-Liverpool,2020-01-29,Matchweek 18,Wed,Home,L,0,2,Liverpool,11,5,2,0,1,2,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1920,West Ham,2020-02-01 West Ham-Brighton,2020-02-01,Matchweek 25,Sat,Home,D,3,3,Brighton,22,12,3,3,1,3,0,5,2,1,0,1,1,0,15:00:00
+ENG-Premier League,1920,West Ham,2020-02-19 Manchester City-West Ham,2020-02-19,Matchweek 26,Wed,Away,L,0,2,Manchester City,6,2,1,1,0,1,1,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,1920,West Ham,2020-02-24 Liverpool-West Ham,2020-02-24,Matchweek 27,Mon,Away,L,2,3,Liverpool,13,9,2,0,1,1,0,4,3,1,0,0,0,0,20:00:00
+ENG-Premier League,1920,West Ham,2020-02-29 West Ham-Southampton,2020-02-29,Matchweek 28,Sat,Home,W,3,1,Southampton,21,19,2,0,0,0,0,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2020-03-07 Arsenal-West Ham,2020-03-07,Matchweek 29,Sat,Away,L,0,1,Arsenal,24,16,1,2,3,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,West Ham,2020-06-20 West Ham-Wolves,2020-06-20,Matchweek 30,Sat,Home,L,0,2,Wolves,10,7,1,2,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,West Ham,2020-06-23 Tottenham-West Ham,2020-06-23,Matchweek 31,Tue,Away,L,0,2,Tottenham,17,10,3,1,1,1,1,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,1920,West Ham,2020-07-01 West Ham-Chelsea,2020-07-01,Matchweek 32,Wed,Home,W,3,2,Chelsea,17,13,1,1,0,1,1,5,4,1,0,0,0,0,20:15:00
+ENG-Premier League,1920,West Ham,2020-07-05 Newcastle Utd-West Ham,2020-07-05,Matchweek 33,Sun,Away,D,2,2,Newcastle Utd,29,21,3,1,4,0,0,3,2,0,0,1,0,0,14:15:00
+ENG-Premier League,1920,West Ham,2020-07-08 West Ham-Burnley,2020-07-08,Matchweek 34,Wed,Home,L,0,1,Burnley,34,23,2,2,4,1,2,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,West Ham,2020-07-11 Norwich City-West Ham,2020-07-11,Matchweek 35,Sat,Away,W,4,0,Norwich City,35,23,5,1,2,4,0,7,3,2,0,1,1,0,12:30:00
+ENG-Premier League,1920,West Ham,2020-07-17 West Ham-Watford,2020-07-17,Matchweek 36,Fri,Home,W,3,1,Watford,17,12,0,4,0,1,0,6,6,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,West Ham,2020-07-22 Manchester Utd-West Ham,2020-07-22,Matchweek 37,Wed,Away,D,1,1,Manchester Utd,21,11,4,1,3,2,0,1,0,0,0,1,0,0,18:00:00
+ENG-Premier League,1920,West Ham,2020-07-26 West Ham-Aston Villa,2020-07-26,Matchweek 38,Sun,Home,D,1,1,Aston Villa,19,13,2,1,0,3,0,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1920,Wolves,2019-08-11 Leicester City-Wolves,2019-08-11,Matchweek 1,Sun,Away,D,0,0,Leicester City,14,8,2,2,0,0,2,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-08-19 Wolves-Manchester Utd,2019-08-19,Matchweek 2,Mon,Home,D,1,1,Manchester Utd,10,7,1,1,0,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Wolves,2019-08-25 Wolves-Burnley,2019-08-25,Matchweek 3,Sun,Home,D,1,1,Burnley,31,22,4,0,3,2,0,2,0,0,0,1,1,0,16:30:00
+ENG-Premier League,1920,Wolves,2019-09-01 Everton-Wolves,2019-09-01,Matchweek 4,Sun,Away,L,2,3,Everton,16,11,2,2,0,1,0,4,2,1,1,0,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-09-14 Wolves-Chelsea,2019-09-14,Matchweek 5,Sat,Home,L,2,5,Chelsea,15,6,2,2,3,2,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Wolves,2019-09-22 Crystal Palace-Wolves,2019-09-22,Matchweek 6,Sun,Away,D,1,1,Crystal Palace,23,19,1,0,2,1,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-09-28 Wolves-Watford,2019-09-28,Matchweek 7,Sat,Home,W,2,0,Watford,11,11,0,0,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Wolves,2019-10-06 Manchester City-Wolves,2019-10-06,Matchweek 8,Sun,Away,W,2,0,Manchester City,11,6,1,3,1,0,0,4,3,0,1,0,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-10-19 Wolves-Southampton,2019-10-19,Matchweek 9,Sat,Home,D,1,1,Southampton,8,5,0,2,0,1,0,2,0,0,1,0,1,0,15:00:00
+ENG-Premier League,1920,Wolves,2019-10-27 Newcastle Utd-Wolves,2019-10-27,Matchweek 10,Sun,Away,D,1,1,Newcastle Utd,25,18,2,2,1,1,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-11-02 Arsenal-Wolves,2019-11-02,Matchweek 11,Sat,Away,D,1,1,Arsenal,41,29,4,2,4,1,1,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1920,Wolves,2019-11-10 Wolves-Aston Villa,2019-11-10,Matchweek 12,Sun,Home,W,2,1,Aston Villa,31,24,1,4,1,1,0,4,1,1,1,0,1,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-11-23 Bournemouth-Wolves,2019-11-23,Matchweek 13,Sat,Away,W,2,1,Bournemouth,29,23,4,0,0,1,1,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1920,Wolves,2019-12-01 Wolves-Sheffield Utd,2019-12-01,Matchweek 14,Sun,Home,D,1,1,Sheffield Utd,23,13,1,5,3,1,0,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-12-04 Wolves-West Ham,2019-12-04,Matchweek 15,Wed,Home,W,2,0,West Ham,21,15,3,0,0,2,1,3,2,1,0,0,0,0,19:30:00
+ENG-Premier League,1920,Wolves,2019-12-08 Brighton-Wolves,2019-12-08,Matchweek 16,Sun,Away,D,2,2,Brighton,21,18,0,1,2,0,0,3,3,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Wolves,2019-12-15 Wolves-Tottenham,2019-12-15,Matchweek 17,Sun,Home,L,1,2,Tottenham,34,21,2,5,4,1,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2019-12-21 Norwich City-Wolves,2019-12-21,Matchweek 18,Sat,Away,W,2,1,Norwich City,25,20,0,3,1,0,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1920,Wolves,2019-12-27 Wolves-Manchester City,2019-12-27,Matchweek 19,Fri,Home,W,3,2,Manchester City,40,29,4,3,0,3,1,5,3,0,2,0,0,0,19:45:00
+ENG-Premier League,1920,Wolves,2019-12-29 Liverpool-Wolves,2019-12-29,Matchweek 20,Sun,Away,L,0,1,Liverpool,18,11,1,3,1,1,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1920,Wolves,2020-01-01 Watford-Wolves,2020-01-01,Matchweek 21,Wed,Away,L,1,2,Watford,26,18,1,4,2,1,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Wolves,2020-01-11 Wolves-Newcastle Utd,2020-01-11,Matchweek 22,Sat,Home,D,1,1,Newcastle Utd,13,8,2,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Wolves,2020-01-18 Southampton-Wolves,2020-01-18,Matchweek 23,Sat,Away,W,3,2,Southampton,12,7,1,2,0,2,0,6,4,0,1,0,1,0,15:00:00
+ENG-Premier League,1920,Wolves,2020-01-23 Wolves-Liverpool,2020-01-23,Matchweek 24,Thu,Home,L,1,2,Liverpool,20,14,2,3,0,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Wolves,2020-02-01 Manchester Utd-Wolves,2020-02-01,Matchweek 25,Sat,Away,D,0,0,Manchester Utd,28,13,4,5,2,3,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Wolves,2020-02-14 Wolves-Leicester City,2020-02-14,Matchweek 26,Fri,Home,D,0,0,Leicester City,25,15,4,2,1,3,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1920,Wolves,2020-02-23 Wolves-Norwich City,2020-02-23,Matchweek 27,Sun,Home,W,3,0,Norwich City,32,19,2,0,6,2,3,4,2,0,0,2,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2020-03-01 Tottenham-Wolves,2020-03-01,Matchweek 28,Sun,Away,W,3,2,Tottenham,23,11,4,3,3,1,1,5,3,0,1,1,0,0,14:00:00
+ENG-Premier League,1920,Wolves,2020-03-07 Wolves-Brighton,2020-03-07,Matchweek 29,Sat,Home,D,0,0,Brighton,17,14,0,1,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1920,Wolves,2020-06-20 West Ham-Wolves,2020-06-20,Matchweek 30,Sat,Away,W,2,0,West Ham,20,17,0,2,0,0,1,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Wolves,2020-06-24 Wolves-Bournemouth,2020-06-24,Matchweek 31,Wed,Home,W,1,0,Bournemouth,16,9,2,3,0,2,0,2,2,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Wolves,2020-06-27 Aston Villa-Wolves,2020-06-27,Matchweek 32,Sat,Away,W,1,0,Aston Villa,15,10,3,0,0,2,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1920,Wolves,2020-07-04 Wolves-Arsenal,2020-07-04,Matchweek 33,Sat,Home,L,0,2,Arsenal,20,15,2,2,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1920,Wolves,2020-07-08 Sheffield Utd-Wolves,2020-07-08,Matchweek 34,Wed,Away,L,0,1,Sheffield Utd,12,9,1,0,0,2,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,1920,Wolves,2020-07-12 Wolves-Everton,2020-07-12,Matchweek 35,Sun,Home,W,3,0,Everton,22,12,2,3,1,3,1,5,1,1,1,0,2,0,12:00:00
+ENG-Premier League,1920,Wolves,2020-07-15 Burnley-Wolves,2020-07-15,Matchweek 36,Wed,Away,D,1,1,Burnley,27,17,2,5,2,1,0,1,0,0,0,1,0,0,18:00:00
+ENG-Premier League,1920,Wolves,2020-07-20 Wolves-Crystal Palace,2020-07-20,Matchweek 37,Mon,Home,W,2,0,Crystal Palace,18,11,2,2,2,1,0,3,2,0,0,1,0,0,20:15:00
+ENG-Premier League,1920,Wolves,2020-07-26 Chelsea-Wolves,2020-07-26,Matchweek 38,Sun,Away,L,0,2,Chelsea,8,6,1,1,0,0,0,0,0,0,0,0,0,0,16:00:00

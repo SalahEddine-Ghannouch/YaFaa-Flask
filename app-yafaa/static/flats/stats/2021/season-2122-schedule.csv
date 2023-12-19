@@ -1,0 +1,761 @@
+league,season,team,game,date,time,round,day,venue,result,GF,GA,opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee
+ENG-Premier League,2122,Arsenal,2021-08-13 Brentford-Arsenal,2021-08-13,20:00:00,Matchweek 1,Fri,Away,L,0,2,Brentford,1.3,1.2,64,16479,Granit Xhaka,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Arsenal,2021-08-22 Arsenal-Chelsea,2021-08-22,16:30:00,Matchweek 2,Sun,Home,L,0,2,Chelsea,0.3,3.1,35,58729,Granit Xhaka,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Arsenal,2021-08-28 Manchester City-Arsenal,2021-08-28,12:30:00,Matchweek 3,Sat,Away,L,0,5,Manchester City,0.2,4.4,20,52276,Pierre-Emerick Aubameyang,5-4-1,Martin Atkinson
+ENG-Premier League,2122,Arsenal,2021-09-11 Arsenal-Norwich City,2021-09-11,15:00:00,Matchweek 4,Sat,Home,W,1,0,Norwich City,2.7,0.7,51,58000,Pierre-Emerick Aubameyang,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Arsenal,2021-09-18 Burnley-Arsenal,2021-09-18,15:00:00,Matchweek 5,Sat,Away,W,1,0,Burnley,1.1,1.0,54,20000,Pierre-Emerick Aubameyang,4-1-4-1,Anthony Taylor
+ENG-Premier League,2122,Arsenal,2021-09-26 Arsenal-Tottenham,2021-09-26,16:30:00,Matchweek 6,Sun,Home,W,3,1,Tottenham,1.1,1.0,46,59919,Pierre-Emerick Aubameyang,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Arsenal,2021-10-02 Brighton-Arsenal,2021-10-02,17:30:00,Matchweek 7,Sat,Away,D,0,0,Brighton,0.4,1.1,42,31266,Pierre-Emerick Aubameyang,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Arsenal,2021-10-18 Arsenal-Crystal Palace,2021-10-18,20:00:00,Matchweek 8,Mon,Home,D,2,2,Crystal Palace,1.7,0.7,54,59475,Pierre-Emerick Aubameyang,4-1-4-1,Mike Dean
+ENG-Premier League,2122,Arsenal,2021-10-22 Arsenal-Aston Villa,2021-10-22,20:00:00,Matchweek 9,Fri,Home,W,3,1,Aston Villa,2.7,1.4,53,59496,Pierre-Emerick Aubameyang,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Arsenal,2021-10-30 Leicester City-Arsenal,2021-10-30,12:30:00,Matchweek 10,Sat,Away,W,2,0,Leicester City,0.7,1.3,36,32209,Pierre-Emerick Aubameyang,4-4-1-1,Michael Oliver
+ENG-Premier League,2122,Arsenal,2021-11-07 Arsenal-Watford,2021-11-07,14:00:00,Matchweek 11,Sun,Home,W,1,0,Watford,1.6,0.5,60,59833,Pierre-Emerick Aubameyang,4-4-1-1,Kevin Friend
+ENG-Premier League,2122,Arsenal,2021-11-20 Liverpool-Arsenal,2021-11-20,17:30:00,Matchweek 12,Sat,Away,L,0,4,Liverpool,0.4,4.3,38,53092,Pierre-Emerick Aubameyang,4-4-1-1,Michael Oliver
+ENG-Premier League,2122,Arsenal,2021-11-27 Arsenal-Newcastle Utd,2021-11-27,12:30:00,Matchweek 13,Sat,Home,W,2,0,Newcastle Utd,2.5,0.3,66,59886,Pierre-Emerick Aubameyang,4-4-1-1,Stuart Attwell
+ENG-Premier League,2122,Arsenal,2021-12-02 Manchester Utd-Arsenal,2021-12-02,20:15:00,Matchweek 14,Thu,Away,L,2,3,Manchester Utd,1.4,1.9,56,73123,Pierre-Emerick Aubameyang,4-4-1-1,Martin Atkinson
+ENG-Premier League,2122,Arsenal,2021-12-06 Everton-Arsenal,2021-12-06,20:00:00,Matchweek 15,Mon,Away,L,1,2,Everton,1.0,0.9,63,38906,Alexandre Lacazette,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Arsenal,2021-12-11 Arsenal-Southampton,2021-12-11,15:00:00,Matchweek 16,Sat,Home,W,3,0,Southampton,1.8,0.6,61,59653,Alexandre Lacazette,4-4-1-1,Jarred Gillett
+ENG-Premier League,2122,Arsenal,2021-12-15 Arsenal-West Ham,2021-12-15,20:00:00,Matchweek 17,Wed,Home,W,2,0,West Ham,2.8,0.4,55,59777,Alexandre Lacazette,4-4-1-1,Anthony Taylor
+ENG-Premier League,2122,Arsenal,2021-12-18 Leeds United-Arsenal,2021-12-18,17:30:00,Matchweek 18,Sat,Away,W,4,1,Leeds United,3.5,1.6,49,36166,Alexandre Lacazette,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Arsenal,2021-12-26 Norwich City-Arsenal,2021-12-26,15:00:00,Matchweek 19,Sun,Away,W,5,0,Norwich City,2.5,0.1,64,26940,Alexandre Lacazette,4-2-3-1,Graham Scott
+ENG-Premier League,2122,Arsenal,2022-01-01 Arsenal-Manchester City,2022-01-01,12:30:00,Matchweek 21,Sat,Home,L,1,2,Manchester City,0.8,2.0,29,59757,Alexandre Lacazette,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,Arsenal,2022-01-23 Arsenal-Burnley,2022-01-23,14:00:00,Matchweek 23,Sun,Home,D,0,0,Burnley,1.2,0.4,75,59255,Alexandre Lacazette,4-1-4-1,David Coote
+ENG-Premier League,2122,Arsenal,2022-02-10 Wolves-Arsenal,2022-02-10,19:45:00,Matchweek 24,Thu,Away,W,1,0,Wolves,1.8,0.8,42,31523,Alexandre Lacazette,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Arsenal,2022-02-19 Arsenal-Brentford,2022-02-19,15:00:00,Matchweek 26,Sat,Home,W,2,1,Brentford,1.7,0.6,66,59249,Alexandre Lacazette,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Arsenal,2022-02-24 Arsenal-Wolves,2022-02-24,19:45:00,Matchweek 20,Thu,Home,W,2,1,Wolves,3.1,1.0,56,59888,Alexandre Lacazette,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,Arsenal,2022-03-06 Watford-Arsenal,2022-03-06,14:00:00,Matchweek 28,Sun,Away,W,3,2,Watford,1.0,1.0,56,21142,Alexandre Lacazette,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Arsenal,2022-03-13 Arsenal-Leicester City,2022-03-13,16:30:00,Matchweek 29,Sun,Home,W,2,0,Leicester City,2.4,0.4,46,60111,Alexandre Lacazette,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,Arsenal,2022-03-16 Arsenal-Liverpool,2022-03-16,20:15:00,Matchweek 27,Wed,Home,L,0,2,Liverpool,0.5,0.8,49,59968,Alexandre Lacazette,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Arsenal,2022-03-19 Aston Villa-Arsenal,2022-03-19,12:30:00,Matchweek 30,Sat,Away,W,1,0,Aston Villa,1.3,0.5,53,41956,Alexandre Lacazette,4-2-3-1,Andy Madley
+ENG-Premier League,2122,Arsenal,2022-04-04 Crystal Palace-Arsenal,2022-04-04,20:00:00,Matchweek 31,Mon,Away,L,0,3,Crystal Palace,0.8,1.5,68,25149,Alexandre Lacazette,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Arsenal,2022-04-09 Arsenal-Brighton,2022-04-09,15:00:00,Matchweek 32,Sat,Home,L,1,2,Brighton,1.9,0.6,64,60112,Alexandre Lacazette,4-2-3-1,David Coote
+ENG-Premier League,2122,Arsenal,2022-04-16 Southampton-Arsenal,2022-04-16,15:00:00,Matchweek 33,Sat,Away,L,0,1,Southampton,1.7,0.8,75,31465,Martin Ødegaard,4-2-3-1,Peter Bankes
+ENG-Premier League,2122,Arsenal,2022-04-20 Chelsea-Arsenal,2022-04-20,19:45:00,Matchweek 25,Wed,Away,W,4,2,Chelsea,2.0,0.7,33,32249,Martin Ødegaard,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Arsenal,2022-04-23 Arsenal-Manchester Utd,2022-04-23,12:30:00,Matchweek 34,Sat,Home,W,3,1,Manchester Utd,2.3,1.8,54,60223,Martin Ødegaard,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Arsenal,2022-05-01 West Ham-Arsenal,2022-05-01,16:30:00,Matchweek 35,Sun,Away,W,2,1,West Ham,0.9,0.5,43,59959,Martin Ødegaard,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Arsenal,2022-05-08 Arsenal-Leeds United,2022-05-08,14:00:00,Matchweek 36,Sun,Home,W,2,1,Leeds United,2.0,0.3,64,60108,Martin Ødegaard,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Arsenal,2022-05-12 Tottenham-Arsenal,2022-05-12,19:45:00,Matchweek 22,Thu,Away,L,0,3,Tottenham,0.5,2.7,43,62027,Martin Ødegaard,4-3-3,Paul Tierney
+ENG-Premier League,2122,Arsenal,2022-05-16 Newcastle Utd-Arsenal,2022-05-16,20:00:00,Matchweek 37,Mon,Away,L,0,2,Newcastle Utd,0.6,1.6,49,52274,Martin Ødegaard,4-2-3-1,Darren England
+ENG-Premier League,2122,Arsenal,2022-05-22 Arsenal-Everton,2022-05-22,16:00:00,Matchweek 38,Sun,Home,W,5,1,Everton,4.2,1.1,73,60201,Martin Ødegaard,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Aston Villa,2021-08-14 Watford-Aston Villa,2021-08-14,15:00:00,Matchweek 1,Sat,Away,L,2,3,Watford,1.2,1.2,62,20051,Tyrone Mings,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Aston Villa,2021-08-21 Aston Villa-Newcastle Utd,2021-08-21,15:00:00,Matchweek 2,Sat,Home,W,2,0,Newcastle Utd,1.2,0.7,47,41964,Tyrone Mings,4-3-3,David Coote
+ENG-Premier League,2122,Aston Villa,2021-08-28 Aston Villa-Brentford,2021-08-28,15:00:00,Matchweek 3,Sat,Home,D,1,1,Brentford,0.7,0.9,46,42045,Ezri Konsa,4-1-4-1,Peter Bankes
+ENG-Premier League,2122,Aston Villa,2021-09-11 Chelsea-Aston Villa,2021-09-11,17:30:00,Matchweek 4,Sat,Away,L,0,3,Chelsea,1.2,1.3,43,39969,Tyrone Mings,5-3-2,Stuart Attwell
+ENG-Premier League,2122,Aston Villa,2021-09-18 Aston Villa-Everton,2021-09-18,17:30:00,Matchweek 5,Sat,Home,W,3,0,Everton,0.8,0.7,55,41888,Tyrone Mings,5-3-2,Craig Pawson
+ENG-Premier League,2122,Aston Villa,2021-09-25 Manchester Utd-Aston Villa,2021-09-25,12:30:00,Matchweek 6,Sat,Away,W,1,0,Manchester Utd,1.0,2.2,41,72922,Tyrone Mings,3-5-2,Mike Dean
+ENG-Premier League,2122,Aston Villa,2021-10-03 Tottenham-Aston Villa,2021-10-03,14:00:00,Matchweek 7,Sun,Away,L,1,2,Tottenham,1.2,1.3,44,53076,Tyrone Mings,3-5-2,Chris Kavanagh
+ENG-Premier League,2122,Aston Villa,2021-10-16 Aston Villa-Wolves,2021-10-16,15:00:00,Matchweek 8,Sat,Home,L,2,3,Wolves,1.0,2.0,48,41951,Tyrone Mings,3-4-1-2,Michael Oliver
+ENG-Premier League,2122,Aston Villa,2021-10-22 Arsenal-Aston Villa,2021-10-22,20:00:00,Matchweek 9,Fri,Away,L,1,3,Arsenal,1.4,2.7,47,59496,Tyrone Mings,3-4-1-2,Craig Pawson
+ENG-Premier League,2122,Aston Villa,2021-10-31 Aston Villa-West Ham,2021-10-31,16:30:00,Matchweek 10,Sun,Home,L,1,4,West Ham,0.7,2.3,43,41874,John McGinn,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Aston Villa,2021-11-05 Southampton-Aston Villa,2021-11-05,20:00:00,Matchweek 11,Fri,Away,L,0,1,Southampton,0.6,0.6,44,30178,Tyrone Mings,4-2-3-1,Andy Madley
+ENG-Premier League,2122,Aston Villa,2021-11-20 Aston Villa-Brighton,2021-11-20,15:00:00,Matchweek 12,Sat,Home,W,2,0,Brighton,0.7,0.4,38,41925,Tyrone Mings,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Aston Villa,2021-11-27 Crystal Palace-Aston Villa,2021-11-27,15:00:00,Matchweek 13,Sat,Away,W,2,1,Crystal Palace,0.5,1.0,36,25203,Tyrone Mings,4-3-3,Michael Salisbury
+ENG-Premier League,2122,Aston Villa,2021-12-01 Aston Villa-Manchester City,2021-12-01,20:15:00,Matchweek 14,Wed,Home,L,1,2,Manchester City,0.8,1.0,36,41400,Tyrone Mings,4-3-3,Mike Dean
+ENG-Premier League,2122,Aston Villa,2021-12-05 Aston Villa-Leicester City,2021-12-05,16:30:00,Matchweek 15,Sun,Home,W,2,1,Leicester City,2.1,1.1,41,41572,Tyrone Mings,4-3-3,Michael Oliver
+ENG-Premier League,2122,Aston Villa,2021-12-11 Liverpool-Aston Villa,2021-12-11,15:00:00,Matchweek 16,Sat,Away,L,0,1,Liverpool,0.2,2.2,38,53093,Tyrone Mings,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Aston Villa,2021-12-14 Norwich City-Aston Villa,2021-12-14,19:45:00,Matchweek 17,Tue,Away,W,2,0,Norwich City,2.0,0.5,50,26836,Tyrone Mings,4-3-3,David Coote
+ENG-Premier League,2122,Aston Villa,2021-12-26 Aston Villa-Chelsea,2021-12-26,17:30:00,Matchweek 19,Sun,Home,L,1,3,Chelsea,0.4,2.6,42,41907,Tyrone Mings,4-3-1-2,Martin Atkinson
+ENG-Premier League,2122,Aston Villa,2022-01-02 Brentford-Aston Villa,2022-01-02,14:00:00,Matchweek 21,Sun,Away,L,1,2,Brentford,0.8,0.6,55,16876,John McGinn,4-3-3,Craig Pawson
+ENG-Premier League,2122,Aston Villa,2022-01-15 Aston Villa-Manchester Utd,2022-01-15,17:30:00,Matchweek 22,Sat,Home,D,2,2,Manchester Utd,1.9,1.0,54,41968,Tyrone Mings,4-3-3,David Coote
+ENG-Premier League,2122,Aston Villa,2022-01-22 Everton-Aston Villa,2022-01-22,12:30:00,Matchweek 23,Sat,Away,W,1,0,Everton,0.8,1.6,50,38203,Tyrone Mings,4-3-3,Craig Pawson
+ENG-Premier League,2122,Aston Villa,2022-02-09 Aston Villa-Leeds United,2022-02-09,20:00:00,Matchweek 24,Wed,Home,D,3,3,Leeds United,1.6,1.8,40,41927,Tyrone Mings,4-3-3,Jarred Gillett
+ENG-Premier League,2122,Aston Villa,2022-02-13 Newcastle Utd-Aston Villa,2022-02-13,14:00:00,Matchweek 25,Sun,Away,L,0,1,Newcastle Utd,0.6,0.5,62,52207,Tyrone Mings,4-3-3,Craig Pawson
+ENG-Premier League,2122,Aston Villa,2022-02-19 Aston Villa-Watford,2022-02-19,15:00:00,Matchweek 26,Sat,Home,L,0,1,Watford,1.3,1.2,59,41936,Tyrone Mings,4-3-3,Robert Jones
+ENG-Premier League,2122,Aston Villa,2022-02-26 Brighton-Aston Villa,2022-02-26,15:00:00,Matchweek 27,Sat,Away,W,2,0,Brighton,1.0,0.7,34,31475,Tyrone Mings,4-1-2-1-2◆,John Brooks
+ENG-Premier League,2122,Aston Villa,2022-03-05 Aston Villa-Southampton,2022-03-05,15:00:00,Matchweek 28,Sat,Home,W,4,0,Southampton,2.5,1.1,38,41855,Tyrone Mings,4-3-1-2,Peter Bankes
+ENG-Premier League,2122,Aston Villa,2022-03-10 Leeds United-Aston Villa,2022-03-10,19:45:00,Matchweek 20,Thu,Away,W,3,0,Leeds United,1.5,0.2,49,36400,Tyrone Mings,4-3-1-2,Simon Hooper
+ENG-Premier League,2122,Aston Villa,2022-03-13 West Ham-Aston Villa,2022-03-13,14:00:00,Matchweek 29,Sun,Away,L,1,2,West Ham,1.1,1.2,53,59957,Tyrone Mings,4-1-2-1-2◆,Jarred Gillett
+ENG-Premier League,2122,Aston Villa,2022-03-19 Aston Villa-Arsenal,2022-03-19,12:30:00,Matchweek 30,Sat,Home,L,0,1,Arsenal,0.5,1.3,47,41956,Tyrone Mings,4-3-2-1,Andy Madley
+ENG-Premier League,2122,Aston Villa,2022-04-02 Wolves-Aston Villa,2022-04-02,15:00:00,Matchweek 31,Sat,Away,L,1,2,Wolves,2.1,1.3,51,31012,Tyrone Mings,4-3-1-2,Darren England
+ENG-Premier League,2122,Aston Villa,2022-04-09 Aston Villa-Tottenham,2022-04-09,17:30:00,Matchweek 32,Sat,Home,L,0,4,Tottenham,1.6,1.1,52,41949,Tyrone Mings,4-3-1-2,Graham Scott
+ENG-Premier League,2122,Aston Villa,2022-04-23 Leicester City-Aston Villa,2022-04-23,15:00:00,Matchweek 34,Sat,Away,D,0,0,Leicester City,0.9,0.3,36,32185,Tyrone Mings,4-3-2-1,Andy Madley
+ENG-Premier League,2122,Aston Villa,2022-04-30 Aston Villa-Norwich City,2022-04-30,15:00:00,Matchweek 35,Sat,Home,W,2,0,Norwich City,1.8,0.5,45,40290,Tyrone Mings,4-1-4-1,John Brooks
+ENG-Premier League,2122,Aston Villa,2022-05-07 Burnley-Aston Villa,2022-05-07,15:00:00,Matchweek 36,Sat,Away,W,3,1,Burnley,2.1,1.9,51,20891,Tyrone Mings,4-1-2-1-2◆,David Coote
+ENG-Premier League,2122,Aston Villa,2022-05-10 Aston Villa-Liverpool,2022-05-10,20:00:00,Matchweek 33,Tue,Home,L,1,2,Liverpool,1.4,1.8,40,41919,Tyrone Mings,4-3-1-2,Jonathan Moss
+ENG-Premier League,2122,Aston Villa,2022-05-15 Aston Villa-Crystal Palace,2022-05-15,14:00:00,Matchweek 37,Sun,Home,D,1,1,Crystal Palace,1.0,1.4,49,41136,Tyrone Mings,4-3-1-2,Chris Kavanagh
+ENG-Premier League,2122,Aston Villa,2022-05-19 Aston Villa-Burnley,2022-05-19,20:00:00,Matchweek 18,Thu,Home,D,1,1,Burnley,1.5,1.6,71,40468,Tyrone Mings,4-3-2-1,Paul Tierney
+ENG-Premier League,2122,Aston Villa,2022-05-22 Manchester City-Aston Villa,2022-05-22,16:00:00,Matchweek 38,Sun,Away,L,2,3,Manchester City,0.2,3.4,29,53395,Tyrone Mings,4-3-2-1,Michael Oliver
+ENG-Premier League,2122,Brentford,2021-08-13 Brentford-Arsenal,2021-08-13,20:00:00,Matchweek 1,Fri,Home,W,2,0,Arsenal,1.2,1.3,36,16479,Pontus Jansson,3-5-2,Michael Oliver
+ENG-Premier League,2122,Brentford,2021-08-21 Crystal Palace-Brentford,2021-08-21,15:00:00,Matchweek 2,Sat,Away,D,0,0,Crystal Palace,0.9,0.5,47,23091,Pontus Jansson,3-5-2,Martin Atkinson
+ENG-Premier League,2122,Brentford,2021-08-28 Aston Villa-Brentford,2021-08-28,15:00:00,Matchweek 3,Sat,Away,D,1,1,Aston Villa,0.9,0.7,54,42045,Pontus Jansson,3-4-1-2,Peter Bankes
+ENG-Premier League,2122,Brentford,2021-09-11 Brentford-Brighton,2021-09-11,15:00:00,Matchweek 4,Sat,Home,L,0,1,Brighton,0.4,0.3,41,16518,Pontus Jansson,3-5-2,Graham Scott
+ENG-Premier League,2122,Brentford,2021-09-18 Wolves-Brentford,2021-09-18,12:30:00,Matchweek 5,Sat,Away,W,2,0,Wolves,2.5,0.6,38,30000,Pontus Jansson,3-5-2,Darren England
+ENG-Premier League,2122,Brentford,2021-09-25 Brentford-Liverpool,2021-09-25,17:30:00,Matchweek 6,Sat,Home,D,3,3,Liverpool,2.1,2.8,33,16876,Pontus Jansson,3-5-2,Stuart Attwell
+ENG-Premier League,2122,Brentford,2021-10-03 West Ham-Brentford,2021-10-03,14:00:00,Matchweek 7,Sun,Away,W,2,1,West Ham,1.2,1.5,41,49940,Pontus Jansson,3-5-2,Peter Bankes
+ENG-Premier League,2122,Brentford,2021-10-16 Brentford-Chelsea,2021-10-16,17:30:00,Matchweek 8,Sat,Home,L,0,1,Chelsea,1.4,0.3,45,16940,Pontus Jansson,3-5-2,Anthony Taylor
+ENG-Premier League,2122,Brentford,2021-10-24 Brentford-Leicester City,2021-10-24,14:00:00,Matchweek 9,Sun,Home,L,1,2,Leicester City,1.0,1.5,54,16814,Pontus Jansson,3-5-2,Simon Hooper
+ENG-Premier League,2122,Brentford,2021-10-30 Burnley-Brentford,2021-10-30,15:00:00,Matchweek 10,Sat,Away,L,1,3,Burnley,0.8,2.3,59,18821,Pontus Jansson,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Brentford,2021-11-06 Brentford-Norwich City,2021-11-06,15:00:00,Matchweek 11,Sat,Home,L,1,2,Norwich City,2.5,1.2,64,16837,Pontus Jansson,3-5-2,Jarred Gillett
+ENG-Premier League,2122,Brentford,2021-11-20 Newcastle Utd-Brentford,2021-11-20,15:00:00,Matchweek 12,Sat,Away,D,3,3,Newcastle Utd,0.9,1.5,47,52131,Pontus Jansson,3-5-2,Robert Jones
+ENG-Premier League,2122,Brentford,2021-11-28 Brentford-Everton,2021-11-28,14:00:00,Matchweek 13,Sun,Home,W,1,0,Everton,1.2,1.0,40,16957,Pontus Jansson,3-5-2,Darren England
+ENG-Premier League,2122,Brentford,2021-12-02 Tottenham-Brentford,2021-12-02,19:30:00,Matchweek 14,Thu,Away,L,0,2,Tottenham,0.3,1.9,53,54202,Pontus Jansson,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Brentford,2021-12-05 Leeds United-Brentford,2021-12-05,14:00:00,Matchweek 15,Sun,Away,D,2,2,Leeds United,1.0,1.2,37,35639,Pontus Jansson,3-5-2,David Coote
+ENG-Premier League,2122,Brentford,2021-12-10 Brentford-Watford,2021-12-10,20:00:00,Matchweek 16,Fri,Home,W,2,1,Watford,1.6,0.5,63,16861,Pontus Jansson,3-5-2,Michael Oliver
+ENG-Premier League,2122,Brentford,2021-12-26 Brighton-Brentford,2021-12-26,20:00:00,Matchweek 19,Sun,Away,L,0,2,Brighton,0.7,0.8,50,30141,Pontus Jansson,3-5-2,Darren England
+ENG-Premier League,2122,Brentford,2021-12-29 Brentford-Manchester City,2021-12-29,20:15:00,Matchweek 20,Wed,Home,L,0,1,Manchester City,0.4,1.1,24,17009,Pontus Jansson,3-5-2,David Coote
+ENG-Premier League,2122,Brentford,2022-01-02 Brentford-Aston Villa,2022-01-02,14:00:00,Matchweek 21,Sun,Home,W,2,1,Aston Villa,0.6,0.8,45,16876,Pontus Jansson,3-5-2,Craig Pawson
+ENG-Premier League,2122,Brentford,2022-01-11 Southampton-Brentford,2022-01-11,19:45:00,Matchweek 18,Tue,Away,L,1,4,Southampton,0.5,1.4,52,27383,Pontus Jansson,3-5-2,Stuart Attwell
+ENG-Premier League,2122,Brentford,2022-01-16 Liverpool-Brentford,2022-01-16,14:00:00,Matchweek 22,Sun,Away,L,0,3,Liverpool,0.7,2.7,32,52824,Pontus Jansson,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Brentford,2022-01-19 Brentford-Manchester Utd,2022-01-19,20:00:00,Matchweek 17,Wed,Home,L,1,3,Manchester Utd,2.3,2.3,44,17094,Pontus Jansson,3-5-2,Andre Marriner
+ENG-Premier League,2122,Brentford,2022-01-22 Brentford-Wolves,2022-01-22,15:00:00,Matchweek 23,Sat,Home,L,1,2,Wolves,1.1,0.2,50,16982,Pontus Jansson,3-5-2,Peter Bankes
+ENG-Premier League,2122,Brentford,2022-02-09 Manchester City-Brentford,2022-02-09,19:45:00,Matchweek 24,Wed,Away,L,0,2,Manchester City,0.4,1.9,26,51658,Pontus Jansson,3-5-2,Darren England
+ENG-Premier League,2122,Brentford,2022-02-12 Brentford-Crystal Palace,2022-02-12,15:00:00,Matchweek 25,Sat,Home,D,0,0,Crystal Palace,1.6,0.3,42,16958,Pontus Jansson,3-5-2,Simon Hooper
+ENG-Premier League,2122,Brentford,2022-02-19 Arsenal-Brentford,2022-02-19,15:00:00,Matchweek 26,Sat,Away,L,1,2,Arsenal,0.6,1.7,34,59249,Pontus Jansson,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Brentford,2022-02-26 Brentford-Newcastle Utd,2022-02-26,15:00:00,Matchweek 27,Sat,Home,L,0,2,Newcastle Utd,0.4,2.7,37,17039,Pontus Jansson,4-3-3,Mike Dean
+ENG-Premier League,2122,Brentford,2022-03-05 Norwich City-Brentford,2022-03-05,15:00:00,Matchweek 28,Sat,Away,W,3,1,Norwich City,2.0,1.0,40,26887,Pontus Jansson,4-5-1,Anthony Taylor
+ENG-Premier League,2122,Brentford,2022-03-12 Brentford-Burnley,2022-03-12,15:00:00,Matchweek 29,Sat,Home,W,2,0,Burnley,1.9,0.7,55,17088,Pontus Jansson,4-5-1,Paul Tierney
+ENG-Premier League,2122,Brentford,2022-03-20 Leicester City-Brentford,2022-03-20,14:00:00,Matchweek 30,Sun,Away,L,1,2,Leicester City,1.3,1.0,48,31830,Pontus Jansson,4-5-1,Darren England
+ENG-Premier League,2122,Brentford,2022-04-02 Chelsea-Brentford,2022-04-02,15:00:00,Matchweek 31,Sat,Away,W,4,1,Chelsea,1.8,1.3,30,39061,Pontus Jansson,5-3-2,Andy Madley
+ENG-Premier League,2122,Brentford,2022-04-10 Brentford-West Ham,2022-04-10,14:00:00,Matchweek 32,Sun,Home,W,2,0,West Ham,1.4,0.3,47,17032,Christian Nørgaard,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Brentford,2022-04-16 Watford-Brentford,2022-04-16,15:00:00,Matchweek 33,Sat,Away,W,2,1,Watford,1.9,1.7,50,21045,Pontus Jansson,4-3-3,Simon Hooper
+ENG-Premier League,2122,Brentford,2022-04-23 Brentford-Tottenham,2022-04-23,17:30:00,Matchweek 34,Sat,Home,D,0,0,Tottenham,0.9,0.6,44,17072,Pontus Jansson,5-3-2,Martin Atkinson
+ENG-Premier League,2122,Brentford,2022-05-02 Manchester Utd-Brentford,2022-05-02,20:00:00,Matchweek 35,Mon,Away,L,0,3,Manchester Utd,0.6,2.0,37,73482,Pontus Jansson,5-3-2,Chris Kavanagh
+ENG-Premier League,2122,Brentford,2022-05-07 Brentford-Southampton,2022-05-07,15:00:00,Matchweek 36,Sat,Home,W,3,0,Southampton,2.6,1.4,41,17051,Pontus Jansson,4-3-3,Michael Salisbury
+ENG-Premier League,2122,Brentford,2022-05-15 Everton-Brentford,2022-05-15,16:30:00,Matchweek 37,Sun,Away,W,3,2,Everton,1.4,2.1,72,38819,Pontus Jansson,4-3-3,Michael Oliver
+ENG-Premier League,2122,Brentford,2022-05-22 Brentford-Leeds United,2022-05-22,16:00:00,Matchweek 38,Sun,Home,L,1,2,Leeds United,0.8,1.3,49,16957,Pontus Jansson,4-3-3,Paul Tierney
+ENG-Premier League,2122,Brighton,2021-08-14 Burnley-Brighton,2021-08-14,15:00:00,Matchweek 1,Sat,Away,W,2,1,Burnley,1.0,1.5,63,16910,Lewis Dunk,4-1-4-1,David Coote
+ENG-Premier League,2122,Brighton,2021-08-21 Brighton-Watford,2021-08-21,17:30:00,Matchweek 2,Sat,Home,W,2,0,Watford,1.3,0.5,56,29485,Lewis Dunk,4-4-1-1,Anthony Taylor
+ENG-Premier League,2122,Brighton,2021-08-28 Brighton-Everton,2021-08-28,15:00:00,Matchweek 3,Sat,Home,L,0,2,Everton,0.7,1.4,65,30548,Lewis Dunk,3-4-3,Jonathan Moss
+ENG-Premier League,2122,Brighton,2021-09-11 Brentford-Brighton,2021-09-11,15:00:00,Matchweek 4,Sat,Away,W,1,0,Brentford,0.3,0.4,59,16518,Lewis Dunk,3-4-1-2,Graham Scott
+ENG-Premier League,2122,Brighton,2021-09-19 Brighton-Leicester City,2021-09-19,14:00:00,Matchweek 5,Sun,Home,W,2,1,Leicester City,1.7,1.6,37,31078,Lewis Dunk,4-4-2,Stuart Attwell
+ENG-Premier League,2122,Brighton,2021-09-27 Crystal Palace-Brighton,2021-09-27,20:00:00,Matchweek 6,Mon,Away,D,1,1,Crystal Palace,0.8,1.4,53,22975,Lewis Dunk,3-4-3,Andre Marriner
+ENG-Premier League,2122,Brighton,2021-10-02 Brighton-Arsenal,2021-10-02,17:30:00,Matchweek 7,Sat,Home,D,0,0,Arsenal,1.1,0.4,58,31266,Lewis Dunk,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Brighton,2021-10-16 Norwich City-Brighton,2021-10-16,15:00:00,Matchweek 8,Sat,Away,D,0,0,Norwich City,0.8,1.2,64,26777,Lewis Dunk,3-5-2,Peter Bankes
+ENG-Premier League,2122,Brighton,2021-10-23 Brighton-Manchester City,2021-10-23,17:30:00,Matchweek 9,Sat,Home,L,1,4,Manchester City,1.3,3.8,48,31215,Lewis Dunk,3-5-2,Kevin Friend
+ENG-Premier League,2122,Brighton,2021-10-30 Liverpool-Brighton,2021-10-30,15:00:00,Matchweek 10,Sat,Away,D,2,2,Liverpool,1.0,1.5,42,52598,Lewis Dunk,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Brighton,2021-11-06 Brighton-Newcastle Utd,2021-11-06,17:30:00,Matchweek 11,Sat,Home,D,1,1,Newcastle Utd,1.5,0.3,65,31267,Lewis Dunk,4-2-3-1,David Coote
+ENG-Premier League,2122,Brighton,2021-11-20 Aston Villa-Brighton,2021-11-20,15:00:00,Matchweek 12,Sat,Away,L,0,2,Aston Villa,0.4,0.7,62,41925,Lewis Dunk,3-5-2,Anthony Taylor
+ENG-Premier League,2122,Brighton,2021-11-27 Brighton-Leeds United,2021-11-27,17:30:00,Matchweek 13,Sat,Home,D,0,0,Leeds United,2.1,0.6,57,31166,Lewis Dunk,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Brighton,2021-12-01 West Ham-Brighton,2021-12-01,19:30:00,Matchweek 14,Wed,Away,D,1,1,West Ham,1.3,1.3,65,59626,Lewis Dunk,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Brighton,2021-12-04 Southampton-Brighton,2021-12-04,15:00:00,Matchweek 15,Sat,Away,D,1,1,Southampton,1.6,1.6,56,28706,Shane Duffy,3-5-2,Anthony Taylor
+ENG-Premier League,2122,Brighton,2021-12-15 Brighton-Wolves,2021-12-15,19:30:00,Matchweek 17,Wed,Home,L,0,1,Wolves,1.2,1.0,59,30362,Dan Burn,4-3-3,Tony Harrington
+ENG-Premier League,2122,Brighton,2021-12-26 Brighton-Brentford,2021-12-26,20:00:00,Matchweek 19,Sun,Home,W,2,0,Brentford,0.8,0.7,50,30141,Adam Lallana,4-1-2-1-2◆,Darren England
+ENG-Premier League,2122,Brighton,2021-12-29 Chelsea-Brighton,2021-12-29,19:30:00,Matchweek 20,Wed,Away,D,1,1,Chelsea,0.9,0.7,53,40080,Adam Lallana,3-4-3,Mike Dean
+ENG-Premier League,2122,Brighton,2022-01-02 Everton-Brighton,2022-01-02,14:00:00,Matchweek 21,Sun,Away,W,3,2,Everton,1.7,1.6,50,38203,Adam Lallana,4-4-2,John Brooks
+ENG-Premier League,2122,Brighton,2022-01-14 Brighton-Crystal Palace,2022-01-14,20:00:00,Matchweek 22,Fri,Home,D,1,1,Crystal Palace,2.0,0.2,63,30675,Adam Lallana,4-1-2-1-2◆,Robert Jones
+ENG-Premier League,2122,Brighton,2022-01-18 Brighton-Chelsea,2022-01-18,20:00:00,Matchweek 24,Tue,Home,D,1,1,Chelsea,0.7,0.7,44,30880,Adam Webster,4-1-4-1,Kevin Friend
+ENG-Premier League,2122,Brighton,2022-01-23 Leicester City-Brighton,2022-01-23,14:00:00,Matchweek 23,Sun,Away,D,1,1,Leicester City,1.1,1.4,56,31231,Adam Webster,4-1-2-1-2◆,Martin Atkinson
+ENG-Premier League,2122,Brighton,2022-02-12 Watford-Brighton,2022-02-12,15:00:00,Matchweek 25,Sat,Away,W,2,0,Watford,1.6,0.5,64,20795,Lewis Dunk,3-1-4-2,Jonathan Moss
+ENG-Premier League,2122,Brighton,2022-02-15 Manchester Utd-Brighton,2022-02-15,20:15:00,Matchweek 18,Tue,Away,L,0,2,Manchester Utd,0.7,1.7,50,73012,Lewis Dunk,4-1-2-1-2◆,Peter Bankes
+ENG-Premier League,2122,Brighton,2022-02-19 Brighton-Burnley,2022-02-19,15:00:00,Matchweek 26,Sat,Home,L,0,3,Burnley,0.6,0.7,68,30361,Adam Lallana,4-4-2,Kevin Friend
+ENG-Premier League,2122,Brighton,2022-02-26 Brighton-Aston Villa,2022-02-26,15:00:00,Matchweek 27,Sat,Home,L,0,2,Aston Villa,0.7,1.0,66,31475,Lewis Dunk,3-5-2,John Brooks
+ENG-Premier League,2122,Brighton,2022-03-05 Newcastle Utd-Brighton,2022-03-05,15:00:00,Matchweek 28,Sat,Away,L,1,2,Newcastle Utd,1.5,1.7,68,52214,Lewis Dunk,4-1-2-1-2◆,Martin Atkinson
+ENG-Premier League,2122,Brighton,2022-03-12 Brighton-Liverpool,2022-03-12,12:30:00,Matchweek 29,Sat,Home,L,0,2,Liverpool,0.5,2.2,52,31474,Lewis Dunk,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Brighton,2022-03-16 Brighton-Tottenham,2022-03-16,19:30:00,Matchweek 16,Wed,Home,L,0,2,Tottenham,0.7,2.2,48,31144,Lewis Dunk,4-2-3-1,Robert Jones
+ENG-Premier League,2122,Brighton,2022-04-02 Brighton-Norwich City,2022-04-02,15:00:00,Matchweek 31,Sat,Home,D,0,0,Norwich City,2.8,0.4,63,31245,Lewis Dunk,3-4-1-2,Simon Hooper
+ENG-Premier League,2122,Brighton,2022-04-09 Arsenal-Brighton,2022-04-09,15:00:00,Matchweek 32,Sat,Away,W,2,1,Arsenal,0.6,1.9,36,60112,Lewis Dunk,3-5-2,David Coote
+ENG-Premier League,2122,Brighton,2022-04-16 Tottenham-Brighton,2022-04-16,12:30:00,Matchweek 33,Sat,Away,W,1,0,Tottenham,0.6,0.5,51,58685,Lewis Dunk,3-5-2,Craig Pawson
+ENG-Premier League,2122,Brighton,2022-04-20 Manchester City-Brighton,2022-04-20,20:00:00,Matchweek 30,Wed,Away,L,0,3,Manchester City,0.2,1.3,35,52226,Lewis Dunk,3-5-2,Mike Dean
+ENG-Premier League,2122,Brighton,2022-04-24 Brighton-Southampton,2022-04-24,14:00:00,Matchweek 34,Sun,Home,D,2,2,Southampton,1.7,0.9,48,31335,Lewis Dunk,4-3-1-2,Robert Jones
+ENG-Premier League,2122,Brighton,2022-04-30 Wolves-Brighton,2022-04-30,15:00:00,Matchweek 35,Sat,Away,W,3,0,Wolves,2.6,0.7,51,31243,Lewis Dunk,3-4-3,Simon Hooper
+ENG-Premier League,2122,Brighton,2022-05-07 Brighton-Manchester Utd,2022-05-07,17:30:00,Matchweek 36,Sat,Home,W,4,0,Manchester Utd,2.3,0.9,42,31637,Lewis Dunk,3-4-3,Andy Madley
+ENG-Premier League,2122,Brighton,2022-05-15 Leeds United-Brighton,2022-05-15,14:00:00,Matchweek 37,Sun,Away,D,1,1,Leeds United,2.2,1.6,50,36638,Lewis Dunk,3-4-3,Mike Dean
+ENG-Premier League,2122,Brighton,2022-05-22 Brighton-West Ham,2022-05-22,16:00:00,Matchweek 38,Sun,Home,W,3,1,West Ham,1.6,0.2,50,31604,Lewis Dunk,4-3-2-1,Kevin Friend
+ENG-Premier League,2122,Burnley,2021-08-14 Burnley-Brighton,2021-08-14,15:00:00,Matchweek 1,Sat,Home,L,1,2,Brighton,1.5,1.0,37,16910,Ben Mee,4-4-2,David Coote
+ENG-Premier League,2122,Burnley,2021-08-21 Liverpool-Burnley,2021-08-21,12:30:00,Matchweek 2,Sat,Away,L,0,2,Liverpool,0.9,2.7,35,52591,Ben Mee,4-4-2,Mike Dean
+ENG-Premier League,2122,Burnley,2021-08-29 Burnley-Leeds United,2021-08-29,14:00:00,Matchweek 3,Sun,Home,D,1,1,Leeds United,1.0,1.2,36,20000,Ben Mee,4-4-2,Michael Oliver
+ENG-Premier League,2122,Burnley,2021-09-13 Everton-Burnley,2021-09-13,20:00:00,Matchweek 4,Mon,Away,L,1,3,Everton,1.0,1.4,48,30000,Ben Mee,4-4-2,Martin Atkinson
+ENG-Premier League,2122,Burnley,2021-09-18 Burnley-Arsenal,2021-09-18,15:00:00,Matchweek 5,Sat,Home,L,0,1,Arsenal,1.0,1.1,46,20000,Ben Mee,4-4-2,Anthony Taylor
+ENG-Premier League,2122,Burnley,2021-09-25 Leicester City-Burnley,2021-09-25,15:00:00,Matchweek 6,Sat,Away,D,2,2,Leicester City,0.5,2.4,34,31650,Ben Mee,4-4-2,Chris Kavanagh
+ENG-Premier League,2122,Burnley,2021-10-02 Burnley-Norwich City,2021-10-02,15:00:00,Matchweek 7,Sat,Home,D,0,0,Norwich City,1.2,0.6,56,17427,James Tarkowski,4-4-2,Kevin Friend
+ENG-Premier League,2122,Burnley,2021-10-16 Manchester City-Burnley,2021-10-16,15:00:00,Matchweek 8,Sat,Away,L,0,2,Manchester City,0.9,2.1,30,52711,James Tarkowski,4-4-2,Martin Atkinson
+ENG-Premier League,2122,Burnley,2021-10-23 Southampton-Burnley,2021-10-23,15:00:00,Matchweek 9,Sat,Away,D,2,2,Southampton,0.7,1.6,39,29145,James Tarkowski,4-4-2,Chris Kavanagh
+ENG-Premier League,2122,Burnley,2021-10-30 Burnley-Brentford,2021-10-30,15:00:00,Matchweek 10,Sat,Home,W,3,1,Brentford,2.3,0.8,41,18821,Ben Mee,4-4-2,Jonathan Moss
+ENG-Premier League,2122,Burnley,2021-11-06 Chelsea-Burnley,2021-11-06,15:00:00,Matchweek 11,Sat,Away,D,1,1,Chelsea,0.7,1.8,30,39798,Ben Mee,4-4-2,Andre Marriner
+ENG-Premier League,2122,Burnley,2021-11-20 Burnley-Crystal Palace,2021-11-20,15:00:00,Matchweek 12,Sat,Home,D,3,3,Crystal Palace,1.5,1.9,40,18028,Ben Mee,4-4-2,Simon Hooper
+ENG-Premier League,2122,Burnley,2021-12-01 Wolves-Burnley,2021-12-01,19:30:00,Matchweek 14,Wed,Away,D,0,0,Wolves,0.2,0.7,35,30328,Ben Mee,4-4-2,John Brooks
+ENG-Premier League,2122,Burnley,2021-12-04 Newcastle Utd-Burnley,2021-12-04,15:00:00,Matchweek 15,Sat,Away,L,0,1,Newcastle Utd,0.6,1.0,52,51948,James Tarkowski,4-4-2,Paul Tierney
+ENG-Premier League,2122,Burnley,2021-12-12 Burnley-West Ham,2021-12-12,14:00:00,Matchweek 16,Sun,Home,D,0,0,West Ham,0.8,0.8,40,18065,Ben Mee,4-4-2,Graham Scott
+ENG-Premier League,2122,Burnley,2021-12-30 Manchester Utd-Burnley,2021-12-30,20:15:00,Matchweek 20,Thu,Away,L,1,3,Manchester Utd,1.1,2.4,43,73121,Ben Mee,4-4-2,Jonathan Moss
+ENG-Premier League,2122,Burnley,2022-01-02 Leeds United-Burnley,2022-01-02,14:00:00,Matchweek 21,Sun,Away,L,1,3,Leeds United,1.0,1.9,45,36083,Ben Mee,4-4-2,Paul Tierney
+ENG-Premier League,2122,Burnley,2022-01-23 Arsenal-Burnley,2022-01-23,14:00:00,Matchweek 23,Sun,Away,D,0,0,Arsenal,0.4,1.2,25,59255,Ben Mee,4-4-2,David Coote
+ENG-Premier League,2122,Burnley,2022-02-05 Burnley-Watford,2022-02-05,18:00:00,Matchweek 17,Sat,Home,D,0,0,Watford,0.6,0.8,53,19527,Ben Mee,4-4-2,Craig Pawson
+ENG-Premier League,2122,Burnley,2022-02-08 Burnley-Manchester Utd,2022-02-08,20:00:00,Matchweek 24,Tue,Home,D,1,1,Manchester Utd,0.4,1.8,37,21233,Ben Mee,4-4-2,Mike Dean
+ENG-Premier League,2122,Burnley,2022-02-13 Burnley-Liverpool,2022-02-13,14:00:00,Matchweek 25,Sun,Home,L,0,1,Liverpool,1.5,1.7,34,19563,Ben Mee,4-4-2,Martin Atkinson
+ENG-Premier League,2122,Burnley,2022-02-19 Brighton-Burnley,2022-02-19,15:00:00,Matchweek 26,Sat,Away,W,3,0,Brighton,0.7,0.6,32,30361,Ben Mee,4-4-2,Kevin Friend
+ENG-Premier League,2122,Burnley,2022-02-23 Burnley-Tottenham,2022-02-23,19:30:00,Matchweek 13,Wed,Home,W,1,0,Tottenham,0.9,0.7,34,19488,Ben Mee,4-4-2,Graham Scott
+ENG-Premier League,2122,Burnley,2022-02-26 Crystal Palace-Burnley,2022-02-26,15:00:00,Matchweek 27,Sat,Away,D,1,1,Crystal Palace,0.2,1.0,41,24203,Ben Mee,4-4-2,Jonathan Moss
+ENG-Premier League,2122,Burnley,2022-03-01 Burnley-Leicester City,2022-03-01,19:45:00,Matchweek 22,Tue,Home,L,0,2,Leicester City,0.9,1.5,45,17825,Ben Mee,4-4-2,Chris Kavanagh
+ENG-Premier League,2122,Burnley,2022-03-05 Burnley-Chelsea,2022-03-05,15:00:00,Matchweek 28,Sat,Home,L,0,4,Chelsea,0.7,2.3,28,19439,James Tarkowski,4-4-2,Andre Marriner
+ENG-Premier League,2122,Burnley,2022-03-12 Brentford-Burnley,2022-03-12,15:00:00,Matchweek 29,Sat,Away,L,0,2,Brentford,0.7,1.9,45,17088,James Tarkowski,4-4-2,Paul Tierney
+ENG-Premier League,2122,Burnley,2022-04-02 Burnley-Manchester City,2022-04-02,15:00:00,Matchweek 31,Sat,Home,L,0,2,Manchester City,0.1,1.8,24,21249,James Tarkowski,4-5-1,Craig Pawson
+ENG-Premier League,2122,Burnley,2022-04-06 Burnley-Everton,2022-04-06,19:30:00,Matchweek 19,Wed,Home,W,3,2,Everton,2.0,2.4,52,19830,James Tarkowski,4-4-2,Mike Dean
+ENG-Premier League,2122,Burnley,2022-04-10 Norwich City-Burnley,2022-04-10,14:00:00,Matchweek 32,Sun,Away,L,0,2,Norwich City,1.7,1.7,55,26361,James Tarkowski,4-4-2,Michael Oliver
+ENG-Premier League,2122,Burnley,2022-04-17 West Ham-Burnley,2022-04-17,14:15:00,Matchweek 33,Sun,Away,D,1,1,West Ham,1.8,2.2,39,59958,James Tarkowski,4-4-2,Paul Tierney
+ENG-Premier League,2122,Burnley,2022-04-21 Burnley-Southampton,2022-04-21,19:45:00,Matchweek 30,Thu,Home,W,2,0,Southampton,1.5,0.9,44,17384,James Tarkowski,4-4-2,Stuart Attwell
+ENG-Premier League,2122,Burnley,2022-04-24 Burnley-Wolves,2022-04-24,14:00:00,Matchweek 34,Sun,Home,W,1,0,Wolves,1.4,0.6,36,19246,James Tarkowski,4-4-2,Anthony Taylor
+ENG-Premier League,2122,Burnley,2022-04-30 Watford-Burnley,2022-04-30,15:00:00,Matchweek 35,Sat,Away,W,2,1,Watford,1.6,1.0,53,20738,James Tarkowski,4-4-2,Craig Pawson
+ENG-Premier League,2122,Burnley,2022-05-07 Burnley-Aston Villa,2022-05-07,15:00:00,Matchweek 36,Sat,Home,L,1,3,Aston Villa,1.9,2.1,49,20891,James Tarkowski,4-4-2,David Coote
+ENG-Premier League,2122,Burnley,2022-05-15 Tottenham-Burnley,2022-05-15,12:00:00,Matchweek 37,Sun,Away,L,0,1,Tottenham,0.7,2.2,32,61729,Jack Cork,5-3-2,Kevin Friend
+ENG-Premier League,2122,Burnley,2022-05-19 Aston Villa-Burnley,2022-05-19,20:00:00,Matchweek 18,Thu,Away,D,1,1,Aston Villa,1.6,1.5,29,40468,James Tarkowski,5-3-2,Paul Tierney
+ENG-Premier League,2122,Burnley,2022-05-22 Burnley-Newcastle Utd,2022-05-22,16:00:00,Matchweek 38,Sun,Home,L,1,2,Newcastle Utd,1.6,1.8,52,21361,James Tarkowski,4-4-2,Craig Pawson
+ENG-Premier League,2122,Chelsea,2021-08-14 Chelsea-Crystal Palace,2021-08-14,15:00:00,Matchweek 1,Sat,Home,W,3,0,Crystal Palace,0.7,0.2,62,38965,César Azpilicueta,3-4-3,Jonathan Moss
+ENG-Premier League,2122,Chelsea,2021-08-22 Arsenal-Chelsea,2021-08-22,16:30:00,Matchweek 2,Sun,Away,W,2,0,Arsenal,3.1,0.3,65,58729,César Azpilicueta,3-4-3,Paul Tierney
+ENG-Premier League,2122,Chelsea,2021-08-28 Liverpool-Chelsea,2021-08-28,17:30:00,Matchweek 3,Sat,Away,D,1,1,Liverpool,0.6,2.5,35,54000,César Azpilicueta,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Chelsea,2021-09-11 Chelsea-Aston Villa,2021-09-11,17:30:00,Matchweek 4,Sat,Home,W,3,0,Aston Villa,1.3,1.2,57,39969,Marcos Alonso,3-4-3,Stuart Attwell
+ENG-Premier League,2122,Chelsea,2021-09-19 Tottenham-Chelsea,2021-09-19,16:30:00,Matchweek 5,Sun,Away,W,3,0,Tottenham,2.1,0.5,53,60059,César Azpilicueta,3-4-3,Paul Tierney
+ENG-Premier League,2122,Chelsea,2021-09-25 Chelsea-Manchester City,2021-09-25,12:30:00,Matchweek 6,Sat,Home,L,0,1,Manchester City,0.2,1.7,41,40036,César Azpilicueta,3-5-2,Michael Oliver
+ENG-Premier League,2122,Chelsea,2021-10-02 Chelsea-Southampton,2021-10-02,15:00:00,Matchweek 7,Sat,Home,W,3,1,Southampton,3.3,1.3,62,40109,César Azpilicueta,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Chelsea,2021-10-16 Brentford-Chelsea,2021-10-16,17:30:00,Matchweek 8,Sat,Away,W,1,0,Brentford,0.3,1.4,55,16940,César Azpilicueta,3-5-2,Anthony Taylor
+ENG-Premier League,2122,Chelsea,2021-10-23 Chelsea-Norwich City,2021-10-23,12:30:00,Matchweek 9,Sat,Home,W,7,0,Norwich City,3.1,0.1,62,40113,Jorginho,3-4-3,Andy Madley
+ENG-Premier League,2122,Chelsea,2021-10-30 Newcastle Utd-Chelsea,2021-10-30,15:00:00,Matchweek 10,Sat,Away,W,3,0,Newcastle Utd,2.2,0.2,79,52208,Jorginho,3-4-3,Paul Tierney
+ENG-Premier League,2122,Chelsea,2021-11-06 Chelsea-Burnley,2021-11-06,15:00:00,Matchweek 11,Sat,Home,D,1,1,Burnley,1.8,0.7,70,39798,Jorginho,3-4-1-2,Andre Marriner
+ENG-Premier League,2122,Chelsea,2021-11-20 Leicester City-Chelsea,2021-11-20,12:30:00,Matchweek 12,Sat,Away,W,3,0,Leicester City,2.0,0.4,61,35497,Jorginho,3-4-3,Paul Tierney
+ENG-Premier League,2122,Chelsea,2021-11-28 Chelsea-Manchester Utd,2021-11-28,16:30:00,Matchweek 13,Sun,Home,D,1,1,Manchester Utd,2.7,0.9,65,40041,Jorginho,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Chelsea,2021-12-01 Watford-Chelsea,2021-12-01,19:30:00,Matchweek 14,Wed,Away,W,2,1,Watford,0.9,1.0,49,20388,César Azpilicueta,3-4-3,David Coote
+ENG-Premier League,2122,Chelsea,2021-12-04 West Ham-Chelsea,2021-12-04,12:30:00,Matchweek 15,Sat,Away,L,2,3,West Ham,1.1,1.8,63,59942,Jorginho,3-4-3,Andre Marriner
+ENG-Premier League,2122,Chelsea,2021-12-11 Chelsea-Leeds United,2021-12-11,15:00:00,Matchweek 16,Sat,Home,W,3,2,Leeds United,2.5,1.4,57,39959,César Azpilicueta,3-4-3,Chris Kavanagh
+ENG-Premier League,2122,Chelsea,2021-12-16 Chelsea-Everton,2021-12-16,19:45:00,Matchweek 17,Thu,Home,D,1,1,Everton,2.9,0.6,80,13933,César Azpilicueta,3-4-3,Michael Oliver
+ENG-Premier League,2122,Chelsea,2021-12-19 Wolves-Chelsea,2021-12-19,14:00:00,Matchweek 18,Sun,Away,D,0,0,Wolves,0.9,0.2,63,30631,César Azpilicueta,3-4-3,David Coote
+ENG-Premier League,2122,Chelsea,2021-12-26 Aston Villa-Chelsea,2021-12-26,17:30:00,Matchweek 19,Sun,Away,W,3,1,Aston Villa,2.6,0.4,58,41907,Jorginho,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Chelsea,2021-12-29 Chelsea-Brighton,2021-12-29,19:30:00,Matchweek 20,Wed,Home,D,1,1,Brighton,0.7,0.9,47,40080,César Azpilicueta,3-4-3,Mike Dean
+ENG-Premier League,2122,Chelsea,2022-01-02 Chelsea-Liverpool,2022-01-02,16:30:00,Matchweek 21,Sun,Home,D,2,2,Liverpool,1.2,1.3,54,40072,César Azpilicueta,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Chelsea,2022-01-15 Manchester City-Chelsea,2022-01-15,12:30:00,Matchweek 22,Sat,Away,L,0,1,Manchester City,0.3,1.0,44,53319,César Azpilicueta,3-4-3,Craig Pawson
+ENG-Premier League,2122,Chelsea,2022-01-18 Brighton-Chelsea,2022-01-18,20:00:00,Matchweek 24,Tue,Away,D,1,1,Brighton,0.7,0.7,56,30880,César Azpilicueta,4-2-2-2,Kevin Friend
+ENG-Premier League,2122,Chelsea,2022-01-23 Chelsea-Tottenham,2022-01-23,16:30:00,Matchweek 23,Sun,Home,W,2,0,Tottenham,1.2,0.5,64,40020,César Azpilicueta,4-3-3,Paul Tierney
+ENG-Premier League,2122,Chelsea,2022-02-19 Crystal Palace-Chelsea,2022-02-19,15:00:00,Matchweek 26,Sat,Away,W,1,0,Crystal Palace,0.9,0.5,58,25109,Jorginho,4-3-3,David Coote
+ENG-Premier League,2122,Chelsea,2022-03-05 Burnley-Chelsea,2022-03-05,15:00:00,Matchweek 28,Sat,Away,W,4,0,Burnley,2.3,0.7,72,19439,Jorginho,3-4-3,Andre Marriner
+ENG-Premier League,2122,Chelsea,2022-03-10 Norwich City-Chelsea,2022-03-10,19:30:00,Matchweek 30,Thu,Away,W,3,1,Norwich City,1.8,1.0,66,26684,César Azpilicueta,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Chelsea,2022-03-13 Chelsea-Newcastle Utd,2022-03-13,14:00:00,Matchweek 29,Sun,Home,W,1,0,Newcastle Utd,1.1,0.3,71,40026,Jorginho,4-3-3,David Coote
+ENG-Premier League,2122,Chelsea,2022-04-02 Chelsea-Brentford,2022-04-02,15:00:00,Matchweek 31,Sat,Home,L,1,4,Brentford,1.3,1.8,70,39061,César Azpilicueta,4-3-3,Andy Madley
+ENG-Premier League,2122,Chelsea,2022-04-09 Southampton-Chelsea,2022-04-09,15:00:00,Matchweek 32,Sat,Away,W,6,0,Southampton,4.2,0.5,70,31359,N'Golo Kanté,3-4-1-2,Kevin Friend
+ENG-Premier League,2122,Chelsea,2022-04-20 Chelsea-Arsenal,2022-04-20,19:45:00,Matchweek 25,Wed,Home,L,2,4,Arsenal,0.7,2.0,67,32249,César Azpilicueta,3-4-1-2,Jonathan Moss
+ENG-Premier League,2122,Chelsea,2022-04-24 Chelsea-West Ham,2022-04-24,14:00:00,Matchweek 34,Sun,Home,W,1,0,West Ham,3.0,0.5,66,32231,César Azpilicueta,3-4-1-2,Michael Oliver
+ENG-Premier League,2122,Chelsea,2022-04-28 Manchester Utd-Chelsea,2022-04-28,19:45:00,Matchweek 37,Thu,Away,D,1,1,Manchester Utd,1.9,0.5,64,73564,César Azpilicueta,3-4-1-2,Mike Dean
+ENG-Premier League,2122,Chelsea,2022-05-01 Everton-Chelsea,2022-05-01,14:00:00,Matchweek 35,Sun,Away,L,0,1,Everton,0.8,0.8,77,39256,César Azpilicueta,3-4-1-2,Kevin Friend
+ENG-Premier League,2122,Chelsea,2022-05-07 Chelsea-Wolves,2022-05-07,15:00:00,Matchweek 36,Sat,Home,D,2,2,Wolves,1.7,2.0,59,32190,César Azpilicueta,3-4-1-2,Peter Bankes
+ENG-Premier League,2122,Chelsea,2022-05-11 Leeds United-Chelsea,2022-05-11,19:30:00,Matchweek 33,Wed,Away,W,3,0,Leeds United,1.3,0.4,67,36549,Jorginho,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Chelsea,2022-05-19 Chelsea-Leicester City,2022-05-19,20:00:00,Matchweek 27,Thu,Home,D,1,1,Leicester City,1.6,0.1,67,31478,Jorginho,3-4-3,Stuart Attwell
+ENG-Premier League,2122,Chelsea,2022-05-22 Chelsea-Watford,2022-05-22,16:00:00,Matchweek 38,Sun,Home,W,2,1,Watford,2.2,0.6,71,32089,César Azpilicueta,3-4-3,Mike Dean
+ENG-Premier League,2122,Crystal Palace,2021-08-14 Chelsea-Crystal Palace,2021-08-14,15:00:00,Matchweek 1,Sat,Away,L,0,3,Chelsea,0.2,0.7,38,38965,James McArthur,4-4-2,Jonathan Moss
+ENG-Premier League,2122,Crystal Palace,2021-08-21 Crystal Palace-Brentford,2021-08-21,15:00:00,Matchweek 2,Sat,Home,D,0,0,Brentford,0.5,0.9,53,23091,James McArthur,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Crystal Palace,2021-08-28 West Ham-Crystal Palace,2021-08-28,15:00:00,Matchweek 3,Sat,Away,D,2,2,West Ham,1.1,1.3,53,59751,James McArthur,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Crystal Palace,2021-09-11 Crystal Palace-Tottenham,2021-09-11,12:30:00,Matchweek 4,Sat,Home,W,3,0,Tottenham,2.1,0.1,62,26000,James McArthur,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Crystal Palace,2021-09-18 Liverpool-Crystal Palace,2021-09-18,15:00:00,Matchweek 5,Sat,Away,L,0,3,Liverpool,0.6,3.1,41,52000,James McArthur,4-3-3,Andy Madley
+ENG-Premier League,2122,Crystal Palace,2021-09-27 Crystal Palace-Brighton,2021-09-27,20:00:00,Matchweek 6,Mon,Home,D,1,1,Brighton,1.4,0.8,47,22975,Luka Milivojević,4-3-3,Andre Marriner
+ENG-Premier League,2122,Crystal Palace,2021-10-03 Crystal Palace-Leicester City,2021-10-03,14:00:00,Matchweek 7,Sun,Home,D,2,2,Leicester City,1.5,1.2,60,25000,Luka Milivojević,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Crystal Palace,2021-10-18 Arsenal-Crystal Palace,2021-10-18,20:00:00,Matchweek 8,Mon,Away,D,2,2,Arsenal,0.7,1.7,46,59475,Luka Milivojević,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Crystal Palace,2021-10-23 Crystal Palace-Newcastle Utd,2021-10-23,15:00:00,Matchweek 9,Sat,Home,D,1,1,Newcastle Utd,1.9,0.3,74,24609,Luka Milivojević,4-3-3,Darren England
+ENG-Premier League,2122,Crystal Palace,2021-10-30 Manchester City-Crystal Palace,2021-10-30,15:00:00,Matchweek 10,Sat,Away,W,2,0,Manchester City,0.7,0.7,32,53014,James McArthur,4-3-3,Andre Marriner
+ENG-Premier League,2122,Crystal Palace,2021-11-06 Crystal Palace-Wolves,2021-11-06,15:00:00,Matchweek 11,Sat,Home,W,2,0,Wolves,1.9,0.3,60,24390,James McArthur,4-3-3,Graham Scott
+ENG-Premier League,2122,Crystal Palace,2021-11-20 Burnley-Crystal Palace,2021-11-20,15:00:00,Matchweek 12,Sat,Away,D,3,3,Burnley,1.9,1.5,60,18028,Luka Milivojević,4-3-3,Simon Hooper
+ENG-Premier League,2122,Crystal Palace,2021-11-27 Crystal Palace-Aston Villa,2021-11-27,15:00:00,Matchweek 13,Sat,Home,L,1,2,Aston Villa,1.0,0.5,64,25203,Luka Milivojević,4-2-3-1,Michael Salisbury
+ENG-Premier League,2122,Crystal Palace,2021-11-30 Leeds United-Crystal Palace,2021-11-30,20:15:00,Matchweek 14,Tue,Away,L,0,1,Leeds United,1.1,1.4,39,35558,Joel Ward,4-3-3,Kevin Friend
+ENG-Premier League,2122,Crystal Palace,2021-12-05 Manchester Utd-Crystal Palace,2021-12-05,14:00:00,Matchweek 15,Sun,Away,L,0,1,Manchester Utd,0.5,0.9,39,73172,Wilfried Zaha,4-3-3,Craig Pawson
+ENG-Premier League,2122,Crystal Palace,2021-12-12 Crystal Palace-Everton,2021-12-12,16:30:00,Matchweek 16,Sun,Home,W,3,1,Everton,1.8,1.0,61,24066,Joel Ward,4-3-3,Andy Madley
+ENG-Premier League,2122,Crystal Palace,2021-12-15 Crystal Palace-Southampton,2021-12-15,19:30:00,Matchweek 17,Wed,Home,D,2,2,Southampton,1.2,0.6,59,22861,Joel Ward,4-3-3,Simon Hooper
+ENG-Premier League,2122,Crystal Palace,2021-12-26 Tottenham-Crystal Palace,2021-12-26,15:00:00,Matchweek 19,Sun,Away,L,0,3,Tottenham,0.2,2.3,40,40539,Joel Ward,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Crystal Palace,2021-12-28 Crystal Palace-Norwich City,2021-12-28,15:00:00,Matchweek 20,Tue,Home,W,3,0,Norwich City,1.9,0.9,51,24433,Joel Ward,4-3-3,Paul Tierney
+ENG-Premier League,2122,Crystal Palace,2022-01-01 Crystal Palace-West Ham,2022-01-01,17:30:00,Matchweek 21,Sat,Home,L,2,3,West Ham,2.4,2.2,62,24351,Luka Milivojević,4-3-3,Darren England
+ENG-Premier League,2122,Crystal Palace,2022-01-14 Brighton-Crystal Palace,2022-01-14,20:00:00,Matchweek 22,Fri,Away,D,1,1,Brighton,0.2,2.0,37,30675,Joel Ward,4-3-3,Robert Jones
+ENG-Premier League,2122,Crystal Palace,2022-01-23 Crystal Palace-Liverpool,2022-01-23,14:00:00,Matchweek 23,Sun,Home,L,1,3,Liverpool,2.2,1.9,43,25002,Joel Ward,4-3-3,Kevin Friend
+ENG-Premier League,2122,Crystal Palace,2022-02-09 Norwich City-Crystal Palace,2022-02-09,19:45:00,Matchweek 24,Wed,Away,D,1,1,Norwich City,1.3,0.4,70,26652,Joel Ward,4-3-3,Paul Tierney
+ENG-Premier League,2122,Crystal Palace,2022-02-12 Brentford-Crystal Palace,2022-02-12,15:00:00,Matchweek 25,Sat,Away,D,0,0,Brentford,0.3,1.6,58,16958,Joel Ward,4-3-3,Simon Hooper
+ENG-Premier League,2122,Crystal Palace,2022-02-19 Crystal Palace-Chelsea,2022-02-19,15:00:00,Matchweek 26,Sat,Home,L,0,1,Chelsea,0.5,0.9,42,25109,James McArthur,4-2-3-1,David Coote
+ENG-Premier League,2122,Crystal Palace,2022-02-23 Watford-Crystal Palace,2022-02-23,19:30:00,Matchweek 18,Wed,Away,W,4,1,Watford,1.1,1.4,54,20012,Marc Guéhi,4-3-3,Andre Marriner
+ENG-Premier League,2122,Crystal Palace,2022-02-26 Crystal Palace-Burnley,2022-02-26,15:00:00,Matchweek 27,Sat,Home,D,1,1,Burnley,1.0,0.2,59,24203,Luka Milivojević,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Crystal Palace,2022-03-05 Wolves-Crystal Palace,2022-03-05,15:00:00,Matchweek 28,Sat,Away,W,2,0,Wolves,2.7,0.7,37,31395,Marc Guéhi,4-2-3-1,Andy Madley
+ENG-Premier League,2122,Crystal Palace,2022-03-14 Crystal Palace-Manchester City,2022-03-14,20:00:00,Matchweek 29,Mon,Home,D,0,0,Manchester City,0.6,2.8,27,25309,Marc Guéhi,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Crystal Palace,2022-04-04 Crystal Palace-Arsenal,2022-04-04,20:00:00,Matchweek 31,Mon,Home,W,3,0,Arsenal,1.5,0.8,32,25149,Marc Guéhi,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Crystal Palace,2022-04-10 Leicester City-Crystal Palace,2022-04-10,14:00:00,Matchweek 32,Sun,Away,L,1,2,Leicester City,1.4,1.0,49,31896,Marc Guéhi,4-2-3-1,Robert Jones
+ENG-Premier League,2122,Crystal Palace,2022-04-20 Newcastle Utd-Crystal Palace,2022-04-20,19:45:00,Matchweek 30,Wed,Away,L,0,1,Newcastle Utd,0.5,0.9,63,51938,Marc Guéhi,4-2-3-1,Tony Harrington
+ENG-Premier League,2122,Crystal Palace,2022-04-25 Crystal Palace-Leeds United,2022-04-25,20:00:00,Matchweek 34,Mon,Home,D,0,0,Leeds United,1.9,0.5,53,25357,James McArthur,4-3-3,Darren England
+ENG-Premier League,2122,Crystal Palace,2022-04-30 Southampton-Crystal Palace,2022-04-30,15:00:00,Matchweek 35,Sat,Away,W,2,1,Southampton,1.1,0.6,62,31359,James McArthur,4-3-3,Jarred Gillett
+ENG-Premier League,2122,Crystal Palace,2022-05-07 Crystal Palace-Watford,2022-05-07,15:00:00,Matchweek 36,Sat,Home,W,1,0,Watford,2.2,0.4,67,24622,Joel Ward,4-3-3,Graham Scott
+ENG-Premier League,2122,Crystal Palace,2022-05-15 Aston Villa-Crystal Palace,2022-05-15,14:00:00,Matchweek 37,Sun,Away,D,1,1,Aston Villa,1.4,1.0,51,41136,Luka Milivojević,5-3-2,Chris Kavanagh
+ENG-Premier League,2122,Crystal Palace,2022-05-19 Everton-Crystal Palace,2022-05-19,19:45:00,Matchweek 33,Thu,Away,L,2,3,Everton,1.1,0.8,57,38448,Marc Guéhi,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Crystal Palace,2022-05-22 Crystal Palace-Manchester Utd,2022-05-22,16:00:00,Matchweek 38,Sun,Home,W,1,0,Manchester Utd,0.6,0.7,39,25434,Joel Ward,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Everton,2021-08-14 Everton-Southampton,2021-08-14,15:00:00,Matchweek 1,Sat,Home,W,3,1,Southampton,2.4,0.8,48,38487,Séamus Coleman,4-2-3-1,Andy Madley
+ENG-Premier League,2122,Everton,2021-08-21 Leeds United-Everton,2021-08-21,15:00:00,Matchweek 2,Sat,Away,D,2,2,Leeds United,1.8,1.2,31,36293,Séamus Coleman,4-4-1-1,Darren England
+ENG-Premier League,2122,Everton,2021-08-28 Brighton-Everton,2021-08-28,15:00:00,Matchweek 3,Sat,Away,W,2,0,Brighton,1.4,0.7,35,30548,Séamus Coleman,4-4-1-1,Jonathan Moss
+ENG-Premier League,2122,Everton,2021-09-13 Everton-Burnley,2021-09-13,20:00:00,Matchweek 4,Mon,Home,W,3,1,Burnley,1.4,1.0,52,30000,Séamus Coleman,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Everton,2021-09-18 Aston Villa-Everton,2021-09-18,17:30:00,Matchweek 5,Sat,Away,L,0,3,Aston Villa,0.7,0.8,45,41888,Lucas Digne,4-4-1-1,Craig Pawson
+ENG-Premier League,2122,Everton,2021-09-25 Everton-Norwich City,2021-09-25,15:00:00,Matchweek 6,Sat,Home,W,2,0,Norwich City,1.9,0.5,47,38821,Lucas Digne,4-4-1-1,David Coote
+ENG-Premier League,2122,Everton,2021-10-02 Manchester Utd-Everton,2021-10-02,12:30:00,Matchweek 7,Sat,Away,D,1,1,Manchester Utd,1.3,1.0,28,73128,Lucas Digne,4-4-1-1,Michael Oliver
+ENG-Premier League,2122,Everton,2021-10-17 Everton-West Ham,2021-10-17,14:00:00,Matchweek 8,Sun,Home,L,0,1,West Ham,0.9,1.2,39,39132,Séamus Coleman,4-4-1-1,Stuart Attwell
+ENG-Premier League,2122,Everton,2021-10-23 Everton-Watford,2021-10-23,15:00:00,Matchweek 9,Sat,Home,L,2,5,Watford,1.5,3.7,49,38834,Séamus Coleman,4-4-1-1,Graham Scott
+ENG-Premier League,2122,Everton,2021-11-01 Wolves-Everton,2021-11-01,20:00:00,Matchweek 10,Mon,Away,L,1,2,Wolves,1.5,1.7,39,30617,Séamus Coleman,4-4-2,Martin Atkinson
+ENG-Premier League,2122,Everton,2021-11-07 Everton-Tottenham,2021-11-07,14:00:00,Matchweek 11,Sun,Home,D,0,0,Tottenham,0.6,0.7,45,39059,Séamus Coleman,4-4-1-1,Chris Kavanagh
+ENG-Premier League,2122,Everton,2021-11-21 Manchester City-Everton,2021-11-21,14:00:00,Matchweek 12,Sun,Away,L,0,3,Manchester City,0.2,2.5,23,52571,Séamus Coleman,4-4-1-1,Stuart Attwell
+ENG-Premier League,2122,Everton,2021-11-28 Brentford-Everton,2021-11-28,14:00:00,Matchweek 13,Sun,Away,L,0,1,Brentford,1.0,1.2,60,16957,Séamus Coleman,4-4-1-1,Darren England
+ENG-Premier League,2122,Everton,2021-12-01 Everton-Liverpool,2021-12-01,20:15:00,Matchweek 14,Wed,Home,L,1,4,Liverpool,0.7,2.4,33,39641,Séamus Coleman,4-4-2,Paul Tierney
+ENG-Premier League,2122,Everton,2021-12-06 Everton-Arsenal,2021-12-06,20:00:00,Matchweek 15,Mon,Home,W,2,1,Arsenal,0.9,1.0,37,38906,Séamus Coleman,4-4-1-1,Mike Dean
+ENG-Premier League,2122,Everton,2021-12-12 Crystal Palace-Everton,2021-12-12,16:30:00,Matchweek 16,Sun,Away,L,1,3,Crystal Palace,1.0,1.8,39,24066,Séamus Coleman,4-1-4-1,Andy Madley
+ENG-Premier League,2122,Everton,2021-12-16 Chelsea-Everton,2021-12-16,19:45:00,Matchweek 17,Thu,Away,D,1,1,Chelsea,0.6,2.9,20,13933,Michael Keane,5-4-1,Michael Oliver
+ENG-Premier League,2122,Everton,2022-01-02 Everton-Brighton,2022-01-02,14:00:00,Matchweek 21,Sun,Home,L,2,3,Brighton,1.6,1.7,50,38203,Séamus Coleman,5-4-1,John Brooks
+ENG-Premier League,2122,Everton,2022-01-15 Norwich City-Everton,2022-01-15,15:00:00,Matchweek 22,Sat,Away,L,1,2,Norwich City,0.6,1.0,59,26629,Séamus Coleman,4-4-2,Andy Madley
+ENG-Premier League,2122,Everton,2022-01-22 Everton-Aston Villa,2022-01-22,12:30:00,Matchweek 23,Sat,Home,L,0,1,Aston Villa,1.6,0.8,50,38203,Yerry Mina,4-4-2,Craig Pawson
+ENG-Premier League,2122,Everton,2022-02-08 Newcastle Utd-Everton,2022-02-08,19:45:00,Matchweek 24,Tue,Away,L,1,3,Newcastle Utd,0.7,1.9,60,52186,Séamus Coleman,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Everton,2022-02-12 Everton-Leeds United,2022-02-12,15:00:00,Matchweek 25,Sat,Home,W,3,0,Leeds United,2.7,0.3,42,39150,Séamus Coleman,4-4-2,Graham Scott
+ENG-Premier League,2122,Everton,2022-02-19 Southampton-Everton,2022-02-19,15:00:00,Matchweek 26,Sat,Away,L,0,2,Southampton,0.3,2.5,45,31312,Séamus Coleman,4-4-2,Andy Madley
+ENG-Premier League,2122,Everton,2022-02-26 Everton-Manchester City,2022-02-26,17:30:00,Matchweek 27,Sat,Home,L,0,1,Manchester City,0.5,1.8,33,39105,Séamus Coleman,4-3-3,Paul Tierney
+ENG-Premier League,2122,Everton,2022-03-07 Tottenham-Everton,2022-03-07,20:00:00,Matchweek 28,Mon,Away,L,0,5,Tottenham,0.2,2.5,45,59647,Séamus Coleman,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,Everton,2022-03-13 Everton-Wolves,2022-03-13,14:00:00,Matchweek 29,Sun,Home,L,0,1,Wolves,0.4,0.8,39,39112,Séamus Coleman,3-4-3,Michael Oliver
+ENG-Premier League,2122,Everton,2022-03-17 Everton-Newcastle Utd,2022-03-17,19:45:00,Matchweek 20,Thu,Home,W,1,0,Newcastle Utd,0.7,0.9,39,39068,Séamus Coleman,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Everton,2022-04-03 West Ham-Everton,2022-04-03,14:00:00,Matchweek 31,Sun,Away,L,1,2,West Ham,0.7,1.2,45,59953,Michael Keane,4-3-3,Michael Oliver
+ENG-Premier League,2122,Everton,2022-04-06 Burnley-Everton,2022-04-06,19:30:00,Matchweek 19,Wed,Away,L,2,3,Burnley,2.4,2.0,48,19830,Jordan Pickford,4-3-3,Mike Dean
+ENG-Premier League,2122,Everton,2022-04-09 Everton-Manchester Utd,2022-04-09,12:30:00,Matchweek 32,Sat,Home,W,1,0,Manchester Utd,0.4,0.8,33,39080,Séamus Coleman,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Everton,2022-04-20 Everton-Leicester City,2022-04-20,19:45:00,Matchweek 18,Wed,Home,D,1,1,Leicester City,1.8,0.9,37,39153,Séamus Coleman,4-3-3,David Coote
+ENG-Premier League,2122,Everton,2022-04-24 Liverpool-Everton,2022-04-24,16:30:00,Matchweek 34,Sun,Away,L,0,2,Liverpool,0.4,1.7,18,53213,Séamus Coleman,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Everton,2022-05-01 Everton-Chelsea,2022-05-01,14:00:00,Matchweek 35,Sun,Home,W,1,0,Chelsea,0.8,0.8,23,39256,Séamus Coleman,5-4-1,Kevin Friend
+ENG-Premier League,2122,Everton,2022-05-08 Leicester City-Everton,2022-05-08,14:00:00,Matchweek 36,Sun,Away,W,2,1,Leicester City,1.1,1.5,34,32001,Séamus Coleman,5-4-1,Craig Pawson
+ENG-Premier League,2122,Everton,2022-05-11 Watford-Everton,2022-05-11,19:45:00,Matchweek 30,Wed,Away,D,0,0,Watford,0.7,0.3,52,20653,Séamus Coleman,5-4-1,Mike Dean
+ENG-Premier League,2122,Everton,2022-05-15 Everton-Brentford,2022-05-15,16:30:00,Matchweek 37,Sun,Home,L,2,3,Brentford,2.1,1.4,28,38819,Séamus Coleman,3-4-3,Michael Oliver
+ENG-Premier League,2122,Everton,2022-05-19 Everton-Crystal Palace,2022-05-19,19:45:00,Matchweek 33,Thu,Home,W,3,2,Crystal Palace,0.8,1.1,43,38448,Séamus Coleman,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Everton,2022-05-22 Arsenal-Everton,2022-05-22,16:00:00,Matchweek 38,Sun,Away,L,1,5,Arsenal,1.1,4.2,27,60201,Asmir Begović,5-4-1,Andre Marriner
+ENG-Premier League,2122,Leeds United,2021-08-14 Manchester Utd-Leeds United,2021-08-14,12:30:00,Matchweek 1,Sat,Away,L,1,5,Manchester Utd,0.5,1.5,51,72732,Liam Cooper,4-1-4-1,Paul Tierney
+ENG-Premier League,2122,Leeds United,2021-08-21 Leeds United-Everton,2021-08-21,15:00:00,Matchweek 2,Sat,Home,D,2,2,Everton,1.2,1.8,69,36293,Liam Cooper,3-3-3-1,Darren England
+ENG-Premier League,2122,Leeds United,2021-08-29 Burnley-Leeds United,2021-08-29,14:00:00,Matchweek 3,Sun,Away,D,1,1,Burnley,1.2,1.0,64,20000,Liam Cooper,3-3-3-1,Michael Oliver
+ENG-Premier League,2122,Leeds United,2021-09-12 Leeds United-Liverpool,2021-09-12,16:30:00,Matchweek 4,Sun,Home,L,0,3,Liverpool,1.2,4.3,44,36507,Liam Cooper,4-1-4-1,Craig Pawson
+ENG-Premier League,2122,Leeds United,2021-09-17 Newcastle Utd-Leeds United,2021-09-17,20:00:00,Matchweek 5,Fri,Away,D,1,1,Newcastle Utd,1.5,1.3,65,50407,Liam Cooper,4-1-4-1,Mike Dean
+ENG-Premier League,2122,Leeds United,2021-09-25 Leeds United-West Ham,2021-09-25,15:00:00,Matchweek 6,Sat,Home,L,1,2,West Ham,1.2,1.6,53,36417,Liam Cooper,4-1-4-1,Kevin Friend
+ENG-Premier League,2122,Leeds United,2021-10-02 Leeds United-Watford,2021-10-02,15:00:00,Matchweek 7,Sat,Home,W,1,0,Watford,1.3,0.2,66,36261,Liam Cooper,4-1-4-1,Simon Hooper
+ENG-Premier League,2122,Leeds United,2021-10-16 Southampton-Leeds United,2021-10-16,15:00:00,Matchweek 8,Sat,Away,L,0,1,Southampton,0.2,1.9,54,30506,Liam Cooper,3-3-3-1,David Coote
+ENG-Premier League,2122,Leeds United,2021-10-23 Leeds United-Wolves,2021-10-23,15:00:00,Matchweek 9,Sat,Home,D,1,1,Wolves,1.6,0.9,62,36475,Liam Cooper,4-4-1-1,Robert Jones
+ENG-Premier League,2122,Leeds United,2021-10-31 Norwich City-Leeds United,2021-10-31,14:00:00,Matchweek 10,Sun,Away,W,2,1,Norwich City,0.7,0.8,52,26913,Liam Cooper,3-3-3-1,Anthony Taylor
+ENG-Premier League,2122,Leeds United,2021-11-07 Leeds United-Leicester City,2021-11-07,14:00:00,Matchweek 11,Sun,Home,D,1,1,Leicester City,1.3,0.7,56,36478,Liam Cooper,4-2-3-1,Darren England
+ENG-Premier League,2122,Leeds United,2021-11-21 Tottenham-Leeds United,2021-11-21,16:30:00,Matchweek 12,Sun,Away,L,1,2,Tottenham,1.4,2.1,57,58989,Liam Cooper,3-3-3-1,Andre Marriner
+ENG-Premier League,2122,Leeds United,2021-11-27 Brighton-Leeds United,2021-11-27,17:30:00,Matchweek 13,Sat,Away,D,0,0,Brighton,0.6,2.1,43,31166,Liam Cooper,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Leeds United,2021-11-30 Leeds United-Crystal Palace,2021-11-30,20:15:00,Matchweek 14,Tue,Home,W,1,0,Crystal Palace,1.4,1.1,61,35558,Liam Cooper,4-1-4-1,Kevin Friend
+ENG-Premier League,2122,Leeds United,2021-12-05 Leeds United-Brentford,2021-12-05,14:00:00,Matchweek 15,Sun,Home,D,2,2,Brentford,1.2,1.0,63,35639,Liam Cooper,3-4-3,David Coote
+ENG-Premier League,2122,Leeds United,2021-12-11 Chelsea-Leeds United,2021-12-11,15:00:00,Matchweek 16,Sat,Away,L,2,3,Chelsea,1.4,2.5,43,39959,Luke Ayling,4-3-1-2,Chris Kavanagh
+ENG-Premier League,2122,Leeds United,2021-12-14 Manchester City-Leeds United,2021-12-14,20:00:00,Matchweek 17,Tue,Away,L,0,7,Manchester City,0.3,3.1,37,52401,Luke Ayling,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Leeds United,2021-12-18 Leeds United-Arsenal,2021-12-18,17:30:00,Matchweek 18,Sat,Home,L,1,4,Arsenal,1.6,3.5,51,36166,Luke Ayling,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Leeds United,2022-01-02 Leeds United-Burnley,2022-01-02,14:00:00,Matchweek 21,Sun,Home,W,3,1,Burnley,1.9,1.0,55,36083,Luke Ayling,3-4-3,Paul Tierney
+ENG-Premier League,2122,Leeds United,2022-01-16 West Ham-Leeds United,2022-01-16,14:00:00,Matchweek 22,Sun,Away,W,3,2,West Ham,2.2,2.4,52,59951,Luke Ayling,4-1-4-1,Mike Dean
+ENG-Premier League,2122,Leeds United,2022-01-22 Leeds United-Newcastle Utd,2022-01-22,15:00:00,Matchweek 23,Sat,Home,L,0,1,Newcastle Utd,0.7,0.9,62,36405,Luke Ayling,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Leeds United,2022-02-09 Aston Villa-Leeds United,2022-02-09,20:00:00,Matchweek 24,Wed,Away,D,3,3,Aston Villa,1.8,1.6,60,41927,Luke Ayling,4-2-3-1,Jarred Gillett
+ENG-Premier League,2122,Leeds United,2022-02-12 Everton-Leeds United,2022-02-12,15:00:00,Matchweek 25,Sat,Away,L,0,3,Everton,0.3,2.7,58,39150,Luke Ayling,3-3-3-1,Graham Scott
+ENG-Premier League,2122,Leeds United,2022-02-20 Leeds United-Manchester Utd,2022-02-20,14:00:00,Matchweek 26,Sun,Home,L,2,4,Manchester Utd,1.8,2.2,54,36715,Luke Ayling,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Leeds United,2022-02-23 Liverpool-Leeds United,2022-02-23,19:45:00,Matchweek 19,Wed,Away,L,0,6,Liverpool,0.2,5.9,37,53018,Luke Ayling,4-1-4-1,Michael Oliver
+ENG-Premier League,2122,Leeds United,2022-02-26 Leeds United-Tottenham,2022-02-26,12:30:00,Matchweek 27,Sat,Home,L,0,4,Tottenham,1.5,1.9,50,36599,Luke Ayling,4-1-4-1,Craig Pawson
+ENG-Premier League,2122,Leeds United,2022-03-05 Leicester City-Leeds United,2022-03-05,12:30:00,Matchweek 28,Sat,Away,L,0,1,Leicester City,1.7,0.4,49,32236,Luke Ayling,4-2-3-1,David Coote
+ENG-Premier League,2122,Leeds United,2022-03-10 Leeds United-Aston Villa,2022-03-10,19:45:00,Matchweek 20,Thu,Home,L,0,3,Aston Villa,0.2,1.5,51,36400,Luke Ayling,4-2-3-1,Simon Hooper
+ENG-Premier League,2122,Leeds United,2022-03-13 Leeds United-Norwich City,2022-03-13,14:00:00,Matchweek 29,Sun,Home,W,2,1,Norwich City,2.5,1.5,52,36321,Luke Ayling,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,Leeds United,2022-03-18 Wolves-Leeds United,2022-03-18,20:00:00,Matchweek 30,Fri,Away,W,3,2,Wolves,2.0,1.2,52,31842,Luke Ayling,4-2-3-1,Kevin Friend
+ENG-Premier League,2122,Leeds United,2022-04-02 Leeds United-Southampton,2022-04-02,15:00:00,Matchweek 31,Sat,Home,D,1,1,Southampton,1.2,1.4,56,36580,Liam Cooper,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,Leeds United,2022-04-09 Watford-Leeds United,2022-04-09,15:00:00,Matchweek 32,Sat,Away,W,3,0,Watford,0.7,1.1,51,20957,Liam Cooper,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Leeds United,2022-04-25 Crystal Palace-Leeds United,2022-04-25,20:00:00,Matchweek 34,Mon,Away,D,0,0,Crystal Palace,0.5,1.9,47,25357,Liam Cooper,4-2-3-1,Darren England
+ENG-Premier League,2122,Leeds United,2022-04-30 Leeds United-Manchester City,2022-04-30,17:30:00,Matchweek 35,Sat,Home,L,0,4,Manchester City,1.3,2.4,42,35771,Luke Ayling,5-4-1,Paul Tierney
+ENG-Premier League,2122,Leeds United,2022-05-08 Arsenal-Leeds United,2022-05-08,14:00:00,Matchweek 36,Sun,Away,L,1,2,Arsenal,0.3,2.0,36,60108,Luke Ayling,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Leeds United,2022-05-11 Leeds United-Chelsea,2022-05-11,19:30:00,Matchweek 33,Wed,Home,L,0,3,Chelsea,0.4,1.3,33,36549,Liam Cooper,5-4-1,Anthony Taylor
+ENG-Premier League,2122,Leeds United,2022-05-15 Leeds United-Brighton,2022-05-15,14:00:00,Matchweek 37,Sun,Home,D,1,1,Brighton,1.6,2.2,50,36638,Liam Cooper,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Leeds United,2022-05-22 Brentford-Leeds United,2022-05-22,16:00:00,Matchweek 38,Sun,Away,W,2,1,Brentford,1.3,0.8,51,16957,Liam Cooper,4-4-1-1,Paul Tierney
+ENG-Premier League,2122,Leicester City,2021-08-14 Leicester City-Wolves,2021-08-14,15:00:00,Matchweek 1,Sat,Home,W,1,0,Wolves,0.5,1.3,56,31983,Kasper Schmeichel,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Leicester City,2021-08-23 West Ham-Leicester City,2021-08-23,20:00:00,Matchweek 2,Mon,Away,L,1,4,West Ham,0.6,2.3,48,59901,Kasper Schmeichel,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Leicester City,2021-08-28 Norwich City-Leicester City,2021-08-28,15:00:00,Matchweek 3,Sat,Away,W,2,1,Norwich City,1.5,1.5,55,26765,Kasper Schmeichel,4-4-2,Robert Jones
+ENG-Premier League,2122,Leicester City,2021-09-11 Leicester City-Manchester City,2021-09-11,15:00:00,Matchweek 4,Sat,Home,L,0,1,Manchester City,0.6,2.8,39,32087,Kasper Schmeichel,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Leicester City,2021-09-19 Brighton-Leicester City,2021-09-19,14:00:00,Matchweek 5,Sun,Away,L,1,2,Brighton,1.6,1.7,63,31078,Kasper Schmeichel,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Leicester City,2021-09-25 Leicester City-Burnley,2021-09-25,15:00:00,Matchweek 6,Sat,Home,D,2,2,Burnley,2.4,0.5,66,31650,Kasper Schmeichel,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Leicester City,2021-10-03 Crystal Palace-Leicester City,2021-10-03,14:00:00,Matchweek 7,Sun,Away,D,2,2,Crystal Palace,1.2,1.5,40,25000,Kasper Schmeichel,4-4-2,Anthony Taylor
+ENG-Premier League,2122,Leicester City,2021-10-16 Leicester City-Manchester Utd,2021-10-16,15:00:00,Matchweek 8,Sat,Home,W,4,2,Manchester Utd,2.4,1.2,49,32219,Kasper Schmeichel,3-4-1-2,Craig Pawson
+ENG-Premier League,2122,Leicester City,2021-10-24 Brentford-Leicester City,2021-10-24,14:00:00,Matchweek 9,Sun,Away,W,2,1,Brentford,1.5,1.0,46,16814,Kasper Schmeichel,3-4-1-2,Simon Hooper
+ENG-Premier League,2122,Leicester City,2021-10-30 Leicester City-Arsenal,2021-10-30,12:30:00,Matchweek 10,Sat,Home,L,0,2,Arsenal,1.3,0.7,64,32209,Kasper Schmeichel,3-4-1-2,Michael Oliver
+ENG-Premier League,2122,Leicester City,2021-11-07 Leeds United-Leicester City,2021-11-07,14:00:00,Matchweek 11,Sun,Away,D,1,1,Leeds United,0.7,1.3,44,36478,Kasper Schmeichel,4-3-3,Darren England
+ENG-Premier League,2122,Leicester City,2021-11-20 Leicester City-Chelsea,2021-11-20,12:30:00,Matchweek 12,Sat,Home,L,0,3,Chelsea,0.4,2.0,39,35497,Kasper Schmeichel,3-4-3,Paul Tierney
+ENG-Premier League,2122,Leicester City,2021-11-28 Leicester City-Watford,2021-11-28,14:00:00,Matchweek 13,Sun,Home,W,4,2,Watford,2.1,2.8,56,32020,Kasper Schmeichel,4-2-3-1,Andy Madley
+ENG-Premier League,2122,Leicester City,2021-12-01 Southampton-Leicester City,2021-12-01,19:30:00,Matchweek 14,Wed,Away,D,2,2,Southampton,1.5,1.5,55,26951,Kasper Schmeichel,4-2-3-1,Robert Jones
+ENG-Premier League,2122,Leicester City,2021-12-05 Aston Villa-Leicester City,2021-12-05,16:30:00,Matchweek 15,Sun,Away,L,1,2,Aston Villa,1.1,2.1,59,41572,Kasper Schmeichel,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Leicester City,2021-12-12 Leicester City-Newcastle Utd,2021-12-12,14:00:00,Matchweek 16,Sun,Home,W,4,0,Newcastle Utd,2.6,1.0,47,31959,Kasper Schmeichel,4-2-3-1,Peter Bankes
+ENG-Premier League,2122,Leicester City,2021-12-26 Manchester City-Leicester City,2021-12-26,15:00:00,Matchweek 19,Sun,Away,L,3,6,Manchester City,2.7,3.6,28,53226,Kasper Schmeichel,4-4-1-1,Chris Kavanagh
+ENG-Premier League,2122,Leicester City,2021-12-28 Leicester City-Liverpool,2021-12-28,20:00:00,Matchweek 20,Tue,Home,W,1,0,Liverpool,0.4,2.3,37,32230,Kasper Schmeichel,4-3-1-2,Michael Oliver
+ENG-Premier League,2122,Leicester City,2022-01-19 Leicester City-Tottenham,2022-01-19,19:30:00,Matchweek 17,Wed,Home,L,2,3,Tottenham,1.2,3.1,49,31986,Kasper Schmeichel,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Leicester City,2022-01-23 Leicester City-Brighton,2022-01-23,14:00:00,Matchweek 23,Sun,Home,D,1,1,Brighton,1.4,1.1,44,31231,Kasper Schmeichel,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,Leicester City,2022-02-10 Liverpool-Leicester City,2022-02-10,19:45:00,Matchweek 24,Thu,Away,L,0,2,Liverpool,0.5,1.8,36,53050,Kasper Schmeichel,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Leicester City,2022-02-13 Leicester City-West Ham,2022-02-13,16:30:00,Matchweek 25,Sun,Home,D,2,2,West Ham,1.4,1.1,55,32061,Kasper Schmeichel,4-3-3,Michael Oliver
+ENG-Premier League,2122,Leicester City,2022-02-20 Wolves-Leicester City,2022-02-20,16:30:00,Matchweek 26,Sun,Away,L,1,2,Wolves,1.7,0.5,63,31587,Kasper Schmeichel,4-3-3,Craig Pawson
+ENG-Premier League,2122,Leicester City,2022-03-01 Burnley-Leicester City,2022-03-01,19:45:00,Matchweek 22,Tue,Away,W,2,0,Burnley,1.5,0.9,55,17825,Kasper Schmeichel,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Leicester City,2022-03-05 Leicester City-Leeds United,2022-03-05,12:30:00,Matchweek 28,Sat,Home,W,1,0,Leeds United,0.4,1.7,51,32236,Kasper Schmeichel,4-3-3,David Coote
+ENG-Premier League,2122,Leicester City,2022-03-13 Arsenal-Leicester City,2022-03-13,16:30:00,Matchweek 29,Sun,Away,L,0,2,Arsenal,0.4,2.4,54,60111,Kasper Schmeichel,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,Leicester City,2022-03-20 Leicester City-Brentford,2022-03-20,14:00:00,Matchweek 30,Sun,Home,W,2,1,Brentford,1.0,1.3,52,31830,Kasper Schmeichel,4-2-3-1,Darren England
+ENG-Premier League,2122,Leicester City,2022-04-02 Manchester Utd-Leicester City,2022-04-02,17:30:00,Matchweek 31,Sat,Away,D,1,1,Manchester Utd,0.8,0.9,46,73444,Kasper Schmeichel,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Leicester City,2022-04-10 Leicester City-Crystal Palace,2022-04-10,14:00:00,Matchweek 32,Sun,Home,W,2,1,Crystal Palace,1.0,1.4,51,31896,Kasper Schmeichel,4-2-3-1,Robert Jones
+ENG-Premier League,2122,Leicester City,2022-04-17 Newcastle Utd-Leicester City,2022-04-17,14:15:00,Matchweek 33,Sun,Away,L,1,2,Newcastle Utd,0.6,1.8,68,52104,Kasper Schmeichel,4-1-4-1,Jarred Gillett
+ENG-Premier League,2122,Leicester City,2022-04-20 Everton-Leicester City,2022-04-20,19:45:00,Matchweek 18,Wed,Away,D,1,1,Everton,0.9,1.8,63,39153,Kasper Schmeichel,4-2-3-1,David Coote
+ENG-Premier League,2122,Leicester City,2022-04-23 Leicester City-Aston Villa,2022-04-23,15:00:00,Matchweek 34,Sat,Home,D,0,0,Aston Villa,0.3,0.9,64,32185,Kasper Schmeichel,4-1-4-1,Andy Madley
+ENG-Premier League,2122,Leicester City,2022-05-01 Tottenham-Leicester City,2022-05-01,14:00:00,Matchweek 35,Sun,Away,L,1,3,Tottenham,0.5,1.2,60,59482,Kasper Schmeichel,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Leicester City,2022-05-08 Leicester City-Everton,2022-05-08,14:00:00,Matchweek 36,Sun,Home,L,1,2,Everton,1.5,1.1,66,32001,Kasper Schmeichel,3-1-4-2,Craig Pawson
+ENG-Premier League,2122,Leicester City,2022-05-11 Leicester City-Norwich City,2022-05-11,19:45:00,Matchweek 21,Wed,Home,W,3,0,Norwich City,2.0,1.1,65,38092,Kasper Schmeichel,4-2-3-1,Simon Hooper
+ENG-Premier League,2122,Leicester City,2022-05-15 Watford-Leicester City,2022-05-15,14:00:00,Matchweek 37,Sun,Away,W,5,1,Watford,2.5,1.4,59,20257,Jonny Evans,4-1-4-1,Jarred Gillett
+ENG-Premier League,2122,Leicester City,2022-05-19 Chelsea-Leicester City,2022-05-19,20:00:00,Matchweek 27,Thu,Away,D,1,1,Chelsea,0.1,1.6,33,31478,Kasper Schmeichel,3-1-4-2,Stuart Attwell
+ENG-Premier League,2122,Leicester City,2022-05-22 Leicester City-Southampton,2022-05-22,16:00:00,Matchweek 38,Sun,Home,W,4,1,Southampton,3.4,1.1,51,32003,Kasper Schmeichel,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Liverpool,2021-08-14 Norwich City-Liverpool,2021-08-14,17:30:00,Matchweek 1,Sat,Away,W,3,0,Norwich City,1.6,1.4,50,27023,James Milner,4-3-3,Andre Marriner
+ENG-Premier League,2122,Liverpool,2021-08-21 Liverpool-Burnley,2021-08-21,12:30:00,Matchweek 2,Sat,Home,W,2,0,Burnley,2.7,0.9,65,52591,Jordan Henderson,4-3-3,Mike Dean
+ENG-Premier League,2122,Liverpool,2021-08-28 Liverpool-Chelsea,2021-08-28,17:30:00,Matchweek 3,Sat,Home,D,1,1,Chelsea,2.5,0.6,65,54000,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Liverpool,2021-09-12 Leeds United-Liverpool,2021-09-12,16:30:00,Matchweek 4,Sun,Away,W,3,0,Leeds United,4.3,1.2,56,36507,Virgil van Dijk,4-3-3,Craig Pawson
+ENG-Premier League,2122,Liverpool,2021-09-18 Liverpool-Crystal Palace,2021-09-18,15:00:00,Matchweek 5,Sat,Home,W,3,0,Crystal Palace,3.1,0.6,59,52000,Jordan Henderson,4-3-3,Andy Madley
+ENG-Premier League,2122,Liverpool,2021-09-25 Brentford-Liverpool,2021-09-25,17:30:00,Matchweek 6,Sat,Away,D,3,3,Brentford,2.8,2.1,67,16876,Jordan Henderson,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Liverpool,2021-10-03 Liverpool-Manchester City,2021-10-03,16:30:00,Matchweek 7,Sun,Home,D,2,2,Manchester City,0.9,1.2,49,53102,Jordan Henderson,4-3-3,Paul Tierney
+ENG-Premier League,2122,Liverpool,2021-10-16 Watford-Liverpool,2021-10-16,12:30:00,Matchweek 8,Sat,Away,W,5,0,Watford,3.3,0.5,75,21085,Jordan Henderson,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Liverpool,2021-10-24 Manchester Utd-Liverpool,2021-10-24,16:30:00,Matchweek 9,Sun,Away,W,5,0,Manchester Utd,3.4,1.6,62,73088,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Liverpool,2021-10-30 Liverpool-Brighton,2021-10-30,15:00:00,Matchweek 10,Sat,Home,D,2,2,Brighton,1.5,1.0,58,52598,Jordan Henderson,4-3-3,Mike Dean
+ENG-Premier League,2122,Liverpool,2021-11-07 West Ham-Liverpool,2021-11-07,16:30:00,Matchweek 11,Sun,Away,L,2,3,West Ham,1.2,1.0,69,59909,Jordan Henderson,4-3-3,Craig Pawson
+ENG-Premier League,2122,Liverpool,2021-11-20 Liverpool-Arsenal,2021-11-20,17:30:00,Matchweek 12,Sat,Home,W,4,0,Arsenal,4.3,0.4,62,53092,Virgil van Dijk,4-3-3,Michael Oliver
+ENG-Premier League,2122,Liverpool,2021-11-27 Liverpool-Southampton,2021-11-27,15:00:00,Matchweek 13,Sat,Home,W,4,0,Southampton,2.9,1.0,64,53040,Jordan Henderson,4-3-3,Andre Marriner
+ENG-Premier League,2122,Liverpool,2021-12-01 Everton-Liverpool,2021-12-01,20:15:00,Matchweek 14,Wed,Away,W,4,1,Everton,2.4,0.7,67,39641,Jordan Henderson,4-3-3,Paul Tierney
+ENG-Premier League,2122,Liverpool,2021-12-04 Wolves-Liverpool,2021-12-04,15:00:00,Matchweek 15,Sat,Away,W,1,0,Wolves,2.7,0.1,66,30729,Jordan Henderson,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Liverpool,2021-12-11 Liverpool-Aston Villa,2021-12-11,15:00:00,Matchweek 16,Sat,Home,W,1,0,Aston Villa,2.2,0.2,62,53093,Jordan Henderson,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Liverpool,2021-12-16 Liverpool-Newcastle Utd,2021-12-16,20:00:00,Matchweek 17,Thu,Home,W,3,1,Newcastle Utd,2.7,0.3,74,52951,Jordan Henderson,4-3-3,Mike Dean
+ENG-Premier League,2122,Liverpool,2021-12-19 Tottenham-Liverpool,2021-12-19,16:30:00,Matchweek 18,Sun,Away,D,2,2,Tottenham,1.1,3.0,56,45421,James Milner,4-3-3,Paul Tierney
+ENG-Premier League,2122,Liverpool,2021-12-28 Leicester City-Liverpool,2021-12-28,20:00:00,Matchweek 20,Tue,Away,L,0,1,Leicester City,2.3,0.4,63,32230,Jordan Henderson,4-3-3,Michael Oliver
+ENG-Premier League,2122,Liverpool,2022-01-02 Chelsea-Liverpool,2022-01-02,16:30:00,Matchweek 21,Sun,Away,D,2,2,Chelsea,1.3,1.2,46,40072,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Liverpool,2022-01-16 Liverpool-Brentford,2022-01-16,14:00:00,Matchweek 22,Sun,Home,W,3,0,Brentford,2.7,0.7,68,52824,Jordan Henderson,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Liverpool,2022-01-23 Crystal Palace-Liverpool,2022-01-23,14:00:00,Matchweek 23,Sun,Away,W,3,1,Crystal Palace,1.9,2.2,57,25002,Jordan Henderson,4-3-3,Kevin Friend
+ENG-Premier League,2122,Liverpool,2022-02-10 Liverpool-Leicester City,2022-02-10,19:45:00,Matchweek 24,Thu,Home,W,2,0,Leicester City,1.8,0.5,64,53050,Virgil van Dijk,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Liverpool,2022-02-13 Burnley-Liverpool,2022-02-13,14:00:00,Matchweek 25,Sun,Away,W,1,0,Burnley,1.7,1.5,66,19563,Jordan Henderson,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Liverpool,2022-02-19 Liverpool-Norwich City,2022-02-19,15:00:00,Matchweek 26,Sat,Home,W,3,1,Norwich City,3.6,0.6,69,53135,Jordan Henderson,4-3-3,Mike Dean
+ENG-Premier League,2122,Liverpool,2022-02-23 Liverpool-Leeds United,2022-02-23,19:45:00,Matchweek 19,Wed,Home,W,6,0,Leeds United,5.9,0.2,63,53018,Virgil van Dijk,4-3-3,Michael Oliver
+ENG-Premier League,2122,Liverpool,2022-03-05 Liverpool-West Ham,2022-03-05,17:30:00,Matchweek 28,Sat,Home,W,1,0,West Ham,2.4,1.3,68,59925,Jordan Henderson,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Liverpool,2022-03-12 Brighton-Liverpool,2022-03-12,12:30:00,Matchweek 29,Sat,Away,W,2,0,Brighton,2.2,0.5,48,31474,Jordan Henderson,4-3-3,Mike Dean
+ENG-Premier League,2122,Liverpool,2022-03-16 Arsenal-Liverpool,2022-03-16,20:15:00,Matchweek 27,Wed,Away,W,2,0,Arsenal,0.8,0.5,51,59968,Jordan Henderson,4-3-3,Andre Marriner
+ENG-Premier League,2122,Liverpool,2022-04-02 Liverpool-Watford,2022-04-02,12:30:00,Matchweek 31,Sat,Home,W,2,0,Watford,2.2,0.6,73,53104,Jordan Henderson,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Liverpool,2022-04-10 Manchester City-Liverpool,2022-04-10,16:30:00,Matchweek 32,Sun,Away,D,2,2,Manchester City,1.3,1.3,45,53197,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Liverpool,2022-04-19 Liverpool-Manchester Utd,2022-04-19,20:00:00,Matchweek 30,Tue,Home,W,4,0,Manchester Utd,2.0,0.1,71,52686,Jordan Henderson,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Liverpool,2022-04-24 Liverpool-Everton,2022-04-24,16:30:00,Matchweek 34,Sun,Home,W,2,0,Everton,1.7,0.4,82,53213,Virgil van Dijk,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Liverpool,2022-04-30 Newcastle Utd-Liverpool,2022-04-30,12:30:00,Matchweek 35,Sat,Away,W,1,0,Newcastle Utd,2.3,0.2,64,52281,Jordan Henderson,4-3-3,Andre Marriner
+ENG-Premier League,2122,Liverpool,2022-05-07 Liverpool-Tottenham,2022-05-07,19:45:00,Matchweek 36,Sat,Home,D,1,1,Tottenham,1.3,0.9,64,53177,Jordan Henderson,4-3-3,Michael Oliver
+ENG-Premier League,2122,Liverpool,2022-05-10 Aston Villa-Liverpool,2022-05-10,20:00:00,Matchweek 33,Tue,Away,W,2,1,Aston Villa,1.8,1.4,60,41919,Virgil van Dijk,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Liverpool,2022-05-17 Southampton-Liverpool,2022-05-17,19:45:00,Matchweek 37,Tue,Away,W,2,1,Southampton,1.3,0.1,70,31588,James Milner,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Liverpool,2022-05-22 Liverpool-Wolves,2022-05-22,16:00:00,Matchweek 38,Sun,Home,W,3,1,Wolves,2.7,1.3,63,53097,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Manchester City,2021-08-15 Tottenham-Manchester City,2021-08-15,16:30:00,Matchweek 1,Sun,Away,L,0,1,Tottenham,1.8,1.0,65,58262,Fernandinho,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Manchester City,2021-08-21 Manchester City-Norwich City,2021-08-21,15:00:00,Matchweek 2,Sat,Home,W,5,0,Norwich City,2.6,0.1,67,51437,İlkay Gündoğan,4-3-3,Graham Scott
+ENG-Premier League,2122,Manchester City,2021-08-28 Manchester City-Arsenal,2021-08-28,12:30:00,Matchweek 3,Sat,Home,W,5,0,Arsenal,4.4,0.2,80,52276,İlkay Gündoğan,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Manchester City,2021-09-11 Leicester City-Manchester City,2021-09-11,15:00:00,Matchweek 4,Sat,Away,W,1,0,Leicester City,2.8,0.6,61,32087,İlkay Gündoğan,4-3-3,Paul Tierney
+ENG-Premier League,2122,Manchester City,2021-09-18 Manchester City-Southampton,2021-09-18,15:00:00,Matchweek 5,Sat,Home,D,0,0,Southampton,1.0,0.4,64,52698,Fernandinho,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Manchester City,2021-09-25 Chelsea-Manchester City,2021-09-25,12:30:00,Matchweek 6,Sat,Away,W,1,0,Chelsea,1.7,0.2,59,40036,Rúben Dias,4-3-3,Michael Oliver
+ENG-Premier League,2122,Manchester City,2021-10-03 Liverpool-Manchester City,2021-10-03,16:30:00,Matchweek 7,Sun,Away,D,2,2,Liverpool,1.2,0.9,51,53102,Rúben Dias,4-3-3,Paul Tierney
+ENG-Premier League,2122,Manchester City,2021-10-16 Manchester City-Burnley,2021-10-16,15:00:00,Matchweek 8,Sat,Home,W,2,0,Burnley,2.1,0.9,70,52711,Kevin De Bruyne,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Manchester City,2021-10-23 Brighton-Manchester City,2021-10-23,17:30:00,Matchweek 9,Sat,Away,W,4,1,Brighton,3.8,1.3,52,31215,İlkay Gündoğan,4-3-3,Kevin Friend
+ENG-Premier League,2122,Manchester City,2021-10-30 Manchester City-Crystal Palace,2021-10-30,15:00:00,Matchweek 10,Sat,Home,L,0,2,Crystal Palace,0.7,0.7,68,53014,Rúben Dias,4-3-3,Andre Marriner
+ENG-Premier League,2122,Manchester City,2021-11-06 Manchester Utd-Manchester City,2021-11-06,12:30:00,Matchweek 11,Sat,Away,W,2,0,Manchester Utd,1.6,0.9,67,73086,İlkay Gündoğan,4-3-3,Michael Oliver
+ENG-Premier League,2122,Manchester City,2021-11-21 Manchester City-Everton,2021-11-21,14:00:00,Matchweek 12,Sun,Home,W,3,0,Everton,2.5,0.2,77,52571,İlkay Gündoğan,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Manchester City,2021-11-28 Manchester City-West Ham,2021-11-28,14:00:00,Matchweek 13,Sun,Home,W,2,1,West Ham,2.1,0.2,68,53245,İlkay Gündoğan,4-3-3,Michael Oliver
+ENG-Premier League,2122,Manchester City,2021-12-01 Aston Villa-Manchester City,2021-12-01,20:15:00,Matchweek 14,Wed,Away,W,2,1,Aston Villa,1.0,0.8,64,41400,Fernandinho,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Manchester City,2021-12-04 Watford-Manchester City,2021-12-04,17:30:00,Matchweek 15,Sat,Away,W,3,1,Watford,3.1,0.8,77,20673,İlkay Gündoğan,4-3-3,Simon Hooper
+ENG-Premier League,2122,Manchester City,2021-12-11 Manchester City-Wolves,2021-12-11,12:30:00,Matchweek 16,Sat,Home,W,1,0,Wolves,3.2,0.2,71,52613,İlkay Gündoğan,4-3-3,Jonathan Moss
+ENG-Premier League,2122,Manchester City,2021-12-14 Manchester City-Leeds United,2021-12-14,20:00:00,Matchweek 17,Tue,Home,W,7,0,Leeds United,3.1,0.3,63,52401,Rúben Dias,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Manchester City,2021-12-19 Newcastle Utd-Manchester City,2021-12-19,14:15:00,Matchweek 18,Sun,Away,W,4,0,Newcastle Utd,2.9,0.3,71,52127,Rúben Dias,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,Manchester City,2021-12-26 Manchester City-Leicester City,2021-12-26,15:00:00,Matchweek 19,Sun,Home,W,6,3,Leicester City,3.6,2.7,72,53226,Fernandinho,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Manchester City,2021-12-29 Brentford-Manchester City,2021-12-29,20:15:00,Matchweek 20,Wed,Away,W,1,0,Brentford,1.1,0.4,76,17009,Fernandinho,4-3-3,David Coote
+ENG-Premier League,2122,Manchester City,2022-01-01 Arsenal-Manchester City,2022-01-01,12:30:00,Matchweek 21,Sat,Away,W,2,1,Arsenal,2.0,0.8,71,59757,Rúben Dias,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,Manchester City,2022-01-15 Manchester City-Chelsea,2022-01-15,12:30:00,Matchweek 22,Sat,Home,W,1,0,Chelsea,1.0,0.3,56,53319,Kevin De Bruyne,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Manchester City,2022-01-22 Southampton-Manchester City,2022-01-22,17:30:00,Matchweek 23,Sat,Away,D,1,1,Southampton,1.8,0.8,74,31178,Rúben Dias,4-3-3,Simon Hooper
+ENG-Premier League,2122,Manchester City,2022-02-09 Manchester City-Brentford,2022-02-09,19:45:00,Matchweek 24,Wed,Home,W,2,0,Brentford,1.9,0.4,74,51658,Rúben Dias,4-3-3,Darren England
+ENG-Premier League,2122,Manchester City,2022-02-12 Norwich City-Manchester City,2022-02-12,17:30:00,Matchweek 25,Sat,Away,W,4,0,Norwich City,4.6,0.4,71,27010,Fernandinho,4-3-3,Andre Marriner
+ENG-Premier League,2122,Manchester City,2022-02-19 Manchester City-Tottenham,2022-02-19,17:30:00,Matchweek 26,Sat,Home,L,2,3,Tottenham,2.1,1.4,71,53201,İlkay Gündoğan,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Manchester City,2022-02-26 Everton-Manchester City,2022-02-26,17:30:00,Matchweek 27,Sat,Away,W,1,0,Everton,1.8,0.5,67,39105,İlkay Gündoğan,4-3-3,Paul Tierney
+ENG-Premier League,2122,Manchester City,2022-03-06 Manchester City-Manchester Utd,2022-03-06,16:30:00,Matchweek 28,Sun,Home,W,4,1,Manchester Utd,2.7,0.5,69,53165,Kevin De Bruyne,4-3-3,Michael Oliver
+ENG-Premier League,2122,Manchester City,2022-03-14 Crystal Palace-Manchester City,2022-03-14,20:00:00,Matchweek 29,Mon,Away,D,0,0,Crystal Palace,2.8,0.6,73,25309,Kevin De Bruyne,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Manchester City,2022-04-02 Burnley-Manchester City,2022-04-02,15:00:00,Matchweek 31,Sat,Away,W,2,0,Burnley,1.8,0.1,76,21249,İlkay Gündoğan,4-3-3,Craig Pawson
+ENG-Premier League,2122,Manchester City,2022-04-10 Manchester City-Liverpool,2022-04-10,16:30:00,Matchweek 32,Sun,Home,D,2,2,Liverpool,1.3,1.3,55,53197,Kevin De Bruyne,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,Manchester City,2022-04-20 Manchester City-Brighton,2022-04-20,20:00:00,Matchweek 30,Wed,Home,W,3,0,Brighton,1.3,0.2,65,52226,İlkay Gündoğan,4-3-3,Mike Dean
+ENG-Premier League,2122,Manchester City,2022-04-23 Manchester City-Watford,2022-04-23,15:00:00,Matchweek 34,Sat,Home,W,5,1,Watford,3.6,0.5,73,53013,Fernandinho,4-2-3-1,Kevin Friend
+ENG-Premier League,2122,Manchester City,2022-04-30 Leeds United-Manchester City,2022-04-30,17:30:00,Matchweek 35,Sat,Away,W,4,0,Leeds United,2.4,1.3,58,35771,İlkay Gündoğan,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Manchester City,2022-05-08 Manchester City-Newcastle Utd,2022-05-08,16:30:00,Matchweek 36,Sun,Home,W,5,0,Newcastle Utd,3.1,0.8,71,53336,İlkay Gündoğan,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,Manchester City,2022-05-11 Wolves-Manchester City,2022-05-11,20:15:00,Matchweek 33,Wed,Away,W,5,1,Wolves,2.3,0.5,66,32000,Fernandinho,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,Manchester City,2022-05-15 West Ham-Manchester City,2022-05-15,14:00:00,Matchweek 37,Sun,Away,D,2,2,West Ham,2.4,1.1,78,59972,Fernandinho,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Manchester City,2022-05-22 Manchester City-Aston Villa,2022-05-22,16:00:00,Matchweek 38,Sun,Home,W,3,2,Aston Villa,3.4,0.2,71,53395,Fernandinho,4-3-3,Michael Oliver
+ENG-Premier League,2122,Manchester Utd,2021-08-14 Manchester Utd-Leeds United,2021-08-14,12:30:00,Matchweek 1,Sat,Home,W,5,1,Leeds United,1.5,0.5,49,72732,Harry Maguire,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Manchester Utd,2021-08-22 Southampton-Manchester Utd,2021-08-22,14:00:00,Matchweek 2,Sun,Away,D,1,1,Southampton,1.8,0.7,63,32000,Harry Maguire,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Manchester Utd,2021-08-29 Wolves-Manchester Utd,2021-08-29,16:30:00,Matchweek 3,Sun,Away,W,1,0,Wolves,0.6,2.1,56,30621,Harry Maguire,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Manchester Utd,2021-09-11 Manchester Utd-Newcastle Utd,2021-09-11,15:00:00,Matchweek 4,Sat,Home,W,4,1,Newcastle Utd,2.5,0.4,63,72732,Harry Maguire,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,Manchester Utd,2021-09-19 West Ham-Manchester Utd,2021-09-19,14:00:00,Matchweek 5,Sun,Away,W,2,1,West Ham,2.0,1.6,60,60000,Harry Maguire,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,Manchester Utd,2021-09-25 Manchester Utd-Aston Villa,2021-09-25,12:30:00,Matchweek 6,Sat,Home,L,0,1,Aston Villa,2.2,1.0,59,72922,Harry Maguire,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Manchester Utd,2021-10-02 Manchester Utd-Everton,2021-10-02,12:30:00,Matchweek 7,Sat,Home,D,1,1,Everton,1.0,1.3,72,73128,Bruno Fernandes,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Manchester Utd,2021-10-16 Leicester City-Manchester Utd,2021-10-16,15:00:00,Matchweek 8,Sat,Away,L,2,4,Leicester City,1.2,2.4,51,32219,Harry Maguire,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Manchester Utd,2021-10-24 Manchester Utd-Liverpool,2021-10-24,16:30:00,Matchweek 9,Sun,Home,L,0,5,Liverpool,1.6,3.4,38,73088,Harry Maguire,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,Manchester Utd,2021-10-30 Tottenham-Manchester Utd,2021-10-30,17:30:00,Matchweek 10,Sat,Away,W,3,0,Tottenham,1.5,1.0,42,60356,Harry Maguire,3-5-2,Stuart Attwell
+ENG-Premier League,2122,Manchester Utd,2021-11-06 Manchester Utd-Manchester City,2021-11-06,12:30:00,Matchweek 11,Sat,Home,L,0,2,Manchester City,0.9,1.6,33,73086,Harry Maguire,3-5-2,Michael Oliver
+ENG-Premier League,2122,Manchester Utd,2021-11-20 Watford-Manchester Utd,2021-11-20,15:00:00,Matchweek 12,Sat,Away,L,1,4,Watford,1.4,2.7,61,21087,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Manchester Utd,2021-11-28 Chelsea-Manchester Utd,2021-11-28,16:30:00,Matchweek 13,Sun,Away,D,1,1,Chelsea,0.9,2.7,35,40041,Bruno Fernandes,4-3-1-2,Anthony Taylor
+ENG-Premier League,2122,Manchester Utd,2021-12-02 Manchester Utd-Arsenal,2021-12-02,20:15:00,Matchweek 14,Thu,Home,W,3,2,Arsenal,1.9,1.4,44,73123,Harry Maguire,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,Manchester Utd,2021-12-05 Manchester Utd-Crystal Palace,2021-12-05,14:00:00,Matchweek 15,Sun,Home,W,1,0,Crystal Palace,0.9,0.5,61,73172,Harry Maguire,4-2-2-2,Craig Pawson
+ENG-Premier League,2122,Manchester Utd,2021-12-11 Norwich City-Manchester Utd,2021-12-11,17:30:00,Matchweek 16,Sat,Away,W,1,0,Norwich City,2.0,1.2,52,27606,Harry Maguire,4-2-2-2,Darren England
+ENG-Premier League,2122,Manchester Utd,2021-12-27 Newcastle Utd-Manchester Utd,2021-12-27,20:00:00,Matchweek 19,Mon,Away,D,1,1,Newcastle Utd,1.6,1.3,68,52178,Harry Maguire,4-2-2-2,Craig Pawson
+ENG-Premier League,2122,Manchester Utd,2021-12-30 Manchester Utd-Burnley,2021-12-30,20:15:00,Matchweek 20,Thu,Home,W,3,1,Burnley,2.4,1.1,57,73121,Harry Maguire,4-2-2-2,Jonathan Moss
+ENG-Premier League,2122,Manchester Utd,2022-01-03 Manchester Utd-Wolves,2022-01-03,17:30:00,Matchweek 21,Mon,Home,L,0,1,Wolves,0.8,0.7,51,73045,Cristiano Ronaldo,4-2-2-2,Mike Dean
+ENG-Premier League,2122,Manchester Utd,2022-01-15 Aston Villa-Manchester Utd,2022-01-15,17:30:00,Matchweek 22,Sat,Away,D,2,2,Aston Villa,1.0,1.9,46,41968,Bruno Fernandes,4-3-3,David Coote
+ENG-Premier League,2122,Manchester Utd,2022-01-19 Brentford-Manchester Utd,2022-01-19,20:00:00,Matchweek 17,Wed,Away,W,3,1,Brentford,2.3,2.3,56,17094,Bruno Fernandes,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Manchester Utd,2022-01-22 Manchester Utd-West Ham,2022-01-22,15:00:00,Matchweek 23,Sat,Home,W,1,0,West Ham,1.9,0.3,57,73130,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Manchester Utd,2022-02-08 Burnley-Manchester Utd,2022-02-08,20:00:00,Matchweek 24,Tue,Away,D,1,1,Burnley,1.8,0.4,63,21233,Harry Maguire,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Manchester Utd,2022-02-12 Manchester Utd-Southampton,2022-02-12,12:30:00,Matchweek 25,Sat,Home,D,1,1,Southampton,2.1,0.8,53,73084,Harry Maguire,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,Manchester Utd,2022-02-15 Manchester Utd-Brighton,2022-02-15,20:15:00,Matchweek 18,Tue,Home,W,2,0,Brighton,1.7,0.7,50,73012,Harry Maguire,4-2-3-1,Peter Bankes
+ENG-Premier League,2122,Manchester Utd,2022-02-20 Leeds United-Manchester Utd,2022-02-20,14:00:00,Matchweek 26,Sun,Away,W,4,2,Leeds United,2.2,1.8,46,36715,Harry Maguire,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Manchester Utd,2022-02-26 Manchester Utd-Watford,2022-02-26,15:00:00,Matchweek 27,Sat,Home,D,0,0,Watford,2.8,0.6,67,73152,Bruno Fernandes,4-2-3-1,Kevin Friend
+ENG-Premier League,2122,Manchester Utd,2022-03-06 Manchester City-Manchester Utd,2022-03-06,16:30:00,Matchweek 28,Sun,Away,L,1,4,Manchester City,0.5,2.7,31,53165,Harry Maguire,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Manchester Utd,2022-03-12 Manchester Utd-Tottenham,2022-03-12,17:30:00,Matchweek 29,Sat,Home,W,3,2,Tottenham,1.0,1.5,43,73458,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Manchester Utd,2022-04-02 Manchester Utd-Leicester City,2022-04-02,17:30:00,Matchweek 31,Sat,Home,D,1,1,Leicester City,0.9,0.8,54,73444,Harry Maguire,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Manchester Utd,2022-04-09 Everton-Manchester Utd,2022-04-09,12:30:00,Matchweek 32,Sat,Away,L,0,1,Everton,0.8,0.4,67,39080,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,Manchester Utd,2022-04-16 Manchester Utd-Norwich City,2022-04-16,15:00:00,Matchweek 33,Sat,Home,W,3,2,Norwich City,1.9,1.5,61,73381,Harry Maguire,4-3-3,Andy Madley
+ENG-Premier League,2122,Manchester Utd,2022-04-19 Liverpool-Manchester Utd,2022-04-19,20:00:00,Matchweek 30,Tue,Away,L,0,4,Liverpool,0.1,2.0,29,52686,Harry Maguire,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Manchester Utd,2022-04-23 Arsenal-Manchester Utd,2022-04-23,12:30:00,Matchweek 34,Sat,Away,L,1,3,Arsenal,1.8,2.3,46,60223,Bruno Fernandes,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,Manchester Utd,2022-04-28 Manchester Utd-Chelsea,2022-04-28,19:45:00,Matchweek 37,Thu,Home,D,1,1,Chelsea,0.5,1.9,36,73564,Bruno Fernandes,4-2-3-1,Mike Dean
+ENG-Premier League,2122,Manchester Utd,2022-05-02 Manchester Utd-Brentford,2022-05-02,20:00:00,Matchweek 35,Mon,Home,W,3,0,Brentford,2.0,0.6,63,73482,Bruno Fernandes,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Manchester Utd,2022-05-07 Brighton-Manchester Utd,2022-05-07,17:30:00,Matchweek 36,Sat,Away,L,0,4,Brighton,0.9,2.3,58,31637,Bruno Fernandes,4-2-3-1,Andy Madley
+ENG-Premier League,2122,Manchester Utd,2022-05-22 Crystal Palace-Manchester Utd,2022-05-22,16:00:00,Matchweek 38,Sun,Away,L,0,1,Crystal Palace,0.7,0.6,61,25434,Harry Maguire,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,Newcastle Utd,2021-08-15 Newcastle Utd-West Ham,2021-08-15,14:00:00,Matchweek 1,Sun,Home,L,2,4,West Ham,1.8,2.7,46,50673,Federico Fernández,5-3-2,Martin Atkinson
+ENG-Premier League,2122,Newcastle Utd,2021-08-21 Aston Villa-Newcastle Utd,2021-08-21,15:00:00,Matchweek 2,Sat,Away,L,0,2,Aston Villa,0.7,1.2,53,41964,Jamaal Lascelles,5-3-2,David Coote
+ENG-Premier League,2122,Newcastle Utd,2021-08-28 Newcastle Utd-Southampton,2021-08-28,15:00:00,Matchweek 3,Sat,Home,D,2,2,Southampton,1.0,3.6,37,44017,Jamaal Lascelles,3-5-2,Paul Tierney
+ENG-Premier League,2122,Newcastle Utd,2021-09-11 Manchester Utd-Newcastle Utd,2021-09-11,15:00:00,Matchweek 4,Sat,Away,L,1,4,Manchester Utd,0.4,2.5,37,72732,Jamaal Lascelles,5-4-1,Anthony Taylor
+ENG-Premier League,2122,Newcastle Utd,2021-09-17 Newcastle Utd-Leeds United,2021-09-17,20:00:00,Matchweek 5,Fri,Home,D,1,1,Leeds United,1.3,1.5,35,50407,Jamaal Lascelles,5-4-1,Mike Dean
+ENG-Premier League,2122,Newcastle Utd,2021-09-25 Watford-Newcastle Utd,2021-09-25,15:00:00,Matchweek 6,Sat,Away,D,1,1,Watford,1.9,0.9,47,20650,Federico Fernández,4-1-4-1,Jarred Gillett
+ENG-Premier League,2122,Newcastle Utd,2021-10-02 Wolves-Newcastle Utd,2021-10-02,15:00:00,Matchweek 7,Sat,Away,L,1,2,Wolves,0.6,1.0,48,30483,Federico Fernández,4-1-4-1,Graham Scott
+ENG-Premier League,2122,Newcastle Utd,2021-10-17 Newcastle Utd-Tottenham,2021-10-17,16:30:00,Matchweek 8,Sun,Home,L,2,3,Tottenham,0.4,1.7,36,52214,Jamaal Lascelles,4-1-4-1,Andre Marriner
+ENG-Premier League,2122,Newcastle Utd,2021-10-23 Crystal Palace-Newcastle Utd,2021-10-23,15:00:00,Matchweek 9,Sat,Away,D,1,1,Crystal Palace,0.3,1.9,26,24609,Jamaal Lascelles,5-3-2,Darren England
+ENG-Premier League,2122,Newcastle Utd,2021-10-30 Newcastle Utd-Chelsea,2021-10-30,15:00:00,Matchweek 10,Sat,Home,L,0,3,Chelsea,0.2,2.2,21,52208,Jamaal Lascelles,5-3-2,Paul Tierney
+ENG-Premier League,2122,Newcastle Utd,2021-11-06 Brighton-Newcastle Utd,2021-11-06,17:30:00,Matchweek 11,Sat,Away,D,1,1,Brighton,0.3,1.5,35,31267,Jamaal Lascelles,5-4-1,David Coote
+ENG-Premier League,2122,Newcastle Utd,2021-11-20 Newcastle Utd-Brentford,2021-11-20,15:00:00,Matchweek 12,Sat,Home,D,3,3,Brentford,1.5,0.9,53,52131,Jamaal Lascelles,3-4-3,Robert Jones
+ENG-Premier League,2122,Newcastle Utd,2021-11-27 Arsenal-Newcastle Utd,2021-11-27,12:30:00,Matchweek 13,Sat,Away,L,0,2,Arsenal,0.3,2.5,34,59886,Jamaal Lascelles,4-4-2,Stuart Attwell
+ENG-Premier League,2122,Newcastle Utd,2021-11-30 Newcastle Utd-Norwich City,2021-11-30,19:30:00,Matchweek 14,Tue,Home,D,1,1,Norwich City,1.1,1.2,32,50757,Callum Wilson,4-4-2,Andy Madley
+ENG-Premier League,2122,Newcastle Utd,2021-12-04 Newcastle Utd-Burnley,2021-12-04,15:00:00,Matchweek 15,Sat,Home,W,1,0,Burnley,1.0,0.6,48,51948,Jamaal Lascelles,4-4-2,Paul Tierney
+ENG-Premier League,2122,Newcastle Utd,2021-12-12 Leicester City-Newcastle Utd,2021-12-12,14:00:00,Matchweek 16,Sun,Away,L,0,4,Leicester City,1.0,2.6,53,31959,Jamaal Lascelles,4-4-2,Peter Bankes
+ENG-Premier League,2122,Newcastle Utd,2021-12-16 Liverpool-Newcastle Utd,2021-12-16,20:00:00,Matchweek 17,Thu,Away,L,1,3,Liverpool,0.3,2.7,26,52951,Jamaal Lascelles,4-5-1,Mike Dean
+ENG-Premier League,2122,Newcastle Utd,2021-12-19 Newcastle Utd-Manchester City,2021-12-19,14:15:00,Matchweek 18,Sun,Home,L,0,4,Manchester City,0.3,2.9,29,52127,Jamaal Lascelles,4-5-1,Martin Atkinson
+ENG-Premier League,2122,Newcastle Utd,2021-12-27 Newcastle Utd-Manchester Utd,2021-12-27,20:00:00,Matchweek 19,Mon,Home,D,1,1,Manchester Utd,1.3,1.6,32,52178,Jamaal Lascelles,4-5-1,Craig Pawson
+ENG-Premier League,2122,Newcastle Utd,2022-01-15 Newcastle Utd-Watford,2022-01-15,15:00:00,Matchweek 22,Sat,Home,D,1,1,Watford,1.2,1.4,52,52223,Jamaal Lascelles,4-3-3,Paul Tierney
+ENG-Premier League,2122,Newcastle Utd,2022-01-22 Leeds United-Newcastle Utd,2022-01-22,15:00:00,Matchweek 23,Sat,Away,W,1,0,Leeds United,0.9,0.7,38,36405,Jamaal Lascelles,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Newcastle Utd,2022-02-08 Newcastle Utd-Everton,2022-02-08,19:45:00,Matchweek 24,Tue,Home,W,3,1,Everton,1.9,0.7,40,52186,Jamaal Lascelles,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Newcastle Utd,2022-02-13 Newcastle Utd-Aston Villa,2022-02-13,14:00:00,Matchweek 25,Sun,Home,W,1,0,Aston Villa,0.5,0.6,38,52207,Kieran Trippier,4-3-3,Craig Pawson
+ENG-Premier League,2122,Newcastle Utd,2022-02-19 West Ham-Newcastle Utd,2022-02-19,12:30:00,Matchweek 26,Sat,Away,D,1,1,West Ham,0.8,0.6,53,59949,Jonjo Shelvey,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Newcastle Utd,2022-02-26 Brentford-Newcastle Utd,2022-02-26,15:00:00,Matchweek 27,Sat,Away,W,2,0,Brentford,2.7,0.4,63,17039,Jonjo Shelvey,4-3-3,Mike Dean
+ENG-Premier League,2122,Newcastle Utd,2022-03-05 Newcastle Utd-Brighton,2022-03-05,15:00:00,Matchweek 28,Sat,Home,W,2,1,Brighton,1.7,1.5,32,52214,Jonjo Shelvey,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Newcastle Utd,2022-03-10 Southampton-Newcastle Utd,2022-03-10,19:30:00,Matchweek 21,Thu,Away,W,2,1,Southampton,0.6,1.1,33,30056,Jonjo Shelvey,4-3-3,Kevin Friend
+ENG-Premier League,2122,Newcastle Utd,2022-03-13 Chelsea-Newcastle Utd,2022-03-13,14:00:00,Matchweek 29,Sun,Away,L,0,1,Chelsea,0.3,1.1,29,40026,Jamaal Lascelles,5-4-1,David Coote
+ENG-Premier League,2122,Newcastle Utd,2022-03-17 Everton-Newcastle Utd,2022-03-17,19:45:00,Matchweek 20,Thu,Away,L,0,1,Everton,0.9,0.7,61,39068,Fabian Schär,4-3-3,Craig Pawson
+ENG-Premier League,2122,Newcastle Utd,2022-04-03 Tottenham-Newcastle Utd,2022-04-03,16:30:00,Matchweek 31,Sun,Away,L,1,5,Tottenham,0.5,3.1,40,57553,Jonjo Shelvey,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Newcastle Utd,2022-04-08 Newcastle Utd-Wolves,2022-04-08,20:00:00,Matchweek 32,Fri,Home,W,1,0,Wolves,1.5,0.4,42,52164,Jonjo Shelvey,4-3-3,Peter Bankes
+ENG-Premier League,2122,Newcastle Utd,2022-04-17 Newcastle Utd-Leicester City,2022-04-17,14:15:00,Matchweek 33,Sun,Home,W,2,1,Leicester City,1.8,0.6,32,52104,Jonjo Shelvey,4-3-3,Jarred Gillett
+ENG-Premier League,2122,Newcastle Utd,2022-04-20 Newcastle Utd-Crystal Palace,2022-04-20,19:45:00,Matchweek 30,Wed,Home,W,1,0,Crystal Palace,0.9,0.5,37,51938,Jonjo Shelvey,4-3-3,Tony Harrington
+ENG-Premier League,2122,Newcastle Utd,2022-04-23 Norwich City-Newcastle Utd,2022-04-23,15:00:00,Matchweek 34,Sat,Away,W,3,0,Norwich City,1.9,0.6,54,26910,Jamaal Lascelles,4-3-3,Chris Kavanagh
+ENG-Premier League,2122,Newcastle Utd,2022-04-30 Newcastle Utd-Liverpool,2022-04-30,12:30:00,Matchweek 35,Sat,Home,L,0,1,Liverpool,0.2,2.3,36,52281,Jonjo Shelvey,4-3-3,Andre Marriner
+ENG-Premier League,2122,Newcastle Utd,2022-05-08 Manchester City-Newcastle Utd,2022-05-08,16:30:00,Matchweek 36,Sun,Away,L,0,5,Manchester City,0.8,3.1,29,53336,Jamaal Lascelles,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Newcastle Utd,2022-05-16 Newcastle Utd-Arsenal,2022-05-16,20:00:00,Matchweek 37,Mon,Home,W,2,0,Arsenal,1.6,0.6,51,52274,Callum Wilson,4-3-3,Darren England
+ENG-Premier League,2122,Newcastle Utd,2022-05-22 Burnley-Newcastle Utd,2022-05-22,16:00:00,Matchweek 38,Sun,Away,W,2,1,Burnley,1.8,1.6,48,21361,Jamaal Lascelles,4-3-3,Craig Pawson
+ENG-Premier League,2122,Norwich City,2021-08-14 Norwich City-Liverpool,2021-08-14,17:30:00,Matchweek 1,Sat,Home,L,0,3,Liverpool,1.4,1.6,50,27023,Grant Hanley,4-3-3,Andre Marriner
+ENG-Premier League,2122,Norwich City,2021-08-21 Manchester City-Norwich City,2021-08-21,15:00:00,Matchweek 2,Sat,Away,L,0,5,Manchester City,0.1,2.6,33,51437,Grant Hanley,4-3-3,Graham Scott
+ENG-Premier League,2122,Norwich City,2021-08-28 Norwich City-Leicester City,2021-08-28,15:00:00,Matchweek 3,Sat,Home,L,1,2,Leicester City,1.5,1.5,45,26765,Grant Hanley,4-3-3,Robert Jones
+ENG-Premier League,2122,Norwich City,2021-09-11 Arsenal-Norwich City,2021-09-11,15:00:00,Matchweek 4,Sat,Away,L,0,1,Arsenal,0.7,2.7,49,58000,Grant Hanley,4-3-3,Michael Oliver
+ENG-Premier League,2122,Norwich City,2021-09-18 Norwich City-Watford,2021-09-18,15:00:00,Matchweek 5,Sat,Home,L,1,3,Watford,1.0,2.4,49,26649,Grant Hanley,4-3-3,Robert Jones
+ENG-Premier League,2122,Norwich City,2021-09-25 Everton-Norwich City,2021-09-25,15:00:00,Matchweek 6,Sat,Away,L,0,2,Everton,0.5,1.9,53,38821,Grant Hanley,5-3-2,David Coote
+ENG-Premier League,2122,Norwich City,2021-10-02 Burnley-Norwich City,2021-10-02,15:00:00,Matchweek 7,Sat,Away,D,0,0,Burnley,0.6,1.2,44,17427,Grant Hanley,5-3-2,Kevin Friend
+ENG-Premier League,2122,Norwich City,2021-10-16 Norwich City-Brighton,2021-10-16,15:00:00,Matchweek 8,Sat,Home,D,0,0,Brighton,1.2,0.8,36,26777,Grant Hanley,5-3-2,Peter Bankes
+ENG-Premier League,2122,Norwich City,2021-10-23 Chelsea-Norwich City,2021-10-23,12:30:00,Matchweek 9,Sat,Away,L,0,7,Chelsea,0.1,3.1,38,40113,Grant Hanley,3-5-2,Andy Madley
+ENG-Premier League,2122,Norwich City,2021-10-31 Norwich City-Leeds United,2021-10-31,14:00:00,Matchweek 10,Sun,Home,L,1,2,Leeds United,0.8,0.7,48,26913,Grant Hanley,4-4-2,Anthony Taylor
+ENG-Premier League,2122,Norwich City,2021-11-06 Brentford-Norwich City,2021-11-06,15:00:00,Matchweek 11,Sat,Away,W,2,1,Brentford,1.2,2.5,36,16837,Ben Gibson,4-2-3-1,Jarred Gillett
+ENG-Premier League,2122,Norwich City,2021-11-20 Norwich City-Southampton,2021-11-20,15:00:00,Matchweek 12,Sat,Home,W,2,1,Southampton,0.5,1.0,38,26885,Grant Hanley,4-3-3,Martin Atkinson
+ENG-Premier League,2122,Norwich City,2021-11-27 Norwich City-Wolves,2021-11-27,15:00:00,Matchweek 13,Sat,Home,D,0,0,Wolves,1.6,0.3,43,26911,Grant Hanley,4-1-4-1,Simon Hooper
+ENG-Premier League,2122,Norwich City,2021-11-30 Newcastle Utd-Norwich City,2021-11-30,19:30:00,Matchweek 14,Tue,Away,D,1,1,Newcastle Utd,1.2,1.1,68,50757,Grant Hanley,4-1-4-1,Andy Madley
+ENG-Premier League,2122,Norwich City,2021-12-05 Tottenham-Norwich City,2021-12-05,14:00:00,Matchweek 15,Sun,Away,L,0,3,Tottenham,1.2,1.6,59,57088,Grant Hanley,5-3-2,Jarred Gillett
+ENG-Premier League,2122,Norwich City,2021-12-11 Norwich City-Manchester Utd,2021-12-11,17:30:00,Matchweek 16,Sat,Home,L,0,1,Manchester Utd,1.2,2.0,48,27606,Grant Hanley,4-3-3,Darren England
+ENG-Premier League,2122,Norwich City,2021-12-14 Norwich City-Aston Villa,2021-12-14,19:45:00,Matchweek 17,Tue,Home,L,0,2,Aston Villa,0.5,2.0,50,26836,Ben Gibson,4-3-3,David Coote
+ENG-Premier League,2122,Norwich City,2021-12-26 Norwich City-Arsenal,2021-12-26,15:00:00,Matchweek 19,Sun,Home,L,0,5,Arsenal,0.1,2.5,36,26940,Ben Gibson,4-2-3-1,Graham Scott
+ENG-Premier League,2122,Norwich City,2021-12-28 Crystal Palace-Norwich City,2021-12-28,15:00:00,Matchweek 20,Tue,Away,L,0,3,Crystal Palace,0.9,1.9,49,24433,Ben Gibson,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Norwich City,2022-01-12 West Ham-Norwich City,2022-01-12,19:45:00,Matchweek 18,Wed,Away,L,0,2,West Ham,0.3,2.5,38,59775,Grant Hanley,4-2-3-1,Simon Hooper
+ENG-Premier League,2122,Norwich City,2022-01-15 Norwich City-Everton,2022-01-15,15:00:00,Matchweek 22,Sat,Home,W,2,1,Everton,1.0,0.6,41,26629,Grant Hanley,4-4-2,Andy Madley
+ENG-Premier League,2122,Norwich City,2022-01-21 Watford-Norwich City,2022-01-21,20:00:00,Matchweek 23,Fri,Away,W,3,0,Watford,1.1,1.2,33,20782,Grant Hanley,4-4-2,Mike Dean
+ENG-Premier League,2122,Norwich City,2022-02-09 Norwich City-Crystal Palace,2022-02-09,19:45:00,Matchweek 24,Wed,Home,D,1,1,Crystal Palace,0.4,1.3,30,26652,Grant Hanley,4-4-2,Paul Tierney
+ENG-Premier League,2122,Norwich City,2022-02-12 Norwich City-Manchester City,2022-02-12,17:30:00,Matchweek 25,Sat,Home,L,0,4,Manchester City,0.4,4.6,29,27010,Grant Hanley,4-3-3,Andre Marriner
+ENG-Premier League,2122,Norwich City,2022-02-19 Liverpool-Norwich City,2022-02-19,15:00:00,Matchweek 26,Sat,Away,L,1,3,Liverpool,0.6,3.6,31,53135,Grant Hanley,4-3-3,Mike Dean
+ENG-Premier League,2122,Norwich City,2022-02-25 Southampton-Norwich City,2022-02-25,20:00:00,Matchweek 27,Fri,Away,L,0,2,Southampton,0.6,2.6,42,31182,Grant Hanley,4-1-4-1,Simon Hooper
+ENG-Premier League,2122,Norwich City,2022-03-05 Norwich City-Brentford,2022-03-05,15:00:00,Matchweek 28,Sat,Home,L,1,3,Brentford,1.0,2.0,60,26887,Grant Hanley,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,Norwich City,2022-03-10 Norwich City-Chelsea,2022-03-10,19:30:00,Matchweek 30,Thu,Home,L,1,3,Chelsea,1.0,1.8,34,26684,Grant Hanley,5-3-2,Martin Atkinson
+ENG-Premier League,2122,Norwich City,2022-03-13 Leeds United-Norwich City,2022-03-13,14:00:00,Matchweek 29,Sun,Away,L,1,2,Leeds United,1.5,2.5,48,36321,Ben Gibson,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Norwich City,2022-04-02 Brighton-Norwich City,2022-04-02,15:00:00,Matchweek 31,Sat,Away,D,0,0,Brighton,0.4,2.8,37,31245,Grant Hanley,4-1-2-1-2◆,Simon Hooper
+ENG-Premier League,2122,Norwich City,2022-04-10 Norwich City-Burnley,2022-04-10,14:00:00,Matchweek 32,Sun,Home,W,2,0,Burnley,1.7,1.7,45,26361,Grant Hanley,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Norwich City,2022-04-16 Manchester Utd-Norwich City,2022-04-16,15:00:00,Matchweek 33,Sat,Away,L,2,3,Manchester Utd,1.5,1.9,39,73381,Grant Hanley,4-2-3-1,Andy Madley
+ENG-Premier League,2122,Norwich City,2022-04-23 Norwich City-Newcastle Utd,2022-04-23,15:00:00,Matchweek 34,Sat,Home,L,0,3,Newcastle Utd,0.6,1.9,46,26910,Grant Hanley,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Norwich City,2022-04-30 Aston Villa-Norwich City,2022-04-30,15:00:00,Matchweek 35,Sat,Away,L,0,2,Aston Villa,0.5,1.8,55,40290,Grant Hanley,4-2-3-1,John Brooks
+ENG-Premier League,2122,Norwich City,2022-05-08 Norwich City-West Ham,2022-05-08,14:00:00,Matchweek 36,Sun,Home,L,0,4,West Ham,0.8,3.0,37,26428,Grant Hanley,4-2-3-1,Robert Jones
+ENG-Premier League,2122,Norwich City,2022-05-11 Leicester City-Norwich City,2022-05-11,19:45:00,Matchweek 21,Wed,Away,L,0,3,Leicester City,1.1,2.0,35,38092,Grant Hanley,4-1-4-1,Simon Hooper
+ENG-Premier League,2122,Norwich City,2022-05-15 Wolves-Norwich City,2022-05-15,14:00:00,Matchweek 37,Sun,Away,D,1,1,Wolves,1.1,0.9,36,31219,Grant Hanley,3-4-3,Tony Harrington
+ENG-Premier League,2122,Norwich City,2022-05-22 Norwich City-Tottenham,2022-05-22,16:00:00,Matchweek 38,Sun,Home,L,0,5,Tottenham,0.5,3.4,41,27022,Grant Hanley,5-4-1,Chris Kavanagh
+ENG-Premier League,2122,Southampton,2021-08-14 Everton-Southampton,2021-08-14,15:00:00,Matchweek 1,Sat,Away,L,1,3,Everton,0.8,2.4,52,38487,James Ward-Prowse,4-4-2,Andy Madley
+ENG-Premier League,2122,Southampton,2021-08-22 Southampton-Manchester Utd,2021-08-22,14:00:00,Matchweek 2,Sun,Home,D,1,1,Manchester Utd,0.7,1.8,37,32000,James Ward-Prowse,4-4-2,Craig Pawson
+ENG-Premier League,2122,Southampton,2021-08-28 Newcastle Utd-Southampton,2021-08-28,15:00:00,Matchweek 3,Sat,Away,D,2,2,Newcastle Utd,3.6,1.0,63,44017,James Ward-Prowse,4-4-2,Paul Tierney
+ENG-Premier League,2122,Southampton,2021-09-11 Southampton-West Ham,2021-09-11,15:00:00,Matchweek 4,Sat,Home,D,0,0,West Ham,0.7,0.7,42,30000,James Ward-Prowse,4-1-4-1,David Coote
+ENG-Premier League,2122,Southampton,2021-09-18 Manchester City-Southampton,2021-09-18,15:00:00,Matchweek 5,Sat,Away,D,0,0,Manchester City,0.4,1.0,36,52698,James Ward-Prowse,4-4-2,Jonathan Moss
+ENG-Premier League,2122,Southampton,2021-09-26 Southampton-Wolves,2021-09-26,14:00:00,Matchweek 6,Sun,Home,L,0,1,Wolves,1.0,1.0,57,28002,James Ward-Prowse,4-4-2,Andy Madley
+ENG-Premier League,2122,Southampton,2021-10-02 Chelsea-Southampton,2021-10-02,15:00:00,Matchweek 7,Sat,Away,L,1,3,Chelsea,1.3,3.3,38,40109,James Ward-Prowse,4-4-2,Martin Atkinson
+ENG-Premier League,2122,Southampton,2021-10-16 Southampton-Leeds United,2021-10-16,15:00:00,Matchweek 8,Sat,Home,W,1,0,Leeds United,1.9,0.2,46,30506,Oriol Romeu,4-4-2,David Coote
+ENG-Premier League,2122,Southampton,2021-10-23 Southampton-Burnley,2021-10-23,15:00:00,Matchweek 9,Sat,Home,D,2,2,Burnley,1.6,0.7,61,29145,Oriol Romeu,4-4-2,Chris Kavanagh
+ENG-Premier League,2122,Southampton,2021-10-30 Watford-Southampton,2021-10-30,15:00:00,Matchweek 10,Sat,Away,W,1,0,Watford,1.8,1.0,60,20869,James Ward-Prowse,4-4-2,Peter Bankes
+ENG-Premier League,2122,Southampton,2021-11-05 Southampton-Aston Villa,2021-11-05,20:00:00,Matchweek 11,Fri,Home,W,1,0,Aston Villa,0.6,0.6,56,30178,James Ward-Prowse,4-4-2,Andy Madley
+ENG-Premier League,2122,Southampton,2021-11-20 Norwich City-Southampton,2021-11-20,15:00:00,Matchweek 12,Sat,Away,L,1,2,Norwich City,1.0,0.5,62,26885,James Ward-Prowse,4-4-2,Martin Atkinson
+ENG-Premier League,2122,Southampton,2021-11-27 Liverpool-Southampton,2021-11-27,15:00:00,Matchweek 13,Sat,Away,L,0,4,Liverpool,1.0,2.9,36,53040,James Ward-Prowse,3-4-3,Andre Marriner
+ENG-Premier League,2122,Southampton,2021-12-01 Southampton-Leicester City,2021-12-01,19:30:00,Matchweek 14,Wed,Home,D,2,2,Leicester City,1.5,1.5,45,26951,James Ward-Prowse,4-4-2,Robert Jones
+ENG-Premier League,2122,Southampton,2021-12-04 Southampton-Brighton,2021-12-04,15:00:00,Matchweek 15,Sat,Home,D,1,1,Brighton,1.6,1.6,44,28706,James Ward-Prowse,4-4-2,Anthony Taylor
+ENG-Premier League,2122,Southampton,2021-12-11 Arsenal-Southampton,2021-12-11,15:00:00,Matchweek 16,Sat,Away,L,0,3,Arsenal,0.6,1.8,39,59653,James Ward-Prowse,4-4-2,Jarred Gillett
+ENG-Premier League,2122,Southampton,2021-12-15 Crystal Palace-Southampton,2021-12-15,19:30:00,Matchweek 17,Wed,Away,D,2,2,Crystal Palace,0.6,1.2,41,22861,James Ward-Prowse,4-4-2,Simon Hooper
+ENG-Premier League,2122,Southampton,2021-12-26 West Ham-Southampton,2021-12-26,15:00:00,Matchweek 19,Sun,Away,W,3,2,West Ham,1.2,1.6,44,41027,James Ward-Prowse,4-1-4-1,Kevin Friend
+ENG-Premier League,2122,Southampton,2021-12-28 Southampton-Tottenham,2021-12-28,15:00:00,Matchweek 20,Tue,Home,D,1,1,Tottenham,0.4,2.3,35,31304,James Ward-Prowse,5-3-2,Anthony Taylor
+ENG-Premier League,2122,Southampton,2022-01-11 Southampton-Brentford,2022-01-11,19:45:00,Matchweek 18,Tue,Home,W,4,1,Brentford,1.4,0.5,48,27383,James Ward-Prowse,3-5-2,Stuart Attwell
+ENG-Premier League,2122,Southampton,2022-01-15 Wolves-Southampton,2022-01-15,15:00:00,Matchweek 22,Sat,Away,L,1,3,Wolves,0.8,2.5,57,30057,James Ward-Prowse,3-5-2,Michael Salisbury
+ENG-Premier League,2122,Southampton,2022-01-22 Southampton-Manchester City,2022-01-22,17:30:00,Matchweek 23,Sat,Home,D,1,1,Manchester City,0.8,1.8,26,31178,James Ward-Prowse,4-4-2,Simon Hooper
+ENG-Premier League,2122,Southampton,2022-02-09 Tottenham-Southampton,2022-02-09,19:45:00,Matchweek 24,Wed,Away,W,3,2,Tottenham,2.2,1.4,52,54012,James Ward-Prowse,4-4-2,David Coote
+ENG-Premier League,2122,Southampton,2022-02-12 Manchester Utd-Southampton,2022-02-12,12:30:00,Matchweek 25,Sat,Away,D,1,1,Manchester Utd,0.8,2.1,47,73084,James Ward-Prowse,4-4-2,Stuart Attwell
+ENG-Premier League,2122,Southampton,2022-02-19 Southampton-Everton,2022-02-19,15:00:00,Matchweek 26,Sat,Home,W,2,0,Everton,2.5,0.3,55,31312,James Ward-Prowse,4-4-2,Andy Madley
+ENG-Premier League,2122,Southampton,2022-02-25 Southampton-Norwich City,2022-02-25,20:00:00,Matchweek 27,Fri,Home,W,2,0,Norwich City,2.6,0.6,58,31182,James Ward-Prowse,4-4-2,Simon Hooper
+ENG-Premier League,2122,Southampton,2022-03-05 Aston Villa-Southampton,2022-03-05,15:00:00,Matchweek 28,Sat,Away,L,0,4,Aston Villa,1.1,2.5,62,41855,James Ward-Prowse,4-4-2,Peter Bankes
+ENG-Premier League,2122,Southampton,2022-03-10 Southampton-Newcastle Utd,2022-03-10,19:30:00,Matchweek 21,Thu,Home,L,1,2,Newcastle Utd,1.1,0.6,67,30056,James Ward-Prowse,4-4-2,Kevin Friend
+ENG-Premier League,2122,Southampton,2022-03-13 Southampton-Watford,2022-03-13,14:00:00,Matchweek 29,Sun,Home,L,1,2,Watford,1.4,1.7,63,28863,James Ward-Prowse,4-4-2,Graham Scott
+ENG-Premier League,2122,Southampton,2022-04-02 Leeds United-Southampton,2022-04-02,15:00:00,Matchweek 31,Sat,Away,D,1,1,Leeds United,1.4,1.2,44,36580,James Ward-Prowse,4-3-1-2,Anthony Taylor
+ENG-Premier League,2122,Southampton,2022-04-09 Southampton-Chelsea,2022-04-09,15:00:00,Matchweek 32,Sat,Home,L,0,6,Chelsea,0.5,4.2,30,31359,James Ward-Prowse,4-4-2,Kevin Friend
+ENG-Premier League,2122,Southampton,2022-04-16 Southampton-Arsenal,2022-04-16,15:00:00,Matchweek 33,Sat,Home,W,1,0,Arsenal,0.8,1.7,25,31465,James Ward-Prowse,3-4-3,Peter Bankes
+ENG-Premier League,2122,Southampton,2022-04-21 Burnley-Southampton,2022-04-21,19:45:00,Matchweek 30,Thu,Away,L,0,2,Burnley,0.9,1.5,56,17384,James Ward-Prowse,3-1-4-2,Stuart Attwell
+ENG-Premier League,2122,Southampton,2022-04-24 Brighton-Southampton,2022-04-24,14:00:00,Matchweek 34,Sun,Away,D,2,2,Brighton,0.9,1.7,52,31335,James Ward-Prowse,4-4-2,Robert Jones
+ENG-Premier League,2122,Southampton,2022-04-30 Southampton-Crystal Palace,2022-04-30,15:00:00,Matchweek 35,Sat,Home,L,1,2,Crystal Palace,0.6,1.1,38,31359,James Ward-Prowse,4-4-2,Jarred Gillett
+ENG-Premier League,2122,Southampton,2022-05-07 Brentford-Southampton,2022-05-07,15:00:00,Matchweek 36,Sat,Away,L,0,3,Brentford,1.4,2.6,59,17051,James Ward-Prowse,4-4-2,Michael Salisbury
+ENG-Premier League,2122,Southampton,2022-05-17 Southampton-Liverpool,2022-05-17,19:45:00,Matchweek 37,Tue,Home,L,1,2,Liverpool,0.1,1.3,30,31588,James Ward-Prowse,5-4-1,Martin Atkinson
+ENG-Premier League,2122,Southampton,2022-05-22 Leicester City-Southampton,2022-05-22,16:00:00,Matchweek 38,Sun,Away,L,1,4,Leicester City,1.1,3.4,49,32003,James Ward-Prowse,4-4-2,Jonathan Moss
+ENG-Premier League,2122,Tottenham,2021-08-15 Tottenham-Manchester City,2021-08-15,16:30:00,Matchweek 1,Sun,Home,W,1,0,Manchester City,1.0,1.8,35,58262,Hugo Lloris,4-3-3,Anthony Taylor
+ENG-Premier League,2122,Tottenham,2021-08-22 Wolves-Tottenham,2021-08-22,14:00:00,Matchweek 2,Sun,Away,W,1,0,Wolves,1.7,1.7,42,30368,Hugo Lloris,4-3-3,Stuart Attwell
+ENG-Premier League,2122,Tottenham,2021-08-29 Tottenham-Watford,2021-08-29,14:00:00,Matchweek 3,Sun,Home,W,1,0,Watford,1.0,0.8,57,57672,Hugo Lloris,4-3-3,Andre Marriner
+ENG-Premier League,2122,Tottenham,2021-09-11 Crystal Palace-Tottenham,2021-09-11,12:30:00,Matchweek 4,Sat,Away,L,0,3,Crystal Palace,0.1,2.1,38,26000,Hugo Lloris,4-1-2-1-2◆,Jonathan Moss
+ENG-Premier League,2122,Tottenham,2021-09-19 Tottenham-Chelsea,2021-09-19,16:30:00,Matchweek 5,Sun,Home,L,0,3,Chelsea,0.5,2.1,47,60059,Hugo Lloris,4-3-2-1,Paul Tierney
+ENG-Premier League,2122,Tottenham,2021-09-26 Arsenal-Tottenham,2021-09-26,16:30:00,Matchweek 6,Sun,Away,L,1,3,Arsenal,1.0,1.1,54,59919,Hugo Lloris,4-3-3,Craig Pawson
+ENG-Premier League,2122,Tottenham,2021-10-03 Tottenham-Aston Villa,2021-10-03,14:00:00,Matchweek 7,Sun,Home,W,2,1,Aston Villa,1.3,1.2,56,53076,Hugo Lloris,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,Tottenham,2021-10-17 Newcastle Utd-Tottenham,2021-10-17,16:30:00,Matchweek 8,Sun,Away,W,3,2,Newcastle Utd,1.7,0.4,64,52214,Hugo Lloris,4-2-3-1,Andre Marriner
+ENG-Premier League,2122,Tottenham,2021-10-24 West Ham-Tottenham,2021-10-24,14:00:00,Matchweek 9,Sun,Away,L,0,1,West Ham,0.7,1.3,62,59924,Hugo Lloris,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,Tottenham,2021-10-30 Tottenham-Manchester Utd,2021-10-30,17:30:00,Matchweek 10,Sat,Home,L,0,3,Manchester Utd,1.0,1.5,58,60356,Hugo Lloris,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,Tottenham,2021-11-07 Everton-Tottenham,2021-11-07,14:00:00,Matchweek 11,Sun,Away,D,0,0,Everton,0.7,0.6,55,39059,Hugo Lloris,3-4-3,Chris Kavanagh
+ENG-Premier League,2122,Tottenham,2021-11-21 Tottenham-Leeds United,2021-11-21,16:30:00,Matchweek 12,Sun,Home,W,2,1,Leeds United,2.1,1.4,43,58989,Hugo Lloris,3-4-3,Andre Marriner
+ENG-Premier League,2122,Tottenham,2021-12-02 Tottenham-Brentford,2021-12-02,19:30:00,Matchweek 14,Thu,Home,W,2,0,Brentford,1.9,0.3,47,54202,Hugo Lloris,3-4-3,Jonathan Moss
+ENG-Premier League,2122,Tottenham,2021-12-05 Tottenham-Norwich City,2021-12-05,14:00:00,Matchweek 15,Sun,Home,W,3,0,Norwich City,1.6,1.2,41,57088,Hugo Lloris,3-4-3,Jarred Gillett
+ENG-Premier League,2122,Tottenham,2021-12-19 Tottenham-Liverpool,2021-12-19,16:30:00,Matchweek 18,Sun,Home,D,2,2,Liverpool,3.0,1.1,44,45421,Hugo Lloris,5-3-2,Paul Tierney
+ENG-Premier League,2122,Tottenham,2021-12-26 Tottenham-Crystal Palace,2021-12-26,15:00:00,Matchweek 19,Sun,Home,W,3,0,Crystal Palace,2.3,0.2,60,40539,Hugo Lloris,3-4-3,Jonathan Moss
+ENG-Premier League,2122,Tottenham,2021-12-28 Southampton-Tottenham,2021-12-28,15:00:00,Matchweek 20,Tue,Away,D,1,1,Southampton,2.3,0.4,65,31304,Hugo Lloris,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Tottenham,2022-01-01 Watford-Tottenham,2022-01-01,15:00:00,Matchweek 21,Sat,Away,W,1,0,Watford,2.2,0.3,74,20391,Hugo Lloris,3-4-3,Robert Jones
+ENG-Premier League,2122,Tottenham,2022-01-19 Leicester City-Tottenham,2022-01-19,19:30:00,Matchweek 17,Wed,Away,W,3,2,Leicester City,3.1,1.2,51,31986,Hugo Lloris,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Tottenham,2022-01-23 Chelsea-Tottenham,2022-01-23,16:30:00,Matchweek 23,Sun,Away,L,0,2,Chelsea,0.5,1.2,36,40020,Hugo Lloris,4-4-2,Paul Tierney
+ENG-Premier League,2122,Tottenham,2022-02-09 Tottenham-Southampton,2022-02-09,19:45:00,Matchweek 24,Wed,Home,L,2,3,Southampton,1.4,2.2,48,54012,Hugo Lloris,3-4-3,David Coote
+ENG-Premier League,2122,Tottenham,2022-02-13 Tottenham-Wolves,2022-02-13,14:00:00,Matchweek 25,Sun,Home,L,0,2,Wolves,1.2,1.3,58,56452,Hugo Lloris,3-4-3,Kevin Friend
+ENG-Premier League,2122,Tottenham,2022-02-19 Manchester City-Tottenham,2022-02-19,17:30:00,Matchweek 26,Sat,Away,W,3,2,Manchester City,1.4,2.1,29,53201,Hugo Lloris,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Tottenham,2022-02-23 Burnley-Tottenham,2022-02-23,19:30:00,Matchweek 13,Wed,Away,L,0,1,Burnley,0.7,0.9,66,19488,Hugo Lloris,3-4-3,Graham Scott
+ENG-Premier League,2122,Tottenham,2022-02-26 Leeds United-Tottenham,2022-02-26,12:30:00,Matchweek 27,Sat,Away,W,4,0,Leeds United,1.9,1.5,50,36599,Hugo Lloris,3-4-3,Craig Pawson
+ENG-Premier League,2122,Tottenham,2022-03-07 Tottenham-Everton,2022-03-07,20:00:00,Matchweek 28,Mon,Home,W,5,0,Everton,2.5,0.2,55,59647,Hugo Lloris,3-4-3,Stuart Attwell
+ENG-Premier League,2122,Tottenham,2022-03-12 Manchester Utd-Tottenham,2022-03-12,17:30:00,Matchweek 29,Sat,Away,L,2,3,Manchester Utd,1.5,1.0,57,73458,Hugo Lloris,3-4-3,Jonathan Moss
+ENG-Premier League,2122,Tottenham,2022-03-16 Brighton-Tottenham,2022-03-16,19:30:00,Matchweek 16,Wed,Away,W,2,0,Brighton,2.2,0.7,52,31144,Hugo Lloris,3-4-3,Robert Jones
+ENG-Premier League,2122,Tottenham,2022-03-20 Tottenham-West Ham,2022-03-20,16:30:00,Matchweek 30,Sun,Home,W,3,1,West Ham,3.0,0.6,53,58685,Hugo Lloris,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Tottenham,2022-04-03 Tottenham-Newcastle Utd,2022-04-03,16:30:00,Matchweek 31,Sun,Home,W,5,1,Newcastle Utd,3.1,0.5,60,57553,Hugo Lloris,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Tottenham,2022-04-09 Aston Villa-Tottenham,2022-04-09,17:30:00,Matchweek 32,Sat,Away,W,4,0,Aston Villa,1.1,1.6,48,41949,Hugo Lloris,3-4-3,Graham Scott
+ENG-Premier League,2122,Tottenham,2022-04-16 Tottenham-Brighton,2022-04-16,12:30:00,Matchweek 33,Sat,Home,L,0,1,Brighton,0.5,0.6,49,58685,Hugo Lloris,3-4-3,Craig Pawson
+ENG-Premier League,2122,Tottenham,2022-04-23 Brentford-Tottenham,2022-04-23,17:30:00,Matchweek 34,Sat,Away,D,0,0,Brentford,0.6,0.9,56,17072,Hugo Lloris,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Tottenham,2022-05-01 Tottenham-Leicester City,2022-05-01,14:00:00,Matchweek 35,Sun,Home,W,3,1,Leicester City,1.2,0.5,40,59482,Hugo Lloris,3-4-3,Jonathan Moss
+ENG-Premier League,2122,Tottenham,2022-05-07 Liverpool-Tottenham,2022-05-07,19:45:00,Matchweek 36,Sat,Away,D,1,1,Liverpool,0.9,1.3,36,53177,Hugo Lloris,3-4-3,Michael Oliver
+ENG-Premier League,2122,Tottenham,2022-05-12 Tottenham-Arsenal,2022-05-12,19:45:00,Matchweek 22,Thu,Home,W,3,0,Arsenal,2.7,0.5,57,62027,Hugo Lloris,3-4-3,Paul Tierney
+ENG-Premier League,2122,Tottenham,2022-05-15 Tottenham-Burnley,2022-05-15,12:00:00,Matchweek 37,Sun,Home,W,1,0,Burnley,2.2,0.7,68,61729,Hugo Lloris,3-4-3,Kevin Friend
+ENG-Premier League,2122,Tottenham,2022-05-22 Norwich City-Tottenham,2022-05-22,16:00:00,Matchweek 38,Sun,Away,W,5,0,Norwich City,3.4,0.5,59,27022,Hugo Lloris,3-4-3,Chris Kavanagh
+ENG-Premier League,2122,Watford,2021-08-14 Watford-Aston Villa,2021-08-14,15:00:00,Matchweek 1,Sat,Home,W,3,2,Aston Villa,1.2,1.2,38,20051,Tom Cleverley,4-1-4-1,Mike Dean
+ENG-Premier League,2122,Watford,2021-08-21 Brighton-Watford,2021-08-21,17:30:00,Matchweek 2,Sat,Away,L,0,2,Brighton,0.5,1.3,44,29485,Tom Cleverley,4-1-4-1,Anthony Taylor
+ENG-Premier League,2122,Watford,2021-08-29 Tottenham-Watford,2021-08-29,14:00:00,Matchweek 3,Sun,Away,L,0,1,Tottenham,0.8,1.0,43,57672,Craig Cathcart,4-1-4-1,Andre Marriner
+ENG-Premier League,2122,Watford,2021-09-11 Watford-Wolves,2021-09-11,15:00:00,Matchweek 4,Sat,Home,L,0,2,Wolves,0.2,2.2,45,20019,William Troost-Ekong,4-1-4-1,Peter Bankes
+ENG-Premier League,2122,Watford,2021-09-18 Norwich City-Watford,2021-09-18,15:00:00,Matchweek 5,Sat,Away,W,3,1,Norwich City,2.4,1.0,51,26649,Tom Cleverley,4-2-3-1,Robert Jones
+ENG-Premier League,2122,Watford,2021-09-25 Watford-Newcastle Utd,2021-09-25,15:00:00,Matchweek 6,Sat,Home,D,1,1,Newcastle Utd,0.9,1.9,53,20650,Tom Cleverley,4-2-3-1,Jarred Gillett
+ENG-Premier League,2122,Watford,2021-10-02 Leeds United-Watford,2021-10-02,15:00:00,Matchweek 7,Sat,Away,L,0,1,Leeds United,0.2,1.3,34,36261,Ben Foster,4-2-3-1,Simon Hooper
+ENG-Premier League,2122,Watford,2021-10-16 Watford-Liverpool,2021-10-16,12:30:00,Matchweek 8,Sat,Home,L,0,5,Liverpool,0.5,3.3,25,21085,Moussa Sissoko,5-4-1,Jonathan Moss
+ENG-Premier League,2122,Watford,2021-10-23 Everton-Watford,2021-10-23,15:00:00,Matchweek 9,Sat,Away,W,5,2,Everton,3.7,1.5,51,38834,Moussa Sissoko,4-1-4-1,Graham Scott
+ENG-Premier League,2122,Watford,2021-10-30 Watford-Southampton,2021-10-30,15:00:00,Matchweek 10,Sat,Home,L,0,1,Southampton,1.0,1.8,40,20869,Moussa Sissoko,4-4-1-1,Peter Bankes
+ENG-Premier League,2122,Watford,2021-11-07 Arsenal-Watford,2021-11-07,14:00:00,Matchweek 11,Sun,Away,L,0,1,Arsenal,0.5,1.6,40,59833,Moussa Sissoko,4-1-4-1,Kevin Friend
+ENG-Premier League,2122,Watford,2021-11-20 Watford-Manchester Utd,2021-11-20,15:00:00,Matchweek 12,Sat,Home,W,4,1,Manchester Utd,2.7,1.4,39,21087,Moussa Sissoko,4-1-4-1,Jonathan Moss
+ENG-Premier League,2122,Watford,2021-11-28 Leicester City-Watford,2021-11-28,14:00:00,Matchweek 13,Sun,Away,L,2,4,Leicester City,2.8,2.1,44,32020,Moussa Sissoko,4-1-4-1,Andy Madley
+ENG-Premier League,2122,Watford,2021-12-01 Watford-Chelsea,2021-12-01,19:30:00,Matchweek 14,Wed,Home,L,1,2,Chelsea,1.0,0.9,51,20388,Moussa Sissoko,4-1-4-1,David Coote
+ENG-Premier League,2122,Watford,2021-12-04 Watford-Manchester City,2021-12-04,17:30:00,Matchweek 15,Sat,Home,L,1,3,Manchester City,0.8,3.1,23,20673,Moussa Sissoko,4-1-4-1,Simon Hooper
+ENG-Premier League,2122,Watford,2021-12-10 Brentford-Watford,2021-12-10,20:00:00,Matchweek 16,Fri,Away,L,1,2,Brentford,0.5,1.6,37,16861,Moussa Sissoko,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,Watford,2021-12-28 Watford-West Ham,2021-12-28,15:00:00,Matchweek 20,Tue,Home,L,1,4,West Ham,1.6,3.6,43,20073,Moussa Sissoko,4-1-4-1,Darren England
+ENG-Premier League,2122,Watford,2022-01-01 Watford-Tottenham,2022-01-01,15:00:00,Matchweek 21,Sat,Home,L,0,1,Tottenham,0.3,2.2,26,20391,Moussa Sissoko,4-4-2,Robert Jones
+ENG-Premier League,2122,Watford,2022-01-15 Newcastle Utd-Watford,2022-01-15,15:00:00,Matchweek 22,Sat,Away,D,1,1,Newcastle Utd,1.4,1.2,48,52223,Moussa Sissoko,4-3-3,Paul Tierney
+ENG-Premier League,2122,Watford,2022-01-21 Watford-Norwich City,2022-01-21,20:00:00,Matchweek 23,Fri,Home,L,0,3,Norwich City,1.2,1.1,67,20782,Moussa Sissoko,4-3-3,Mike Dean
+ENG-Premier League,2122,Watford,2022-02-05 Burnley-Watford,2022-02-05,18:00:00,Matchweek 17,Sat,Away,D,0,0,Burnley,0.8,0.6,47,19527,Moussa Sissoko,4-4-2,Craig Pawson
+ENG-Premier League,2122,Watford,2022-02-08 West Ham-Watford,2022-02-08,19:45:00,Matchweek 24,Tue,Away,L,0,1,West Ham,0.3,0.8,36,59581,Moussa Sissoko,4-4-2,Martin Atkinson
+ENG-Premier League,2122,Watford,2022-02-12 Watford-Brighton,2022-02-12,15:00:00,Matchweek 25,Sat,Home,L,0,2,Brighton,0.5,1.6,36,20795,Moussa Sissoko,4-4-2,Jonathan Moss
+ENG-Premier League,2122,Watford,2022-02-19 Aston Villa-Watford,2022-02-19,15:00:00,Matchweek 26,Sat,Away,W,1,0,Aston Villa,1.2,1.3,41,41936,Moussa Sissoko,4-3-3,Robert Jones
+ENG-Premier League,2122,Watford,2022-02-23 Watford-Crystal Palace,2022-02-23,19:30:00,Matchweek 18,Wed,Home,L,1,4,Crystal Palace,1.4,1.1,46,20012,Moussa Sissoko,4-3-3,Andre Marriner
+ENG-Premier League,2122,Watford,2022-02-26 Manchester Utd-Watford,2022-02-26,15:00:00,Matchweek 27,Sat,Away,D,0,0,Manchester Utd,0.6,2.8,33,73152,Moussa Sissoko,4-3-3,Kevin Friend
+ENG-Premier League,2122,Watford,2022-03-06 Watford-Arsenal,2022-03-06,14:00:00,Matchweek 28,Sun,Home,L,2,3,Arsenal,1.0,1.0,44,21142,Moussa Sissoko,4-3-3,Craig Pawson
+ENG-Premier League,2122,Watford,2022-03-10 Wolves-Watford,2022-03-10,19:30:00,Matchweek 19,Thu,Away,L,0,4,Wolves,0.6,0.7,34,29658,Moussa Sissoko,4-3-3,Darren England
+ENG-Premier League,2122,Watford,2022-03-13 Southampton-Watford,2022-03-13,14:00:00,Matchweek 29,Sun,Away,W,2,1,Southampton,1.7,1.4,37,28863,Moussa Sissoko,4-3-3,Graham Scott
+ENG-Premier League,2122,Watford,2022-04-02 Liverpool-Watford,2022-04-02,12:30:00,Matchweek 31,Sat,Away,L,0,2,Liverpool,0.6,2.2,27,53104,Moussa Sissoko,4-1-4-1,Stuart Attwell
+ENG-Premier League,2122,Watford,2022-04-09 Watford-Leeds United,2022-04-09,15:00:00,Matchweek 32,Sat,Home,L,0,3,Leeds United,1.1,0.7,49,20957,Moussa Sissoko,4-3-3,Andre Marriner
+ENG-Premier League,2122,Watford,2022-04-16 Watford-Brentford,2022-04-16,15:00:00,Matchweek 33,Sat,Home,L,1,2,Brentford,1.7,1.9,50,21045,Moussa Sissoko,4-3-3,Simon Hooper
+ENG-Premier League,2122,Watford,2022-04-23 Manchester City-Watford,2022-04-23,15:00:00,Matchweek 34,Sat,Away,L,1,5,Manchester City,0.5,3.6,27,53013,Moussa Sissoko,4-3-3,Kevin Friend
+ENG-Premier League,2122,Watford,2022-04-30 Watford-Burnley,2022-04-30,15:00:00,Matchweek 35,Sat,Home,L,1,2,Burnley,1.0,1.6,47,20738,Moussa Sissoko,4-3-3,Craig Pawson
+ENG-Premier League,2122,Watford,2022-05-07 Crystal Palace-Watford,2022-05-07,15:00:00,Matchweek 36,Sat,Away,L,0,1,Crystal Palace,0.4,2.2,33,24622,Moussa Sissoko,4-3-3,Graham Scott
+ENG-Premier League,2122,Watford,2022-05-11 Watford-Everton,2022-05-11,19:45:00,Matchweek 30,Wed,Home,D,0,0,Everton,0.3,0.7,48,20653,Moussa Sissoko,4-3-3,Mike Dean
+ENG-Premier League,2122,Watford,2022-05-15 Watford-Leicester City,2022-05-15,14:00:00,Matchweek 37,Sun,Home,L,1,5,Leicester City,1.4,2.5,41,20257,Moussa Sissoko,4-3-3,Jarred Gillett
+ENG-Premier League,2122,Watford,2022-05-22 Chelsea-Watford,2022-05-22,16:00:00,Matchweek 38,Sun,Away,L,1,2,Chelsea,0.6,2.2,29,32089,Moussa Sissoko,4-3-3,Mike Dean
+ENG-Premier League,2122,West Ham,2021-08-15 Newcastle Utd-West Ham,2021-08-15,14:00:00,Matchweek 1,Sun,Away,W,4,2,Newcastle Utd,2.7,1.8,54,50673,Declan Rice,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,West Ham,2021-08-23 West Ham-Leicester City,2021-08-23,20:00:00,Matchweek 2,Mon,Home,W,4,1,Leicester City,2.3,0.6,52,59901,Declan Rice,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,West Ham,2021-08-28 West Ham-Crystal Palace,2021-08-28,15:00:00,Matchweek 3,Sat,Home,D,2,2,Crystal Palace,1.3,1.1,47,59751,Declan Rice,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,West Ham,2021-09-11 Southampton-West Ham,2021-09-11,15:00:00,Matchweek 4,Sat,Away,D,0,0,Southampton,0.7,0.7,58,30000,Declan Rice,4-2-3-1,David Coote
+ENG-Premier League,2122,West Ham,2021-09-19 West Ham-Manchester Utd,2021-09-19,14:00:00,Matchweek 5,Sun,Home,L,1,2,Manchester Utd,1.6,2.0,40,60000,Declan Rice,4-4-2,Martin Atkinson
+ENG-Premier League,2122,West Ham,2021-09-25 Leeds United-West Ham,2021-09-25,15:00:00,Matchweek 6,Sat,Away,W,2,1,Leeds United,1.6,1.2,47,36417,Declan Rice,4-2-3-1,Kevin Friend
+ENG-Premier League,2122,West Ham,2021-10-03 West Ham-Brentford,2021-10-03,14:00:00,Matchweek 7,Sun,Home,L,1,2,Brentford,1.5,1.2,59,49940,Declan Rice,4-2-3-1,Peter Bankes
+ENG-Premier League,2122,West Ham,2021-10-17 Everton-West Ham,2021-10-17,14:00:00,Matchweek 8,Sun,Away,W,1,0,Everton,1.2,0.9,61,39132,Declan Rice,4-2-3-1,Stuart Attwell
+ENG-Premier League,2122,West Ham,2021-10-24 West Ham-Tottenham,2021-10-24,14:00:00,Matchweek 9,Sun,Home,W,1,0,Tottenham,1.3,0.7,38,59924,Declan Rice,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,West Ham,2021-10-31 Aston Villa-West Ham,2021-10-31,16:30:00,Matchweek 10,Sun,Away,W,4,1,Aston Villa,2.3,0.7,57,41874,Declan Rice,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,West Ham,2021-11-07 West Ham-Liverpool,2021-11-07,16:30:00,Matchweek 11,Sun,Home,W,3,2,Liverpool,1.0,1.2,31,59909,Declan Rice,4-2-3-1,Craig Pawson
+ENG-Premier League,2122,West Ham,2021-11-20 Wolves-West Ham,2021-11-20,15:00:00,Matchweek 12,Sat,Away,L,0,1,Wolves,0.4,1.4,48,30667,Declan Rice,4-2-3-1,Mike Dean
+ENG-Premier League,2122,West Ham,2021-11-28 Manchester City-West Ham,2021-11-28,14:00:00,Matchweek 13,Sun,Away,L,1,2,Manchester City,0.2,2.1,32,53245,Declan Rice,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,West Ham,2021-12-01 West Ham-Brighton,2021-12-01,19:30:00,Matchweek 14,Wed,Home,D,1,1,Brighton,1.3,1.3,35,59626,Declan Rice,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,West Ham,2021-12-04 West Ham-Chelsea,2021-12-04,12:30:00,Matchweek 15,Sat,Home,W,3,2,Chelsea,1.8,1.1,37,59942,Declan Rice,3-4-3,Andre Marriner
+ENG-Premier League,2122,West Ham,2021-12-12 Burnley-West Ham,2021-12-12,14:00:00,Matchweek 16,Sun,Away,D,0,0,Burnley,0.8,0.8,60,18065,Declan Rice,4-2-3-1,Graham Scott
+ENG-Premier League,2122,West Ham,2021-12-15 Arsenal-West Ham,2021-12-15,20:00:00,Matchweek 17,Wed,Away,L,0,2,Arsenal,0.4,2.8,45,59777,Declan Rice,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,West Ham,2021-12-26 West Ham-Southampton,2021-12-26,15:00:00,Matchweek 19,Sun,Home,L,2,3,Southampton,1.6,1.2,56,41027,Declan Rice,4-2-3-1,Kevin Friend
+ENG-Premier League,2122,West Ham,2021-12-28 Watford-West Ham,2021-12-28,15:00:00,Matchweek 20,Tue,Away,W,4,1,Watford,3.6,1.6,57,20073,Mark Noble,4-2-3-1,Darren England
+ENG-Premier League,2122,West Ham,2022-01-01 Crystal Palace-West Ham,2022-01-01,17:30:00,Matchweek 21,Sat,Away,W,3,2,Crystal Palace,2.2,2.4,38,24351,Declan Rice,4-2-3-1,Darren England
+ENG-Premier League,2122,West Ham,2022-01-12 West Ham-Norwich City,2022-01-12,19:45:00,Matchweek 18,Wed,Home,W,2,0,Norwich City,2.5,0.3,62,59775,Declan Rice,4-2-3-1,Simon Hooper
+ENG-Premier League,2122,West Ham,2022-01-16 West Ham-Leeds United,2022-01-16,14:00:00,Matchweek 22,Sun,Home,L,2,3,Leeds United,2.4,2.2,48,59951,Declan Rice,4-2-3-1,Mike Dean
+ENG-Premier League,2122,West Ham,2022-01-22 Manchester Utd-West Ham,2022-01-22,15:00:00,Matchweek 23,Sat,Away,L,0,1,Manchester Utd,0.3,1.9,43,73130,Declan Rice,4-2-3-1,Jonathan Moss
+ENG-Premier League,2122,West Ham,2022-02-08 West Ham-Watford,2022-02-08,19:45:00,Matchweek 24,Tue,Home,W,1,0,Watford,0.8,0.3,64,59581,Declan Rice,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,West Ham,2022-02-13 Leicester City-West Ham,2022-02-13,16:30:00,Matchweek 25,Sun,Away,D,2,2,Leicester City,1.1,1.4,45,32061,Declan Rice,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,West Ham,2022-02-19 West Ham-Newcastle Utd,2022-02-19,12:30:00,Matchweek 26,Sat,Home,D,1,1,Newcastle Utd,0.6,0.8,47,59949,Declan Rice,4-2-3-1,Chris Kavanagh
+ENG-Premier League,2122,West Ham,2022-02-27 West Ham-Wolves,2022-02-27,14:00:00,Matchweek 27,Sun,Home,W,1,0,Wolves,1.8,0.7,39,59946,Declan Rice,3-4-3,Anthony Taylor
+ENG-Premier League,2122,West Ham,2022-03-05 Liverpool-West Ham,2022-03-05,17:30:00,Matchweek 28,Sat,Away,L,0,1,Liverpool,1.3,2.4,32,59925,Aaron Cresswell,4-4-2,Jonathan Moss
+ENG-Premier League,2122,West Ham,2022-03-13 West Ham-Aston Villa,2022-03-13,14:00:00,Matchweek 29,Sun,Home,W,2,1,Aston Villa,1.2,1.1,47,59957,Declan Rice,4-2-3-1,Jarred Gillett
+ENG-Premier League,2122,West Ham,2022-03-20 Tottenham-West Ham,2022-03-20,16:30:00,Matchweek 30,Sun,Away,L,1,3,Tottenham,0.6,3.0,47,58685,Declan Rice,3-4-3,Anthony Taylor
+ENG-Premier League,2122,West Ham,2022-04-03 West Ham-Everton,2022-04-03,14:00:00,Matchweek 31,Sun,Home,W,2,1,Everton,1.2,0.7,55,59953,Declan Rice,4-2-3-1,Michael Oliver
+ENG-Premier League,2122,West Ham,2022-04-10 Brentford-West Ham,2022-04-10,14:00:00,Matchweek 32,Sun,Away,L,0,2,Brentford,0.3,1.4,53,17032,Declan Rice,4-2-3-1,Martin Atkinson
+ENG-Premier League,2122,West Ham,2022-04-17 West Ham-Burnley,2022-04-17,14:15:00,Matchweek 33,Sun,Home,D,1,1,Burnley,2.2,1.8,61,59958,Declan Rice,4-2-3-1,Paul Tierney
+ENG-Premier League,2122,West Ham,2022-04-24 Chelsea-West Ham,2022-04-24,14:00:00,Matchweek 34,Sun,Away,L,0,1,Chelsea,0.5,3.0,34,32231,Mark Noble,3-4-3,Michael Oliver
+ENG-Premier League,2122,West Ham,2022-05-01 West Ham-Arsenal,2022-05-01,16:30:00,Matchweek 35,Sun,Home,L,1,2,Arsenal,0.5,0.9,57,59959,Mark Noble,4-2-3-1,Mike Dean
+ENG-Premier League,2122,West Ham,2022-05-08 Norwich City-West Ham,2022-05-08,14:00:00,Matchweek 36,Sun,Away,W,4,0,Norwich City,3.0,0.8,63,26428,Declan Rice,4-2-3-1,Robert Jones
+ENG-Premier League,2122,West Ham,2022-05-15 West Ham-Manchester City,2022-05-15,14:00:00,Matchweek 37,Sun,Home,D,2,2,Manchester City,1.1,2.4,22,59972,Declan Rice,4-2-3-1,Anthony Taylor
+ENG-Premier League,2122,West Ham,2022-05-22 Brighton-West Ham,2022-05-22,16:00:00,Matchweek 38,Sun,Away,L,1,3,Brighton,0.2,1.6,50,31604,Declan Rice,4-2-3-1,Kevin Friend
+ENG-Premier League,2122,Wolves,2021-08-14 Leicester City-Wolves,2021-08-14,15:00:00,Matchweek 1,Sat,Away,L,0,1,Leicester City,1.3,0.5,44,31983,Conor Coady,3-4-3,Craig Pawson
+ENG-Premier League,2122,Wolves,2021-08-22 Wolves-Tottenham,2021-08-22,14:00:00,Matchweek 2,Sun,Home,L,0,1,Tottenham,1.7,1.7,58,30368,Conor Coady,3-4-3,Stuart Attwell
+ENG-Premier League,2122,Wolves,2021-08-29 Wolves-Manchester Utd,2021-08-29,16:30:00,Matchweek 3,Sun,Home,L,0,1,Manchester Utd,2.1,0.6,44,30621,Conor Coady,3-4-3,Mike Dean
+ENG-Premier League,2122,Wolves,2021-09-11 Watford-Wolves,2021-09-11,15:00:00,Matchweek 4,Sat,Away,W,2,0,Watford,2.2,0.2,55,20019,Conor Coady,3-4-3,Peter Bankes
+ENG-Premier League,2122,Wolves,2021-09-18 Wolves-Brentford,2021-09-18,12:30:00,Matchweek 5,Sat,Home,L,0,2,Brentford,0.6,2.5,62,30000,Conor Coady,3-4-3,Darren England
+ENG-Premier League,2122,Wolves,2021-09-26 Southampton-Wolves,2021-09-26,14:00:00,Matchweek 6,Sun,Away,W,1,0,Southampton,1.0,1.0,43,28002,Conor Coady,3-4-3,Andy Madley
+ENG-Premier League,2122,Wolves,2021-10-02 Wolves-Newcastle Utd,2021-10-02,15:00:00,Matchweek 7,Sat,Home,W,2,1,Newcastle Utd,1.0,0.6,52,30483,Conor Coady,3-4-3,Graham Scott
+ENG-Premier League,2122,Wolves,2021-10-16 Aston Villa-Wolves,2021-10-16,15:00:00,Matchweek 8,Sat,Away,W,3,2,Aston Villa,2.0,1.0,52,41951,Conor Coady,3-4-3,Michael Oliver
+ENG-Premier League,2122,Wolves,2021-10-23 Leeds United-Wolves,2021-10-23,15:00:00,Matchweek 9,Sat,Away,D,1,1,Leeds United,0.9,1.6,38,36475,Conor Coady,3-4-3,Robert Jones
+ENG-Premier League,2122,Wolves,2021-11-01 Wolves-Everton,2021-11-01,20:00:00,Matchweek 10,Mon,Home,W,2,1,Everton,1.7,1.5,61,30617,Conor Coady,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Wolves,2021-11-06 Crystal Palace-Wolves,2021-11-06,15:00:00,Matchweek 11,Sat,Away,L,0,2,Crystal Palace,0.3,1.9,40,24390,Conor Coady,3-4-3,Graham Scott
+ENG-Premier League,2122,Wolves,2021-11-20 Wolves-West Ham,2021-11-20,15:00:00,Matchweek 12,Sat,Home,W,1,0,West Ham,1.4,0.4,52,30667,Conor Coady,3-4-3,Mike Dean
+ENG-Premier League,2122,Wolves,2021-11-27 Norwich City-Wolves,2021-11-27,15:00:00,Matchweek 13,Sat,Away,D,0,0,Norwich City,0.3,1.6,57,26911,Conor Coady,3-4-3,Simon Hooper
+ENG-Premier League,2122,Wolves,2021-12-01 Wolves-Burnley,2021-12-01,19:30:00,Matchweek 14,Wed,Home,D,0,0,Burnley,0.7,0.2,65,30328,Conor Coady,3-4-3,John Brooks
+ENG-Premier League,2122,Wolves,2021-12-04 Wolves-Liverpool,2021-12-04,15:00:00,Matchweek 15,Sat,Home,L,0,1,Liverpool,0.1,2.7,34,30729,Conor Coady,3-4-3,Chris Kavanagh
+ENG-Premier League,2122,Wolves,2021-12-11 Manchester City-Wolves,2021-12-11,12:30:00,Matchweek 16,Sat,Away,L,0,1,Manchester City,0.2,3.2,29,52613,Conor Coady,3-5-2,Jonathan Moss
+ENG-Premier League,2122,Wolves,2021-12-15 Brighton-Wolves,2021-12-15,19:30:00,Matchweek 17,Wed,Away,W,1,0,Brighton,1.0,1.2,41,30362,Conor Coady,3-4-3,Tony Harrington
+ENG-Premier League,2122,Wolves,2021-12-19 Wolves-Chelsea,2021-12-19,14:00:00,Matchweek 18,Sun,Home,D,0,0,Chelsea,0.2,0.9,37,30631,Conor Coady,3-5-2,David Coote
+ENG-Premier League,2122,Wolves,2022-01-03 Manchester Utd-Wolves,2022-01-03,17:30:00,Matchweek 21,Mon,Away,W,1,0,Manchester Utd,0.7,0.8,49,73045,Conor Coady,3-4-3,Mike Dean
+ENG-Premier League,2122,Wolves,2022-01-15 Wolves-Southampton,2022-01-15,15:00:00,Matchweek 22,Sat,Home,W,3,1,Southampton,2.5,0.8,43,30057,Conor Coady,3-4-3,Michael Salisbury
+ENG-Premier League,2122,Wolves,2022-01-22 Brentford-Wolves,2022-01-22,15:00:00,Matchweek 23,Sat,Away,W,2,1,Brentford,0.2,1.1,50,16982,Conor Coady,3-5-2,Peter Bankes
+ENG-Premier League,2122,Wolves,2022-02-10 Wolves-Arsenal,2022-02-10,19:45:00,Matchweek 24,Thu,Home,L,0,1,Arsenal,0.8,1.8,58,31523,Conor Coady,3-4-3,Michael Oliver
+ENG-Premier League,2122,Wolves,2022-02-13 Tottenham-Wolves,2022-02-13,14:00:00,Matchweek 25,Sun,Away,W,2,0,Tottenham,1.3,1.2,42,56452,Conor Coady,3-5-2,Kevin Friend
+ENG-Premier League,2122,Wolves,2022-02-20 Wolves-Leicester City,2022-02-20,16:30:00,Matchweek 26,Sun,Home,W,2,1,Leicester City,0.5,1.7,37,31587,Conor Coady,3-5-2,Craig Pawson
+ENG-Premier League,2122,Wolves,2022-02-24 Arsenal-Wolves,2022-02-24,19:45:00,Matchweek 20,Thu,Away,L,1,2,Arsenal,1.0,3.1,44,59888,Conor Coady,3-4-3,Martin Atkinson
+ENG-Premier League,2122,Wolves,2022-02-27 West Ham-Wolves,2022-02-27,14:00:00,Matchweek 27,Sun,Away,L,0,1,West Ham,0.7,1.8,61,59946,Conor Coady,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Wolves,2022-03-05 Wolves-Crystal Palace,2022-03-05,15:00:00,Matchweek 28,Sat,Home,L,0,2,Crystal Palace,0.7,2.7,63,31395,Conor Coady,3-4-3,Andy Madley
+ENG-Premier League,2122,Wolves,2022-03-10 Wolves-Watford,2022-03-10,19:30:00,Matchweek 19,Thu,Home,W,4,0,Watford,0.7,0.6,66,29658,Conor Coady,3-4-3,Darren England
+ENG-Premier League,2122,Wolves,2022-03-13 Everton-Wolves,2022-03-13,14:00:00,Matchweek 29,Sun,Away,W,1,0,Everton,0.8,0.4,61,39112,Conor Coady,3-5-2,Michael Oliver
+ENG-Premier League,2122,Wolves,2022-03-18 Wolves-Leeds United,2022-03-18,20:00:00,Matchweek 30,Fri,Home,L,2,3,Leeds United,1.2,2.0,48,31842,Conor Coady,3-4-3,Kevin Friend
+ENG-Premier League,2122,Wolves,2022-04-02 Wolves-Aston Villa,2022-04-02,15:00:00,Matchweek 31,Sat,Home,W,2,1,Aston Villa,1.3,2.1,49,31012,Conor Coady,3-4-3,Darren England
+ENG-Premier League,2122,Wolves,2022-04-08 Newcastle Utd-Wolves,2022-04-08,20:00:00,Matchweek 32,Fri,Away,L,0,1,Newcastle Utd,0.4,1.5,58,52164,Conor Coady,3-4-3,Peter Bankes
+ENG-Premier League,2122,Wolves,2022-04-24 Burnley-Wolves,2022-04-24,14:00:00,Matchweek 34,Sun,Away,L,0,1,Burnley,0.6,1.4,64,19246,Conor Coady,3-4-3,Anthony Taylor
+ENG-Premier League,2122,Wolves,2022-04-30 Wolves-Brighton,2022-04-30,15:00:00,Matchweek 35,Sat,Home,L,0,3,Brighton,0.7,2.6,49,31243,Conor Coady,3-5-2,Simon Hooper
+ENG-Premier League,2122,Wolves,2022-05-07 Chelsea-Wolves,2022-05-07,15:00:00,Matchweek 36,Sat,Away,D,2,2,Chelsea,2.0,1.7,41,32190,Conor Coady,3-5-2,Peter Bankes
+ENG-Premier League,2122,Wolves,2022-05-11 Wolves-Manchester City,2022-05-11,20:15:00,Matchweek 33,Wed,Home,L,1,5,Manchester City,0.5,2.3,34,32000,Conor Coady,3-5-2,Martin Atkinson
+ENG-Premier League,2122,Wolves,2022-05-15 Wolves-Norwich City,2022-05-15,14:00:00,Matchweek 37,Sun,Home,D,1,1,Norwich City,0.9,1.1,64,31219,Conor Coady,3-4-3,Tony Harrington
+ENG-Premier League,2122,Wolves,2022-05-22 Liverpool-Wolves,2022-05-22,16:00:00,Matchweek 38,Sun,Away,L,1,3,Liverpool,1.3,2.7,37,53097,Conor Coady,3-5-2,Anthony Taylor
