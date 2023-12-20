@@ -1,0 +1,763 @@
+,,,,date,round,day,venue,result,GF,GA,opponent,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,time
+,,,,,,,,,,,,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,
+league,season,team,game,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,2122,Arsenal,2021-08-13 Brentford-Arsenal,2021-08-13,Matchweek 1,Fri,Away,L,0,2,Brentford,43,36,2,1,2,1,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Arsenal,2021-08-22 Arsenal-Chelsea,2021-08-22,Matchweek 2,Sun,Home,L,0,2,Chelsea,12,10,1,0,0,0,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Arsenal,2021-08-28 Manchester City-Arsenal,2021-08-28,Matchweek 3,Sat,Away,L,0,5,Manchester City,2,2,0,0,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Arsenal,2021-09-11 Arsenal-Norwich City,2021-09-11,Matchweek 4,Sat,Home,W,1,0,Norwich City,52,39,6,2,3,2,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Arsenal,2021-09-18 Burnley-Arsenal,2021-09-18,Matchweek 5,Sat,Away,W,1,0,Burnley,23,18,1,1,2,1,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Arsenal,2021-09-26 Arsenal-Tottenham,2021-09-26,Matchweek 6,Sun,Home,W,3,1,Tottenham,23,17,4,0,1,1,0,6,6,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Arsenal,2021-10-02 Brighton-Arsenal,2021-10-02,Matchweek 7,Sat,Away,D,0,0,Brighton,16,12,2,1,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Arsenal,2021-10-18 Arsenal-Crystal Palace,2021-10-18,Matchweek 8,Mon,Home,D,2,2,Crystal Palace,27,20,0,2,3,1,1,2,0,0,0,2,0,0,20:00:00
+ENG-Premier League,2122,Arsenal,2021-10-22 Arsenal-Aston Villa,2021-10-22,Matchweek 9,Fri,Home,W,3,1,Aston Villa,37,27,2,0,4,3,1,5,2,1,0,2,0,0,20:00:00
+ENG-Premier League,2122,Arsenal,2021-10-30 Leicester City-Arsenal,2021-10-30,Matchweek 10,Sat,Away,W,2,0,Leicester City,14,11,2,1,0,0,0,3,3,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Arsenal,2021-11-07 Arsenal-Watford,2021-11-07,Matchweek 11,Sun,Home,W,1,0,Watford,27,13,3,4,2,4,1,2,0,0,2,0,0,0,14:00:00
+ENG-Premier League,2122,Arsenal,2021-11-20 Liverpool-Arsenal,2021-11-20,Matchweek 12,Sat,Away,L,0,4,Liverpool,10,9,0,1,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Arsenal,2021-11-27 Arsenal-Newcastle Utd,2021-11-27,Matchweek 13,Sat,Home,W,2,0,Newcastle Utd,45,36,1,3,4,1,0,4,4,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Arsenal,2021-12-02 Manchester Utd-Arsenal,2021-12-02,Matchweek 14,Thu,Away,L,2,3,Manchester Utd,29,18,3,1,5,2,0,4,3,0,0,1,0,0,20:15:00
+ENG-Premier League,2122,Arsenal,2021-12-06 Everton-Arsenal,2021-12-06,Matchweek 15,Mon,Away,L,1,2,Everton,20,16,1,2,0,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Arsenal,2021-12-11 Arsenal-Southampton,2021-12-11,Matchweek 16,Sat,Home,W,3,0,Southampton,24,19,3,0,2,0,0,5,4,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Arsenal,2021-12-15 Arsenal-West Ham,2021-12-15,Matchweek 17,Wed,Home,W,2,0,West Ham,34,27,0,1,3,3,0,4,4,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Arsenal,2021-12-18 Leeds United-Arsenal,2021-12-18,Matchweek 18,Sat,Away,W,4,1,Leeds United,38,31,2,2,2,0,1,7,5,0,1,0,0,1,17:30:00
+ENG-Premier League,2122,Arsenal,2021-12-26 Norwich City-Arsenal,2021-12-26,Matchweek 19,Sun,Away,W,5,0,Norwich City,26,20,2,0,2,2,0,9,7,0,0,1,1,0,15:00:00
+ENG-Premier League,2122,Arsenal,2022-01-01 Arsenal-Manchester City,2022-01-01,Matchweek 21,Sat,Home,L,1,2,Manchester City,10,7,0,3,0,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Arsenal,2022-01-23 Arsenal-Burnley,2022-01-23,Matchweek 23,Sun,Home,D,0,0,Burnley,36,27,2,3,2,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Arsenal,2022-02-10 Wolves-Arsenal,2022-02-10,Matchweek 24,Thu,Away,W,1,0,Wolves,19,16,1,0,2,0,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,2122,Arsenal,2022-02-19 Arsenal-Brentford,2022-02-19,Matchweek 26,Sat,Home,W,2,1,Brentford,36,27,3,1,5,0,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Arsenal,2022-02-24 Arsenal-Wolves,2022-02-24,Matchweek 20,Thu,Home,W,2,1,Wolves,46,39,1,3,2,1,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Arsenal,2022-03-06 Watford-Arsenal,2022-03-06,Matchweek 28,Sun,Away,W,3,2,Watford,31,30,0,1,0,0,0,6,6,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Arsenal,2022-03-13 Arsenal-Leicester City,2022-03-13,Matchweek 29,Sun,Home,W,2,0,Leicester City,37,27,2,1,3,2,2,3,1,1,0,1,0,0,16:30:00
+ENG-Premier League,2122,Arsenal,2022-03-16 Arsenal-Liverpool,2022-03-16,Matchweek 27,Wed,Home,L,0,2,Liverpool,15,11,1,2,1,0,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Arsenal,2022-03-19 Aston Villa-Arsenal,2022-03-19,Matchweek 30,Sat,Away,W,1,0,Aston Villa,20,18,1,0,0,0,1,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Arsenal,2022-04-04 Crystal Palace-Arsenal,2022-04-04,Matchweek 31,Mon,Away,L,0,3,Crystal Palace,20,18,1,0,0,0,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Arsenal,2022-04-09 Arsenal-Brighton,2022-04-09,Matchweek 32,Sat,Home,L,1,2,Brighton,36,27,4,1,2,2,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Arsenal,2022-04-16 Southampton-Arsenal,2022-04-16,Matchweek 33,Sat,Away,L,0,1,Southampton,43,34,3,4,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Arsenal,2022-04-20 Chelsea-Arsenal,2022-04-20,Matchweek 25,Wed,Away,W,4,2,Chelsea,21,15,0,4,1,1,0,4,3,0,0,0,1,0,19:45:00
+ENG-Premier League,2122,Arsenal,2022-04-23 Arsenal-Manchester Utd,2022-04-23,Matchweek 34,Sat,Home,W,3,1,Manchester Utd,24,15,1,1,4,3,0,5,3,0,0,1,1,0,12:30:00
+ENG-Premier League,2122,Arsenal,2022-05-01 West Ham-Arsenal,2022-05-01,Matchweek 35,Sun,Away,W,2,1,West Ham,22,17,2,1,1,0,1,4,1,2,0,1,0,0,16:30:00
+ENG-Premier League,2122,Arsenal,2022-05-08 Arsenal-Leeds United,2022-05-08,Matchweek 36,Sun,Home,W,2,1,Leeds United,34,19,5,5,1,4,0,2,1,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Arsenal,2022-05-12 Tottenham-Arsenal,2022-05-12,Matchweek 22,Thu,Away,L,0,3,Tottenham,18,16,0,1,0,0,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Arsenal,2022-05-16 Newcastle Utd-Arsenal,2022-05-16,Matchweek 37,Mon,Away,L,0,2,Newcastle Utd,17,12,2,1,2,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Arsenal,2022-05-22 Arsenal-Everton,2022-05-22,Matchweek 38,Sun,Home,W,5,1,Everton,43,32,4,3,4,0,0,7,3,2,0,2,0,0,16:00:00
+ENG-Premier League,2122,Aston Villa,2021-08-14 Watford-Aston Villa,2021-08-14,Matchweek 1,Sat,Away,L,2,3,Watford,21,13,1,4,1,2,0,4,2,0,1,0,1,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2021-08-21 Aston Villa-Newcastle Utd,2021-08-21,Matchweek 2,Sat,Home,W,2,0,Newcastle Utd,19,11,5,1,1,1,0,3,1,1,0,1,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2021-08-28 Aston Villa-Brentford,2021-08-28,Matchweek 3,Sat,Home,D,1,1,Brentford,13,9,1,1,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2021-09-11 Chelsea-Aston Villa,2021-09-11,Matchweek 4,Sat,Away,L,0,3,Chelsea,31,17,3,5,4,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Aston Villa,2021-09-18 Aston Villa-Everton,2021-09-18,Matchweek 5,Sat,Home,W,3,0,Everton,27,14,6,2,1,3,1,4,3,1,0,0,0,0,17:30:00
+ENG-Premier League,2122,Aston Villa,2021-09-25 Manchester Utd-Aston Villa,2021-09-25,Matchweek 6,Sat,Away,W,1,0,Manchester Utd,11,6,2,1,1,1,0,1,0,1,0,0,0,0,12:30:00
+ENG-Premier League,2122,Aston Villa,2021-10-03 Tottenham-Aston Villa,2021-10-03,Matchweek 7,Sun,Away,L,1,2,Tottenham,23,17,3,1,2,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Aston Villa,2021-10-16 Aston Villa-Wolves,2021-10-16,Matchweek 8,Sat,Home,L,2,3,Wolves,25,20,2,2,1,0,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2021-10-22 Arsenal-Aston Villa,2021-10-22,Matchweek 9,Fri,Away,L,1,3,Arsenal,19,14,1,1,1,1,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Aston Villa,2021-10-31 Aston Villa-West Ham,2021-10-31,Matchweek 10,Sun,Home,L,1,4,West Ham,16,11,2,1,0,2,0,2,1,0,1,0,0,0,16:30:00
+ENG-Premier League,2122,Aston Villa,2021-11-05 Southampton-Aston Villa,2021-11-05,Matchweek 11,Fri,Away,L,0,1,Southampton,27,23,1,0,0,3,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Aston Villa,2021-11-20 Aston Villa-Brighton,2021-11-20,Matchweek 12,Sat,Home,W,2,0,Brighton,15,11,1,1,1,1,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2021-11-27 Crystal Palace-Aston Villa,2021-11-27,Matchweek 13,Sat,Away,W,2,1,Crystal Palace,19,12,2,1,1,3,0,4,2,1,1,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2021-12-01 Aston Villa-Manchester City,2021-12-01,Matchweek 14,Wed,Home,L,1,2,Manchester City,18,11,5,0,0,2,0,2,1,1,0,0,0,0,20:15:00
+ENG-Premier League,2122,Aston Villa,2021-12-05 Aston Villa-Leicester City,2021-12-05,Matchweek 15,Sun,Home,W,2,1,Leicester City,25,17,3,1,2,1,1,3,0,1,0,2,0,0,16:30:00
+ENG-Premier League,2122,Aston Villa,2021-12-11 Liverpool-Aston Villa,2021-12-11,Matchweek 16,Sat,Away,L,0,1,Liverpool,8,6,1,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2021-12-14 Norwich City-Aston Villa,2021-12-14,Matchweek 17,Tue,Away,W,2,0,Norwich City,31,28,1,1,1,0,0,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Aston Villa,2021-12-26 Aston Villa-Chelsea,2021-12-26,Matchweek 19,Sun,Home,L,1,3,Chelsea,12,12,0,0,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Aston Villa,2022-01-02 Brentford-Aston Villa,2022-01-02,Matchweek 21,Sun,Away,L,1,2,Brentford,31,22,4,1,2,2,0,2,1,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Aston Villa,2022-01-15 Aston Villa-Manchester Utd,2022-01-15,Matchweek 22,Sat,Home,D,2,2,Manchester Utd,23,17,3,1,1,1,0,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Aston Villa,2022-01-22 Everton-Aston Villa,2022-01-22,Matchweek 23,Sat,Away,W,1,0,Everton,15,8,1,2,1,3,0,2,0,1,0,1,0,0,12:30:00
+ENG-Premier League,2122,Aston Villa,2022-02-09 Aston Villa-Leeds United,2022-02-09,Matchweek 24,Wed,Home,D,3,3,Leeds United,21,14,5,1,1,0,0,6,5,0,1,0,0,0,20:00:00
+ENG-Premier League,2122,Aston Villa,2022-02-13 Newcastle Utd-Aston Villa,2022-02-13,Matchweek 25,Sun,Away,L,0,1,Newcastle Utd,20,16,2,0,1,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Aston Villa,2022-02-19 Aston Villa-Watford,2022-02-19,Matchweek 26,Sat,Home,L,0,1,Watford,39,36,0,2,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2022-02-26 Brighton-Aston Villa,2022-02-26,Matchweek 27,Sat,Away,W,2,0,Brighton,16,8,4,1,0,3,0,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2022-03-05 Aston Villa-Southampton,2022-03-05,Matchweek 28,Sat,Home,W,4,0,Southampton,26,20,2,3,0,1,0,8,6,0,2,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2022-03-10 Leeds United-Aston Villa,2022-03-10,Matchweek 20,Thu,Away,W,3,0,Leeds United,28,21,2,2,1,2,0,6,4,0,1,0,1,0,19:45:00
+ENG-Premier League,2122,Aston Villa,2022-03-13 West Ham-Aston Villa,2022-03-13,Matchweek 29,Sun,Away,L,1,2,West Ham,21,13,3,2,3,0,0,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Aston Villa,2022-03-19 Aston Villa-Arsenal,2022-03-19,Matchweek 30,Sat,Home,L,0,1,Arsenal,15,11,1,1,0,2,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Aston Villa,2022-04-02 Wolves-Aston Villa,2022-04-02,Matchweek 31,Sat,Away,L,1,2,Wolves,24,18,2,0,0,4,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2022-04-09 Aston Villa-Tottenham,2022-04-09,Matchweek 32,Sat,Home,L,0,4,Tottenham,34,24,4,1,3,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Aston Villa,2022-04-23 Leicester City-Aston Villa,2022-04-23,Matchweek 34,Sat,Away,D,0,0,Leicester City,21,14,2,2,1,0,2,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2022-04-30 Aston Villa-Norwich City,2022-04-30,Matchweek 35,Sat,Home,W,2,0,Norwich City,36,27,2,2,4,0,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2022-05-07 Burnley-Aston Villa,2022-05-07,Matchweek 36,Sat,Away,W,3,1,Burnley,22,17,1,2,1,1,0,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Aston Villa,2022-05-10 Aston Villa-Liverpool,2022-05-10,Matchweek 33,Tue,Home,L,1,2,Liverpool,17,12,1,3,1,0,0,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Aston Villa,2022-05-15 Aston Villa-Crystal Palace,2022-05-15,Matchweek 37,Sun,Home,D,1,1,Crystal Palace,19,15,1,0,3,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Aston Villa,2022-05-19 Aston Villa-Burnley,2022-05-19,Matchweek 18,Thu,Home,D,1,1,Burnley,43,38,4,0,0,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Aston Villa,2022-05-22 Manchester City-Aston Villa,2022-05-22,Matchweek 38,Sun,Away,L,2,3,Manchester City,6,5,1,0,0,0,0,4,3,1,0,0,0,0,16:00:00
+ENG-Premier League,2122,Brentford,2021-08-13 Brentford-Arsenal,2021-08-13,Matchweek 1,Fri,Home,W,2,0,Arsenal,13,11,1,1,0,0,0,1,1,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Brentford,2021-08-21 Crystal Palace-Brentford,2021-08-21,Matchweek 2,Sat,Away,D,0,0,Crystal Palace,25,15,4,1,2,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2021-08-28 Aston Villa-Brentford,2021-08-28,Matchweek 3,Sat,Away,D,1,1,Aston Villa,17,13,1,2,0,0,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2021-09-11 Brentford-Brighton,2021-09-11,Matchweek 4,Sat,Home,L,0,1,Brighton,14,11,1,1,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2021-09-18 Wolves-Brentford,2021-09-18,Matchweek 5,Sat,Away,W,2,0,Wolves,17,11,2,1,1,1,1,4,2,1,0,0,1,0,12:30:00
+ENG-Premier League,2122,Brentford,2021-09-25 Brentford-Liverpool,2021-09-25,Matchweek 6,Sat,Home,D,3,3,Liverpool,19,15,0,1,3,0,0,4,2,0,0,2,0,0,17:30:00
+ENG-Premier League,2122,Brentford,2021-10-03 West Ham-Brentford,2021-10-03,Matchweek 7,Sun,Away,W,2,1,West Ham,21,12,1,1,4,3,0,2,0,0,0,2,0,0,14:00:00
+ENG-Premier League,2122,Brentford,2021-10-16 Brentford-Chelsea,2021-10-16,Matchweek 8,Sat,Home,L,0,1,Chelsea,25,17,2,2,4,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Brentford,2021-10-24 Brentford-Leicester City,2021-10-24,Matchweek 9,Sun,Home,L,1,2,Leicester City,24,14,5,0,2,2,1,2,0,1,0,0,1,0,14:00:00
+ENG-Premier League,2122,Brentford,2021-10-30 Burnley-Brentford,2021-10-30,Matchweek 10,Sat,Away,L,1,3,Burnley,20,14,1,0,4,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2021-11-06 Brentford-Norwich City,2021-11-06,Matchweek 11,Sat,Home,L,1,2,Norwich City,33,16,10,2,4,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2021-11-20 Newcastle Utd-Brentford,2021-11-20,Matchweek 12,Sat,Away,D,3,3,Newcastle Utd,17,16,0,0,0,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2021-11-28 Brentford-Everton,2021-11-28,Matchweek 13,Sun,Home,W,1,0,Everton,7,1,2,2,0,1,1,2,0,1,0,0,1,0,14:00:00
+ENG-Premier League,2122,Brentford,2021-12-02 Tottenham-Brentford,2021-12-02,Matchweek 14,Thu,Away,L,0,2,Tottenham,10,8,1,1,0,0,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Brentford,2021-12-05 Leeds United-Brentford,2021-12-05,Matchweek 15,Sun,Away,D,2,2,Leeds United,16,13,0,2,0,1,0,4,3,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Brentford,2021-12-10 Brentford-Watford,2021-12-10,Matchweek 16,Fri,Home,W,2,1,Watford,21,15,2,0,1,2,1,3,1,0,0,1,1,0,20:00:00
+ENG-Premier League,2122,Brentford,2021-12-26 Brighton-Brentford,2021-12-26,Matchweek 19,Sun,Away,L,0,2,Brighton,26,18,4,3,1,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Brentford,2021-12-29 Brentford-Manchester City,2021-12-29,Matchweek 20,Wed,Home,L,0,1,Manchester City,8,6,2,0,0,0,0,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Brentford,2022-01-02 Brentford-Aston Villa,2022-01-02,Matchweek 21,Sun,Home,W,2,1,Aston Villa,14,9,3,0,1,0,1,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Brentford,2022-01-11 Southampton-Brentford,2022-01-11,Matchweek 18,Tue,Away,L,1,4,Southampton,8,7,0,0,1,0,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Brentford,2022-01-16 Liverpool-Brentford,2022-01-16,Matchweek 22,Sun,Away,L,0,3,Liverpool,10,7,1,1,0,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Brentford,2022-01-19 Brentford-Manchester Utd,2022-01-19,Matchweek 17,Wed,Home,L,1,3,Manchester Utd,29,17,4,2,4,1,1,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Brentford,2022-01-22 Brentford-Wolves,2022-01-22,Matchweek 23,Sat,Home,L,1,2,Wolves,19,10,6,0,1,2,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-02-09 Manchester City-Brentford,2022-02-09,Matchweek 24,Wed,Away,L,0,2,Manchester City,9,7,1,0,1,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Brentford,2022-02-12 Brentford-Crystal Palace,2022-02-12,Matchweek 25,Sat,Home,D,0,0,Crystal Palace,18,16,1,0,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-02-19 Arsenal-Brentford,2022-02-19,Matchweek 26,Sat,Away,L,1,2,Arsenal,9,3,0,3,1,2,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-02-26 Brentford-Newcastle Utd,2022-02-26,Matchweek 27,Sat,Home,L,0,2,Newcastle Utd,9,4,2,0,1,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-03-05 Norwich City-Brentford,2022-03-05,Matchweek 28,Sat,Away,W,3,1,Norwich City,18,8,5,2,0,3,0,6,2,2,0,0,2,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-03-12 Brentford-Burnley,2022-03-12,Matchweek 29,Sat,Home,W,2,0,Burnley,23,18,1,0,2,1,1,4,3,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-03-20 Leicester City-Brentford,2022-03-20,Matchweek 30,Sun,Away,L,1,2,Leicester City,25,18,2,0,5,0,0,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Brentford,2022-04-02 Chelsea-Brentford,2022-04-02,Matchweek 31,Sat,Away,W,4,1,Chelsea,28,17,4,0,4,2,1,7,6,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-04-10 Brentford-West Ham,2022-04-10,Matchweek 32,Sun,Home,W,2,0,West Ham,28,24,1,0,2,1,0,4,3,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,Brentford,2022-04-16 Watford-Brentford,2022-04-16,Matchweek 33,Sat,Away,W,2,1,Watford,26,15,6,0,3,2,0,4,1,2,0,0,1,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-04-23 Brentford-Tottenham,2022-04-23,Matchweek 34,Sat,Home,D,0,0,Tottenham,26,13,6,0,5,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Brentford,2022-05-02 Manchester Utd-Brentford,2022-05-02,Matchweek 35,Mon,Away,L,0,3,Manchester Utd,20,17,1,0,0,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Brentford,2022-05-07 Brentford-Southampton,2022-05-07,Matchweek 36,Sat,Home,W,3,0,Southampton,32,19,4,4,3,2,0,6,3,0,3,0,0,0,15:00:00
+ENG-Premier League,2122,Brentford,2022-05-15 Everton-Brentford,2022-05-15,Matchweek 37,Sun,Away,W,3,2,Everton,31,23,2,2,1,2,1,4,3,1,0,0,0,0,16:30:00
+ENG-Premier League,2122,Brentford,2022-05-22 Brentford-Leeds United,2022-05-22,Matchweek 38,Sun,Home,L,1,2,Leeds United,24,9,7,3,1,3,1,1,1,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,Brighton,2021-08-14 Burnley-Brighton,2021-08-14,Matchweek 1,Sat,Away,W,2,1,Burnley,23,15,3,1,3,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2021-08-21 Brighton-Watford,2021-08-21,Matchweek 2,Sat,Home,W,2,0,Watford,23,17,3,1,1,0,1,4,2,1,0,0,0,1,17:30:00
+ENG-Premier League,2122,Brighton,2021-08-28 Brighton-Everton,2021-08-28,Matchweek 3,Sat,Home,L,0,2,Everton,27,20,2,3,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2021-09-11 Brentford-Brighton,2021-09-11,Matchweek 4,Sat,Away,W,1,0,Brentford,8,8,0,0,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2021-09-19 Brighton-Leicester City,2021-09-19,Matchweek 5,Sun,Home,W,2,1,Leicester City,23,10,4,2,2,4,1,3,0,1,0,1,1,0,14:00:00
+ENG-Premier League,2122,Brighton,2021-09-27 Crystal Palace-Brighton,2021-09-27,Matchweek 6,Mon,Away,D,1,1,Crystal Palace,11,6,2,1,1,1,0,1,1,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Brighton,2021-10-02 Brighton-Arsenal,2021-10-02,Matchweek 7,Sat,Home,D,0,0,Arsenal,40,32,5,1,2,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Brighton,2021-10-16 Norwich City-Brighton,2021-10-16,Matchweek 8,Sat,Away,D,0,0,Norwich City,20,14,3,2,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2021-10-23 Brighton-Manchester City,2021-10-23,Matchweek 9,Sat,Home,L,1,4,Manchester City,16,13,0,1,0,1,1,2,1,0,0,0,1,0,17:30:00
+ENG-Premier League,2122,Brighton,2021-10-30 Liverpool-Brighton,2021-10-30,Matchweek 10,Sat,Away,D,2,2,Liverpool,17,14,1,1,0,0,1,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2021-11-06 Brighton-Newcastle Utd,2021-11-06,Matchweek 11,Sat,Home,D,1,1,Newcastle Utd,25,21,1,1,1,1,0,1,0,0,0,0,1,0,17:30:00
+ENG-Premier League,2122,Brighton,2021-11-20 Aston Villa-Brighton,2021-11-20,Matchweek 12,Sat,Away,L,0,2,Aston Villa,11,9,0,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2021-11-27 Brighton-Leeds United,2021-11-27,Matchweek 13,Sat,Home,D,0,0,Leeds United,36,28,2,3,1,1,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Brighton,2021-12-01 West Ham-Brighton,2021-12-01,Matchweek 14,Wed,Away,D,1,1,West Ham,17,13,2,0,1,1,0,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Brighton,2021-12-04 Southampton-Brighton,2021-12-04,Matchweek 15,Sat,Away,D,1,1,Southampton,22,13,3,0,5,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2021-12-15 Brighton-Wolves,2021-12-15,Matchweek 17,Wed,Home,L,0,1,Wolves,22,13,3,0,2,4,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Brighton,2021-12-26 Brighton-Brentford,2021-12-26,Matchweek 19,Sun,Home,W,2,0,Brentford,26,19,1,2,0,3,1,4,4,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Brighton,2021-12-29 Chelsea-Brighton,2021-12-29,Matchweek 20,Wed,Away,D,1,1,Chelsea,33,24,1,4,1,2,1,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Brighton,2022-01-02 Everton-Brighton,2022-01-02,Matchweek 21,Sun,Away,W,3,2,Everton,20,17,2,1,0,0,0,6,5,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,Brighton,2022-01-14 Brighton-Crystal Palace,2022-01-14,Matchweek 22,Fri,Home,D,1,1,Crystal Palace,34,22,6,2,2,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Brighton,2022-01-18 Brighton-Chelsea,2022-01-18,Matchweek 24,Tue,Home,D,1,1,Chelsea,19,15,1,0,3,0,0,2,0,1,0,1,0,0,20:00:00
+ENG-Premier League,2122,Brighton,2022-01-23 Leicester City-Brighton,2022-01-23,Matchweek 23,Sun,Away,D,1,1,Leicester City,27,23,1,2,1,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Brighton,2022-02-12 Watford-Brighton,2022-02-12,Matchweek 25,Sat,Away,W,2,0,Watford,18,11,3,0,3,1,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2022-02-15 Manchester Utd-Brighton,2022-02-15,Matchweek 18,Tue,Away,L,0,2,Manchester Utd,17,15,0,0,1,0,1,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Brighton,2022-02-19 Brighton-Burnley,2022-02-19,Matchweek 26,Sat,Home,L,0,3,Burnley,20,14,3,0,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2022-02-26 Brighton-Aston Villa,2022-02-26,Matchweek 27,Sat,Home,L,0,2,Aston Villa,21,17,1,1,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2022-03-05 Newcastle Utd-Brighton,2022-03-05,Matchweek 28,Sat,Away,L,1,2,Newcastle Utd,25,9,6,3,4,3,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2022-03-12 Brighton-Liverpool,2022-03-12,Matchweek 29,Sat,Home,L,0,2,Liverpool,16,15,0,1,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Brighton,2022-03-16 Brighton-Tottenham,2022-03-16,Matchweek 16,Wed,Home,L,0,2,Tottenham,26,16,3,1,4,1,1,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Brighton,2022-04-02 Brighton-Norwich City,2022-04-02,Matchweek 31,Sat,Home,D,0,0,Norwich City,54,38,4,4,6,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2022-04-09 Arsenal-Brighton,2022-04-09,Matchweek 32,Sat,Away,W,2,1,Arsenal,15,12,1,1,0,0,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Brighton,2022-04-16 Tottenham-Brighton,2022-04-16,Matchweek 33,Sat,Away,W,1,0,Tottenham,23,16,4,0,2,1,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Brighton,2022-04-20 Manchester City-Brighton,2022-04-20,Matchweek 30,Wed,Away,L,0,3,Manchester City,4,2,1,0,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Brighton,2022-04-24 Brighton-Southampton,2022-04-24,Matchweek 34,Sun,Home,D,2,2,Southampton,15,10,3,1,1,0,0,2,1,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,Brighton,2022-04-30 Wolves-Brighton,2022-04-30,Matchweek 35,Sat,Away,W,3,0,Wolves,30,23,3,3,0,1,0,6,2,1,2,0,1,0,15:00:00
+ENG-Premier League,2122,Brighton,2022-05-07 Brighton-Manchester Utd,2022-05-07,Matchweek 36,Sat,Home,W,4,0,Manchester Utd,27,19,1,1,3,2,1,6,3,0,1,2,0,0,17:30:00
+ENG-Premier League,2122,Brighton,2022-05-15 Leeds United-Brighton,2022-05-15,Matchweek 37,Sun,Away,D,1,1,Leeds United,25,19,2,2,1,1,0,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Brighton,2022-05-22 Brighton-West Ham,2022-05-22,Matchweek 38,Sun,Home,W,3,1,West Ham,34,28,3,2,0,1,0,6,5,1,0,0,0,0,16:00:00
+ENG-Premier League,2122,Burnley,2021-08-14 Burnley-Brighton,2021-08-14,Matchweek 1,Sat,Home,L,1,2,Brighton,23,19,2,0,1,1,0,2,0,2,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-08-21 Liverpool-Burnley,2021-08-21,Matchweek 2,Sat,Away,L,0,2,Liverpool,15,9,3,0,2,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Burnley,2021-08-29 Burnley-Leeds United,2021-08-29,Matchweek 3,Sun,Home,D,1,1,Leeds United,19,9,2,2,6,0,0,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Burnley,2021-09-13 Everton-Burnley,2021-09-13,Matchweek 4,Mon,Away,L,1,3,Everton,19,15,1,1,1,1,0,2,1,0,0,0,1,0,20:00:00
+ENG-Premier League,2122,Burnley,2021-09-18 Burnley-Arsenal,2021-09-18,Matchweek 5,Sat,Home,L,0,1,Arsenal,34,27,2,0,3,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-09-25 Leicester City-Burnley,2021-09-25,Matchweek 6,Sat,Away,D,2,2,Leicester City,12,10,1,0,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-10-02 Burnley-Norwich City,2021-10-02,Matchweek 7,Sat,Home,D,0,0,Norwich City,27,23,1,0,0,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-10-16 Manchester City-Burnley,2021-10-16,Matchweek 8,Sat,Away,L,0,2,Manchester City,8,6,1,0,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-10-23 Southampton-Burnley,2021-10-23,Matchweek 9,Sat,Away,D,2,2,Southampton,15,13,1,0,0,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-10-30 Burnley-Brentford,2021-10-30,Matchweek 10,Sat,Home,W,3,1,Brentford,25,19,1,0,3,2,0,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-11-06 Chelsea-Burnley,2021-11-06,Matchweek 11,Sat,Away,D,1,1,Chelsea,8,6,1,0,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-11-20 Burnley-Crystal Palace,2021-11-20,Matchweek 12,Sat,Home,D,3,3,Crystal Palace,27,16,4,2,1,4,0,6,4,2,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-12-01 Wolves-Burnley,2021-12-01,Matchweek 14,Wed,Away,D,0,0,Wolves,10,9,1,0,0,0,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Burnley,2021-12-04 Newcastle Utd-Burnley,2021-12-04,Matchweek 15,Sat,Away,L,0,1,Newcastle Utd,18,13,1,1,0,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2021-12-12 Burnley-West Ham,2021-12-12,Matchweek 16,Sun,Home,D,0,0,West Ham,15,11,2,0,1,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Burnley,2021-12-30 Manchester Utd-Burnley,2021-12-30,Matchweek 20,Thu,Away,L,1,3,Manchester Utd,16,7,4,1,1,2,1,2,1,0,1,0,0,0,20:15:00
+ENG-Premier League,2122,Burnley,2022-01-02 Leeds United-Burnley,2022-01-02,Matchweek 21,Sun,Away,L,1,3,Leeds United,13,9,1,1,0,1,1,2,1,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Burnley,2022-01-23 Arsenal-Burnley,2022-01-23,Matchweek 23,Sun,Away,D,0,0,Arsenal,17,11,3,1,1,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Burnley,2022-02-05 Burnley-Watford,2022-02-05,Matchweek 17,Sat,Home,D,0,0,Watford,19,14,0,2,1,1,1,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,2122,Burnley,2022-02-08 Burnley-Manchester Utd,2022-02-08,Matchweek 24,Tue,Home,D,1,1,Manchester Utd,15,8,2,1,2,2,0,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,2122,Burnley,2022-02-13 Burnley-Liverpool,2022-02-13,Matchweek 25,Sun,Home,L,0,1,Liverpool,14,11,1,1,0,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Burnley,2022-02-19 Brighton-Burnley,2022-02-19,Matchweek 26,Sat,Away,W,3,0,Brighton,17,12,3,0,0,1,1,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2022-02-23 Burnley-Tottenham,2022-02-23,Matchweek 13,Wed,Home,W,1,0,Tottenham,26,13,4,3,2,4,0,2,0,1,0,0,1,0,19:30:00
+ENG-Premier League,2122,Burnley,2022-02-26 Crystal Palace-Burnley,2022-02-26,Matchweek 27,Sat,Away,D,1,1,Crystal Palace,6,2,2,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2022-03-01 Burnley-Leicester City,2022-03-01,Matchweek 22,Tue,Home,L,0,2,Leicester City,13,8,2,0,1,1,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Burnley,2022-03-05 Burnley-Chelsea,2022-03-05,Matchweek 28,Sat,Home,L,0,4,Chelsea,10,5,1,1,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2022-03-12 Brentford-Burnley,2022-03-12,Matchweek 29,Sat,Away,L,0,2,Brentford,10,8,1,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2022-04-02 Burnley-Manchester City,2022-04-02,Matchweek 31,Sat,Home,L,0,2,Manchester City,5,3,1,0,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2022-04-06 Burnley-Everton,2022-04-06,Matchweek 19,Wed,Home,W,3,2,Everton,20,11,3,4,1,1,0,6,2,2,2,0,0,0,19:30:00
+ENG-Premier League,2122,Burnley,2022-04-10 Norwich City-Burnley,2022-04-10,Matchweek 32,Sun,Away,L,0,2,Norwich City,29,23,0,1,3,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Burnley,2022-04-17 West Ham-Burnley,2022-04-17,Matchweek 33,Sun,Away,D,1,1,West Ham,15,8,3,0,2,2,0,1,0,0,0,1,0,0,14:15:00
+ENG-Premier League,2122,Burnley,2022-04-21 Burnley-Southampton,2022-04-21,Matchweek 30,Thu,Home,W,2,0,Southampton,26,17,4,1,4,0,0,4,3,1,0,0,0,0,19:45:00
+ENG-Premier League,2122,Burnley,2022-04-24 Burnley-Wolves,2022-04-24,Matchweek 34,Sun,Home,W,1,0,Wolves,26,21,1,1,3,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Burnley,2022-04-30 Watford-Burnley,2022-04-30,Matchweek 35,Sat,Away,W,2,1,Watford,23,15,3,0,3,2,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2022-05-07 Burnley-Aston Villa,2022-05-07,Matchweek 36,Sat,Home,L,1,3,Aston Villa,25,14,6,2,0,2,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Burnley,2022-05-15 Tottenham-Burnley,2022-05-15,Matchweek 37,Sun,Away,L,0,1,Tottenham,16,9,4,0,0,3,0,0,0,0,0,0,0,0,12:00:00
+ENG-Premier League,2122,Burnley,2022-05-19 Aston Villa-Burnley,2022-05-19,Matchweek 18,Thu,Away,D,1,1,Aston Villa,18,8,5,0,3,2,0,2,0,1,0,0,1,0,20:00:00
+ENG-Premier League,2122,Burnley,2022-05-22 Burnley-Newcastle Utd,2022-05-22,Matchweek 38,Sun,Home,L,1,2,Newcastle Utd,20,13,3,2,1,1,0,1,0,0,0,1,0,0,16:00:00
+ENG-Premier League,2122,Chelsea,2021-08-14 Chelsea-Crystal Palace,2021-08-14,Matchweek 1,Sat,Home,W,3,0,Crystal Palace,26,19,1,0,2,4,0,6,5,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Chelsea,2021-08-22 Arsenal-Chelsea,2021-08-22,Matchweek 2,Sun,Away,W,2,0,Arsenal,42,37,1,1,2,1,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Chelsea,2021-08-28 Liverpool-Chelsea,2021-08-28,Matchweek 3,Sat,Away,D,1,1,Liverpool,12,10,1,1,0,0,0,2,1,1,0,0,0,0,17:30:00
+ENG-Premier League,2122,Chelsea,2021-09-11 Chelsea-Aston Villa,2021-09-11,Matchweek 4,Sat,Home,W,3,0,Aston Villa,20,15,0,3,2,0,0,4,2,0,2,0,0,0,17:30:00
+ENG-Premier League,2122,Chelsea,2021-09-19 Tottenham-Chelsea,2021-09-19,Matchweek 5,Sun,Away,W,3,0,Tottenham,39,32,2,2,2,0,1,6,4,1,0,0,0,1,16:30:00
+ENG-Premier League,2122,Chelsea,2021-09-25 Chelsea-Manchester City,2021-09-25,Matchweek 6,Sat,Home,L,0,1,Manchester City,9,8,0,0,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Chelsea,2021-10-02 Chelsea-Southampton,2021-10-02,Matchweek 7,Sat,Home,W,3,1,Southampton,35,25,2,3,4,0,1,4,2,0,0,2,0,0,15:00:00
+ENG-Premier League,2122,Chelsea,2021-10-16 Brentford-Chelsea,2021-10-16,Matchweek 8,Sat,Away,W,1,0,Brentford,9,7,0,0,0,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Chelsea,2021-10-23 Chelsea-Norwich City,2021-10-23,Matchweek 9,Sat,Home,W,7,0,Norwich City,43,35,3,2,3,0,0,11,10,0,0,1,0,0,12:30:00
+ENG-Premier League,2122,Chelsea,2021-10-30 Newcastle Utd-Chelsea,2021-10-30,Matchweek 10,Sat,Away,W,3,0,Newcastle Utd,36,30,1,1,2,2,0,5,2,0,1,1,1,0,15:00:00
+ENG-Premier League,2122,Chelsea,2021-11-06 Chelsea-Burnley,2021-11-06,Matchweek 11,Sat,Home,D,1,1,Burnley,45,31,6,3,5,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Chelsea,2021-11-20 Leicester City-Chelsea,2021-11-20,Matchweek 12,Sat,Away,W,3,0,Leicester City,29,20,2,2,2,3,0,6,4,1,1,0,0,0,12:30:00
+ENG-Premier League,2122,Chelsea,2021-11-28 Chelsea-Manchester Utd,2021-11-28,Matchweek 13,Sun,Home,D,1,1,Manchester Utd,40,31,3,1,2,2,1,2,0,1,0,0,1,0,16:30:00
+ENG-Premier League,2122,Chelsea,2021-12-01 Watford-Chelsea,2021-12-01,Matchweek 14,Wed,Away,W,2,1,Watford,11,9,0,0,1,1,0,4,4,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Chelsea,2021-12-04 West Ham-Chelsea,2021-12-04,Matchweek 15,Sat,Away,L,2,3,West Ham,35,28,3,1,2,1,0,4,2,2,0,0,0,0,12:30:00
+ENG-Premier League,2122,Chelsea,2021-12-11 Chelsea-Leeds United,2021-12-11,Matchweek 16,Sat,Home,W,3,2,Leeds United,27,17,2,2,2,4,0,6,4,0,0,0,2,0,15:00:00
+ENG-Premier League,2122,Chelsea,2021-12-16 Chelsea-Everton,2021-12-16,Matchweek 17,Thu,Home,D,1,1,Everton,42,25,6,1,5,5,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Chelsea,2021-12-19 Wolves-Chelsea,2021-12-19,Matchweek 18,Sun,Away,D,0,0,Wolves,16,12,2,1,0,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Chelsea,2021-12-26 Aston Villa-Chelsea,2021-12-26,Matchweek 19,Sun,Away,W,3,1,Aston Villa,20,14,0,3,0,3,0,6,3,0,1,0,2,0,17:30:00
+ENG-Premier League,2122,Chelsea,2021-12-29 Chelsea-Brighton,2021-12-29,Matchweek 20,Wed,Home,D,1,1,Brighton,19,12,2,1,3,0,1,2,0,1,0,1,0,0,19:30:00
+ENG-Premier League,2122,Chelsea,2022-01-02 Chelsea-Liverpool,2022-01-02,Matchweek 21,Sun,Home,D,2,2,Liverpool,27,16,1,3,4,3,0,3,2,0,0,1,0,0,16:30:00
+ENG-Premier League,2122,Chelsea,2022-01-15 Manchester City-Chelsea,2022-01-15,Matchweek 22,Sat,Away,L,0,1,Manchester City,7,5,0,1,1,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Chelsea,2022-01-18 Brighton-Chelsea,2022-01-18,Matchweek 24,Tue,Away,D,1,1,Brighton,26,23,0,1,1,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Chelsea,2022-01-23 Chelsea-Tottenham,2022-01-23,Matchweek 23,Sun,Home,W,2,0,Tottenham,29,22,4,1,1,1,0,4,1,1,1,0,1,0,16:30:00
+ENG-Premier League,2122,Chelsea,2022-02-19 Crystal Palace-Chelsea,2022-02-19,Matchweek 26,Sat,Away,W,1,0,Crystal Palace,17,15,0,0,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Chelsea,2022-03-05 Burnley-Chelsea,2022-03-05,Matchweek 28,Sat,Away,W,4,0,Burnley,22,20,0,0,1,0,1,8,8,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Chelsea,2022-03-10 Norwich City-Chelsea,2022-03-10,Matchweek 30,Thu,Away,W,3,1,Norwich City,29,22,3,2,1,1,0,6,4,1,1,0,0,0,19:30:00
+ENG-Premier League,2122,Chelsea,2022-03-13 Chelsea-Newcastle Utd,2022-03-13,Matchweek 29,Sun,Home,W,1,0,Newcastle Utd,15,11,2,0,0,1,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Chelsea,2022-04-02 Chelsea-Brentford,2022-04-02,Matchweek 31,Sat,Home,L,1,4,Brentford,34,27,3,1,2,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Chelsea,2022-04-09 Southampton-Chelsea,2022-04-09,Matchweek 32,Sat,Away,W,6,0,Southampton,41,31,1,3,4,1,1,7,4,0,0,3,0,0,15:00:00
+ENG-Premier League,2122,Chelsea,2022-04-20 Chelsea-Arsenal,2022-04-20,Matchweek 25,Wed,Home,L,2,4,Arsenal,20,18,1,0,0,0,1,3,2,0,0,0,0,1,19:45:00
+ENG-Premier League,2122,Chelsea,2022-04-24 Chelsea-West Ham,2022-04-24,Matchweek 34,Sun,Home,W,1,0,West Ham,49,43,0,2,2,1,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Chelsea,2022-04-28 Manchester Utd-Chelsea,2022-04-28,Matchweek 37,Thu,Away,D,1,1,Manchester Utd,38,30,2,0,5,1,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,2122,Chelsea,2022-05-01 Everton-Chelsea,2022-05-01,Matchweek 35,Sun,Away,L,0,1,Everton,30,19,4,2,4,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Chelsea,2022-05-07 Chelsea-Wolves,2022-05-07,Matchweek 36,Sat,Home,D,2,2,Wolves,29,19,2,0,4,3,1,3,2,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Chelsea,2022-05-11 Leeds United-Chelsea,2022-05-11,Matchweek 33,Wed,Away,W,3,0,Leeds United,31,27,0,2,0,1,1,6,5,0,1,0,0,0,19:30:00
+ENG-Premier League,2122,Chelsea,2022-05-19 Chelsea-Leicester City,2022-05-19,Matchweek 27,Thu,Home,D,1,1,Leicester City,35,26,2,2,2,2,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Chelsea,2022-05-22 Chelsea-Watford,2022-05-22,Matchweek 38,Sun,Home,W,2,1,Watford,30,27,0,0,3,0,0,4,4,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,Crystal Palace,2021-08-14 Chelsea-Crystal Palace,2021-08-14,Matchweek 1,Sat,Away,L,0,3,Chelsea,8,7,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-08-21 Crystal Palace-Brentford,2021-08-21,Matchweek 2,Sat,Home,D,0,0,Brentford,13,8,2,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-08-28 West Ham-Crystal Palace,2021-08-28,Matchweek 3,Sat,Away,D,2,2,West Ham,18,13,3,1,0,1,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-09-11 Crystal Palace-Tottenham,2021-09-11,Matchweek 4,Sat,Home,W,3,0,Tottenham,32,20,2,3,4,2,1,5,4,0,1,0,0,0,12:30:00
+ENG-Premier League,2122,Crystal Palace,2021-09-18 Liverpool-Crystal Palace,2021-09-18,Matchweek 5,Sat,Away,L,0,3,Liverpool,24,14,4,1,1,2,2,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-09-27 Crystal Palace-Brighton,2021-09-27,Matchweek 6,Mon,Home,D,1,1,Brighton,13,11,0,0,0,2,0,2,1,0,0,0,1,0,20:00:00
+ENG-Premier League,2122,Crystal Palace,2021-10-03 Crystal Palace-Leicester City,2021-10-03,Matchweek 7,Sun,Home,D,2,2,Leicester City,29,18,2,3,5,1,0,2,0,0,0,2,0,0,14:00:00
+ENG-Premier League,2122,Crystal Palace,2021-10-18 Arsenal-Crystal Palace,2021-10-18,Matchweek 8,Mon,Away,D,2,2,Arsenal,12,11,0,0,0,0,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Crystal Palace,2021-10-23 Crystal Palace-Newcastle Utd,2021-10-23,Matchweek 9,Sat,Home,D,1,1,Newcastle Utd,26,21,1,1,3,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-10-30 Manchester City-Crystal Palace,2021-10-30,Matchweek 10,Sat,Away,W,2,0,Manchester City,14,10,2,0,1,1,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-11-06 Crystal Palace-Wolves,2021-11-06,Matchweek 11,Sat,Home,W,2,0,Wolves,25,13,4,4,2,2,0,3,2,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-11-20 Burnley-Crystal Palace,2021-11-20,Matchweek 12,Sat,Away,D,3,3,Burnley,30,22,2,1,4,1,0,5,3,0,1,1,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-11-27 Crystal Palace-Aston Villa,2021-11-27,Matchweek 13,Sat,Home,L,1,2,Aston Villa,14,12,1,0,0,1,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-11-30 Leeds United-Crystal Palace,2021-11-30,Matchweek 14,Tue,Away,L,0,1,Leeds United,17,10,0,3,2,1,1,0,0,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Crystal Palace,2021-12-05 Manchester Utd-Crystal Palace,2021-12-05,Matchweek 15,Sun,Away,L,0,1,Manchester Utd,14,8,4,0,0,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Crystal Palace,2021-12-12 Crystal Palace-Everton,2021-12-12,Matchweek 16,Sun,Home,W,3,1,Everton,30,20,4,2,3,1,0,3,2,1,0,0,0,0,16:30:00
+ENG-Premier League,2122,Crystal Palace,2021-12-15 Crystal Palace-Southampton,2021-12-15,Matchweek 17,Wed,Home,D,2,2,Southampton,15,11,0,0,2,1,1,3,1,0,0,1,0,1,19:30:00
+ENG-Premier League,2122,Crystal Palace,2021-12-26 Tottenham-Crystal Palace,2021-12-26,Matchweek 19,Sun,Away,L,0,3,Tottenham,5,2,1,0,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2021-12-28 Crystal Palace-Norwich City,2021-12-28,Matchweek 20,Tue,Home,W,3,0,Norwich City,32,16,5,2,4,4,1,6,4,0,1,0,1,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2022-01-01 Crystal Palace-West Ham,2022-01-01,Matchweek 21,Sat,Home,L,2,3,West Ham,40,37,0,0,1,2,0,4,3,0,0,0,1,0,17:30:00
+ENG-Premier League,2122,Crystal Palace,2022-01-14 Brighton-Crystal Palace,2022-01-14,Matchweek 22,Fri,Away,D,1,1,Brighton,6,6,0,0,0,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Crystal Palace,2022-01-23 Crystal Palace-Liverpool,2022-01-23,Matchweek 23,Sun,Home,L,1,3,Liverpool,12,11,0,0,0,0,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Crystal Palace,2022-02-09 Norwich City-Crystal Palace,2022-02-09,Matchweek 24,Wed,Away,D,1,1,Norwich City,19,15,1,0,1,2,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Crystal Palace,2022-02-12 Brentford-Crystal Palace,2022-02-12,Matchweek 25,Sat,Away,D,0,0,Brentford,10,9,0,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2022-02-19 Crystal Palace-Chelsea,2022-02-19,Matchweek 26,Sat,Home,L,0,1,Chelsea,12,8,1,2,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2022-02-23 Watford-Crystal Palace,2022-02-23,Matchweek 18,Wed,Away,W,4,1,Watford,14,13,0,1,0,0,0,8,7,0,1,0,0,0,19:30:00
+ENG-Premier League,2122,Crystal Palace,2022-02-26 Crystal Palace-Burnley,2022-02-26,Matchweek 27,Sat,Home,D,1,1,Burnley,20,14,1,2,0,2,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2022-03-05 Wolves-Crystal Palace,2022-03-05,Matchweek 28,Sat,Away,W,2,0,Wolves,20,13,1,3,1,1,1,3,0,0,1,1,1,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2022-03-14 Crystal Palace-Manchester City,2022-03-14,Matchweek 29,Mon,Home,D,0,0,Manchester City,9,8,0,1,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Crystal Palace,2022-04-04 Crystal Palace-Arsenal,2022-04-04,Matchweek 31,Mon,Home,W,3,0,Arsenal,12,6,1,2,0,3,0,6,2,1,1,0,2,0,20:00:00
+ENG-Premier League,2122,Crystal Palace,2022-04-10 Leicester City-Crystal Palace,2022-04-10,Matchweek 32,Sun,Away,L,1,2,Leicester City,21,15,2,2,1,1,0,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Crystal Palace,2022-04-20 Newcastle Utd-Crystal Palace,2022-04-20,Matchweek 30,Wed,Away,L,0,1,Newcastle Utd,17,14,3,0,0,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Crystal Palace,2022-04-25 Crystal Palace-Leeds United,2022-04-25,Matchweek 34,Mon,Home,D,0,0,Leeds United,32,21,2,2,3,2,2,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Crystal Palace,2022-04-30 Southampton-Crystal Palace,2022-04-30,Matchweek 35,Sat,Away,W,2,1,Southampton,23,16,3,1,3,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2022-05-07 Crystal Palace-Watford,2022-05-07,Matchweek 36,Sat,Home,W,1,0,Watford,25,19,1,2,1,2,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Crystal Palace,2022-05-15 Aston Villa-Crystal Palace,2022-05-15,Matchweek 37,Sun,Away,D,1,1,Aston Villa,28,17,5,2,2,0,2,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Crystal Palace,2022-05-19 Everton-Crystal Palace,2022-05-19,Matchweek 33,Thu,Away,L,2,3,Everton,10,4,2,1,1,1,1,3,0,1,0,1,1,0,19:45:00
+ENG-Premier League,2122,Crystal Palace,2022-05-22 Crystal Palace-Manchester Utd,2022-05-22,Matchweek 38,Sun,Home,W,1,0,Manchester Utd,10,7,2,0,0,1,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,Everton,2021-08-14 Everton-Southampton,2021-08-14,Matchweek 1,Sat,Home,W,3,1,Southampton,26,24,0,0,1,1,0,5,5,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Everton,2021-08-21 Leeds United-Everton,2021-08-21,Matchweek 2,Sat,Away,D,2,2,Leeds United,27,20,4,0,2,1,0,3,2,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Everton,2021-08-28 Brighton-Everton,2021-08-28,Matchweek 3,Sat,Away,W,2,0,Brighton,22,18,1,0,1,1,1,4,3,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Everton,2021-09-13 Everton-Burnley,2021-09-13,Matchweek 4,Mon,Home,W,3,1,Burnley,23,17,3,1,0,2,0,6,6,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Everton,2021-09-18 Aston Villa-Everton,2021-09-18,Matchweek 5,Sat,Away,L,0,3,Aston Villa,21,13,3,2,1,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Everton,2021-09-25 Everton-Norwich City,2021-09-25,Matchweek 6,Sat,Home,W,2,0,Norwich City,19,13,1,1,2,2,0,3,1,0,1,0,1,0,15:00:00
+ENG-Premier League,2122,Everton,2021-10-02 Manchester Utd-Everton,2021-10-02,Matchweek 7,Sat,Away,D,1,1,Manchester Utd,23,16,2,2,1,2,0,2,1,0,1,0,0,0,12:30:00
+ENG-Premier League,2122,Everton,2021-10-17 Everton-West Ham,2021-10-17,Matchweek 8,Sun,Home,L,0,1,West Ham,25,21,2,0,2,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2021-10-23 Everton-Watford,2021-10-23,Matchweek 9,Sat,Home,L,2,5,Watford,30,22,2,3,1,2,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Everton,2021-11-01 Wolves-Everton,2021-11-01,Matchweek 10,Mon,Away,L,1,2,Wolves,24,17,3,0,3,1,0,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Everton,2021-11-07 Everton-Tottenham,2021-11-07,Matchweek 11,Sun,Home,D,0,0,Tottenham,18,13,2,1,1,0,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2021-11-21 Manchester City-Everton,2021-11-21,Matchweek 12,Sun,Away,L,0,3,Manchester City,7,6,0,0,0,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2021-11-28 Brentford-Everton,2021-11-28,Matchweek 13,Sun,Away,L,0,1,Brentford,25,19,1,3,1,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2021-12-01 Everton-Liverpool,2021-12-01,Matchweek 14,Wed,Home,L,1,4,Liverpool,12,9,0,2,0,1,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Everton,2021-12-06 Everton-Arsenal,2021-12-06,Matchweek 15,Mon,Home,W,2,1,Arsenal,17,11,2,1,2,0,1,3,1,0,1,1,0,0,20:00:00
+ENG-Premier League,2122,Everton,2021-12-12 Crystal Palace-Everton,2021-12-12,Matchweek 16,Sun,Away,L,1,3,Crystal Palace,20,15,0,3,1,1,0,1,0,0,0,1,0,0,16:30:00
+ENG-Premier League,2122,Everton,2021-12-16 Chelsea-Everton,2021-12-16,Matchweek 17,Thu,Away,D,1,1,Chelsea,8,6,1,0,0,1,0,2,0,1,0,0,1,0,19:45:00
+ENG-Premier League,2122,Everton,2022-01-02 Everton-Brighton,2022-01-02,Matchweek 21,Sun,Home,L,2,3,Brighton,31,21,2,4,2,2,0,4,4,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2022-01-15 Norwich City-Everton,2022-01-15,Matchweek 22,Sat,Away,L,1,2,Norwich City,24,17,3,2,0,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Everton,2022-01-22 Everton-Aston Villa,2022-01-22,Matchweek 23,Sat,Home,L,0,1,Aston Villa,24,13,5,0,4,2,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Everton,2022-02-08 Newcastle Utd-Everton,2022-02-08,Matchweek 24,Tue,Away,L,1,3,Newcastle Utd,20,13,2,1,2,2,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Everton,2022-02-12 Everton-Leeds United,2022-02-12,Matchweek 25,Sat,Home,W,3,0,Leeds United,35,26,2,3,3,0,1,2,0,1,0,1,0,0,15:00:00
+ENG-Premier League,2122,Everton,2022-02-19 Southampton-Everton,2022-02-19,Matchweek 26,Sat,Away,L,0,2,Southampton,11,8,0,1,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Everton,2022-02-26 Everton-Manchester City,2022-02-26,Matchweek 27,Sat,Home,L,0,1,Manchester City,11,9,0,0,0,1,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Everton,2022-03-07 Tottenham-Everton,2022-03-07,Matchweek 28,Mon,Away,L,0,5,Tottenham,12,10,0,1,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Everton,2022-03-13 Everton-Wolves,2022-03-13,Matchweek 29,Sun,Home,L,0,1,Wolves,12,9,1,0,1,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2022-03-17 Everton-Newcastle Utd,2022-03-17,Matchweek 20,Thu,Home,W,1,0,Newcastle Utd,17,9,3,1,2,2,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Everton,2022-04-03 West Ham-Everton,2022-04-03,Matchweek 31,Sun,Away,L,1,2,West Ham,24,21,1,0,0,1,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2022-04-06 Burnley-Everton,2022-04-06,Matchweek 19,Wed,Away,L,2,3,Burnley,25,18,2,1,2,2,0,4,2,0,0,0,2,0,19:30:00
+ENG-Premier League,2122,Everton,2022-04-09 Everton-Manchester Utd,2022-04-09,Matchweek 32,Sat,Home,W,1,0,Manchester Utd,7,4,2,0,1,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Everton,2022-04-20 Everton-Leicester City,2022-04-20,Matchweek 18,Wed,Home,D,1,1,Leicester City,24,16,6,1,0,1,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Everton,2022-04-24 Liverpool-Everton,2022-04-24,Matchweek 34,Sun,Away,L,0,2,Liverpool,13,7,1,2,0,2,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Everton,2022-05-01 Everton-Chelsea,2022-05-01,Matchweek 35,Sun,Home,W,1,0,Chelsea,15,11,2,1,0,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Everton,2022-05-08 Leicester City-Everton,2022-05-08,Matchweek 36,Sun,Away,W,2,1,Leicester City,17,11,1,2,2,1,0,3,1,0,1,1,0,0,14:00:00
+ENG-Premier League,2122,Everton,2022-05-11 Watford-Everton,2022-05-11,Matchweek 30,Wed,Away,D,0,0,Watford,24,17,3,2,1,0,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Everton,2022-05-15 Everton-Brentford,2022-05-15,Matchweek 37,Sun,Home,L,2,3,Brentford,16,7,3,1,2,3,0,3,1,0,0,1,1,0,16:30:00
+ENG-Premier League,2122,Everton,2022-05-19 Everton-Crystal Palace,2022-05-19,Matchweek 33,Thu,Home,W,3,2,Crystal Palace,21,16,2,0,0,2,1,6,3,2,0,0,1,0,19:45:00
+ENG-Premier League,2122,Everton,2022-05-22 Arsenal-Everton,2022-05-22,Matchweek 38,Sun,Away,L,1,5,Arsenal,12,10,1,1,0,0,0,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,Leeds United,2021-08-14 Manchester Utd-Leeds United,2021-08-14,Matchweek 1,Sat,Away,L,1,5,Manchester Utd,18,10,4,1,0,3,0,2,1,1,0,0,0,0,12:30:00
+ENG-Premier League,2122,Leeds United,2021-08-21 Leeds United-Everton,2021-08-21,Matchweek 2,Sat,Home,D,2,2,Everton,30,18,4,1,4,3,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2021-08-29 Burnley-Leeds United,2021-08-29,Matchweek 3,Sun,Away,D,1,1,Burnley,22,14,4,2,1,1,0,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2021-09-12 Leeds United-Liverpool,2021-09-12,Matchweek 4,Sun,Home,L,0,3,Liverpool,16,12,1,2,0,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Leeds United,2021-09-17 Newcastle Utd-Leeds United,2021-09-17,Matchweek 5,Fri,Away,D,1,1,Newcastle Utd,38,29,3,1,4,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Leeds United,2021-09-25 Leeds United-West Ham,2021-09-25,Matchweek 6,Sat,Home,L,1,2,West Ham,26,21,1,1,3,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2021-10-02 Leeds United-Watford,2021-10-02,Matchweek 7,Sat,Home,W,1,0,Watford,33,27,1,1,2,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2021-10-16 Southampton-Leeds United,2021-10-16,Matchweek 8,Sat,Away,L,0,1,Southampton,3,2,0,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2021-10-23 Leeds United-Wolves,2021-10-23,Matchweek 9,Sat,Home,D,1,1,Wolves,33,19,6,4,1,2,1,2,0,0,1,0,1,0,15:00:00
+ENG-Premier League,2122,Leeds United,2021-10-31 Norwich City-Leeds United,2021-10-31,Matchweek 10,Sun,Away,W,2,1,Norwich City,22,14,3,2,0,2,1,3,2,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2021-11-07 Leeds United-Leicester City,2021-11-07,Matchweek 11,Sun,Home,D,1,1,Leicester City,32,23,3,1,3,1,1,2,1,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Leeds United,2021-11-21 Tottenham-Leeds United,2021-11-21,Matchweek 12,Sun,Away,L,1,2,Tottenham,26,17,2,2,3,1,1,2,1,0,1,0,0,0,16:30:00
+ENG-Premier League,2122,Leeds United,2021-11-27 Brighton-Leeds United,2021-11-27,Matchweek 13,Sat,Away,D,0,0,Brighton,17,13,0,0,3,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Leeds United,2021-11-30 Leeds United-Crystal Palace,2021-11-30,Matchweek 14,Tue,Home,W,1,0,Crystal Palace,25,18,3,1,2,0,1,1,0,0,0,1,0,0,20:15:00
+ENG-Premier League,2122,Leeds United,2021-12-05 Leeds United-Brentford,2021-12-05,Matchweek 15,Sun,Home,D,2,2,Brentford,23,16,3,0,2,2,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2021-12-11 Chelsea-Leeds United,2021-12-11,Matchweek 16,Sat,Away,L,2,3,Chelsea,22,13,0,4,2,3,0,4,2,0,1,0,1,0,15:00:00
+ENG-Premier League,2122,Leeds United,2021-12-14 Manchester City-Leeds United,2021-12-14,Matchweek 17,Tue,Away,L,0,7,Manchester City,12,10,1,0,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Leeds United,2021-12-18 Leeds United-Arsenal,2021-12-18,Matchweek 18,Sat,Home,L,1,4,Arsenal,16,12,1,1,0,1,1,2,1,0,0,0,1,0,17:30:00
+ENG-Premier League,2122,Leeds United,2022-01-02 Leeds United-Burnley,2022-01-02,Matchweek 21,Sun,Home,W,3,1,Burnley,36,29,1,1,4,0,1,5,4,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2022-01-16 West Ham-Leeds United,2022-01-16,Matchweek 22,Sun,Away,W,3,2,West Ham,34,24,2,1,3,3,1,5,2,0,0,2,0,1,14:00:00
+ENG-Premier League,2122,Leeds United,2022-01-22 Leeds United-Newcastle Utd,2022-01-22,Matchweek 23,Sat,Home,L,0,1,Newcastle Utd,20,15,0,2,3,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2022-02-09 Aston Villa-Leeds United,2022-02-09,Matchweek 24,Wed,Away,D,3,3,Aston Villa,29,19,4,2,2,1,1,5,4,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Leeds United,2022-02-12 Everton-Leeds United,2022-02-12,Matchweek 25,Sat,Away,L,0,3,Everton,14,12,0,2,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2022-02-20 Leeds United-Manchester Utd,2022-02-20,Matchweek 26,Sun,Home,L,2,4,Manchester Utd,30,25,0,3,0,1,1,3,2,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2022-02-23 Liverpool-Leeds United,2022-02-23,Matchweek 19,Wed,Away,L,0,6,Liverpool,5,3,0,2,0,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Leeds United,2022-02-26 Leeds United-Tottenham,2022-02-26,Matchweek 27,Sat,Home,L,0,4,Tottenham,33,22,4,1,2,4,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Leeds United,2022-03-05 Leicester City-Leeds United,2022-03-05,Matchweek 28,Sat,Away,L,0,1,Leicester City,32,25,3,0,4,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Leeds United,2022-03-10 Leeds United-Aston Villa,2022-03-10,Matchweek 20,Thu,Home,L,0,3,Aston Villa,8,7,0,1,0,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Leeds United,2022-03-13 Leeds United-Norwich City,2022-03-13,Matchweek 29,Sun,Home,W,2,1,Norwich City,18,11,2,3,1,1,0,2,1,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2022-03-18 Wolves-Leeds United,2022-03-18,Matchweek 30,Fri,Away,W,3,2,Wolves,23,14,0,2,5,1,1,4,0,0,1,2,0,1,20:00:00
+ENG-Premier League,2122,Leeds United,2022-04-02 Leeds United-Southampton,2022-04-02,Matchweek 31,Sat,Home,D,1,1,Southampton,17,14,1,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2022-04-09 Watford-Leeds United,2022-04-09,Matchweek 32,Sat,Away,W,3,0,Watford,12,7,2,2,0,0,1,3,2,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Leeds United,2022-04-25 Crystal Palace-Leeds United,2022-04-25,Matchweek 34,Mon,Away,D,0,0,Crystal Palace,17,13,2,1,1,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Leeds United,2022-04-30 Leeds United-Manchester City,2022-04-30,Matchweek 35,Sat,Home,L,0,4,Manchester City,11,8,0,1,2,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Leeds United,2022-05-08 Arsenal-Leeds United,2022-05-08,Matchweek 36,Sun,Away,L,1,2,Arsenal,6,4,2,0,0,0,0,2,1,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2022-05-11 Leeds United-Chelsea,2022-05-11,Matchweek 33,Wed,Home,L,0,3,Chelsea,9,5,2,0,1,1,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Leeds United,2022-05-15 Leeds United-Brighton,2022-05-15,Matchweek 37,Sun,Home,D,1,1,Brighton,34,28,2,1,0,2,1,2,1,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Leeds United,2022-05-22 Brentford-Leeds United,2022-05-22,Matchweek 38,Sun,Away,W,2,1,Brentford,23,16,1,1,1,3,1,3,0,0,0,1,1,1,16:00:00
+ENG-Premier League,2122,Leicester City,2021-08-14 Leicester City-Wolves,2021-08-14,Matchweek 1,Sat,Home,W,1,0,Wolves,17,16,0,1,0,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Leicester City,2021-08-23 West Ham-Leicester City,2021-08-23,Matchweek 2,Mon,Away,L,1,4,West Ham,9,7,0,1,1,0,0,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Leicester City,2021-08-28 Norwich City-Leicester City,2021-08-28,Matchweek 3,Sat,Away,W,2,1,Norwich City,16,10,2,3,0,0,1,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leicester City,2021-09-11 Leicester City-Manchester City,2021-09-11,Matchweek 4,Sat,Home,L,0,1,Manchester City,9,6,1,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leicester City,2021-09-19 Brighton-Leicester City,2021-09-19,Matchweek 5,Sun,Away,L,1,2,Brighton,25,20,2,2,0,1,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Leicester City,2021-09-25 Leicester City-Burnley,2021-09-25,Matchweek 6,Sat,Home,D,2,2,Burnley,44,41,1,1,1,0,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Leicester City,2021-10-03 Crystal Palace-Leicester City,2021-10-03,Matchweek 7,Sun,Away,D,2,2,Crystal Palace,13,9,1,1,0,1,1,3,2,0,0,0,0,1,14:00:00
+ENG-Premier League,2122,Leicester City,2021-10-16 Leicester City-Manchester Utd,2021-10-16,Matchweek 8,Sat,Home,W,4,2,Manchester Utd,29,16,0,2,7,2,2,6,3,0,0,1,1,1,15:00:00
+ENG-Premier League,2122,Leicester City,2021-10-24 Brentford-Leicester City,2021-10-24,Matchweek 9,Sun,Away,W,2,1,Brentford,19,17,0,1,0,1,0,4,3,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Leicester City,2021-10-30 Leicester City-Arsenal,2021-10-30,Matchweek 10,Sat,Home,L,0,2,Arsenal,30,22,2,0,2,3,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Leicester City,2021-11-07 Leeds United-Leicester City,2021-11-07,Matchweek 11,Sun,Away,D,1,1,Leeds United,12,10,1,0,0,0,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Leicester City,2021-11-20 Leicester City-Chelsea,2021-11-20,Matchweek 12,Sat,Home,L,0,3,Chelsea,7,6,1,0,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Leicester City,2021-11-28 Leicester City-Watford,2021-11-28,Matchweek 13,Sun,Home,W,4,2,Watford,29,20,5,1,2,1,0,6,2,2,0,1,1,0,14:00:00
+ENG-Premier League,2122,Leicester City,2021-12-01 Southampton-Leicester City,2021-12-01,Matchweek 14,Wed,Away,D,2,2,Southampton,23,15,2,4,1,1,0,3,1,0,1,1,0,0,19:30:00
+ENG-Premier League,2122,Leicester City,2021-12-05 Aston Villa-Leicester City,2021-12-05,Matchweek 15,Sun,Away,L,1,2,Aston Villa,18,15,1,1,0,0,1,2,1,0,0,0,0,1,16:30:00
+ENG-Premier League,2122,Leicester City,2021-12-12 Leicester City-Newcastle Utd,2021-12-12,Matchweek 16,Sun,Home,W,4,0,Newcastle Utd,15,11,0,0,0,3,1,7,6,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Leicester City,2021-12-26 Manchester City-Leicester City,2021-12-26,Matchweek 19,Sun,Away,L,3,6,Manchester City,26,20,1,1,2,2,0,5,4,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Leicester City,2021-12-28 Leicester City-Liverpool,2021-12-28,Matchweek 20,Tue,Home,W,1,0,Liverpool,12,12,0,0,0,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Leicester City,2022-01-19 Leicester City-Tottenham,2022-01-19,Matchweek 17,Wed,Home,L,2,3,Tottenham,20,12,1,3,2,1,1,4,4,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Leicester City,2022-01-23 Leicester City-Brighton,2022-01-23,Matchweek 23,Sun,Home,D,1,1,Brighton,21,14,0,0,6,1,0,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Leicester City,2022-02-10 Liverpool-Leicester City,2022-02-10,Matchweek 24,Thu,Away,L,0,2,Liverpool,8,3,2,1,1,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Leicester City,2022-02-13 Leicester City-West Ham,2022-02-13,Matchweek 25,Sun,Home,D,2,2,West Ham,23,21,1,0,0,1,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Leicester City,2022-02-20 Wolves-Leicester City,2022-02-20,Matchweek 26,Sun,Away,L,1,2,Wolves,34,24,2,5,0,3,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Leicester City,2022-03-01 Burnley-Leicester City,2022-03-01,Matchweek 22,Tue,Away,W,2,0,Burnley,37,24,3,1,7,1,1,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Leicester City,2022-03-05 Leicester City-Leeds United,2022-03-05,Matchweek 28,Sat,Home,W,1,0,Leeds United,12,9,1,2,0,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Leicester City,2022-03-13 Arsenal-Leicester City,2022-03-13,Matchweek 29,Sun,Away,L,0,2,Arsenal,11,8,1,0,0,1,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Leicester City,2022-03-20 Leicester City-Brentford,2022-03-20,Matchweek 30,Sun,Home,W,2,1,Brentford,23,17,2,1,0,3,0,4,3,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Leicester City,2022-04-02 Manchester Utd-Leicester City,2022-04-02,Matchweek 31,Sat,Away,D,1,1,Manchester Utd,20,13,2,3,0,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Leicester City,2022-04-10 Leicester City-Crystal Palace,2022-04-10,Matchweek 32,Sun,Home,W,2,1,Crystal Palace,21,17,1,0,1,2,0,4,4,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Leicester City,2022-04-17 Newcastle Utd-Leicester City,2022-04-17,Matchweek 33,Sun,Away,L,1,2,Newcastle Utd,15,9,3,2,1,0,0,2,1,1,0,0,0,0,14:15:00
+ENG-Premier League,2122,Leicester City,2022-04-20 Everton-Leicester City,2022-04-20,Matchweek 18,Wed,Away,D,1,1,Everton,20,16,1,1,2,0,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,2122,Leicester City,2022-04-23 Leicester City-Aston Villa,2022-04-23,Matchweek 34,Sat,Home,D,0,0,Aston Villa,9,6,0,0,0,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Leicester City,2022-05-01 Tottenham-Leicester City,2022-05-01,Matchweek 35,Sun,Away,L,1,3,Tottenham,11,8,0,3,0,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Leicester City,2022-05-08 Leicester City-Everton,2022-05-08,Matchweek 36,Sun,Home,L,1,2,Everton,28,25,0,1,2,0,0,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Leicester City,2022-05-11 Leicester City-Norwich City,2022-05-11,Matchweek 21,Wed,Home,W,3,0,Norwich City,35,28,0,3,2,0,2,5,5,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Leicester City,2022-05-15 Watford-Leicester City,2022-05-15,Matchweek 37,Sun,Away,W,5,1,Watford,22,20,1,0,0,0,1,8,7,0,0,0,0,1,14:00:00
+ENG-Premier League,2122,Leicester City,2022-05-19 Chelsea-Leicester City,2022-05-19,Matchweek 27,Thu,Away,D,1,1,Chelsea,4,4,0,0,0,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Leicester City,2022-05-22 Leicester City-Southampton,2022-05-22,Matchweek 38,Sun,Home,W,4,1,Southampton,18,15,0,2,1,0,0,7,5,0,1,1,0,0,16:00:00
+ENG-Premier League,2122,Liverpool,2021-08-14 Norwich City-Liverpool,2021-08-14,Matchweek 1,Sat,Away,W,3,0,Norwich City,32,23,3,1,4,1,0,5,4,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Liverpool,2021-08-21 Liverpool-Burnley,2021-08-21,Matchweek 2,Sat,Home,W,2,0,Burnley,49,35,5,1,5,2,1,4,4,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Liverpool,2021-08-28 Liverpool-Chelsea,2021-08-28,Matchweek 3,Sat,Home,D,1,1,Chelsea,38,28,5,0,4,1,0,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Liverpool,2021-09-12 Leeds United-Liverpool,2021-09-12,Matchweek 4,Sun,Away,W,3,0,Leeds United,56,43,4,1,7,1,0,5,4,0,0,1,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2021-09-18 Liverpool-Crystal Palace,2021-09-18,Matchweek 5,Sat,Home,W,3,0,Crystal Palace,38,21,5,3,8,1,0,4,0,2,0,2,0,0,15:00:00
+ENG-Premier League,2122,Liverpool,2021-09-25 Brentford-Liverpool,2021-09-25,Matchweek 6,Sat,Away,D,3,3,Brentford,27,21,2,0,3,1,0,6,6,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Liverpool,2021-10-03 Liverpool-Manchester City,2021-10-03,Matchweek 7,Sun,Home,D,2,2,Manchester City,11,4,2,3,0,1,1,4,1,0,3,0,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2021-10-16 Watford-Liverpool,2021-10-16,Matchweek 8,Sat,Away,W,5,0,Watford,34,30,1,3,0,0,0,8,5,0,3,0,0,0,12:30:00
+ENG-Premier League,2122,Liverpool,2021-10-24 Manchester Utd-Liverpool,2021-10-24,Matchweek 9,Sun,Away,W,5,0,Manchester Utd,32,24,2,0,3,2,1,9,8,0,0,1,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2021-10-30 Liverpool-Brighton,2021-10-30,Matchweek 10,Sat,Home,D,2,2,Brighton,23,16,2,1,1,2,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Liverpool,2021-11-07 West Ham-Liverpool,2021-11-07,Matchweek 11,Sun,Away,L,2,3,West Ham,32,24,4,1,0,3,0,4,3,1,0,0,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2021-11-20 Liverpool-Arsenal,2021-11-20,Matchweek 12,Sat,Home,W,4,0,Arsenal,31,21,3,2,2,2,1,7,4,1,1,0,1,0,17:30:00
+ENG-Premier League,2122,Liverpool,2021-11-27 Liverpool-Southampton,2021-11-27,Matchweek 13,Sat,Home,W,4,0,Southampton,38,32,2,2,2,0,0,8,5,1,0,2,0,0,15:00:00
+ENG-Premier League,2122,Liverpool,2021-12-01 Everton-Liverpool,2021-12-01,Matchweek 14,Wed,Away,W,4,1,Everton,28,20,2,3,2,1,0,6,5,0,1,0,0,0,20:15:00
+ENG-Premier League,2122,Liverpool,2021-12-04 Wolves-Liverpool,2021-12-04,Matchweek 15,Sat,Away,W,1,0,Wolves,30,24,1,0,5,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Liverpool,2021-12-11 Liverpool-Aston Villa,2021-12-11,Matchweek 16,Sat,Home,W,1,0,Aston Villa,33,25,2,1,3,2,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Liverpool,2021-12-16 Liverpool-Newcastle Utd,2021-12-16,Matchweek 17,Thu,Home,W,3,1,Newcastle Utd,35,26,3,3,2,1,0,4,1,1,0,2,0,0,20:00:00
+ENG-Premier League,2122,Liverpool,2021-12-19 Tottenham-Liverpool,2021-12-19,Matchweek 18,Sun,Away,D,2,2,Tottenham,34,26,4,0,1,3,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2021-12-28 Leicester City-Liverpool,2021-12-28,Matchweek 20,Tue,Away,L,0,1,Leicester City,32,19,5,0,4,3,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Liverpool,2022-01-02 Chelsea-Liverpool,2022-01-02,Matchweek 21,Sun,Away,D,2,2,Chelsea,18,10,3,4,1,0,0,4,3,0,1,0,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2022-01-16 Liverpool-Brentford,2022-01-16,Matchweek 22,Sun,Home,W,3,0,Brentford,43,32,3,2,1,2,3,6,5,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,Liverpool,2022-01-23 Crystal Palace-Liverpool,2022-01-23,Matchweek 23,Sun,Away,W,3,1,Crystal Palace,24,19,1,1,1,1,1,5,3,1,0,0,1,0,14:00:00
+ENG-Premier League,2122,Liverpool,2022-02-10 Liverpool-Leicester City,2022-02-10,Matchweek 24,Thu,Home,W,2,0,Leicester City,38,23,4,5,4,2,0,3,2,0,0,1,0,0,19:45:00
+ENG-Premier League,2122,Liverpool,2022-02-13 Burnley-Liverpool,2022-02-13,Matchweek 25,Sun,Away,W,1,0,Burnley,19,10,3,1,4,1,0,1,0,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Liverpool,2022-02-19 Liverpool-Norwich City,2022-02-19,Matchweek 26,Sat,Home,W,3,1,Norwich City,50,41,0,5,3,0,1,5,5,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Liverpool,2022-02-23 Liverpool-Leeds United,2022-02-23,Matchweek 19,Wed,Home,W,6,0,Leeds United,40,31,2,3,1,2,1,9,6,1,0,1,1,0,19:45:00
+ENG-Premier League,2122,Liverpool,2022-03-05 Liverpool-West Ham,2022-03-05,Matchweek 28,Sat,Home,W,1,0,West Ham,38,31,3,0,3,1,0,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Liverpool,2022-03-12 Brighton-Liverpool,2022-03-12,Matchweek 29,Sat,Away,W,2,0,Brighton,31,19,3,4,3,1,1,3,2,0,0,1,0,0,12:30:00
+ENG-Premier League,2122,Liverpool,2022-03-16 Arsenal-Liverpool,2022-03-16,Matchweek 27,Wed,Away,W,2,0,Arsenal,15,11,2,0,2,0,0,3,3,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Liverpool,2022-04-02 Liverpool-Watford,2022-04-02,Matchweek 31,Sat,Home,W,2,0,Watford,33,22,4,0,3,3,1,4,2,0,0,1,1,0,12:30:00
+ENG-Premier League,2122,Liverpool,2022-04-10 Manchester City-Liverpool,2022-04-10,Matchweek 32,Sun,Away,D,2,2,Manchester City,11,11,0,0,0,0,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2022-04-19 Liverpool-Manchester Utd,2022-04-19,Matchweek 30,Tue,Home,W,4,0,Manchester Utd,23,18,3,0,1,0,1,8,8,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Liverpool,2022-04-24 Liverpool-Everton,2022-04-24,Matchweek 34,Sun,Home,W,2,0,Everton,33,26,1,1,5,0,0,3,2,0,0,1,0,0,16:30:00
+ENG-Premier League,2122,Liverpool,2022-04-30 Newcastle Utd-Liverpool,2022-04-30,Matchweek 35,Sat,Away,W,1,0,Newcastle Utd,40,25,3,3,5,3,1,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Liverpool,2022-05-07 Liverpool-Tottenham,2022-05-07,Matchweek 36,Sat,Home,D,1,1,Tottenham,41,28,6,2,3,2,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Liverpool,2022-05-10 Aston Villa-Liverpool,2022-05-10,Matchweek 33,Tue,Away,W,2,1,Aston Villa,27,17,3,1,2,4,0,3,2,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Liverpool,2022-05-17 Southampton-Liverpool,2022-05-17,Matchweek 37,Tue,Away,W,2,1,Southampton,40,36,2,0,2,0,0,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Liverpool,2022-05-22 Liverpool-Wolves,2022-05-22,Matchweek 38,Sun,Home,W,3,1,Wolves,52,40,2,6,4,0,0,6,5,0,0,1,0,0,16:00:00
+ENG-Premier League,2122,Manchester City,2021-08-15 Tottenham-Manchester City,2021-08-15,Matchweek 1,Sun,Away,L,0,1,Tottenham,35,29,2,2,1,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Manchester City,2021-08-21 Manchester City-Norwich City,2021-08-21,Matchweek 2,Sat,Home,W,5,0,Norwich City,28,21,2,0,2,1,2,7,6,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Manchester City,2021-08-28 Manchester City-Arsenal,2021-08-28,Matchweek 3,Sat,Home,W,5,0,Arsenal,49,45,1,1,1,1,0,10,10,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester City,2021-09-11 Leicester City-Manchester City,2021-09-11,Matchweek 4,Sat,Away,W,1,0,Leicester City,42,34,2,0,4,1,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Manchester City,2021-09-18 Manchester City-Southampton,2021-09-18,Matchweek 5,Sat,Home,D,0,0,Southampton,31,26,1,2,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Manchester City,2021-09-25 Chelsea-Manchester City,2021-09-25,Matchweek 6,Sat,Away,W,1,0,Chelsea,29,22,3,1,2,1,0,1,0,0,0,1,0,0,12:30:00
+ENG-Premier League,2122,Manchester City,2021-10-03 Liverpool-Manchester City,2021-10-03,Matchweek 7,Sun,Away,D,2,2,Liverpool,23,19,0,2,1,1,0,4,3,0,1,0,0,0,16:30:00
+ENG-Premier League,2122,Manchester City,2021-10-16 Manchester City-Burnley,2021-10-16,Matchweek 8,Sat,Home,W,2,0,Burnley,26,23,0,1,2,0,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Manchester City,2021-10-23 Brighton-Manchester City,2021-10-23,Matchweek 9,Sat,Away,W,4,1,Brighton,40,28,2,3,6,1,0,6,4,0,0,2,0,0,17:30:00
+ENG-Premier League,2122,Manchester City,2021-10-30 Manchester City-Crystal Palace,2021-10-30,Matchweek 10,Sat,Home,L,0,2,Crystal Palace,25,21,0,1,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Manchester City,2021-11-06 Manchester Utd-Manchester City,2021-11-06,Matchweek 11,Sat,Away,W,2,0,Manchester Utd,29,21,2,1,5,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester City,2021-11-21 Manchester City-Everton,2021-11-21,Matchweek 12,Sun,Home,W,3,0,Everton,27,23,0,0,3,1,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Manchester City,2021-11-28 Manchester City-West Ham,2021-11-28,Matchweek 13,Sun,Home,W,2,1,West Ham,35,29,3,1,2,0,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Manchester City,2021-12-01 Aston Villa-Manchester City,2021-12-01,Matchweek 14,Wed,Away,W,2,1,Aston Villa,30,23,2,4,0,1,0,4,4,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Manchester City,2021-12-04 Watford-Manchester City,2021-12-04,Matchweek 15,Sat,Away,W,3,1,Watford,48,38,4,2,4,0,0,5,4,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Manchester City,2021-12-11 Manchester City-Wolves,2021-12-11,Matchweek 16,Sat,Home,W,1,0,Wolves,44,39,3,0,2,0,0,1,1,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester City,2021-12-14 Manchester City-Leeds United,2021-12-14,Matchweek 17,Tue,Home,W,7,0,Leeds United,51,41,1,3,3,3,0,10,8,1,0,1,0,0,20:00:00
+ENG-Premier League,2122,Manchester City,2021-12-19 Newcastle Utd-Manchester City,2021-12-19,Matchweek 18,Sun,Away,W,4,0,Newcastle Utd,35,24,4,4,2,1,0,8,6,0,2,0,0,0,14:15:00
+ENG-Premier League,2122,Manchester City,2021-12-26 Manchester City-Leicester City,2021-12-26,Matchweek 19,Sun,Home,W,6,3,Leicester City,27,15,4,1,3,4,0,9,5,1,0,1,2,0,15:00:00
+ENG-Premier League,2122,Manchester City,2021-12-29 Brentford-Manchester City,2021-12-29,Matchweek 20,Wed,Away,W,1,0,Brentford,22,17,0,2,2,1,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Manchester City,2022-01-01 Arsenal-Manchester City,2022-01-01,Matchweek 21,Sat,Away,W,2,1,Arsenal,29,24,2,0,1,2,0,3,1,0,0,1,1,0,12:30:00
+ENG-Premier League,2122,Manchester City,2022-01-15 Manchester City-Chelsea,2022-01-15,Matchweek 22,Sat,Home,W,1,0,Chelsea,21,16,1,3,0,1,0,2,1,0,1,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester City,2022-01-22 Southampton-Manchester City,2022-01-22,Matchweek 23,Sat,Away,D,1,1,Southampton,39,34,2,1,1,1,0,2,0,1,0,0,1,0,17:30:00
+ENG-Premier League,2122,Manchester City,2022-02-09 Manchester City-Brentford,2022-02-09,Matchweek 24,Wed,Home,W,2,0,Brentford,25,15,3,3,3,1,0,2,0,0,0,1,1,0,19:45:00
+ENG-Premier League,2122,Manchester City,2022-02-12 Norwich City-Manchester City,2022-02-12,Matchweek 25,Sat,Away,W,4,0,Norwich City,38,27,3,1,6,1,0,6,4,0,0,2,0,0,17:30:00
+ENG-Premier League,2122,Manchester City,2022-02-19 Manchester City-Tottenham,2022-02-19,Matchweek 26,Sat,Home,L,2,3,Tottenham,40,31,2,5,2,0,0,3,3,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Manchester City,2022-02-26 Everton-Manchester City,2022-02-26,Matchweek 27,Sat,Away,W,1,0,Everton,25,21,1,1,2,0,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Manchester City,2022-03-06 Manchester City-Manchester Utd,2022-03-06,Matchweek 28,Sun,Home,W,4,1,Manchester Utd,40,26,4,4,4,2,0,6,3,1,1,1,0,0,16:30:00
+ENG-Premier League,2122,Manchester City,2022-03-14 Crystal Palace-Manchester City,2022-03-14,Matchweek 29,Mon,Away,D,0,0,Crystal Palace,35,29,2,0,3,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Manchester City,2022-04-02 Burnley-Manchester City,2022-04-02,Matchweek 31,Sat,Away,W,2,0,Burnley,34,28,3,0,2,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Manchester City,2022-04-10 Manchester City-Liverpool,2022-04-10,Matchweek 32,Sun,Home,D,2,2,Liverpool,20,14,1,3,0,2,0,4,2,1,0,0,1,0,16:30:00
+ENG-Premier League,2122,Manchester City,2022-04-20 Manchester City-Brighton,2022-04-20,Matchweek 30,Wed,Home,W,3,0,Brighton,30,23,3,2,1,0,1,4,2,1,0,0,0,1,20:00:00
+ENG-Premier League,2122,Manchester City,2022-04-23 Manchester City-Watford,2022-04-23,Matchweek 34,Sat,Home,W,5,1,Watford,38,26,2,1,4,1,4,10,7,0,0,0,1,2,15:00:00
+ENG-Premier League,2122,Manchester City,2022-04-30 Leeds United-Manchester City,2022-04-30,Matchweek 35,Sat,Away,W,4,0,Leeds United,35,23,4,5,1,2,0,8,5,2,0,0,1,0,17:30:00
+ENG-Premier League,2122,Manchester City,2022-05-08 Manchester City-Newcastle Utd,2022-05-08,Matchweek 36,Sun,Home,W,5,0,Newcastle Utd,37,28,3,2,3,1,0,8,5,1,0,2,0,0,16:30:00
+ENG-Premier League,2122,Manchester City,2022-05-11 Wolves-Manchester City,2022-05-11,Matchweek 33,Wed,Away,W,5,1,Wolves,24,22,1,0,1,0,0,8,6,1,0,1,0,0,20:15:00
+ENG-Premier League,2122,Manchester City,2022-05-15 West Ham-Manchester City,2022-05-15,Matchweek 37,Sun,Away,D,2,2,West Ham,54,41,0,4,6,3,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Manchester City,2022-05-22 Manchester City-Aston Villa,2022-05-22,Matchweek 38,Sun,Home,W,3,2,Aston Villa,46,31,5,4,0,3,3,5,4,0,1,0,0,0,16:00:00
+ENG-Premier League,2122,Manchester Utd,2021-08-14 Manchester Utd-Leeds United,2021-08-14,Matchweek 1,Sat,Home,W,5,1,Leeds United,27,25,1,1,0,0,0,10,10,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester Utd,2021-08-22 Southampton-Manchester Utd,2021-08-22,Matchweek 2,Sun,Away,D,1,1,Southampton,28,17,3,1,2,5,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Manchester Utd,2021-08-29 Wolves-Manchester Utd,2021-08-29,Matchweek 3,Sun,Away,W,1,0,Wolves,17,11,1,1,2,1,1,1,1,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Manchester Utd,2021-09-11 Manchester Utd-Newcastle Utd,2021-09-11,Matchweek 4,Sat,Home,W,4,1,Newcastle Utd,36,28,4,1,3,0,0,7,6,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Manchester Utd,2021-09-19 West Ham-Manchester Utd,2021-09-19,Matchweek 5,Sun,Away,W,2,1,West Ham,32,27,3,1,1,0,0,3,2,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,Manchester Utd,2021-09-25 Manchester Utd-Aston Villa,2021-09-25,Matchweek 6,Sat,Home,L,0,1,Aston Villa,48,32,3,6,4,3,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester Utd,2021-10-02 Manchester Utd-Everton,2021-10-02,Matchweek 7,Sat,Home,D,1,1,Everton,25,20,3,2,0,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester Utd,2021-10-16 Leicester City-Manchester Utd,2021-10-16,Matchweek 8,Sat,Away,L,2,4,Leicester City,33,28,3,1,1,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Manchester Utd,2021-10-24 Manchester Utd-Liverpool,2021-10-24,Matchweek 9,Sun,Home,L,0,5,Liverpool,24,18,4,1,1,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Manchester Utd,2021-10-30 Tottenham-Manchester Utd,2021-10-30,Matchweek 10,Sat,Away,W,3,0,Tottenham,19,16,0,2,1,0,0,6,5,0,1,0,0,0,17:30:00
+ENG-Premier League,2122,Manchester Utd,2021-11-06 Manchester Utd-Manchester City,2021-11-06,Matchweek 11,Sat,Home,L,0,2,Manchester City,7,4,1,0,1,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester Utd,2021-11-20 Watford-Manchester Utd,2021-11-20,Matchweek 12,Sat,Away,L,1,4,Watford,16,14,0,2,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Manchester Utd,2021-11-28 Chelsea-Manchester Utd,2021-11-28,Matchweek 13,Sun,Away,D,1,1,Chelsea,4,3,0,1,0,0,0,2,1,0,1,0,0,0,16:30:00
+ENG-Premier League,2122,Manchester Utd,2021-12-02 Manchester Utd-Arsenal,2021-12-02,Matchweek 14,Thu,Home,W,3,2,Arsenal,27,23,1,2,0,1,0,6,5,0,0,0,1,0,20:15:00
+ENG-Premier League,2122,Manchester Utd,2021-12-05 Manchester Utd-Crystal Palace,2021-12-05,Matchweek 15,Sun,Home,W,1,0,Crystal Palace,31,26,2,0,0,3,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Manchester Utd,2021-12-11 Norwich City-Manchester Utd,2021-12-11,Matchweek 16,Sat,Away,W,1,0,Norwich City,26,21,0,2,0,3,0,2,1,0,0,0,1,0,17:30:00
+ENG-Premier League,2122,Manchester Utd,2021-12-27 Newcastle Utd-Manchester Utd,2021-12-27,Matchweek 19,Mon,Away,D,1,1,Newcastle Utd,25,15,4,2,2,2,0,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Manchester Utd,2021-12-30 Manchester Utd-Burnley,2021-12-30,Matchweek 20,Thu,Home,W,3,1,Burnley,34,31,0,1,1,1,0,3,2,0,0,1,0,0,20:15:00
+ENG-Premier League,2122,Manchester Utd,2022-01-03 Manchester Utd-Wolves,2022-01-03,Matchweek 21,Mon,Home,L,0,1,Wolves,16,13,1,1,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Manchester Utd,2022-01-15 Aston Villa-Manchester Utd,2022-01-15,Matchweek 22,Sat,Away,D,2,2,Aston Villa,18,12,1,1,1,2,1,3,1,1,0,0,1,0,17:30:00
+ENG-Premier League,2122,Manchester Utd,2022-01-19 Brentford-Manchester Utd,2022-01-19,Matchweek 17,Wed,Away,W,3,1,Brentford,23,17,1,4,0,1,0,6,6,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Manchester Utd,2022-01-22 Manchester Utd-West Ham,2022-01-22,Matchweek 23,Sat,Home,W,1,0,West Ham,32,28,1,1,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Manchester Utd,2022-02-08 Burnley-Manchester Utd,2022-02-08,Matchweek 24,Tue,Away,D,1,1,Burnley,38,27,2,3,4,0,2,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Manchester Utd,2022-02-12 Manchester Utd-Southampton,2022-02-12,Matchweek 25,Sat,Home,D,1,1,Southampton,17,9,3,1,1,2,1,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester Utd,2022-02-15 Manchester Utd-Brighton,2022-02-15,Matchweek 18,Tue,Home,W,2,0,Brighton,32,22,2,2,1,2,3,3,0,1,1,0,0,1,20:15:00
+ENG-Premier League,2122,Manchester Utd,2022-02-20 Leeds United-Manchester Utd,2022-02-20,Matchweek 26,Sun,Away,W,4,2,Leeds United,29,20,1,5,2,0,1,8,5,1,1,1,0,0,14:00:00
+ENG-Premier League,2122,Manchester Utd,2022-02-26 Manchester Utd-Watford,2022-02-26,Matchweek 27,Sat,Home,D,0,0,Watford,41,34,2,2,0,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Manchester Utd,2022-03-06 Manchester City-Manchester Utd,2022-03-06,Matchweek 28,Sun,Away,L,1,4,Manchester City,9,8,0,1,0,0,0,2,1,0,1,0,0,0,16:30:00
+ENG-Premier League,2122,Manchester Utd,2022-03-12 Manchester Utd-Tottenham,2022-03-12,Matchweek 29,Sat,Home,W,3,2,Tottenham,20,18,1,0,0,1,0,6,5,1,0,0,0,0,17:30:00
+ENG-Premier League,2122,Manchester Utd,2022-04-02 Manchester Utd-Leicester City,2022-04-02,Matchweek 31,Sat,Home,D,1,1,Leicester City,20,16,2,1,1,0,0,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Manchester Utd,2022-04-09 Everton-Manchester Utd,2022-04-09,Matchweek 32,Sat,Away,L,0,1,Everton,23,18,2,1,1,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester Utd,2022-04-16 Manchester Utd-Norwich City,2022-04-16,Matchweek 33,Sat,Home,W,3,2,Norwich City,40,31,3,3,1,1,1,6,1,1,1,1,1,1,15:00:00
+ENG-Premier League,2122,Manchester Utd,2022-04-19 Liverpool-Manchester Utd,2022-04-19,Matchweek 30,Tue,Away,L,0,4,Liverpool,4,4,0,0,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Manchester Utd,2022-04-23 Arsenal-Manchester Utd,2022-04-23,Matchweek 34,Sat,Away,L,1,3,Arsenal,24,19,2,0,3,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Manchester Utd,2022-04-28 Manchester Utd-Chelsea,2022-04-28,Matchweek 37,Thu,Home,D,1,1,Chelsea,12,9,1,0,0,1,1,2,1,0,0,0,0,1,19:45:00
+ENG-Premier League,2122,Manchester Utd,2022-05-02 Manchester Utd-Brentford,2022-05-02,Matchweek 35,Mon,Home,W,3,0,Brentford,18,15,1,0,0,2,0,6,4,1,0,0,1,0,20:00:00
+ENG-Premier League,2122,Manchester Utd,2022-05-07 Brighton-Manchester Utd,2022-05-07,Matchweek 36,Sat,Away,L,0,4,Brighton,28,19,4,2,2,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Manchester Utd,2022-05-22 Crystal Palace-Manchester Utd,2022-05-22,Matchweek 38,Sun,Away,L,0,1,Crystal Palace,14,8,2,1,1,1,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-08-15 Newcastle Utd-West Ham,2021-08-15,Matchweek 1,Sun,Home,L,2,4,West Ham,27,19,3,2,3,0,0,3,3,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-08-21 Aston Villa-Newcastle Utd,2021-08-21,Matchweek 2,Sat,Away,L,0,2,Aston Villa,17,11,5,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-08-28 Newcastle Utd-Southampton,2021-08-28,Matchweek 3,Sat,Home,D,2,2,Southampton,17,10,1,3,1,1,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-09-11 Manchester Utd-Newcastle Utd,2021-09-11,Matchweek 4,Sat,Away,L,1,4,Manchester Utd,18,13,1,2,2,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-09-17 Newcastle Utd-Leeds United,2021-09-17,Matchweek 5,Fri,Home,D,1,1,Leeds United,29,23,1,1,4,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-09-25 Watford-Newcastle Utd,2021-09-25,Matchweek 6,Sat,Away,D,1,1,Watford,36,24,2,2,5,2,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-10-02 Wolves-Newcastle Utd,2021-10-02,Matchweek 7,Sat,Away,L,1,2,Wolves,13,6,3,1,1,2,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-10-17 Newcastle Utd-Tottenham,2021-10-17,Matchweek 8,Sun,Home,L,2,3,Tottenham,12,10,2,0,0,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Newcastle Utd,2021-10-23 Crystal Palace-Newcastle Utd,2021-10-23,Matchweek 9,Sat,Away,D,1,1,Crystal Palace,11,7,3,0,1,0,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-10-30 Newcastle Utd-Chelsea,2021-10-30,Matchweek 10,Sat,Home,L,0,3,Chelsea,12,7,1,1,0,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-11-06 Brighton-Newcastle Utd,2021-11-06,Matchweek 11,Sat,Away,D,1,1,Brighton,9,6,1,0,0,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Newcastle Utd,2021-11-20 Newcastle Utd-Brentford,2021-11-20,Matchweek 12,Sat,Home,D,3,3,Brentford,43,32,4,1,3,1,2,5,2,1,0,2,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-11-27 Arsenal-Newcastle Utd,2021-11-27,Matchweek 13,Sat,Away,L,0,2,Arsenal,13,9,1,2,0,0,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Newcastle Utd,2021-11-30 Newcastle Utd-Norwich City,2021-11-30,Matchweek 14,Tue,Home,D,1,1,Norwich City,17,13,2,1,1,0,0,1,0,0,0,1,0,0,19:30:00
+ENG-Premier League,2122,Newcastle Utd,2021-12-04 Newcastle Utd-Burnley,2021-12-04,Matchweek 15,Sat,Home,W,1,0,Burnley,31,21,3,3,3,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-12-12 Leicester City-Newcastle Utd,2021-12-12,Matchweek 16,Sun,Away,L,0,4,Leicester City,22,16,0,4,0,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-12-16 Liverpool-Newcastle Utd,2021-12-16,Matchweek 17,Thu,Away,L,1,3,Liverpool,7,5,0,0,0,2,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Newcastle Utd,2021-12-19 Newcastle Utd-Manchester City,2021-12-19,Matchweek 18,Sun,Home,L,0,4,Manchester City,6,4,1,0,0,1,0,0,0,0,0,0,0,0,14:15:00
+ENG-Premier League,2122,Newcastle Utd,2021-12-27 Newcastle Utd-Manchester Utd,2021-12-27,Matchweek 19,Mon,Home,D,1,1,Manchester Utd,24,19,0,4,1,0,0,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-01-15 Newcastle Utd-Watford,2022-01-15,Matchweek 22,Sat,Home,D,1,1,Watford,21,12,4,2,1,2,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-01-22 Leeds United-Newcastle Utd,2022-01-22,Matchweek 23,Sat,Away,W,1,0,Leeds United,24,16,1,2,3,1,1,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-02-08 Newcastle Utd-Everton,2022-02-08,Matchweek 24,Tue,Home,W,3,1,Everton,32,11,5,8,6,2,0,4,3,0,0,0,1,0,19:45:00
+ENG-Premier League,2122,Newcastle Utd,2022-02-13 Newcastle Utd-Aston Villa,2022-02-13,Matchweek 25,Sun,Home,W,1,0,Aston Villa,14,6,1,4,1,1,1,2,1,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-02-19 West Ham-Newcastle Utd,2022-02-19,Matchweek 26,Sat,Away,D,1,1,West Ham,24,18,2,1,2,1,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Newcastle Utd,2022-02-26 Brentford-Newcastle Utd,2022-02-26,Matchweek 27,Sat,Away,W,2,0,Brentford,47,37,3,1,3,3,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-03-05 Newcastle Utd-Brighton,2022-03-05,Matchweek 28,Sat,Home,W,2,1,Brighton,17,11,3,0,1,2,0,3,0,1,0,1,1,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-03-10 Southampton-Newcastle Utd,2022-03-10,Matchweek 21,Thu,Away,W,2,1,Southampton,15,10,2,1,1,1,0,4,3,1,0,0,0,0,19:30:00
+ENG-Premier League,2122,Newcastle Utd,2022-03-13 Chelsea-Newcastle Utd,2022-03-13,Matchweek 29,Sun,Away,L,0,1,Chelsea,11,3,4,1,1,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-03-17 Everton-Newcastle Utd,2022-03-17,Matchweek 20,Thu,Away,L,0,1,Everton,31,22,3,3,2,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Newcastle Utd,2022-04-03 Tottenham-Newcastle Utd,2022-04-03,Matchweek 31,Sun,Away,L,1,5,Tottenham,14,9,2,2,0,1,0,2,1,0,0,0,1,0,16:30:00
+ENG-Premier League,2122,Newcastle Utd,2022-04-08 Newcastle Utd-Wolves,2022-04-08,Matchweek 32,Fri,Home,W,1,0,Wolves,20,14,1,1,1,3,0,2,1,0,0,0,1,0,20:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-04-17 Newcastle Utd-Leicester City,2022-04-17,Matchweek 33,Sun,Home,W,2,1,Leicester City,26,18,2,2,2,2,0,3,1,0,1,1,0,0,14:15:00
+ENG-Premier League,2122,Newcastle Utd,2022-04-20 Newcastle Utd-Crystal Palace,2022-04-20,Matchweek 30,Wed,Home,W,1,0,Crystal Palace,22,10,3,3,3,3,0,2,1,0,1,0,0,0,19:45:00
+ENG-Premier League,2122,Newcastle Utd,2022-04-23 Norwich City-Newcastle Utd,2022-04-23,Matchweek 34,Sat,Away,W,3,0,Norwich City,21,15,3,0,1,1,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-04-30 Newcastle Utd-Liverpool,2022-04-30,Matchweek 35,Sat,Home,L,0,1,Liverpool,4,2,1,0,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Newcastle Utd,2022-05-08 Manchester City-Newcastle Utd,2022-05-08,Matchweek 36,Sun,Away,L,0,5,Manchester City,14,11,2,1,0,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Newcastle Utd,2022-05-16 Newcastle Utd-Arsenal,2022-05-16,Matchweek 37,Mon,Home,W,2,0,Arsenal,27,18,4,2,3,0,0,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,2122,Newcastle Utd,2022-05-22 Burnley-Newcastle Utd,2022-05-22,Matchweek 38,Sun,Away,W,2,1,Burnley,10,6,1,0,1,0,2,3,2,0,0,1,0,0,16:00:00
+ENG-Premier League,2122,Norwich City,2021-08-14 Norwich City-Liverpool,2021-08-14,Matchweek 1,Sat,Home,L,0,3,Liverpool,22,18,1,0,3,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Norwich City,2021-08-21 Manchester City-Norwich City,2021-08-21,Matchweek 2,Sat,Away,L,0,5,Manchester City,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-08-28 Norwich City-Leicester City,2021-08-28,Matchweek 3,Sat,Home,L,1,2,Leicester City,22,16,0,2,1,2,1,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-09-11 Arsenal-Norwich City,2021-09-11,Matchweek 4,Sat,Away,L,0,1,Arsenal,19,14,3,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-09-18 Norwich City-Watford,2021-09-18,Matchweek 5,Sat,Home,L,1,3,Watford,18,12,4,0,0,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-09-25 Everton-Norwich City,2021-09-25,Matchweek 6,Sat,Away,L,0,2,Everton,20,12,3,1,2,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-10-02 Burnley-Norwich City,2021-10-02,Matchweek 7,Sat,Away,D,0,0,Burnley,16,11,1,1,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-10-16 Norwich City-Brighton,2021-10-16,Matchweek 8,Sat,Home,D,0,0,Brighton,29,21,1,2,2,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-10-23 Chelsea-Norwich City,2021-10-23,Matchweek 9,Sat,Away,L,0,7,Chelsea,5,4,0,1,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Norwich City,2021-10-31 Norwich City-Leeds United,2021-10-31,Matchweek 10,Sun,Home,L,1,2,Leeds United,22,10,3,1,2,6,0,1,0,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,Norwich City,2021-11-06 Brentford-Norwich City,2021-11-06,Matchweek 11,Sat,Away,W,2,1,Brentford,14,11,0,1,0,2,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-11-20 Norwich City-Southampton,2021-11-20,Matchweek 12,Sat,Home,W,2,1,Southampton,12,10,2,0,0,0,0,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-11-27 Norwich City-Wolves,2021-11-27,Matchweek 13,Sat,Home,D,0,0,Wolves,25,18,1,3,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-11-30 Newcastle Utd-Norwich City,2021-11-30,Matchweek 14,Tue,Away,D,1,1,Newcastle Utd,28,19,2,1,3,2,1,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Norwich City,2021-12-05 Tottenham-Norwich City,2021-12-05,Matchweek 15,Sun,Away,L,0,3,Tottenham,16,11,2,1,2,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Norwich City,2021-12-11 Norwich City-Manchester Utd,2021-12-11,Matchweek 16,Sat,Home,L,0,1,Manchester Utd,21,12,4,2,1,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Norwich City,2021-12-14 Norwich City-Aston Villa,2021-12-14,Matchweek 17,Tue,Home,L,0,2,Aston Villa,11,5,3,0,0,3,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Norwich City,2021-12-26 Norwich City-Arsenal,2021-12-26,Matchweek 19,Sun,Home,L,0,5,Arsenal,8,5,1,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2021-12-28 Crystal Palace-Norwich City,2021-12-28,Matchweek 20,Tue,Away,L,0,3,Crystal Palace,21,16,2,0,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2022-01-12 West Ham-Norwich City,2022-01-12,Matchweek 18,Wed,Away,L,0,2,West Ham,12,10,1,1,0,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Norwich City,2022-01-15 Norwich City-Everton,2022-01-15,Matchweek 22,Sat,Home,W,2,1,Everton,26,18,4,0,0,3,1,2,1,0,0,0,0,1,15:00:00
+ENG-Premier League,2122,Norwich City,2022-01-21 Watford-Norwich City,2022-01-21,Matchweek 23,Fri,Away,W,3,0,Watford,11,6,2,0,1,1,1,3,3,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Norwich City,2022-02-09 Norwich City-Crystal Palace,2022-02-09,Matchweek 24,Wed,Home,D,1,1,Crystal Palace,9,5,2,1,1,0,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Norwich City,2022-02-12 Norwich City-Manchester City,2022-02-12,Matchweek 25,Sat,Home,L,0,4,Manchester City,12,7,3,1,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Norwich City,2022-02-19 Liverpool-Norwich City,2022-02-19,Matchweek 26,Sat,Away,L,1,3,Liverpool,9,6,0,1,0,1,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2022-02-25 Southampton-Norwich City,2022-02-25,Matchweek 27,Fri,Away,L,0,2,Southampton,15,11,2,0,1,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Norwich City,2022-03-05 Norwich City-Brentford,2022-03-05,Matchweek 28,Sat,Home,L,1,3,Brentford,25,20,4,0,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2022-03-10 Norwich City-Chelsea,2022-03-10,Matchweek 30,Thu,Home,L,1,3,Chelsea,13,10,1,1,0,1,0,1,1,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Norwich City,2022-03-13 Leeds United-Norwich City,2022-03-13,Matchweek 29,Sun,Away,L,1,2,Leeds United,17,11,0,4,1,1,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Norwich City,2022-04-02 Brighton-Norwich City,2022-04-02,Matchweek 31,Sat,Away,D,0,0,Brighton,10,8,0,2,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2022-04-10 Norwich City-Burnley,2022-04-10,Matchweek 32,Sun,Home,W,2,0,Burnley,31,19,4,2,2,3,1,3,1,0,0,1,1,0,14:00:00
+ENG-Premier League,2122,Norwich City,2022-04-16 Manchester Utd-Norwich City,2022-04-16,Matchweek 33,Sat,Away,L,2,3,Manchester Utd,27,21,2,2,1,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2022-04-23 Norwich City-Newcastle Utd,2022-04-23,Matchweek 34,Sat,Home,L,0,3,Newcastle Utd,10,7,0,2,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2022-04-30 Aston Villa-Norwich City,2022-04-30,Matchweek 35,Sat,Away,L,0,2,Aston Villa,17,11,2,1,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Norwich City,2022-05-08 Norwich City-West Ham,2022-05-08,Matchweek 36,Sun,Home,L,0,4,West Ham,14,10,0,2,0,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Norwich City,2022-05-11 Leicester City-Norwich City,2022-05-11,Matchweek 21,Wed,Away,L,0,3,Leicester City,14,10,1,1,2,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Norwich City,2022-05-15 Wolves-Norwich City,2022-05-15,Matchweek 37,Sun,Away,D,1,1,Wolves,20,10,4,3,0,1,2,1,1,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Norwich City,2022-05-22 Norwich City-Tottenham,2022-05-22,Matchweek 38,Sun,Home,L,0,5,Tottenham,16,10,2,0,1,1,2,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,Southampton,2021-08-14 Everton-Southampton,2021-08-14,Matchweek 1,Sat,Away,L,1,3,Everton,10,5,2,0,0,2,1,2,1,0,0,0,0,1,15:00:00
+ENG-Premier League,2122,Southampton,2021-08-22 Southampton-Manchester Utd,2021-08-22,Matchweek 2,Sun,Home,D,1,1,Manchester Utd,13,10,1,0,0,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Southampton,2021-08-28 Newcastle Utd-Southampton,2021-08-28,Matchweek 3,Sat,Away,D,2,2,Newcastle Utd,40,25,2,5,5,2,1,3,1,0,0,1,1,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-09-11 Southampton-West Ham,2021-09-11,Matchweek 4,Sat,Home,D,0,0,West Ham,18,15,1,0,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-09-18 Manchester City-Southampton,2021-09-18,Matchweek 5,Sat,Away,D,0,0,Manchester City,15,11,0,3,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-09-26 Southampton-Wolves,2021-09-26,Matchweek 6,Sun,Home,L,0,1,Wolves,30,25,0,1,2,2,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Southampton,2021-10-02 Chelsea-Southampton,2021-10-02,Matchweek 7,Sat,Away,L,1,3,Chelsea,12,10,0,0,0,1,1,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-10-16 Southampton-Leeds United,2021-10-16,Matchweek 8,Sat,Home,W,1,0,Leeds United,32,24,4,0,3,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-10-23 Southampton-Burnley,2021-10-23,Matchweek 9,Sat,Home,D,2,2,Burnley,26,23,1,1,1,0,0,3,2,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-10-30 Watford-Southampton,2021-10-30,Matchweek 10,Sat,Away,W,1,0,Watford,21,18,1,2,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-11-05 Southampton-Aston Villa,2021-11-05,Matchweek 11,Fri,Home,W,1,0,Aston Villa,17,13,2,1,0,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Southampton,2021-11-20 Norwich City-Southampton,2021-11-20,Matchweek 12,Sat,Away,L,1,2,Norwich City,27,21,1,4,1,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-11-27 Liverpool-Southampton,2021-11-27,Matchweek 13,Sat,Away,L,0,4,Liverpool,9,6,1,0,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-12-01 Southampton-Leicester City,2021-12-01,Matchweek 14,Wed,Home,D,2,2,Leicester City,25,21,2,0,1,1,0,3,2,0,0,1,0,0,19:30:00
+ENG-Premier League,2122,Southampton,2021-12-04 Southampton-Brighton,2021-12-04,Matchweek 15,Sat,Home,D,1,1,Brighton,26,18,0,5,2,1,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-12-11 Arsenal-Southampton,2021-12-11,Matchweek 16,Sat,Away,L,0,3,Arsenal,18,10,1,1,2,3,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-12-15 Crystal Palace-Southampton,2021-12-15,Matchweek 17,Wed,Away,D,2,2,Crystal Palace,24,10,5,1,2,5,1,3,1,0,0,0,1,1,19:30:00
+ENG-Premier League,2122,Southampton,2021-12-26 West Ham-Southampton,2021-12-26,Matchweek 19,Sun,Away,W,3,2,West Ham,21,15,1,2,0,2,1,6,2,1,1,0,2,0,15:00:00
+ENG-Premier League,2122,Southampton,2021-12-28 Southampton-Tottenham,2021-12-28,Matchweek 20,Tue,Home,D,1,1,Tottenham,12,8,1,2,0,0,1,2,1,0,0,0,0,1,15:00:00
+ENG-Premier League,2122,Southampton,2022-01-11 Southampton-Brentford,2022-01-11,Matchweek 18,Tue,Home,W,4,1,Brentford,20,17,3,0,0,0,0,5,4,1,0,0,0,0,19:45:00
+ENG-Premier League,2122,Southampton,2022-01-15 Wolves-Southampton,2022-01-15,Matchweek 22,Sat,Away,L,1,3,Wolves,23,17,2,1,1,2,0,1,0,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-01-22 Southampton-Manchester City,2022-01-22,Matchweek 23,Sat,Home,D,1,1,Manchester City,10,5,2,0,2,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Southampton,2022-02-09 Tottenham-Southampton,2022-02-09,Matchweek 24,Wed,Away,W,3,2,Tottenham,36,21,4,2,7,1,1,5,5,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Southampton,2022-02-12 Manchester Utd-Southampton,2022-02-12,Matchweek 25,Sat,Away,D,1,1,Manchester Utd,24,19,0,1,0,0,4,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Southampton,2022-02-19 Southampton-Everton,2022-02-19,Matchweek 26,Sat,Home,W,2,0,Everton,32,27,2,1,0,2,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-02-25 Southampton-Norwich City,2022-02-25,Matchweek 27,Fri,Home,W,2,0,Norwich City,40,25,4,4,4,2,1,2,0,0,1,1,0,0,20:00:00
+ENG-Premier League,2122,Southampton,2022-03-05 Aston Villa-Southampton,2022-03-05,Matchweek 28,Sat,Away,L,0,4,Aston Villa,19,16,1,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-03-10 Southampton-Newcastle Utd,2022-03-10,Matchweek 21,Thu,Home,L,1,2,Newcastle Utd,24,17,3,2,2,0,0,1,0,0,0,1,0,0,19:30:00
+ENG-Premier League,2122,Southampton,2022-03-13 Southampton-Watford,2022-03-13,Matchweek 29,Sun,Home,L,1,2,Watford,23,11,6,0,2,4,0,2,1,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,Southampton,2022-04-02 Leeds United-Southampton,2022-04-02,Matchweek 31,Sat,Away,D,1,1,Leeds United,24,17,2,2,1,2,0,2,0,0,1,0,1,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-04-09 Southampton-Chelsea,2022-04-09,Matchweek 32,Sat,Home,L,0,6,Chelsea,7,6,0,0,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-04-16 Southampton-Arsenal,2022-04-16,Matchweek 33,Sat,Home,W,1,0,Arsenal,11,6,2,0,1,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-04-21 Burnley-Southampton,2022-04-21,Matchweek 30,Thu,Away,L,0,2,Burnley,20,13,3,0,3,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Southampton,2022-04-24 Brighton-Southampton,2022-04-24,Matchweek 34,Sun,Away,D,2,2,Brighton,35,28,2,0,2,2,1,4,3,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Southampton,2022-04-30 Southampton-Crystal Palace,2022-04-30,Matchweek 35,Sat,Home,L,1,2,Crystal Palace,15,11,3,0,0,1,0,1,0,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-05-07 Brentford-Southampton,2022-05-07,Matchweek 36,Sat,Away,L,0,3,Brentford,36,27,3,0,3,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Southampton,2022-05-17 Southampton-Liverpool,2022-05-17,Matchweek 37,Tue,Home,L,1,2,Liverpool,7,5,0,0,0,1,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Southampton,2022-05-22 Leicester City-Southampton,2022-05-22,Matchweek 38,Sun,Away,L,1,4,Leicester City,12,9,0,1,0,2,0,2,0,0,1,0,1,0,16:00:00
+ENG-Premier League,2122,Tottenham,2021-08-15 Tottenham-Manchester City,2021-08-15,Matchweek 1,Sun,Home,W,1,0,Manchester City,21,14,2,1,1,3,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2021-08-22 Wolves-Tottenham,2021-08-22,Matchweek 2,Sun,Away,W,1,0,Wolves,12,5,1,2,3,1,0,2,1,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Tottenham,2021-08-29 Tottenham-Watford,2021-08-29,Matchweek 3,Sun,Home,W,1,0,Watford,24,18,2,0,0,4,0,2,1,0,0,0,1,0,14:00:00
+ENG-Premier League,2122,Tottenham,2021-09-11 Crystal Palace-Tottenham,2021-09-11,Matchweek 4,Sat,Away,L,0,3,Crystal Palace,4,3,0,1,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Tottenham,2021-09-19 Tottenham-Chelsea,2021-09-19,Matchweek 5,Sun,Home,L,0,3,Chelsea,16,12,1,0,1,2,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2021-09-26 Arsenal-Tottenham,2021-09-26,Matchweek 6,Sun,Away,L,1,3,Arsenal,18,12,3,0,2,0,1,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2021-10-03 Tottenham-Aston Villa,2021-10-03,Matchweek 7,Sun,Home,W,2,1,Aston Villa,32,28,0,1,1,2,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Tottenham,2021-10-17 Newcastle Utd-Tottenham,2021-10-17,Matchweek 8,Sun,Away,W,3,2,Newcastle Utd,25,17,2,2,3,1,0,6,6,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2021-10-24 West Ham-Tottenham,2021-10-24,Matchweek 9,Sun,Away,L,0,1,West Ham,13,10,0,0,1,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Tottenham,2021-10-30 Tottenham-Manchester Utd,2021-10-30,Matchweek 10,Sat,Home,L,0,3,Manchester Utd,16,9,2,3,1,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Tottenham,2021-11-07 Everton-Tottenham,2021-11-07,Matchweek 11,Sun,Away,D,0,0,Everton,15,13,0,1,0,0,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Tottenham,2021-11-21 Tottenham-Leeds United,2021-11-21,Matchweek 12,Sun,Home,W,2,1,Leeds United,23,18,0,2,2,1,0,3,1,0,0,2,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2021-12-02 Tottenham-Brentford,2021-12-02,Matchweek 14,Thu,Home,W,2,0,Brentford,20,16,1,1,2,0,0,2,2,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Tottenham,2021-12-05 Tottenham-Norwich City,2021-12-05,Matchweek 15,Sun,Home,W,3,0,Norwich City,30,21,3,2,3,1,0,6,4,1,0,1,0,0,14:00:00
+ENG-Premier League,2122,Tottenham,2021-12-19 Tottenham-Liverpool,2021-12-19,Matchweek 18,Sun,Home,D,2,2,Liverpool,20,17,2,1,0,0,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2021-12-26 Tottenham-Crystal Palace,2021-12-26,Matchweek 19,Sun,Home,W,3,0,Crystal Palace,32,26,2,1,2,0,1,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Tottenham,2021-12-28 Southampton-Tottenham,2021-12-28,Matchweek 20,Tue,Away,D,1,1,Southampton,40,31,2,1,3,3,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Tottenham,2022-01-01 Watford-Tottenham,2022-01-01,Matchweek 21,Sat,Away,W,1,0,Watford,38,34,1,0,2,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,2122,Tottenham,2022-01-19 Leicester City-Tottenham,2022-01-19,Matchweek 17,Wed,Away,W,3,2,Leicester City,45,27,3,9,5,1,0,6,4,0,2,0,0,0,19:30:00
+ENG-Premier League,2122,Tottenham,2022-01-23 Chelsea-Tottenham,2022-01-23,Matchweek 23,Sun,Away,L,0,2,Chelsea,12,8,2,2,0,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2022-02-09 Tottenham-Southampton,2022-02-09,Matchweek 24,Wed,Home,L,2,3,Southampton,16,14,1,0,0,1,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Tottenham,2022-02-13 Tottenham-Wolves,2022-02-13,Matchweek 25,Sun,Home,L,0,2,Wolves,29,20,3,1,2,3,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Tottenham,2022-02-19 Manchester City-Tottenham,2022-02-19,Matchweek 26,Sat,Away,W,3,2,Manchester City,12,12,0,0,0,0,0,6,6,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Tottenham,2022-02-23 Burnley-Tottenham,2022-02-23,Matchweek 13,Wed,Away,L,0,1,Burnley,22,16,1,2,2,1,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Tottenham,2022-02-26 Leeds United-Tottenham,2022-02-26,Matchweek 27,Sat,Away,W,4,0,Leeds United,29,21,4,1,2,1,0,8,8,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Tottenham,2022-03-07 Tottenham-Everton,2022-03-07,Matchweek 28,Mon,Home,W,5,0,Everton,26,23,1,0,1,1,0,8,8,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Tottenham,2022-03-12 Manchester Utd-Tottenham,2022-03-12,Matchweek 29,Sat,Away,L,2,3,Manchester Utd,17,12,1,0,2,1,1,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Tottenham,2022-03-16 Brighton-Tottenham,2022-03-16,Matchweek 16,Wed,Away,W,2,0,Brighton,26,20,0,2,3,1,0,3,2,0,0,1,0,0,19:30:00
+ENG-Premier League,2122,Tottenham,2022-03-20 Tottenham-West Ham,2022-03-20,Matchweek 30,Sun,Home,W,3,1,West Ham,32,28,0,1,2,1,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2022-04-03 Tottenham-Newcastle Utd,2022-04-03,Matchweek 31,Sun,Home,W,5,1,Newcastle Utd,38,34,1,1,1,1,0,10,9,0,1,0,0,0,16:30:00
+ENG-Premier League,2122,Tottenham,2022-04-09 Aston Villa-Tottenham,2022-04-09,Matchweek 32,Sat,Away,W,4,0,Aston Villa,17,14,0,0,3,0,0,7,6,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Tottenham,2022-04-16 Tottenham-Brighton,2022-04-16,Matchweek 33,Sat,Home,L,0,1,Brighton,8,6,1,0,1,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Tottenham,2022-04-23 Brentford-Tottenham,2022-04-23,Matchweek 34,Sat,Away,D,0,0,Brentford,16,12,1,0,2,0,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Tottenham,2022-05-01 Tottenham-Leicester City,2022-05-01,Matchweek 35,Sun,Home,W,3,1,Leicester City,24,18,3,0,1,1,1,6,3,1,0,1,0,1,14:00:00
+ENG-Premier League,2122,Tottenham,2022-05-07 Liverpool-Tottenham,2022-05-07,Matchweek 36,Sat,Away,D,1,1,Liverpool,15,13,1,0,0,0,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Tottenham,2022-05-12 Tottenham-Arsenal,2022-05-12,Matchweek 22,Thu,Home,W,3,0,Arsenal,28,17,2,2,4,2,1,3,1,0,0,1,1,0,19:45:00
+ENG-Premier League,2122,Tottenham,2022-05-15 Tottenham-Burnley,2022-05-15,Matchweek 37,Sun,Home,W,1,0,Burnley,39,34,2,1,2,0,0,1,1,0,0,0,0,0,12:00:00
+ENG-Premier League,2122,Tottenham,2022-05-22 Norwich City-Tottenham,2022-05-22,Matchweek 38,Sun,Away,W,5,0,Norwich City,32,25,0,5,1,1,0,9,7,0,1,0,1,0,16:00:00
+ENG-Premier League,2122,Watford,2021-08-14 Watford-Aston Villa,2021-08-14,Matchweek 1,Sat,Home,W,3,2,Aston Villa,24,16,2,4,1,1,0,5,3,0,1,1,0,0,15:00:00
+ENG-Premier League,2122,Watford,2021-08-21 Brighton-Watford,2021-08-21,Matchweek 2,Sat,Away,L,0,2,Brighton,20,19,0,0,1,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Watford,2021-08-29 Tottenham-Watford,2021-08-29,Matchweek 3,Sun,Away,L,0,1,Tottenham,17,12,2,2,0,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Watford,2021-09-11 Watford-Wolves,2021-09-11,Matchweek 4,Sat,Home,L,0,2,Wolves,11,9,0,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2021-09-18 Norwich City-Watford,2021-09-18,Matchweek 5,Sat,Away,W,3,1,Norwich City,20,17,2,0,1,0,0,5,4,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Watford,2021-09-25 Watford-Newcastle Utd,2021-09-25,Matchweek 6,Sat,Home,D,1,1,Newcastle Utd,28,22,2,2,0,2,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2021-10-02 Leeds United-Watford,2021-10-02,Matchweek 7,Sat,Away,L,0,1,Leeds United,6,6,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2021-10-16 Watford-Liverpool,2021-10-16,Matchweek 8,Sat,Home,L,0,5,Liverpool,9,8,0,1,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Watford,2021-10-23 Everton-Watford,2021-10-23,Matchweek 9,Sat,Away,W,5,2,Everton,33,22,3,4,3,1,0,10,5,1,2,1,1,0,15:00:00
+ENG-Premier League,2122,Watford,2021-10-30 Watford-Southampton,2021-10-30,Matchweek 10,Sat,Home,L,0,1,Southampton,18,15,1,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2021-11-07 Arsenal-Watford,2021-11-07,Matchweek 11,Sun,Away,L,0,1,Arsenal,13,11,1,1,0,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Watford,2021-11-20 Watford-Manchester Utd,2021-11-20,Matchweek 12,Sat,Home,W,4,1,Manchester Utd,32,19,4,0,3,3,3,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2021-11-28 Leicester City-Watford,2021-11-28,Matchweek 13,Sun,Away,L,2,4,Leicester City,29,13,6,2,3,4,1,3,1,0,0,0,1,1,14:00:00
+ENG-Premier League,2122,Watford,2021-12-01 Watford-Chelsea,2021-12-01,Matchweek 14,Wed,Home,L,1,2,Chelsea,27,19,3,0,1,3,1,2,1,0,0,0,0,1,19:30:00
+ENG-Premier League,2122,Watford,2021-12-04 Watford-Manchester City,2021-12-04,Matchweek 15,Sat,Home,L,1,3,Manchester City,20,12,3,2,2,1,0,1,0,0,0,1,0,0,17:30:00
+ENG-Premier League,2122,Watford,2021-12-10 Brentford-Watford,2021-12-10,Matchweek 16,Fri,Away,L,1,2,Brentford,12,7,2,0,1,1,1,2,0,1,0,1,0,0,20:00:00
+ENG-Premier League,2122,Watford,2021-12-28 Watford-West Ham,2021-12-28,Matchweek 20,Tue,Home,L,1,4,West Ham,23,14,2,2,2,3,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-01-01 Watford-Tottenham,2022-01-01,Matchweek 21,Sat,Home,L,0,1,Tottenham,11,5,1,1,1,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-01-15 Newcastle Utd-Watford,2022-01-15,Matchweek 22,Sat,Away,D,1,1,Newcastle Utd,31,25,1,2,1,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-01-21 Watford-Norwich City,2022-01-21,Matchweek 23,Fri,Home,L,0,3,Norwich City,25,17,3,3,1,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Watford,2022-02-05 Burnley-Watford,2022-02-05,Matchweek 17,Sat,Away,D,0,0,Burnley,18,14,1,1,2,0,0,0,0,0,0,0,0,0,18:00:00
+ENG-Premier League,2122,Watford,2022-02-08 West Ham-Watford,2022-02-08,Matchweek 24,Tue,Away,L,0,1,West Ham,9,8,0,1,0,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Watford,2022-02-12 Watford-Brighton,2022-02-12,Matchweek 25,Sat,Home,L,0,2,Brighton,15,10,0,3,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-02-19 Aston Villa-Watford,2022-02-19,Matchweek 26,Sat,Away,W,1,0,Aston Villa,16,14,0,1,0,0,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-02-23 Watford-Crystal Palace,2022-02-23,Matchweek 18,Wed,Home,L,1,4,Crystal Palace,16,11,3,0,2,0,0,2,0,1,0,1,0,0,19:30:00
+ENG-Premier League,2122,Watford,2022-02-26 Manchester Utd-Watford,2022-02-26,Matchweek 27,Sat,Away,D,0,0,Manchester Utd,15,11,1,1,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-03-06 Watford-Arsenal,2022-03-06,Matchweek 28,Sun,Home,L,2,3,Arsenal,26,18,0,4,0,3,1,4,3,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,Watford,2022-03-10 Wolves-Watford,2022-03-10,Matchweek 19,Thu,Away,L,0,4,Wolves,15,10,0,1,1,2,1,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Watford,2022-03-13 Southampton-Watford,2022-03-13,Matchweek 29,Sun,Away,W,2,1,Southampton,14,13,0,1,0,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Watford,2022-04-02 Liverpool-Watford,2022-04-02,Matchweek 31,Sat,Away,L,0,2,Liverpool,10,8,1,0,0,0,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Watford,2022-04-09 Watford-Leeds United,2022-04-09,Matchweek 32,Sat,Home,L,0,3,Leeds United,14,7,1,3,0,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-04-16 Watford-Brentford,2022-04-16,Matchweek 33,Sat,Home,L,1,2,Brentford,27,17,0,1,7,2,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-04-23 Manchester City-Watford,2022-04-23,Matchweek 34,Sat,Away,L,1,5,Manchester City,9,5,2,1,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-04-30 Watford-Burnley,2022-04-30,Matchweek 35,Sat,Home,L,1,2,Burnley,23,15,2,1,2,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-05-07 Crystal Palace-Watford,2022-05-07,Matchweek 36,Sat,Away,L,0,1,Crystal Palace,8,2,3,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Watford,2022-05-11 Watford-Everton,2022-05-11,Matchweek 30,Wed,Home,D,0,0,Everton,11,3,2,0,1,5,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Watford,2022-05-15 Watford-Leicester City,2022-05-15,Matchweek 37,Sun,Home,L,1,5,Leicester City,23,11,5,0,3,2,2,2,0,1,0,0,1,0,14:00:00
+ENG-Premier League,2122,Watford,2022-05-22 Chelsea-Watford,2022-05-22,Matchweek 38,Sun,Away,L,1,2,Chelsea,15,10,0,2,0,2,1,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,West Ham,2021-08-15 Newcastle Utd-West Ham,2021-08-15,Matchweek 1,Sun,Away,W,4,2,Newcastle Utd,31,20,2,3,4,2,0,7,6,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2021-08-23 West Ham-Leicester City,2021-08-23,Matchweek 2,Mon,Home,W,4,1,Leicester City,35,28,5,2,0,0,0,7,7,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,West Ham,2021-08-28 West Ham-Crystal Palace,2021-08-28,Matchweek 3,Sat,Home,D,2,2,Crystal Palace,21,15,2,1,3,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,West Ham,2021-09-11 Southampton-West Ham,2021-09-11,Matchweek 4,Sat,Away,D,0,0,Southampton,20,13,3,0,2,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,West Ham,2021-09-19 West Ham-Manchester Utd,2021-09-19,Matchweek 5,Sun,Home,L,1,2,Manchester Utd,22,18,0,3,1,0,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2021-09-25 Leeds United-West Ham,2021-09-25,Matchweek 6,Sat,Away,W,2,1,Leeds United,35,22,6,3,1,2,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,2122,West Ham,2021-10-03 West Ham-Brentford,2021-10-03,Matchweek 7,Sun,Home,L,1,2,Brentford,31,22,4,1,3,1,0,2,1,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2021-10-17 Everton-West Ham,2021-10-17,Matchweek 8,Sun,Away,W,1,0,Everton,28,22,1,1,3,0,1,2,0,1,0,1,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2021-10-24 West Ham-Tottenham,2021-10-24,Matchweek 9,Sun,Home,W,1,0,Tottenham,22,17,1,1,2,0,1,2,0,1,0,1,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2021-10-31 Aston Villa-West Ham,2021-10-31,Matchweek 10,Sun,Away,W,4,1,Aston Villa,36,21,2,3,5,4,1,7,6,0,0,1,0,0,16:30:00
+ENG-Premier League,2122,West Ham,2021-11-07 West Ham-Liverpool,2021-11-07,Matchweek 11,Sun,Home,W,3,2,Liverpool,12,8,2,1,1,0,0,4,1,1,1,1,0,0,16:30:00
+ENG-Premier League,2122,West Ham,2021-11-20 Wolves-West Ham,2021-11-20,Matchweek 12,Sat,Away,L,0,1,Wolves,14,12,1,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,West Ham,2021-11-28 Manchester City-West Ham,2021-11-28,Matchweek 13,Sun,Away,L,1,2,Manchester City,10,7,1,0,0,1,1,2,1,0,0,0,0,1,14:00:00
+ENG-Premier League,2122,West Ham,2021-12-01 West Ham-Brighton,2021-12-01,Matchweek 14,Wed,Home,D,1,1,Brighton,24,18,2,3,1,0,0,2,0,2,0,0,0,0,19:30:00
+ENG-Premier League,2122,West Ham,2021-12-04 West Ham-Chelsea,2021-12-04,Matchweek 15,Sat,Home,W,3,2,Chelsea,15,12,2,0,0,1,0,5,3,1,0,0,1,0,12:30:00
+ENG-Premier League,2122,West Ham,2021-12-12 Burnley-West Ham,2021-12-12,Matchweek 16,Sun,Away,D,0,0,Burnley,29,22,3,1,2,1,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2021-12-15 Arsenal-West Ham,2021-12-15,Matchweek 17,Wed,Away,L,0,2,Arsenal,12,10,0,0,0,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,West Ham,2021-12-26 West Ham-Southampton,2021-12-26,Matchweek 19,Sun,Home,L,2,3,Southampton,19,17,1,1,0,0,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,West Ham,2021-12-28 Watford-West Ham,2021-12-28,Matchweek 20,Tue,Away,W,4,1,Watford,21,15,2,1,2,1,0,7,5,0,1,0,1,0,15:00:00
+ENG-Premier League,2122,West Ham,2022-01-01 Crystal Palace-West Ham,2022-01-01,Matchweek 21,Sat,Away,W,3,2,Crystal Palace,17,13,1,2,1,0,0,5,4,0,1,0,0,0,17:30:00
+ENG-Premier League,2122,West Ham,2022-01-12 West Ham-Norwich City,2022-01-12,Matchweek 18,Wed,Home,W,2,0,Norwich City,24,17,3,2,1,1,0,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,West Ham,2022-01-16 West Ham-Leeds United,2022-01-16,Matchweek 22,Sun,Home,L,2,3,Leeds United,28,18,7,1,0,1,1,4,3,1,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-01-22 Manchester Utd-West Ham,2022-01-22,Matchweek 23,Sat,Away,L,0,1,Manchester Utd,10,6,1,1,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,West Ham,2022-02-08 West Ham-Watford,2022-02-08,Matchweek 24,Tue,Home,W,1,0,Watford,16,13,1,0,2,0,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,West Ham,2022-02-13 Leicester City-West Ham,2022-02-13,Matchweek 25,Sun,Away,D,2,2,Leicester City,14,11,1,1,1,0,0,4,2,1,0,1,0,0,16:30:00
+ENG-Premier League,2122,West Ham,2022-02-19 West Ham-Newcastle Utd,2022-02-19,Matchweek 26,Sat,Home,D,1,1,Newcastle Utd,17,14,1,0,1,1,0,2,0,1,0,0,1,0,12:30:00
+ENG-Premier League,2122,West Ham,2022-02-27 West Ham-Wolves,2022-02-27,Matchweek 27,Sun,Home,W,1,0,Wolves,23,16,2,2,2,1,0,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-03-05 Liverpool-West Ham,2022-03-05,Matchweek 28,Sat,Away,L,0,1,Liverpool,23,16,1,2,4,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,West Ham,2022-03-13 West Ham-Aston Villa,2022-03-13,Matchweek 29,Sun,Home,W,2,1,Aston Villa,20,14,2,3,1,0,0,4,4,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-03-20 Tottenham-West Ham,2022-03-20,Matchweek 30,Sun,Away,L,1,3,Tottenham,10,8,0,1,1,0,0,1,0,0,0,1,0,0,16:30:00
+ENG-Premier League,2122,West Ham,2022-04-03 West Ham-Everton,2022-04-03,Matchweek 31,Sun,Home,W,2,1,Everton,19,15,0,1,1,2,0,3,1,0,0,1,1,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-04-10 Brentford-West Ham,2022-04-10,Matchweek 32,Sun,Away,L,0,2,Brentford,6,4,2,0,0,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-04-17 West Ham-Burnley,2022-04-17,Matchweek 33,Sun,Home,D,1,1,Burnley,40,30,2,3,2,2,1,2,1,0,0,0,1,0,14:15:00
+ENG-Premier League,2122,West Ham,2022-04-24 Chelsea-West Ham,2022-04-24,Matchweek 34,Sun,Away,L,0,1,Chelsea,9,6,1,1,1,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-05-01 West Ham-Arsenal,2022-05-01,Matchweek 35,Sun,Home,L,1,2,Arsenal,15,13,2,0,0,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,West Ham,2022-05-08 Norwich City-West Ham,2022-05-08,Matchweek 36,Sun,Away,W,4,0,Norwich City,23,19,1,0,2,1,0,7,6,0,0,1,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-05-15 West Ham-Manchester City,2022-05-15,Matchweek 37,Sun,Home,D,2,2,Manchester City,8,7,0,1,0,0,0,4,3,0,1,0,0,0,14:00:00
+ENG-Premier League,2122,West Ham,2022-05-22 Brighton-West Ham,2022-05-22,Matchweek 38,Sun,Away,L,1,3,Brighton,11,10,0,0,0,1,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,2122,Wolves,2021-08-14 Leicester City-Wolves,2021-08-14,Matchweek 1,Sat,Away,L,0,1,Leicester City,28,20,0,5,2,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-08-22 Wolves-Tottenham,2021-08-22,Matchweek 2,Sun,Home,L,0,1,Tottenham,46,34,2,5,2,1,2,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2021-08-29 Wolves-Manchester Utd,2021-08-29,Matchweek 3,Sun,Home,L,0,1,Manchester Utd,25,17,1,5,1,0,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Wolves,2021-09-11 Watford-Wolves,2021-09-11,Matchweek 4,Sat,Away,W,2,0,Watford,27,15,3,5,2,2,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-09-18 Wolves-Brentford,2021-09-18,Matchweek 5,Sat,Home,L,0,2,Brentford,20,15,0,3,1,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Wolves,2021-09-26 Southampton-Wolves,2021-09-26,Matchweek 6,Sun,Away,W,1,0,Southampton,8,4,1,2,1,0,0,2,0,0,2,0,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2021-10-02 Wolves-Newcastle Utd,2021-10-02,Matchweek 7,Sat,Home,W,2,1,Newcastle Utd,13,11,0,2,0,0,0,4,2,0,2,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-10-16 Aston Villa-Wolves,2021-10-16,Matchweek 8,Sat,Away,W,3,2,Aston Villa,17,14,0,2,0,1,0,6,5,0,0,0,1,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-10-23 Leeds United-Wolves,2021-10-23,Matchweek 9,Sat,Away,D,1,1,Leeds United,11,5,2,2,1,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-11-01 Wolves-Everton,2021-11-01,Matchweek 10,Mon,Home,W,2,1,Everton,17,11,2,1,2,1,0,2,0,1,0,1,0,0,20:00:00
+ENG-Premier League,2122,Wolves,2021-11-06 Crystal Palace-Wolves,2021-11-06,Matchweek 11,Sat,Away,L,0,2,Crystal Palace,7,3,1,0,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-11-20 Wolves-West Ham,2021-11-20,Matchweek 12,Sat,Home,W,1,0,West Ham,27,19,3,2,2,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-11-27 Norwich City-Wolves,2021-11-27,Matchweek 13,Sat,Away,D,0,0,Norwich City,6,6,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-12-01 Wolves-Burnley,2021-12-01,Matchweek 14,Wed,Home,D,0,0,Burnley,27,23,0,3,1,0,0,0,0,0,0,0,0,0,19:30:00
+ENG-Premier League,2122,Wolves,2021-12-04 Wolves-Liverpool,2021-12-04,Matchweek 15,Sat,Home,L,0,1,Liverpool,5,1,0,3,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2021-12-11 Manchester City-Wolves,2021-12-11,Matchweek 16,Sat,Away,L,0,1,Manchester City,4,2,1,0,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,2122,Wolves,2021-12-15 Brighton-Wolves,2021-12-15,Matchweek 17,Wed,Away,W,1,0,Brighton,15,12,2,0,0,1,0,2,1,1,0,0,0,0,19:30:00
+ENG-Premier League,2122,Wolves,2021-12-19 Wolves-Chelsea,2021-12-19,Matchweek 18,Sun,Home,D,0,0,Chelsea,6,3,0,1,1,0,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2022-01-03 Manchester Utd-Wolves,2022-01-03,Matchweek 21,Mon,Away,W,1,0,Manchester Utd,31,20,3,2,3,2,1,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,2122,Wolves,2022-01-15 Wolves-Southampton,2022-01-15,Matchweek 22,Sat,Home,W,3,1,Southampton,16,8,1,1,3,2,1,5,2,0,0,2,1,0,15:00:00
+ENG-Premier League,2122,Wolves,2022-01-22 Brentford-Wolves,2022-01-22,Matchweek 23,Sat,Away,W,2,1,Brentford,14,14,0,0,0,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2022-02-10 Wolves-Arsenal,2022-02-10,Matchweek 24,Thu,Home,L,0,1,Arsenal,30,25,2,0,1,2,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,2122,Wolves,2022-02-13 Tottenham-Wolves,2022-02-13,Matchweek 25,Sun,Away,W,2,0,Tottenham,16,12,0,1,3,0,0,2,0,0,0,2,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2022-02-20 Wolves-Leicester City,2022-02-20,Matchweek 26,Sun,Home,W,2,1,Leicester City,19,10,5,0,1,2,1,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,2122,Wolves,2022-02-24 Arsenal-Wolves,2022-02-24,Matchweek 20,Thu,Away,L,1,2,Arsenal,9,6,0,2,1,0,0,1,0,0,1,0,0,0,19:45:00
+ENG-Premier League,2122,Wolves,2022-02-27 West Ham-Wolves,2022-02-27,Matchweek 27,Sun,Away,L,0,1,West Ham,24,23,0,1,0,0,0,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2022-03-05 Wolves-Crystal Palace,2022-03-05,Matchweek 28,Sat,Home,L,0,2,Crystal Palace,19,15,2,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2022-03-10 Wolves-Watford,2022-03-10,Matchweek 19,Thu,Home,W,4,0,Watford,17,15,0,1,0,0,1,5,4,0,0,0,0,1,19:30:00
+ENG-Premier League,2122,Wolves,2022-03-13 Everton-Wolves,2022-03-13,Matchweek 29,Sun,Away,W,1,0,Everton,28,22,2,2,0,1,1,2,2,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2022-03-18 Wolves-Leeds United,2022-03-18,Matchweek 30,Fri,Home,L,2,3,Leeds United,26,18,3,3,0,2,0,4,3,1,0,0,0,0,20:00:00
+ENG-Premier League,2122,Wolves,2022-04-02 Wolves-Aston Villa,2022-04-02,Matchweek 31,Sat,Home,W,2,1,Aston Villa,14,7,1,1,3,1,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2022-04-08 Newcastle Utd-Wolves,2022-04-08,Matchweek 32,Fri,Away,L,0,1,Newcastle Utd,9,6,0,2,0,0,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,2122,Wolves,2022-04-24 Burnley-Wolves,2022-04-24,Matchweek 34,Sun,Away,L,0,1,Burnley,18,12,1,4,0,0,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2022-04-30 Wolves-Brighton,2022-04-30,Matchweek 35,Sat,Home,L,0,3,Brighton,18,14,0,1,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,2122,Wolves,2022-05-07 Chelsea-Wolves,2022-05-07,Matchweek 36,Sat,Away,D,2,2,Chelsea,21,11,2,1,2,2,3,4,3,0,0,0,0,1,15:00:00
+ENG-Premier League,2122,Wolves,2022-05-11 Wolves-Manchester City,2022-05-11,Matchweek 33,Wed,Home,L,1,5,Manchester City,12,10,1,1,0,0,0,2,2,0,0,0,0,0,20:15:00
+ENG-Premier League,2122,Wolves,2022-05-15 Wolves-Norwich City,2022-05-15,Matchweek 37,Sun,Home,D,1,1,Norwich City,29,21,2,1,0,3,2,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,2122,Wolves,2022-05-22 Liverpool-Wolves,2022-05-22,Matchweek 38,Sun,Away,L,1,3,Liverpool,13,12,1,0,0,0,0,2,1,1,0,0,0,0,16:00:00

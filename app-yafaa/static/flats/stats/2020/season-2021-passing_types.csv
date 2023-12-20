@@ -1,0 +1,763 @@
+,,,,date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes,time
+,,,,,,,,,,,,,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,
+league,season,team,game,,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,2021,Arsenal,2020-09-12 Fulham-Arsenal,2020-09-12,Matchweek 1,Sat,Away,W,3,0,Fulham,668,625,41,12,2,6,16,21,3,1,1,0,589,2,9,12:30:00
+ENG-Premier League,2021,Arsenal,2020-09-19 Arsenal-West Ham,2020-09-19,Matchweek 2,Sat,Home,W,2,1,West Ham,710,663,42,15,3,5,17,13,7,2,2,1,599,5,14,20:00:00
+ENG-Premier League,2021,Arsenal,2020-09-28 Liverpool-Arsenal,2020-09-28,Matchweek 3,Mon,Away,L,1,3,Liverpool,425,382,38,11,4,3,8,11,3,2,1,0,312,5,11,20:00:00
+ENG-Premier League,2021,Arsenal,2020-10-04 Arsenal-Sheffield Utd,2020-10-04,Matchweek 4,Sun,Home,W,2,1,Sheffield Utd,741,694,47,12,1,4,18,22,2,0,1,1,646,0,12,14:00:00
+ENG-Premier League,2021,Arsenal,2020-10-17 Manchester City-Arsenal,2020-10-17,Matchweek 5,Sat,Away,L,0,1,Manchester City,496,454,40,13,2,1,13,15,6,3,1,2,411,2,4,17:30:00
+ENG-Premier League,2021,Arsenal,2020-10-25 Arsenal-Leicester City,2020-10-25,Matchweek 6,Sun,Home,L,0,1,Leicester City,621,580,40,8,0,7,20,19,9,6,1,0,525,1,13,19:15:00
+ENG-Premier League,2021,Arsenal,2020-11-01 Manchester Utd-Arsenal,2020-11-01,Matchweek 7,Sun,Away,W,1,0,Manchester Utd,526,494,32,15,0,1,16,9,3,3,0,0,438,0,10,16:30:00
+ENG-Premier League,2021,Arsenal,2020-11-08 Arsenal-Aston Villa,2020-11-08,Matchweek 8,Sun,Home,L,0,3,Aston Villa,588,542,45,14,0,6,25,23,3,1,0,1,481,1,4,19:15:00
+ENG-Premier League,2021,Arsenal,2020-11-22 Leeds United-Arsenal,2020-11-22,Matchweek 9,Sun,Away,D,0,0,Leeds United,343,297,44,7,1,1,13,16,3,3,0,0,236,2,4,16:30:00
+ENG-Premier League,2021,Arsenal,2020-11-29 Arsenal-Wolves,2020-11-29,Matchweek 10,Sun,Home,L,1,2,Wolves,557,509,46,11,2,3,35,21,8,1,3,0,447,2,9,19:15:00
+ENG-Premier League,2021,Arsenal,2020-12-06 Tottenham-Arsenal,2020-12-06,Matchweek 11,Sun,Away,L,0,2,Tottenham,697,650,47,16,0,0,44,17,9,5,2,1,574,0,6,16:30:00
+ENG-Premier League,2021,Arsenal,2020-12-13 Arsenal-Burnley,2020-12-13,Matchweek 12,Sun,Home,L,0,1,Burnley,634,560,71,14,0,2,38,31,13,4,4,0,501,3,8,19:15:00
+ENG-Premier League,2021,Arsenal,2020-12-16 Arsenal-Southampton,2020-12-16,Matchweek 13,Wed,Home,D,1,1,Southampton,377,335,41,14,0,5,11,18,2,1,0,0,287,1,8,18:00:00
+ENG-Premier League,2021,Arsenal,2020-12-19 Everton-Arsenal,2020-12-19,Matchweek 14,Sat,Away,L,1,2,Everton,592,555,37,7,0,7,19,16,3,1,1,0,513,0,5,17:30:00
+ENG-Premier League,2021,Arsenal,2020-12-26 Arsenal-Chelsea,2020-12-26,Matchweek 15,Sat,Home,W,3,1,Chelsea,373,318,54,7,0,3,16,24,7,2,2,0,249,1,9,17:30:00
+ENG-Premier League,2021,Arsenal,2020-12-29 Brighton-Arsenal,2020-12-29,Matchweek 16,Tue,Away,W,1,0,Brighton,549,510,39,10,1,2,13,17,4,2,1,0,463,0,8,18:00:00
+ENG-Premier League,2021,Arsenal,2021-01-02 West Brom-Arsenal,2021-01-02,Matchweek 17,Sat,Away,W,4,0,West Brom,672,633,37,9,1,4,21,19,5,2,3,0,543,2,12,20:00:00
+ENG-Premier League,2021,Arsenal,2021-01-14 Arsenal-Crystal Palace,2021-01-14,Matchweek 18,Thu,Home,D,0,0,Crystal Palace,738,698,39,12,0,7,25,13,7,4,1,2,626,1,10,20:00:00
+ENG-Premier League,2021,Arsenal,2021-01-18 Arsenal-Newcastle Utd,2021-01-18,Matchweek 19,Mon,Home,W,3,0,Newcastle Utd,679,643,32,8,0,4,26,10,7,1,3,1,592,4,10,20:00:00
+ENG-Premier League,2021,Arsenal,2021-01-26 Southampton-Arsenal,2021-01-26,Matchweek 20,Tue,Away,W,3,1,Southampton,398,346,50,12,3,6,16,22,5,1,2,0,300,2,8,20:15:00
+ENG-Premier League,2021,Arsenal,2021-01-30 Arsenal-Manchester Utd,2021-01-30,Matchweek 21,Sat,Home,D,0,0,Manchester Utd,461,425,36,14,1,3,12,9,4,3,0,1,368,0,6,17:30:00
+ENG-Premier League,2021,Arsenal,2021-02-02 Wolves-Arsenal,2021-02-02,Matchweek 22,Tue,Away,L,1,2,Wolves,517,481,33,12,1,2,12,8,6,4,1,0,451,3,2,18:00:00
+ENG-Premier League,2021,Arsenal,2021-02-06 Aston Villa-Arsenal,2021-02-06,Matchweek 23,Sat,Away,L,0,1,Aston Villa,658,619,39,12,0,4,40,15,7,4,1,1,550,0,14,12:30:00
+ENG-Premier League,2021,Arsenal,2021-02-14 Arsenal-Leeds United,2021-02-14,Matchweek 24,Sun,Home,W,4,2,Leeds United,468,413,53,16,0,4,9,23,4,1,2,1,356,2,7,16:30:00
+ENG-Premier League,2021,Arsenal,2021-02-21 Arsenal-Manchester City,2021-02-21,Matchweek 25,Sun,Home,L,0,1,Manchester City,509,473,35,12,1,1,14,9,1,0,1,0,424,1,4,16:30:00
+ENG-Premier League,2021,Arsenal,2021-02-28 Leicester City-Arsenal,2021-02-28,Matchweek 26,Sun,Away,W,3,1,Leicester City,561,509,51,14,0,5,23,25,7,3,4,0,455,1,9,12:00:00
+ENG-Premier League,2021,Arsenal,2021-03-06 Burnley-Arsenal,2021-03-06,Matchweek 27,Sat,Away,D,1,1,Burnley,648,606,40,7,0,2,16,22,3,1,1,0,520,2,12,12:30:00
+ENG-Premier League,2021,Arsenal,2021-03-14 Arsenal-Tottenham,2021-03-14,Matchweek 28,Sun,Home,W,2,1,Tottenham,565,529,36,14,0,1,26,13,6,3,1,0,468,0,18,16:30:00
+ENG-Premier League,2021,Arsenal,2021-03-21 West Ham-Arsenal,2021-03-21,Matchweek 29,Sun,Away,D,3,3,West Ham,652,600,52,19,2,1,27,18,5,2,2,0,548,0,4,15:00:00
+ENG-Premier League,2021,Arsenal,2021-04-03 Arsenal-Liverpool,2021-04-03,Matchweek 30,Sat,Home,L,0,3,Liverpool,425,380,45,13,0,2,7,19,1,1,0,0,318,0,5,20:00:00
+ENG-Premier League,2021,Arsenal,2021-04-11 Sheffield Utd-Arsenal,2021-04-11,Matchweek 31,Sun,Away,W,3,0,Sheffield Utd,616,567,46,10,3,4,9,25,4,1,3,0,539,3,5,19:00:00
+ENG-Premier League,2021,Arsenal,2021-04-18 Arsenal-Fulham,2021-04-18,Matchweek 32,Sun,Home,D,1,1,Fulham,689,643,41,10,2,5,30,16,11,6,3,0,587,5,7,13:30:00
+ENG-Premier League,2021,Arsenal,2021-04-23 Arsenal-Everton,2021-04-23,Matchweek 33,Fri,Home,L,0,1,Everton,679,634,43,11,0,4,27,19,7,1,6,0,602,2,4,20:00:00
+ENG-Premier League,2021,Arsenal,2021-05-02 Newcastle Utd-Arsenal,2021-05-02,Matchweek 34,Sun,Away,W,2,0,Newcastle Utd,680,646,33,10,1,7,17,11,7,3,2,0,613,1,4,14:00:00
+ENG-Premier League,2021,Arsenal,2021-05-09 Arsenal-West Brom,2021-05-09,Matchweek 35,Sun,Home,W,3,1,West Brom,618,576,41,10,0,2,16,17,6,0,3,0,521,1,4,19:00:00
+ENG-Premier League,2021,Arsenal,2021-05-12 Chelsea-Arsenal,2021-05-12,Matchweek 36,Wed,Away,W,1,0,Chelsea,402,359,41,11,0,0,9,16,1,0,0,0,310,2,9,20:15:00
+ENG-Premier League,2021,Arsenal,2021-05-19 Crystal Palace-Arsenal,2021-05-19,Matchweek 37,Wed,Away,W,3,1,Crystal Palace,663,607,54,10,1,7,26,26,7,3,3,0,552,2,11,19:00:00
+ENG-Premier League,2021,Arsenal,2021-05-23 Arsenal-Brighton,2021-05-23,Matchweek 38,Sun,Home,W,2,0,Brighton,612,567,43,8,2,2,21,15,11,5,2,0,527,2,12,16:00:00
+ENG-Premier League,2021,Aston Villa,2020-09-21 Aston Villa-Sheffield Utd,2020-09-21,Matchweek 2,Mon,Home,W,1,0,Sheffield Utd,623,575,47,13,0,5,41,20,10,2,4,0,517,1,7,18:00:00
+ENG-Premier League,2021,Aston Villa,2020-09-28 Fulham-Aston Villa,2020-09-28,Matchweek 3,Mon,Away,W,3,0,Fulham,335,282,50,18,1,2,8,17,3,0,0,1,236,3,5,17:45:00
+ENG-Premier League,2021,Aston Villa,2020-10-04 Aston Villa-Liverpool,2020-10-04,Matchweek 4,Sun,Home,W,7,2,Liverpool,314,274,38,11,2,1,9,18,2,0,1,0,208,2,10,19:15:00
+ENG-Premier League,2021,Aston Villa,2020-10-18 Leicester City-Aston Villa,2020-10-18,Matchweek 5,Sun,Away,W,1,0,Leicester City,444,393,48,18,1,7,26,16,7,6,1,0,327,3,7,19:15:00
+ENG-Premier League,2021,Aston Villa,2020-10-23 Aston Villa-Leeds United,2020-10-23,Matchweek 6,Fri,Home,L,0,3,Leeds United,342,286,56,17,0,3,14,17,6,3,1,1,236,0,8,20:00:00
+ENG-Premier League,2021,Aston Villa,2020-11-01 Aston Villa-Southampton,2020-11-01,Matchweek 7,Sun,Home,L,3,4,Southampton,438,365,71,17,0,7,31,34,11,2,3,2,315,2,7,12:00:00
+ENG-Premier League,2021,Aston Villa,2020-11-08 Arsenal-Aston Villa,2020-11-08,Matchweek 8,Sun,Away,W,3,0,Arsenal,408,365,42,12,0,2,15,11,8,1,2,3,312,1,7,19:15:00
+ENG-Premier League,2021,Aston Villa,2020-11-21 Aston Villa-Brighton,2020-11-21,Matchweek 9,Sat,Home,L,1,2,Brighton,533,468,63,18,0,1,41,25,12,5,1,0,418,2,11,15:00:00
+ENG-Premier League,2021,Aston Villa,2020-11-30 West Ham-Aston Villa,2020-11-30,Matchweek 10,Mon,Away,L,1,2,West Ham,575,515,57,19,0,7,30,20,7,5,0,0,457,3,5,20:00:00
+ENG-Premier League,2021,Aston Villa,2020-12-12 Wolves-Aston Villa,2020-12-12,Matchweek 12,Sat,Away,W,1,0,Wolves,390,333,55,21,0,3,28,24,8,4,2,1,277,2,9,12:30:00
+ENG-Premier League,2021,Aston Villa,2020-12-17 Aston Villa-Burnley,2020-12-17,Matchweek 13,Thu,Home,D,0,0,Burnley,444,384,59,20,0,1,27,24,10,4,1,1,318,1,9,18:00:00
+ENG-Premier League,2021,Aston Villa,2020-12-20 West Brom-Aston Villa,2020-12-20,Matchweek 14,Sun,Away,W,3,0,West Brom,630,587,39,13,0,5,27,18,7,3,1,0,519,4,13,19:15:00
+ENG-Premier League,2021,Aston Villa,2020-12-26 Aston Villa-Crystal Palace,2020-12-26,Matchweek 15,Sat,Home,W,3,0,Crystal Palace,334,287,46,18,2,2,17,13,4,1,2,1,237,1,6,15:00:00
+ENG-Premier League,2021,Aston Villa,2020-12-28 Chelsea-Aston Villa,2020-12-28,Matchweek 16,Mon,Away,D,1,1,Chelsea,361,303,57,17,0,0,19,24,4,3,0,0,253,1,5,17:30:00
+ENG-Premier League,2021,Aston Villa,2021-01-01 Manchester Utd-Aston Villa,2021-01-01,Matchweek 17,Fri,Away,L,1,2,Manchester Utd,473,409,63,22,1,4,27,18,10,6,3,0,365,1,8,20:00:00
+ENG-Premier League,2021,Aston Villa,2021-01-20 Manchester City-Aston Villa,2021-01-20,Matchweek 1,Wed,Away,L,0,2,Manchester City,309,270,38,12,0,0,7,13,2,1,1,0,222,1,3,18:00:00
+ENG-Premier League,2021,Aston Villa,2021-01-23 Aston Villa-Newcastle Utd,2021-01-23,Matchweek 11,Sat,Home,W,2,0,Newcastle Utd,603,559,43,20,0,5,16,15,4,1,1,1,521,1,7,20:00:00
+ENG-Premier League,2021,Aston Villa,2021-01-27 Burnley-Aston Villa,2021-01-27,Matchweek 20,Wed,Away,L,2,3,Burnley,534,469,63,18,1,8,22,30,4,2,1,0,405,2,8,18:00:00
+ENG-Premier League,2021,Aston Villa,2021-01-30 Southampton-Aston Villa,2021-01-30,Matchweek 21,Sat,Away,W,1,0,Southampton,375,321,49,15,0,0,10,23,1,1,0,0,270,5,8,20:00:00
+ENG-Premier League,2021,Aston Villa,2021-02-03 Aston Villa-West Ham,2021-02-03,Matchweek 22,Wed,Home,L,1,3,West Ham,530,480,49,16,1,2,23,17,7,2,4,1,423,1,5,20:15:00
+ENG-Premier League,2021,Aston Villa,2021-02-06 Aston Villa-Arsenal,2021-02-06,Matchweek 23,Sat,Home,W,1,0,Arsenal,348,298,49,12,0,2,8,21,3,2,0,0,254,1,7,12:30:00
+ENG-Premier League,2021,Aston Villa,2021-02-13 Brighton-Aston Villa,2021-02-13,Matchweek 24,Sat,Away,D,0,0,Brighton,409,361,45,16,0,2,9,20,2,0,2,0,301,3,7,20:00:00
+ENG-Premier League,2021,Aston Villa,2021-02-21 Aston Villa-Leicester City,2021-02-21,Matchweek 25,Sun,Home,L,1,2,Leicester City,507,435,68,13,0,5,28,40,7,5,0,1,389,4,13,14:05:00
+ENG-Premier League,2021,Aston Villa,2021-02-27 Leeds United-Aston Villa,2021-02-27,Matchweek 26,Sat,Away,W,1,0,Leeds United,261,210,51,14,0,1,11,18,5,3,2,0,155,0,1,17:30:00
+ENG-Premier League,2021,Aston Villa,2021-03-03 Sheffield Utd-Aston Villa,2021-03-03,Matchweek 29,Wed,Away,L,0,1,Sheffield Utd,722,668,53,13,0,11,44,30,7,7,0,0,583,1,9,18:00:00
+ENG-Premier League,2021,Aston Villa,2021-03-06 Aston Villa-Wolves,2021-03-06,Matchweek 27,Sat,Home,D,0,0,Wolves,458,406,49,13,0,0,21,21,5,5,0,0,345,3,4,17:30:00
+ENG-Premier League,2021,Aston Villa,2021-03-12 Newcastle Utd-Aston Villa,2021-03-12,Matchweek 28,Fri,Away,D,1,1,Newcastle Utd,467,414,49,10,0,3,19,30,2,0,0,0,346,4,12,20:00:00
+ENG-Premier League,2021,Aston Villa,2021-03-21 Aston Villa-Tottenham,2021-03-21,Matchweek 18,Sun,Home,L,0,2,Tottenham,463,417,45,14,1,1,25,19,5,2,1,0,341,1,3,19:30:00
+ENG-Premier League,2021,Aston Villa,2021-04-04 Aston Villa-Fulham,2021-04-04,Matchweek 30,Sun,Home,W,3,1,Fulham,468,414,49,21,0,3,23,18,4,0,2,0,359,5,7,16:30:00
+ENG-Premier League,2021,Aston Villa,2021-04-10 Liverpool-Aston Villa,2021-04-10,Matchweek 31,Sat,Away,L,1,2,Liverpool,342,278,62,17,0,2,8,31,0,0,0,0,235,2,5,15:00:00
+ENG-Premier League,2021,Aston Villa,2021-04-21 Aston Villa-Manchester City,2021-04-21,Matchweek 32,Wed,Home,L,1,2,Manchester City,337,303,33,9,0,3,14,14,1,1,0,0,261,1,5,20:15:00
+ENG-Premier League,2021,Aston Villa,2021-04-25 Aston Villa-West Brom,2021-04-25,Matchweek 33,Sun,Home,D,2,2,West Brom,613,567,44,9,1,2,42,14,11,8,0,1,496,2,2,19:00:00
+ENG-Premier League,2021,Aston Villa,2021-05-01 Everton-Aston Villa,2021-05-01,Matchweek 34,Sat,Away,W,2,1,Everton,512,456,54,11,0,4,16,22,6,5,0,0,410,2,9,20:00:00
+ENG-Premier League,2021,Aston Villa,2021-05-09 Aston Villa-Manchester Utd,2021-05-09,Matchweek 35,Sun,Home,L,1,3,Manchester Utd,421,378,43,18,0,3,16,12,5,4,0,0,326,0,3,14:05:00
+ENG-Premier League,2021,Aston Villa,2021-05-13 Aston Villa-Everton,2021-05-13,Matchweek 19,Thu,Home,D,0,0,Everton,548,500,48,13,0,7,20,17,9,3,1,1,450,0,8,18:00:00
+ENG-Premier League,2021,Aston Villa,2021-05-16 Crystal Palace-Aston Villa,2021-05-16,Matchweek 36,Sun,Away,L,2,3,Crystal Palace,449,384,63,23,0,9,22,26,7,5,2,0,344,2,11,12:00:00
+ENG-Premier League,2021,Aston Villa,2021-05-19 Tottenham-Aston Villa,2021-05-19,Matchweek 37,Wed,Away,W,2,1,Tottenham,404,356,45,16,1,2,9,18,5,3,0,0,320,3,8,18:00:00
+ENG-Premier League,2021,Aston Villa,2021-05-23 Aston Villa-Chelsea,2021-05-23,Matchweek 38,Sun,Home,W,2,1,Chelsea,272,233,39,13,0,2,6,12,2,1,0,0,187,0,13,16:00:00
+ENG-Premier League,2021,Brighton,2020-09-14 Brighton-Chelsea,2020-09-14,Matchweek 1,Mon,Home,L,1,3,Chelsea,552,504,48,16,1,12,14,24,4,3,0,0,444,0,7,20:15:00
+ENG-Premier League,2021,Brighton,2020-09-20 Newcastle Utd-Brighton,2020-09-20,Matchweek 2,Sun,Away,W,3,0,Newcastle Utd,479,436,41,16,0,5,9,17,1,1,0,0,379,2,2,14:00:00
+ENG-Premier League,2021,Brighton,2020-09-26 Brighton-Manchester Utd,2020-09-26,Matchweek 3,Sat,Home,L,2,3,Manchester Utd,538,487,50,19,0,3,29,18,7,4,2,0,439,1,16,12:30:00
+ENG-Premier League,2021,Brighton,2020-10-03 Everton-Brighton,2020-10-03,Matchweek 4,Sat,Away,L,2,4,Everton,657,609,46,12,0,4,16,16,10,3,0,0,546,2,10,15:00:00
+ENG-Premier League,2021,Brighton,2020-10-18 Crystal Palace-Brighton,2020-10-18,Matchweek 5,Sun,Away,D,1,1,Crystal Palace,601,541,58,14,0,8,17,34,5,2,3,0,491,2,11,14:00:00
+ENG-Premier League,2021,Brighton,2020-10-26 Brighton-West Brom,2020-10-26,Matchweek 6,Mon,Home,D,1,1,West Brom,515,468,45,8,0,5,16,21,6,6,0,0,408,2,7,17:30:00
+ENG-Premier League,2021,Brighton,2020-11-01 Tottenham-Brighton,2020-11-01,Matchweek 7,Sun,Away,L,1,2,Tottenham,550,495,51,14,0,3,17,24,5,0,4,0,432,4,7,19:15:00
+ENG-Premier League,2021,Brighton,2020-11-06 Brighton-Burnley,2020-11-06,Matchweek 8,Fri,Home,D,0,0,Burnley,595,555,39,5,2,4,35,23,5,0,0,0,474,1,7,17:30:00
+ENG-Premier League,2021,Brighton,2020-11-21 Aston Villa-Brighton,2020-11-21,Matchweek 9,Sat,Away,W,2,1,Aston Villa,422,384,38,7,2,9,16,14,3,1,2,0,332,0,5,15:00:00
+ENG-Premier League,2021,Brighton,2020-11-28 Brighton-Liverpool,2020-11-28,Matchweek 10,Sat,Home,D,1,1,Liverpool,392,350,40,12,1,2,13,20,4,2,2,0,296,2,3,12:30:00
+ENG-Premier League,2021,Brighton,2020-12-07 Brighton-Southampton,2020-12-07,Matchweek 11,Mon,Home,L,1,2,Southampton,433,374,57,14,0,2,17,30,4,2,1,0,304,2,11,20:00:00
+ENG-Premier League,2021,Brighton,2020-12-13 Leicester City-Brighton,2020-12-13,Matchweek 12,Sun,Away,L,0,3,Leicester City,491,447,43,13,1,5,14,13,5,3,1,0,391,1,8,19:15:00
+ENG-Premier League,2021,Brighton,2020-12-16 Fulham-Brighton,2020-12-16,Matchweek 13,Wed,Away,D,0,0,Fulham,542,479,61,14,0,6,23,32,8,0,7,0,383,2,10,20:00:00
+ENG-Premier League,2021,Brighton,2020-12-20 Brighton-Sheffield Utd,2020-12-20,Matchweek 14,Sun,Home,D,1,1,Sheffield Utd,615,555,59,13,0,4,37,24,14,3,8,1,505,1,7,12:00:00
+ENG-Premier League,2021,Brighton,2020-12-27 West Ham-Brighton,2020-12-27,Matchweek 15,Sun,Away,D,2,2,West Ham,613,570,42,8,0,9,13,20,4,0,3,0,494,1,8,14:15:00
+ENG-Premier League,2021,Brighton,2020-12-29 Brighton-Arsenal,2020-12-29,Matchweek 16,Tue,Home,L,0,1,Arsenal,549,507,42,4,1,2,27,23,5,0,4,0,441,0,12,18:00:00
+ENG-Premier League,2021,Brighton,2021-01-02 Brighton-Wolves,2021-01-02,Matchweek 17,Sat,Home,D,3,3,Wolves,589,551,37,7,0,4,19,17,5,0,5,0,501,1,6,17:30:00
+ENG-Premier League,2021,Brighton,2021-01-13 Manchester City-Brighton,2021-01-13,Matchweek 18,Wed,Away,L,0,1,Manchester City,416,378,36,6,0,2,15,12,4,1,3,0,314,2,13,18:00:00
+ENG-Premier League,2021,Brighton,2021-01-16 Leeds United-Brighton,2021-01-16,Matchweek 19,Sat,Away,W,1,0,Leeds United,348,296,52,11,1,1,14,27,2,1,1,0,230,0,8,15:00:00
+ENG-Premier League,2021,Brighton,2021-01-27 Brighton-Fulham,2021-01-27,Matchweek 20,Wed,Home,D,0,0,Fulham,471,414,54,13,0,1,34,22,10,4,6,0,319,3,13,19:30:00
+ENG-Premier League,2021,Brighton,2021-01-31 Brighton-Tottenham,2021-01-31,Matchweek 21,Sun,Home,W,1,0,Tottenham,455,412,42,12,0,3,26,16,9,0,8,0,354,1,5,19:15:00
+ENG-Premier League,2021,Brighton,2021-02-03 Liverpool-Brighton,2021-02-03,Matchweek 22,Wed,Away,W,1,0,Liverpool,441,399,39,11,0,3,12,16,3,2,1,0,325,3,8,20:15:00
+ENG-Premier League,2021,Brighton,2021-02-06 Burnley-Brighton,2021-02-06,Matchweek 23,Sat,Away,D,1,1,Burnley,415,370,45,10,0,1,14,15,7,1,5,0,310,0,6,15:00:00
+ENG-Premier League,2021,Brighton,2021-02-13 Brighton-Aston Villa,2021-02-13,Matchweek 24,Sat,Home,D,0,0,Aston Villa,563,512,51,12,0,3,23,26,9,2,5,0,447,0,13,20:00:00
+ENG-Premier League,2021,Brighton,2021-02-22 Brighton-Crystal Palace,2021-02-22,Matchweek 25,Mon,Home,L,1,2,Crystal Palace,783,724,56,7,1,8,35,30,13,5,4,0,666,3,7,20:00:00
+ENG-Premier League,2021,Brighton,2021-02-27 West Brom-Brighton,2021-02-27,Matchweek 26,Sat,Away,L,0,1,West Brom,597,557,40,9,1,4,17,17,4,2,1,0,476,0,10,15:00:00
+ENG-Premier League,2021,Brighton,2021-03-06 Brighton-Leicester City,2021-03-06,Matchweek 27,Sat,Home,L,1,2,Leicester City,392,340,48,9,1,3,16,22,6,3,3,0,282,4,10,20:00:00
+ENG-Premier League,2021,Brighton,2021-03-14 Southampton-Brighton,2021-03-14,Matchweek 28,Sun,Away,W,2,1,Southampton,382,330,51,11,0,4,18,29,5,3,2,0,254,1,9,12:00:00
+ENG-Premier League,2021,Brighton,2021-03-20 Brighton-Newcastle Utd,2021-03-20,Matchweek 29,Sat,Home,W,3,0,Newcastle Utd,763,729,32,6,2,6,10,20,3,0,2,0,672,2,5,20:00:00
+ENG-Premier League,2021,Brighton,2021-04-04 Manchester Utd-Brighton,2021-04-04,Matchweek 30,Sun,Away,L,1,2,Manchester Utd,482,430,50,14,0,5,18,18,6,2,4,0,360,2,12,19:30:00
+ENG-Premier League,2021,Brighton,2021-04-12 Brighton-Everton,2021-04-12,Matchweek 31,Mon,Home,D,0,0,Everton,537,495,42,6,0,2,16,18,10,8,1,0,428,0,7,20:15:00
+ENG-Premier League,2021,Brighton,2021-04-20 Chelsea-Brighton,2021-04-20,Matchweek 32,Tue,Away,D,0,0,Chelsea,444,400,44,10,0,5,9,23,3,2,1,0,334,0,7,20:15:00
+ENG-Premier League,2021,Brighton,2021-04-24 Sheffield Utd-Brighton,2021-04-24,Matchweek 33,Sat,Away,L,0,1,Sheffield Utd,695,639,55,13,0,5,24,26,12,0,9,0,592,1,9,20:00:00
+ENG-Premier League,2021,Brighton,2021-05-01 Brighton-Leeds United,2021-05-01,Matchweek 34,Sat,Home,W,2,0,Leeds United,378,345,33,6,1,2,11,16,2,0,2,0,300,0,5,15:00:00
+ENG-Premier League,2021,Brighton,2021-05-09 Wolves-Brighton,2021-05-09,Matchweek 35,Sun,Away,L,1,2,Wolves,403,358,43,12,0,8,10,15,5,2,3,0,327,2,9,12:00:00
+ENG-Premier League,2021,Brighton,2021-05-15 Brighton-West Ham,2021-05-15,Matchweek 36,Sat,Home,D,1,1,West Ham,616,585,31,7,1,4,8,9,3,2,0,0,521,0,8,20:00:00
+ENG-Premier League,2021,Brighton,2021-05-18 Brighton-Manchester City,2021-05-18,Matchweek 37,Tue,Home,W,3,2,Manchester City,643,602,38,11,1,2,14,17,5,0,2,1,563,3,4,19:00:00
+ENG-Premier League,2021,Brighton,2021-05-23 Arsenal-Brighton,2021-05-23,Matchweek 38,Sun,Away,L,0,2,Arsenal,514,484,29,12,0,5,10,5,3,1,2,0,438,1,8,16:00:00
+ENG-Premier League,2021,Burnley,2020-09-20 Leicester City-Burnley,2020-09-20,Matchweek 2,Sun,Away,L,2,4,Leicester City,330,286,43,10,0,1,15,20,4,4,0,0,223,1,4,19:00:00
+ENG-Premier League,2021,Burnley,2020-09-26 Burnley-Southampton,2020-09-26,Matchweek 3,Sat,Home,L,0,1,Southampton,599,536,61,10,0,2,34,37,8,7,0,0,417,2,13,20:00:00
+ENG-Premier League,2021,Burnley,2020-10-03 Newcastle Utd-Burnley,2020-10-03,Matchweek 4,Sat,Away,L,1,3,Newcastle Utd,509,451,53,16,0,2,20,23,4,4,0,0,366,5,7,20:00:00
+ENG-Premier League,2021,Burnley,2020-10-19 West Brom-Burnley,2020-10-19,Matchweek 5,Mon,Away,D,0,0,West Brom,412,361,51,16,0,4,29,23,2,1,0,0,274,0,8,17:30:00
+ENG-Premier League,2021,Burnley,2020-10-26 Burnley-Tottenham,2020-10-26,Matchweek 6,Mon,Home,L,0,1,Tottenham,405,364,37,8,0,7,15,16,4,4,0,0,294,4,6,20:00:00
+ENG-Premier League,2021,Burnley,2020-10-31 Burnley-Chelsea,2020-10-31,Matchweek 7,Sat,Home,L,0,3,Chelsea,422,374,47,19,1,2,10,15,3,1,0,0,311,1,9,15:00:00
+ENG-Premier League,2021,Burnley,2020-11-06 Brighton-Burnley,2020-11-06,Matchweek 8,Fri,Away,D,0,0,Brighton,416,376,39,12,0,2,16,16,3,3,0,0,310,1,6,17:30:00
+ENG-Premier League,2021,Burnley,2020-11-23 Burnley-Crystal Palace,2020-11-23,Matchweek 9,Mon,Home,W,1,0,Crystal Palace,443,396,45,11,0,3,11,18,4,3,0,0,318,2,4,17:30:00
+ENG-Premier League,2021,Burnley,2020-11-28 Manchester City-Burnley,2020-11-28,Matchweek 10,Sat,Away,L,0,5,Manchester City,354,304,48,13,0,0,20,16,4,3,1,0,248,2,8,15:00:00
+ENG-Premier League,2021,Burnley,2020-12-05 Burnley-Everton,2020-12-05,Matchweek 11,Sat,Home,D,1,1,Everton,449,401,48,12,3,5,27,21,8,8,0,0,338,0,7,12:30:00
+ENG-Premier League,2021,Burnley,2020-12-13 Arsenal-Burnley,2020-12-13,Matchweek 12,Sun,Away,W,1,0,Arsenal,344,309,32,8,0,0,17,14,4,4,0,0,240,3,6,19:15:00
+ENG-Premier League,2021,Burnley,2020-12-17 Aston Villa-Burnley,2020-12-17,Matchweek 13,Thu,Away,D,0,0,Aston Villa,311,256,53,17,0,3,13,19,1,1,0,0,183,2,6,18:00:00
+ENG-Premier League,2021,Burnley,2020-12-21 Burnley-Wolves,2020-12-21,Matchweek 14,Mon,Home,W,2,1,Wolves,297,250,46,16,0,3,16,17,1,1,0,0,193,1,1,17:30:00
+ENG-Premier League,2021,Burnley,2020-12-27 Leeds United-Burnley,2020-12-27,Matchweek 15,Sun,Away,L,0,1,Leeds United,443,384,57,12,0,4,36,22,12,8,3,0,301,2,14,12:00:00
+ENG-Premier League,2021,Burnley,2020-12-29 Burnley-Sheffield Utd,2020-12-29,Matchweek 16,Tue,Home,W,1,0,Sheffield Utd,353,312,39,18,0,0,12,11,3,2,0,0,245,2,7,18:00:00
+ENG-Premier League,2021,Burnley,2021-01-12 Burnley-Manchester Utd,2021-01-12,Matchweek 1,Tue,Home,L,0,1,Manchester Utd,377,328,46,15,0,3,14,22,3,3,0,0,244,3,9,20:15:00
+ENG-Premier League,2021,Burnley,2021-01-16 West Ham-Burnley,2021-01-16,Matchweek 19,Sat,Away,L,0,1,West Ham,507,459,47,16,0,8,28,19,4,4,0,0,360,1,4,15:00:00
+ENG-Premier League,2021,Burnley,2021-01-21 Liverpool-Burnley,2021-01-21,Matchweek 18,Thu,Away,W,1,0,Liverpool,300,261,33,11,2,2,10,6,0,0,0,0,192,6,4,20:00:00
+ENG-Premier League,2021,Burnley,2021-01-27 Burnley-Aston Villa,2021-01-27,Matchweek 20,Wed,Home,W,3,2,Aston Villa,340,289,48,9,0,3,18,27,2,1,0,0,197,3,6,18:00:00
+ENG-Premier League,2021,Burnley,2021-01-31 Chelsea-Burnley,2021-01-31,Matchweek 21,Sun,Away,L,0,2,Chelsea,324,270,52,9,0,2,11,21,2,2,0,0,209,2,12,12:00:00
+ENG-Premier League,2021,Burnley,2021-02-03 Burnley-Manchester City,2021-02-03,Matchweek 22,Wed,Home,L,0,2,Manchester City,299,269,27,7,0,3,10,12,1,1,0,0,214,3,5,18:00:00
+ENG-Premier League,2021,Burnley,2021-02-06 Burnley-Brighton,2021-02-06,Matchweek 23,Sat,Home,D,1,1,Brighton,500,455,42,9,1,2,29,17,8,6,0,0,383,3,10,15:00:00
+ENG-Premier League,2021,Burnley,2021-02-13 Crystal Palace-Burnley,2021-02-13,Matchweek 24,Sat,Away,W,3,0,Crystal Palace,418,376,41,18,0,3,14,11,4,4,0,0,302,1,6,15:00:00
+ENG-Premier League,2021,Burnley,2021-02-17 Burnley-Fulham,2021-02-17,Matchweek 17,Wed,Home,D,1,1,Fulham,455,397,52,12,0,2,21,28,5,5,0,0,303,6,9,18:00:00
+ENG-Premier League,2021,Burnley,2021-02-20 Burnley-West Brom,2021-02-20,Matchweek 25,Sat,Home,D,0,0,West Brom,493,433,56,12,0,3,22,27,5,5,0,0,364,4,10,15:00:00
+ENG-Premier League,2021,Burnley,2021-02-28 Tottenham-Burnley,2021-02-28,Matchweek 26,Sun,Away,L,0,4,Tottenham,478,440,38,6,1,2,21,14,4,4,0,0,362,0,8,14:00:00
+ENG-Premier League,2021,Burnley,2021-03-03 Burnley-Leicester City,2021-03-03,Matchweek 29,Wed,Home,D,1,1,Leicester City,405,356,46,13,1,7,23,20,5,5,0,0,280,3,8,18:00:00
+ENG-Premier League,2021,Burnley,2021-03-06 Burnley-Arsenal,2021-03-06,Matchweek 27,Sat,Home,D,1,1,Arsenal,459,414,43,14,0,6,16,21,2,1,0,0,322,2,8,12:30:00
+ENG-Premier League,2021,Burnley,2021-03-13 Everton-Burnley,2021-03-13,Matchweek 28,Sat,Away,W,2,1,Everton,333,283,49,10,0,2,13,24,4,4,0,0,222,1,3,17:30:00
+ENG-Premier League,2021,Burnley,2021-04-04 Southampton-Burnley,2021-04-04,Matchweek 30,Sun,Away,L,2,3,Southampton,409,364,44,9,0,4,33,18,7,7,0,0,267,1,7,12:00:00
+ENG-Premier League,2021,Burnley,2021-04-11 Burnley-Newcastle Utd,2021-04-11,Matchweek 31,Sun,Home,L,1,2,Newcastle Utd,511,454,57,13,0,4,45,21,13,13,0,0,371,0,7,12:00:00
+ENG-Premier League,2021,Burnley,2021-04-18 Manchester Utd-Burnley,2021-04-18,Matchweek 32,Sun,Away,L,1,3,Manchester Utd,296,256,36,11,0,4,13,11,3,2,1,0,210,4,4,16:00:00
+ENG-Premier League,2021,Burnley,2021-04-25 Wolves-Burnley,2021-04-25,Matchweek 33,Sun,Away,W,4,0,Wolves,375,327,46,10,1,2,21,23,5,5,0,0,262,2,8,12:00:00
+ENG-Premier League,2021,Burnley,2021-05-03 Burnley-West Ham,2021-05-03,Matchweek 34,Mon,Home,L,1,2,West Ham,480,431,47,9,0,1,29,18,5,5,0,0,329,2,8,20:15:00
+ENG-Premier League,2021,Burnley,2021-05-10 Fulham-Burnley,2021-05-10,Matchweek 35,Mon,Away,W,2,0,Fulham,284,232,51,15,0,1,9,19,4,4,0,0,143,1,4,20:00:00
+ENG-Premier League,2021,Burnley,2021-05-15 Burnley-Leeds United,2021-05-15,Matchweek 36,Sat,Home,L,0,4,Leeds United,458,408,48,15,0,0,19,16,6,6,0,0,336,2,5,12:30:00
+ENG-Premier League,2021,Burnley,2021-05-19 Burnley-Liverpool,2021-05-19,Matchweek 37,Wed,Home,L,0,3,Liverpool,441,399,41,7,0,4,36,15,6,6,0,0,318,1,4,20:15:00
+ENG-Premier League,2021,Burnley,2021-05-23 Sheffield Utd-Burnley,2021-05-23,Matchweek 38,Sun,Away,L,0,1,Sheffield Utd,533,476,56,13,0,4,26,23,9,7,0,1,374,1,8,16:00:00
+ENG-Premier League,2021,Chelsea,2020-09-14 Brighton-Chelsea,2020-09-14,Matchweek 1,Mon,Away,W,3,1,Brighton,506,461,42,7,1,10,13,21,3,1,2,0,415,3,7,20:15:00
+ENG-Premier League,2021,Chelsea,2020-09-20 Chelsea-Liverpool,2020-09-20,Matchweek 2,Sun,Home,L,0,2,Liverpool,512,481,30,6,1,5,4,10,1,0,0,0,432,1,9,16:30:00
+ENG-Premier League,2021,Chelsea,2020-09-26 West Brom-Chelsea,2020-09-26,Matchweek 3,Sat,Away,D,3,3,West Brom,854,809,45,8,0,2,37,18,9,4,5,0,738,0,13,17:30:00
+ENG-Premier League,2021,Chelsea,2020-10-03 Chelsea-Crystal Palace,2020-10-03,Matchweek 4,Sat,Home,W,4,0,Crystal Palace,751,707,43,11,2,6,23,18,8,5,2,0,662,1,10,12:30:00
+ENG-Premier League,2021,Chelsea,2020-10-17 Chelsea-Southampton,2020-10-17,Matchweek 5,Sat,Home,D,3,3,Southampton,618,565,50,10,1,2,13,22,6,3,3,0,501,3,11,15:00:00
+ENG-Premier League,2021,Chelsea,2020-10-24 Manchester Utd-Chelsea,2020-10-24,Matchweek 6,Sat,Away,D,0,0,Manchester Utd,620,582,38,10,0,3,19,17,6,2,3,0,503,0,17,17:30:00
+ENG-Premier League,2021,Chelsea,2020-10-31 Burnley-Chelsea,2020-10-31,Matchweek 7,Sat,Away,W,3,0,Burnley,734,687,43,10,0,12,16,19,4,0,2,0,632,4,6,15:00:00
+ENG-Premier League,2021,Chelsea,2020-11-07 Chelsea-Sheffield Utd,2020-11-07,Matchweek 8,Sat,Home,W,4,1,Sheffield Utd,805,759,45,14,1,7,16,20,6,0,4,0,700,1,6,17:30:00
+ENG-Premier League,2021,Chelsea,2020-11-21 Newcastle Utd-Chelsea,2020-11-21,Matchweek 9,Sat,Away,W,2,0,Newcastle Utd,778,741,35,13,1,2,15,13,4,0,2,0,690,2,4,12:30:00
+ENG-Premier League,2021,Chelsea,2020-11-29 Chelsea-Tottenham,2020-11-29,Matchweek 10,Sun,Home,D,0,0,Tottenham,701,670,28,10,0,4,26,11,3,1,2,0,608,3,7,16:30:00
+ENG-Premier League,2021,Chelsea,2020-12-05 Chelsea-Leeds United,2020-12-05,Matchweek 11,Sat,Home,W,3,1,Leeds United,451,396,54,13,0,2,15,25,8,3,5,0,350,1,11,20:00:00
+ENG-Premier League,2021,Chelsea,2020-12-12 Everton-Chelsea,2020-12-12,Matchweek 12,Sat,Away,L,0,1,Everton,707,644,62,12,0,3,32,35,6,2,2,0,577,1,12,20:00:00
+ENG-Premier League,2021,Chelsea,2020-12-15 Wolves-Chelsea,2020-12-15,Matchweek 13,Tue,Away,L,1,2,Wolves,551,506,45,12,0,9,34,17,6,2,4,0,454,0,8,18:00:00
+ENG-Premier League,2021,Chelsea,2020-12-21 Chelsea-West Ham,2020-12-21,Matchweek 14,Mon,Home,W,3,0,West Ham,571,525,46,10,0,3,19,22,5,0,4,0,464,0,10,20:00:00
+ENG-Premier League,2021,Chelsea,2020-12-26 Arsenal-Chelsea,2020-12-26,Matchweek 15,Sat,Away,L,1,3,Arsenal,556,512,44,12,0,5,34,12,9,1,5,1,452,0,8,17:30:00
+ENG-Premier League,2021,Chelsea,2020-12-28 Chelsea-Aston Villa,2020-12-28,Matchweek 16,Mon,Home,D,1,1,Aston Villa,608,558,49,4,0,8,27,26,11,7,2,0,486,1,15,17:30:00
+ENG-Premier League,2021,Chelsea,2021-01-03 Chelsea-Manchester City,2021-01-03,Matchweek 17,Sun,Home,L,1,3,Manchester City,697,652,43,10,1,8,19,16,5,3,2,0,615,2,9,16:30:00
+ENG-Premier League,2021,Chelsea,2021-01-16 Fulham-Chelsea,2021-01-16,Matchweek 19,Sat,Away,W,1,0,Fulham,816,760,53,12,0,1,30,22,12,0,9,0,698,3,7,17:30:00
+ENG-Premier League,2021,Chelsea,2021-01-19 Leicester City-Chelsea,2021-01-19,Matchweek 18,Tue,Away,L,0,2,Leicester City,682,639,40,6,0,11,15,23,3,2,1,0,592,3,11,20:15:00
+ENG-Premier League,2021,Chelsea,2021-01-27 Chelsea-Wolves,2021-01-27,Matchweek 20,Wed,Home,D,0,0,Wolves,955,909,44,7,0,3,36,17,12,2,9,0,857,2,12,18:00:00
+ENG-Premier League,2021,Chelsea,2021-01-31 Chelsea-Burnley,2021-01-31,Matchweek 21,Sun,Home,W,2,0,Burnley,766,722,42,11,0,3,14,22,4,0,4,0,655,2,6,12:00:00
+ENG-Premier League,2021,Chelsea,2021-02-04 Tottenham-Chelsea,2021-02-04,Matchweek 22,Thu,Away,W,1,0,Tottenham,667,622,42,18,0,4,19,11,7,1,2,1,578,3,5,20:00:00
+ENG-Premier League,2021,Chelsea,2021-02-07 Sheffield Utd-Chelsea,2021-02-07,Matchweek 23,Sun,Away,W,2,1,Sheffield Utd,796,750,44,8,2,3,14,20,8,1,6,0,681,2,13,19:15:00
+ENG-Premier League,2021,Chelsea,2021-02-15 Chelsea-Newcastle Utd,2021-02-15,Matchweek 24,Mon,Home,W,2,0,Newcastle Utd,605,557,48,15,2,2,23,15,10,3,5,0,519,0,12,20:00:00
+ENG-Premier League,2021,Chelsea,2021-02-20 Southampton-Chelsea,2021-02-20,Matchweek 25,Sat,Away,D,1,1,Southampton,774,725,45,8,0,4,15,24,6,0,3,0,650,4,14,12:30:00
+ENG-Premier League,2021,Chelsea,2021-02-28 Chelsea-Manchester Utd,2021-02-28,Matchweek 26,Sun,Home,D,0,0,Manchester Utd,645,602,42,15,0,4,16,18,3,0,1,0,561,1,9,16:30:00
+ENG-Premier League,2021,Chelsea,2021-03-04 Liverpool-Chelsea,2021-03-04,Matchweek 29,Thu,Away,W,1,0,Liverpool,593,553,36,9,2,1,12,16,2,2,0,0,496,4,9,20:15:00
+ENG-Premier League,2021,Chelsea,2021-03-08 Chelsea-Everton,2021-03-08,Matchweek 27,Mon,Home,W,2,0,Everton,751,706,44,10,4,1,11,20,7,0,5,0,664,1,10,18:00:00
+ENG-Premier League,2021,Chelsea,2021-03-13 Leeds United-Chelsea,2021-03-13,Matchweek 28,Sat,Away,D,0,0,Leeds United,630,576,51,21,1,2,15,20,5,2,3,0,520,3,11,12:30:00
+ENG-Premier League,2021,Chelsea,2021-04-03 Chelsea-West Brom,2021-04-03,Matchweek 30,Sat,Home,L,2,5,West Brom,627,575,51,8,2,2,18,22,10,5,5,0,525,1,7,12:30:00
+ENG-Premier League,2021,Chelsea,2021-04-10 Crystal Palace-Chelsea,2021-04-10,Matchweek 31,Sat,Away,W,4,1,Crystal Palace,827,786,39,8,1,6,25,17,8,3,5,0,725,2,6,17:30:00
+ENG-Premier League,2021,Chelsea,2021-04-20 Chelsea-Brighton,2021-04-20,Matchweek 32,Tue,Home,D,0,0,Brighton,785,746,36,9,2,2,11,19,0,0,0,0,687,3,10,20:15:00
+ENG-Premier League,2021,Chelsea,2021-04-24 West Ham-Chelsea,2021-04-24,Matchweek 33,Sat,Away,W,1,0,West Ham,603,560,40,11,0,1,9,21,2,1,0,0,497,3,9,17:30:00
+ENG-Premier League,2021,Chelsea,2021-05-01 Chelsea-Fulham,2021-05-01,Matchweek 34,Sat,Home,W,2,0,Fulham,542,501,34,8,3,6,3,16,1,0,1,0,454,7,11,17:30:00
+ENG-Premier League,2021,Chelsea,2021-05-08 Manchester City-Chelsea,2021-05-08,Matchweek 35,Sat,Away,W,2,1,Manchester City,619,574,40,12,0,2,12,15,2,2,0,0,545,5,10,17:30:00
+ENG-Premier League,2021,Chelsea,2021-05-12 Chelsea-Arsenal,2021-05-12,Matchweek 36,Wed,Home,L,0,1,Arsenal,828,781,43,8,1,2,32,20,9,5,4,0,722,4,9,20:15:00
+ENG-Premier League,2021,Chelsea,2021-05-18 Chelsea-Leicester City,2021-05-18,Matchweek 37,Tue,Home,W,2,1,Leicester City,597,541,55,15,1,1,17,25,6,5,1,0,498,1,6,20:15:00
+ENG-Premier League,2021,Chelsea,2021-05-23 Aston Villa-Chelsea,2021-05-23,Matchweek 38,Sun,Away,L,1,2,Aston Villa,671,615,54,11,0,2,40,27,9,9,0,0,566,2,12,16:00:00
+ENG-Premier League,2021,Crystal Palace,2020-09-12 Crystal Palace-Southampton,2020-09-12,Matchweek 1,Sat,Home,W,1,0,Southampton,289,228,57,10,1,0,16,33,7,1,0,4,150,4,10,15:00:00
+ENG-Premier League,2021,Crystal Palace,2020-09-19 Manchester Utd-Crystal Palace,2020-09-19,Matchweek 2,Sat,Away,W,3,1,Manchester Utd,250,209,39,13,0,2,9,14,3,3,0,0,146,2,10,17:30:00
+ENG-Premier League,2021,Crystal Palace,2020-09-26 Crystal Palace-Everton,2020-09-26,Matchweek 3,Sat,Home,L,1,2,Everton,412,367,44,15,0,4,26,14,7,6,0,1,300,1,12,15:00:00
+ENG-Premier League,2021,Crystal Palace,2020-10-03 Chelsea-Crystal Palace,2020-10-03,Matchweek 4,Sat,Away,L,0,4,Chelsea,327,265,62,18,0,1,18,26,5,4,0,0,233,0,6,12:30:00
+ENG-Premier League,2021,Crystal Palace,2020-10-18 Crystal Palace-Brighton,2020-10-18,Matchweek 5,Sun,Home,D,1,1,Brighton,309,260,48,14,0,0,12,13,2,0,0,1,206,1,10,14:00:00
+ENG-Premier League,2021,Crystal Palace,2020-10-24 Fulham-Crystal Palace,2020-10-24,Matchweek 6,Sat,Away,W,2,1,Fulham,401,346,53,11,2,4,7,22,4,2,0,0,320,2,7,15:00:00
+ENG-Premier League,2021,Crystal Palace,2020-10-30 Wolves-Crystal Palace,2020-10-30,Matchweek 7,Fri,Away,L,0,2,Wolves,590,546,42,11,0,3,18,12,6,6,0,0,521,2,8,20:00:00
+ENG-Premier League,2021,Crystal Palace,2020-11-07 Crystal Palace-Leeds United,2020-11-07,Matchweek 8,Sat,Home,W,4,1,Leeds United,361,313,47,16,0,0,10,17,3,3,0,0,256,1,10,15:00:00
+ENG-Premier League,2021,Crystal Palace,2020-11-23 Burnley-Crystal Palace,2020-11-23,Matchweek 9,Mon,Away,L,0,1,Burnley,524,465,57,15,0,0,24,28,7,2,0,3,395,2,7,17:30:00
+ENG-Premier League,2021,Crystal Palace,2020-11-27 Crystal Palace-Newcastle Utd,2020-11-27,Matchweek 10,Fri,Home,L,0,2,Newcastle Utd,555,511,44,9,0,2,26,21,7,1,5,0,445,0,5,20:00:00
+ENG-Premier League,2021,Crystal Palace,2020-12-06 West Brom-Crystal Palace,2020-12-06,Matchweek 11,Sun,Away,W,5,1,West Brom,524,486,35,12,1,1,12,11,6,4,2,0,453,3,9,12:00:00
+ENG-Premier League,2021,Crystal Palace,2020-12-13 Crystal Palace-Tottenham,2020-12-13,Matchweek 12,Sun,Home,D,1,1,Tottenham,390,340,46,9,0,2,14,23,4,0,0,4,304,4,9,14:15:00
+ENG-Premier League,2021,Crystal Palace,2020-12-16 West Ham-Crystal Palace,2020-12-16,Matchweek 13,Wed,Away,D,1,1,West Ham,459,414,45,8,0,0,14,20,3,2,1,0,351,0,9,20:00:00
+ENG-Premier League,2021,Crystal Palace,2020-12-19 Crystal Palace-Liverpool,2020-12-19,Matchweek 14,Sat,Home,L,0,7,Liverpool,436,388,41,10,0,1,12,14,5,1,2,0,323,7,10,12:30:00
+ENG-Premier League,2021,Crystal Palace,2020-12-26 Aston Villa-Crystal Palace,2020-12-26,Matchweek 15,Sat,Away,L,0,3,Aston Villa,528,478,48,17,0,2,27,17,4,1,3,0,413,2,7,15:00:00
+ENG-Premier League,2021,Crystal Palace,2020-12-28 Crystal Palace-Leicester City,2020-12-28,Matchweek 16,Mon,Home,D,1,1,Leicester City,348,286,59,9,0,1,13,31,2,2,0,0,210,3,5,15:00:00
+ENG-Premier League,2021,Crystal Palace,2021-01-02 Crystal Palace-Sheffield Utd,2021-01-02,Matchweek 17,Sat,Home,W,2,0,Sheffield Utd,462,395,67,21,0,1,11,35,3,3,0,0,332,0,14,15:00:00
+ENG-Premier League,2021,Crystal Palace,2021-01-14 Arsenal-Crystal Palace,2021-01-14,Matchweek 18,Thu,Away,D,0,0,Arsenal,364,329,34,11,0,1,9,12,3,2,0,1,275,1,9,20:00:00
+ENG-Premier League,2021,Crystal Palace,2021-01-17 Manchester City-Crystal Palace,2021-01-17,Matchweek 19,Sun,Away,L,0,4,Manchester City,321,280,41,9,0,1,5,21,1,0,0,1,233,0,12,19:15:00
+ENG-Premier League,2021,Crystal Palace,2021-01-26 Crystal Palace-West Ham,2021-01-26,Matchweek 20,Tue,Home,L,2,3,West Ham,581,538,43,10,0,0,18,22,3,3,0,0,452,0,13,18:00:00
+ENG-Premier League,2021,Crystal Palace,2021-01-30 Crystal Palace-Wolves,2021-01-30,Matchweek 21,Sat,Home,W,1,0,Wolves,547,513,33,8,0,1,5,18,1,0,1,0,471,1,8,15:00:00
+ENG-Premier League,2021,Crystal Palace,2021-02-02 Newcastle Utd-Crystal Palace,2021-02-02,Matchweek 22,Tue,Away,W,2,1,Newcastle Utd,422,381,39,15,0,0,8,11,1,1,0,0,320,2,5,20:15:00
+ENG-Premier League,2021,Crystal Palace,2021-02-08 Leeds United-Crystal Palace,2021-02-08,Matchweek 23,Mon,Away,L,0,2,Leeds United,367,320,46,8,0,1,10,20,3,1,2,0,279,1,10,20:00:00
+ENG-Premier League,2021,Crystal Palace,2021-02-13 Crystal Palace-Burnley,2021-02-13,Matchweek 24,Sat,Home,L,0,3,Burnley,491,431,57,15,0,1,31,25,7,1,4,1,358,3,8,15:00:00
+ENG-Premier League,2021,Crystal Palace,2021-02-22 Brighton-Crystal Palace,2021-02-22,Matchweek 25,Mon,Away,W,2,1,Brighton,276,227,48,13,0,0,5,18,0,0,0,0,182,1,9,20:00:00
+ENG-Premier League,2021,Crystal Palace,2021-02-28 Crystal Palace-Fulham,2021-02-28,Matchweek 26,Sun,Home,D,0,0,Fulham,404,352,51,14,1,4,11,21,1,0,0,1,308,1,5,12:00:00
+ENG-Premier League,2021,Crystal Palace,2021-03-03 Crystal Palace-Manchester Utd,2021-03-03,Matchweek 29,Wed,Home,D,0,0,Manchester Utd,391,344,46,13,1,1,13,20,4,3,0,0,300,1,10,20:15:00
+ENG-Premier League,2021,Crystal Palace,2021-03-07 Tottenham-Crystal Palace,2021-03-07,Matchweek 27,Sun,Away,L,1,4,Tottenham,422,370,48,9,0,1,17,23,5,2,1,1,307,4,11,19:15:00
+ENG-Premier League,2021,Crystal Palace,2021-03-13 Crystal Palace-West Brom,2021-03-13,Matchweek 28,Sat,Home,W,1,0,West Brom,372,310,61,15,0,2,7,32,3,1,0,2,251,1,10,15:00:00
+ENG-Premier League,2021,Crystal Palace,2021-04-05 Everton-Crystal Palace,2021-04-05,Matchweek 30,Mon,Away,D,1,1,Everton,548,505,42,12,0,1,14,15,4,1,1,0,447,1,14,18:00:00
+ENG-Premier League,2021,Crystal Palace,2021-04-10 Crystal Palace-Chelsea,2021-04-10,Matchweek 31,Sat,Home,L,1,4,Chelsea,469,420,48,14,0,3,10,20,0,0,0,0,360,1,19,17:30:00
+ENG-Premier League,2021,Crystal Palace,2021-04-26 Leicester City-Crystal Palace,2021-04-26,Matchweek 33,Mon,Away,L,1,2,Leicester City,335,278,54,15,2,2,6,25,2,1,0,0,217,3,10,20:00:00
+ENG-Premier League,2021,Crystal Palace,2021-05-01 Crystal Palace-Manchester City,2021-05-01,Matchweek 34,Sat,Home,L,0,2,Manchester City,342,283,56,11,0,0,10,30,2,1,0,1,241,3,8,12:30:00
+ENG-Premier League,2021,Crystal Palace,2021-05-08 Sheffield Utd-Crystal Palace,2021-05-08,Matchweek 35,Sat,Away,W,2,0,Sheffield Utd,464,408,55,12,0,1,15,21,11,2,3,2,361,1,8,15:00:00
+ENG-Premier League,2021,Crystal Palace,2021-05-11 Southampton-Crystal Palace,2021-05-11,Matchweek 32,Tue,Away,L,1,3,Southampton,346,291,53,19,0,1,15,15,8,0,3,1,257,2,12,20:15:00
+ENG-Premier League,2021,Crystal Palace,2021-05-16 Crystal Palace-Aston Villa,2021-05-16,Matchweek 36,Sun,Home,W,3,2,Aston Villa,369,322,45,12,0,0,25,15,7,5,0,0,259,2,6,12:00:00
+ENG-Premier League,2021,Crystal Palace,2021-05-19 Crystal Palace-Arsenal,2021-05-19,Matchweek 37,Wed,Home,L,1,3,Arsenal,312,265,44,9,0,0,28,20,6,2,1,3,208,3,7,19:00:00
+ENG-Premier League,2021,Crystal Palace,2021-05-23 Liverpool-Crystal Palace,2021-05-23,Matchweek 38,Sun,Away,L,0,2,Liverpool,289,243,45,11,0,2,2,17,1,0,0,0,183,1,9,16:00:00
+ENG-Premier League,2021,Everton,2020-09-13 Tottenham-Everton,2020-09-13,Matchweek 1,Sun,Away,W,1,0,Tottenham,564,523,40,15,1,7,12,17,3,1,2,0,470,1,9,16:30:00
+ENG-Premier League,2021,Everton,2020-09-19 Everton-West Brom,2020-09-19,Matchweek 2,Sat,Home,W,5,2,West Brom,854,806,47,11,3,5,32,17,11,4,5,1,751,1,10,12:30:00
+ENG-Premier League,2021,Everton,2020-09-26 Crystal Palace-Everton,2020-09-26,Matchweek 3,Sat,Away,W,2,1,Crystal Palace,567,512,55,15,0,6,14,25,6,1,3,0,460,0,14,15:00:00
+ENG-Premier League,2021,Everton,2020-10-03 Everton-Brighton,2020-10-03,Matchweek 4,Sat,Home,W,4,2,Brighton,503,460,43,16,0,2,12,13,3,2,0,0,423,0,8,15:00:00
+ENG-Premier League,2021,Everton,2020-10-17 Everton-Liverpool,2020-10-17,Matchweek 5,Sat,Home,D,2,2,Liverpool,410,365,43,12,1,3,12,12,2,1,1,0,302,2,9,12:30:00
+ENG-Premier League,2021,Everton,2020-10-25 Southampton-Everton,2020-10-25,Matchweek 6,Sun,Away,L,0,2,Southampton,550,507,42,11,0,3,21,17,5,3,0,0,454,1,8,14:00:00
+ENG-Premier League,2021,Everton,2020-11-01 Newcastle Utd-Everton,2020-11-01,Matchweek 7,Sun,Away,L,1,2,Newcastle Utd,660,617,43,10,1,2,27,23,4,2,0,2,577,0,10,14:00:00
+ENG-Premier League,2021,Everton,2020-11-07 Everton-Manchester Utd,2020-11-07,Matchweek 8,Sat,Home,L,1,3,Manchester Utd,584,527,54,20,0,4,29,19,5,3,1,0,475,3,14,12:30:00
+ENG-Premier League,2021,Everton,2020-11-22 Fulham-Everton,2020-11-22,Matchweek 9,Sun,Away,W,3,2,Fulham,563,516,44,16,0,2,21,16,5,3,2,0,426,3,14,12:00:00
+ENG-Premier League,2021,Everton,2020-11-28 Everton-Leeds United,2020-11-28,Matchweek 10,Sat,Home,L,0,1,Leeds United,424,378,44,20,1,2,13,11,4,3,1,0,327,2,4,17:30:00
+ENG-Premier League,2021,Everton,2020-12-05 Burnley-Everton,2020-12-05,Matchweek 11,Sat,Away,D,1,1,Burnley,629,591,35,6,1,6,18,20,4,1,2,0,506,3,11,12:30:00
+ENG-Premier League,2021,Everton,2020-12-12 Everton-Chelsea,2020-12-12,Matchweek 12,Sat,Home,W,1,0,Chelsea,289,238,47,10,0,0,17,24,6,3,2,0,183,4,8,20:00:00
+ENG-Premier League,2021,Everton,2020-12-16 Leicester City-Everton,2020-12-16,Matchweek 13,Wed,Away,W,2,0,Leicester City,383,336,45,13,0,4,16,19,6,2,4,0,285,2,5,18:00:00
+ENG-Premier League,2021,Everton,2020-12-19 Everton-Arsenal,2020-12-19,Matchweek 14,Sat,Home,W,2,1,Arsenal,439,394,44,8,0,5,18,17,4,2,1,0,347,1,11,17:30:00
+ENG-Premier League,2021,Everton,2020-12-26 Sheffield Utd-Everton,2020-12-26,Matchweek 15,Sat,Away,W,1,0,Sheffield Utd,587,541,44,11,0,4,13,24,3,1,1,0,456,2,14,20:00:00
+ENG-Premier League,2021,Everton,2021-01-01 Everton-West Ham,2021-01-01,Matchweek 17,Fri,Home,L,0,1,West Ham,639,599,38,7,1,1,23,18,5,3,2,0,521,2,11,17:30:00
+ENG-Premier League,2021,Everton,2021-01-12 Wolves-Everton,2021-01-12,Matchweek 18,Tue,Away,W,2,1,Wolves,545,504,40,5,1,5,20,18,5,3,0,0,467,1,8,20:15:00
+ENG-Premier League,2021,Everton,2021-01-27 Everton-Leicester City,2021-01-27,Matchweek 20,Wed,Home,D,1,1,Leicester City,341,295,44,11,0,2,22,17,5,3,1,0,244,2,11,20:15:00
+ENG-Premier League,2021,Everton,2021-01-30 Everton-Newcastle Utd,2021-01-30,Matchweek 21,Sat,Home,L,0,2,Newcastle Utd,538,496,38,6,1,4,25,14,7,4,2,0,436,4,4,12:30:00
+ENG-Premier League,2021,Everton,2021-02-03 Leeds United-Everton,2021-02-03,Matchweek 22,Wed,Away,W,2,1,Leeds United,366,318,47,12,1,0,12,21,1,1,0,0,266,1,13,19:30:00
+ENG-Premier League,2021,Everton,2021-02-06 Manchester Utd-Everton,2021-02-06,Matchweek 23,Sat,Away,D,3,3,Manchester Utd,439,389,46,14,0,3,15,20,1,0,1,0,344,4,14,20:00:00
+ENG-Premier League,2021,Everton,2021-02-14 Everton-Fulham,2021-02-14,Matchweek 24,Sun,Home,L,0,2,Fulham,580,525,52,17,0,5,21,21,5,1,3,0,469,3,11,19:00:00
+ENG-Premier League,2021,Everton,2021-02-17 Everton-Manchester City,2021-02-17,Matchweek 16,Wed,Home,L,1,3,Manchester City,336,307,29,8,0,3,12,6,0,0,0,0,242,0,6,20:15:00
+ENG-Premier League,2021,Everton,2021-02-20 Liverpool-Everton,2021-02-20,Matchweek 25,Sat,Away,W,2,0,Liverpool,307,266,39,10,1,4,8,15,2,1,1,0,200,2,9,17:30:00
+ENG-Premier League,2021,Everton,2021-03-01 Everton-Southampton,2021-03-01,Matchweek 26,Mon,Home,W,1,0,Southampton,452,407,41,6,3,2,13,22,4,4,0,0,328,4,6,20:00:00
+ENG-Premier League,2021,Everton,2021-03-04 West Brom-Everton,2021-03-04,Matchweek 29,Thu,Away,W,1,0,West Brom,537,501,34,12,2,1,15,14,3,2,1,0,421,2,12,18:00:00
+ENG-Premier League,2021,Everton,2021-03-08 Chelsea-Everton,2021-03-08,Matchweek 27,Mon,Away,L,0,2,Chelsea,400,362,38,11,1,3,11,15,3,2,1,0,316,0,5,18:00:00
+ENG-Premier League,2021,Everton,2021-03-13 Everton-Burnley,2021-03-13,Matchweek 28,Sat,Home,L,1,2,Burnley,614,562,50,7,1,7,32,26,7,5,2,0,483,2,11,17:30:00
+ENG-Premier League,2021,Everton,2021-04-05 Everton-Crystal Palace,2021-04-05,Matchweek 30,Mon,Home,D,1,1,Crystal Palace,498,457,39,10,2,2,16,15,3,2,1,0,393,2,12,18:00:00
+ENG-Premier League,2021,Everton,2021-04-12 Brighton-Everton,2021-04-12,Matchweek 31,Mon,Away,D,0,0,Brighton,444,396,47,11,0,1,14,22,3,3,0,0,334,1,15,20:15:00
+ENG-Premier League,2021,Everton,2021-04-16 Everton-Tottenham,2021-04-16,Matchweek 32,Fri,Home,D,2,2,Tottenham,543,500,41,6,0,4,11,20,6,1,5,0,422,2,12,20:00:00
+ENG-Premier League,2021,Everton,2021-04-23 Arsenal-Everton,2021-04-23,Matchweek 33,Fri,Away,W,1,0,Arsenal,466,434,31,13,0,3,11,9,3,3,0,0,375,1,8,20:00:00
+ENG-Premier League,2021,Everton,2021-05-01 Everton-Aston Villa,2021-05-01,Matchweek 34,Sat,Home,L,1,2,Aston Villa,462,415,45,15,0,1,18,19,3,3,0,0,367,2,9,20:00:00
+ENG-Premier League,2021,Everton,2021-05-09 West Ham-Everton,2021-05-09,Matchweek 35,Sun,Away,W,1,0,West Ham,312,274,36,9,1,2,14,12,6,6,0,0,222,2,9,16:30:00
+ENG-Premier League,2021,Everton,2021-05-13 Aston Villa-Everton,2021-05-13,Matchweek 19,Thu,Away,D,0,0,Aston Villa,398,364,32,8,2,4,18,11,1,1,0,0,314,2,5,18:00:00
+ENG-Premier League,2021,Everton,2021-05-16 Everton-Sheffield Utd,2021-05-16,Matchweek 36,Sun,Home,L,0,1,Sheffield Utd,693,636,57,15,1,3,26,25,11,5,4,0,583,0,9,19:00:00
+ENG-Premier League,2021,Everton,2021-05-19 Everton-Wolves,2021-05-19,Matchweek 37,Wed,Home,W,1,0,Wolves,409,372,37,11,2,2,19,11,7,3,4,0,316,0,9,18:00:00
+ENG-Premier League,2021,Everton,2021-05-23 Manchester City-Everton,2021-05-23,Matchweek 38,Sun,Away,L,0,5,Manchester City,371,331,39,8,0,4,11,15,5,5,0,0,287,1,4,16:00:00
+ENG-Premier League,2021,Fulham,2020-09-12 Fulham-Arsenal,2020-09-12,Matchweek 1,Sat,Home,L,0,3,Arsenal,562,517,43,13,0,2,15,20,2,0,2,0,485,2,4,12:30:00
+ENG-Premier League,2021,Fulham,2020-09-19 Leeds United-Fulham,2020-09-19,Matchweek 2,Sat,Away,L,3,4,Leeds United,480,439,41,14,0,2,18,16,3,0,3,0,380,0,7,15:00:00
+ENG-Premier League,2021,Fulham,2020-09-28 Fulham-Aston Villa,2020-09-28,Matchweek 3,Mon,Home,L,0,3,Aston Villa,605,551,54,17,0,8,43,21,5,2,3,0,493,0,9,17:45:00
+ENG-Premier League,2021,Fulham,2020-10-04 Wolves-Fulham,2020-10-04,Matchweek 4,Sun,Away,L,0,1,Wolves,580,537,43,14,0,11,28,19,2,0,0,1,490,0,5,14:00:00
+ENG-Premier League,2021,Fulham,2020-10-18 Sheffield Utd-Fulham,2020-10-18,Matchweek 5,Sun,Away,D,1,1,Sheffield Utd,606,567,39,8,0,3,16,20,5,3,2,0,505,0,8,12:00:00
+ENG-Premier League,2021,Fulham,2020-10-24 Fulham-Crystal Palace,2020-10-24,Matchweek 6,Sat,Home,L,1,2,Crystal Palace,698,652,45,13,0,5,29,20,4,0,2,1,607,1,10,15:00:00
+ENG-Premier League,2021,Fulham,2020-11-02 Fulham-West Brom,2020-11-02,Matchweek 7,Mon,Home,W,2,0,West Brom,455,386,68,15,0,3,16,39,5,1,2,0,331,1,8,17:30:00
+ENG-Premier League,2021,Fulham,2020-11-07 West Ham-Fulham,2020-11-07,Matchweek 8,Sat,Away,L,0,1,West Ham,500,453,45,10,0,0,19,17,5,1,1,0,402,2,7,20:00:00
+ENG-Premier League,2021,Fulham,2020-11-22 Fulham-Everton,2020-11-22,Matchweek 9,Sun,Home,L,2,3,Everton,669,623,44,12,1,4,10,26,2,0,0,0,561,2,7,12:00:00
+ENG-Premier League,2021,Fulham,2020-11-30 Leicester City-Fulham,2020-11-30,Matchweek 10,Mon,Away,W,2,1,Leicester City,342,306,36,7,1,3,8,16,5,1,2,1,238,0,7,17:30:00
+ENG-Premier League,2021,Fulham,2020-12-05 Manchester City-Fulham,2020-12-05,Matchweek 11,Sat,Away,L,0,2,Manchester City,375,335,39,8,2,2,7,10,3,0,1,1,290,1,4,15:00:00
+ENG-Premier League,2021,Fulham,2020-12-13 Fulham-Liverpool,2020-12-13,Matchweek 12,Sun,Home,D,1,1,Liverpool,267,224,41,6,1,3,17,19,6,2,4,0,172,2,6,16:30:00
+ENG-Premier League,2021,Fulham,2020-12-16 Fulham-Brighton,2020-12-16,Matchweek 13,Wed,Home,D,0,0,Brighton,462,418,43,13,0,3,9,22,1,1,0,0,330,1,10,20:00:00
+ENG-Premier League,2021,Fulham,2020-12-19 Newcastle Utd-Fulham,2020-12-19,Matchweek 14,Sat,Away,D,1,1,Newcastle Utd,521,476,45,7,0,4,22,18,9,3,6,0,407,0,9,20:00:00
+ENG-Premier League,2021,Fulham,2020-12-26 Fulham-Southampton,2020-12-26,Matchweek 15,Sat,Home,D,0,0,Southampton,395,330,64,16,0,3,24,33,6,2,4,0,273,1,5,15:00:00
+ENG-Premier League,2021,Fulham,2021-01-13 Tottenham-Fulham,2021-01-13,Matchweek 16,Wed,Away,D,1,1,Tottenham,504,467,35,14,0,3,20,8,5,2,1,0,391,2,14,20:15:00
+ENG-Premier League,2021,Fulham,2021-01-16 Fulham-Chelsea,2021-01-16,Matchweek 19,Sat,Home,L,0,1,Chelsea,369,320,48,12,0,3,11,25,1,0,0,1,264,1,9,17:30:00
+ENG-Premier League,2021,Fulham,2021-01-20 Fulham-Manchester Utd,2021-01-20,Matchweek 18,Wed,Home,L,1,2,Manchester Utd,436,387,48,12,2,1,15,17,2,0,2,0,340,1,7,20:15:00
+ENG-Premier League,2021,Fulham,2021-01-27 Brighton-Fulham,2021-01-27,Matchweek 20,Wed,Away,D,0,0,Brighton,473,432,41,13,1,0,11,18,0,0,0,0,347,0,19,19:30:00
+ENG-Premier League,2021,Fulham,2021-01-30 West Brom-Fulham,2021-01-30,Matchweek 21,Sat,Away,D,2,2,West Brom,616,571,44,10,1,5,18,20,3,3,0,0,482,1,8,15:00:00
+ENG-Premier League,2021,Fulham,2021-02-03 Fulham-Leicester City,2021-02-03,Matchweek 22,Wed,Home,L,0,2,Leicester City,655,603,51,13,1,0,25,27,5,2,2,1,528,1,10,18:00:00
+ENG-Premier League,2021,Fulham,2021-02-06 Fulham-West Ham,2021-02-06,Matchweek 23,Sat,Home,D,0,0,West Ham,588,546,41,12,1,2,18,15,7,0,4,1,485,1,4,17:30:00
+ENG-Premier League,2021,Fulham,2021-02-14 Everton-Fulham,2021-02-14,Matchweek 24,Sun,Away,W,2,0,Everton,585,541,42,10,1,4,15,21,4,3,0,0,491,2,9,19:00:00
+ENG-Premier League,2021,Fulham,2021-02-17 Burnley-Fulham,2021-02-17,Matchweek 17,Wed,Away,D,1,1,Burnley,513,468,45,13,0,0,14,18,5,2,2,0,366,0,17,18:00:00
+ENG-Premier League,2021,Fulham,2021-02-20 Fulham-Sheffield Utd,2021-02-20,Matchweek 25,Sat,Home,W,1,0,Sheffield Utd,645,592,52,17,0,1,22,22,6,1,2,1,522,1,13,20:00:00
+ENG-Premier League,2021,Fulham,2021-02-28 Crystal Palace-Fulham,2021-02-28,Matchweek 26,Sun,Away,D,0,0,Crystal Palace,594,549,45,10,0,8,20,31,3,0,3,0,489,0,18,12:00:00
+ENG-Premier League,2021,Fulham,2021-03-04 Fulham-Tottenham,2021-03-04,Matchweek 33,Thu,Home,L,0,1,Tottenham,601,548,49,11,0,2,23,25,4,2,0,2,480,4,10,18:00:00
+ENG-Premier League,2021,Fulham,2021-03-07 Liverpool-Fulham,2021-03-07,Matchweek 27,Sun,Away,W,1,0,Liverpool,454,411,42,13,1,5,17,14,4,0,2,1,342,1,7,14:00:00
+ENG-Premier League,2021,Fulham,2021-03-13 Fulham-Manchester City,2021-03-13,Matchweek 28,Sat,Home,L,0,3,Manchester City,490,437,52,16,1,3,17,23,4,1,2,1,382,1,11,20:00:00
+ENG-Premier League,2021,Fulham,2021-03-19 Fulham-Leeds United,2021-03-19,Matchweek 29,Fri,Home,L,1,2,Leeds United,399,332,66,16,0,1,24,29,13,6,7,0,278,1,6,20:00:00
+ENG-Premier League,2021,Fulham,2021-04-04 Aston Villa-Fulham,2021-04-04,Matchweek 30,Sun,Away,L,1,3,Aston Villa,419,369,48,18,0,3,11,15,4,2,1,1,309,2,12,16:30:00
+ENG-Premier League,2021,Fulham,2021-04-09 Fulham-Wolves,2021-04-09,Matchweek 31,Fri,Home,L,0,1,Wolves,498,445,50,9,0,2,28,23,3,2,1,0,402,3,5,20:00:00
+ENG-Premier League,2021,Fulham,2021-04-18 Arsenal-Fulham,2021-04-18,Matchweek 32,Sun,Away,D,1,1,Arsenal,306,261,45,13,0,1,6,13,1,1,0,0,219,0,5,13:30:00
+ENG-Premier League,2021,Fulham,2021-05-01 Chelsea-Fulham,2021-05-01,Matchweek 34,Sat,Away,L,0,2,Chelsea,571,514,56,22,0,4,21,23,8,4,3,1,473,1,12,17:30:00
+ENG-Premier League,2021,Fulham,2021-05-10 Fulham-Burnley,2021-05-10,Matchweek 35,Mon,Home,L,0,2,Burnley,592,533,55,11,0,1,34,26,8,2,5,0,431,4,11,20:00:00
+ENG-Premier League,2021,Fulham,2021-05-15 Southampton-Fulham,2021-05-15,Matchweek 36,Sat,Away,L,1,3,Southampton,585,542,42,12,2,1,13,18,5,3,2,0,498,1,15,15:00:00
+ENG-Premier League,2021,Fulham,2021-05-18 Manchester Utd-Fulham,2021-05-18,Matchweek 37,Tue,Away,D,1,1,Manchester Utd,442,401,40,13,1,1,9,15,1,0,0,1,353,1,7,18:00:00
+ENG-Premier League,2021,Fulham,2021-05-23 Fulham-Newcastle Utd,2021-05-23,Matchweek 38,Sun,Home,L,0,2,Newcastle Utd,660,620,39,6,0,2,37,22,5,2,2,0,565,1,11,16:00:00
+ENG-Premier League,2021,Leeds United,2020-09-12 Liverpool-Leeds United,2020-09-12,Matchweek 1,Sat,Away,L,3,4,Liverpool,509,452,52,10,1,5,9,25,0,0,0,0,382,5,6,17:30:00
+ENG-Premier League,2021,Leeds United,2020-09-19 Leeds United-Fulham,2020-09-19,Matchweek 2,Sat,Home,W,4,3,Fulham,503,436,64,15,2,4,20,31,5,0,4,0,373,3,16,15:00:00
+ENG-Premier League,2021,Leeds United,2020-09-27 Sheffield Utd-Leeds United,2020-09-27,Matchweek 3,Sun,Away,W,1,0,Sheffield Utd,642,579,62,20,1,8,25,28,7,4,1,0,515,1,9,12:00:00
+ENG-Premier League,2021,Leeds United,2020-10-03 Leeds United-Manchester City,2020-10-03,Matchweek 4,Sat,Home,D,1,1,Manchester City,468,412,54,14,0,5,13,17,7,3,2,0,381,2,4,17:30:00
+ENG-Premier League,2021,Leeds United,2020-10-19 Leeds United-Wolves,2020-10-19,Matchweek 5,Mon,Home,L,0,1,Wolves,615,564,50,14,2,8,37,19,8,4,2,0,491,1,3,20:00:00
+ENG-Premier League,2021,Leeds United,2020-10-23 Aston Villa-Leeds United,2020-10-23,Matchweek 6,Fri,Away,W,3,0,Aston Villa,500,447,53,13,0,8,20,28,5,3,0,0,402,0,8,20:00:00
+ENG-Premier League,2021,Leeds United,2020-11-02 Leeds United-Leicester City,2020-11-02,Matchweek 7,Mon,Home,L,1,4,Leicester City,698,648,48,5,2,8,25,26,10,0,8,0,574,2,10,20:00:00
+ENG-Premier League,2021,Leeds United,2020-11-07 Crystal Palace-Leeds United,2020-11-07,Matchweek 8,Sat,Away,L,1,4,Crystal Palace,654,606,47,9,0,12,23,22,6,0,6,0,527,1,10,15:00:00
+ENG-Premier League,2021,Leeds United,2020-11-22 Leeds United-Arsenal,2020-11-22,Matchweek 9,Sun,Home,D,0,0,Arsenal,655,618,37,10,0,2,27,16,5,1,2,0,544,0,3,16:30:00
+ENG-Premier League,2021,Leeds United,2020-11-28 Everton-Leeds United,2020-11-28,Matchweek 10,Sat,Away,W,1,0,Everton,603,552,45,10,0,8,16,24,2,0,2,0,496,6,10,17:30:00
+ENG-Premier League,2021,Leeds United,2020-12-05 Chelsea-Leeds United,2020-12-05,Matchweek 11,Sat,Away,L,1,3,Chelsea,528,474,50,13,1,4,14,21,4,0,3,0,423,4,7,20:00:00
+ENG-Premier League,2021,Leeds United,2020-12-11 Leeds United-West Ham,2020-12-11,Matchweek 12,Fri,Home,L,1,2,West Ham,601,557,42,9,0,4,27,17,5,1,3,0,498,2,10,20:00:00
+ENG-Premier League,2021,Leeds United,2020-12-16 Leeds United-Newcastle Utd,2020-12-16,Matchweek 13,Wed,Home,W,5,2,Newcastle Utd,595,541,50,15,1,5,36,17,7,5,1,0,476,4,14,18:00:00
+ENG-Premier League,2021,Leeds United,2020-12-20 Manchester Utd-Leeds United,2020-12-20,Matchweek 14,Sun,Away,L,2,6,Manchester Utd,547,489,54,8,1,9,35,22,13,6,7,0,432,4,16,16:30:00
+ENG-Premier League,2021,Leeds United,2020-12-27 Leeds United-Burnley,2020-12-27,Matchweek 15,Sun,Home,W,1,0,Burnley,465,415,47,15,1,2,12,18,4,3,0,0,342,3,11,12:00:00
+ENG-Premier League,2021,Leeds United,2020-12-29 West Brom-Leeds United,2020-12-29,Matchweek 16,Tue,Away,W,5,0,West Brom,815,777,37,8,1,10,28,13,10,6,3,0,708,1,7,18:00:00
+ENG-Premier League,2021,Leeds United,2021-01-02 Tottenham-Leeds United,2021-01-02,Matchweek 17,Sat,Away,L,0,3,Tottenham,640,586,53,15,0,6,24,20,5,1,4,0,526,1,14,12:30:00
+ENG-Premier League,2021,Leeds United,2021-01-16 Leeds United-Brighton,2021-01-16,Matchweek 19,Sat,Home,L,0,1,Brighton,664,614,47,9,0,3,29,21,5,1,3,0,533,3,13,15:00:00
+ENG-Premier League,2021,Leeds United,2021-01-26 Newcastle Utd-Leeds United,2021-01-26,Matchweek 20,Tue,Away,W,2,1,Newcastle Utd,492,436,56,11,0,4,11,26,4,3,1,0,361,0,9,18:00:00
+ENG-Premier League,2021,Leeds United,2021-01-31 Leicester City-Leeds United,2021-01-31,Matchweek 21,Sun,Away,W,3,1,Leicester City,433,379,52,19,2,0,9,20,4,4,0,0,310,2,9,14:00:00
+ENG-Premier League,2021,Leeds United,2021-02-03 Leeds United-Everton,2021-02-03,Matchweek 22,Wed,Home,L,1,2,Everton,616,564,52,13,0,2,25,25,7,6,0,0,498,0,18,19:30:00
+ENG-Premier League,2021,Leeds United,2021-02-08 Leeds United-Crystal Palace,2021-02-08,Matchweek 23,Mon,Home,W,2,0,Crystal Palace,760,725,34,8,0,0,15,17,5,4,0,0,662,1,7,20:00:00
+ENG-Premier League,2021,Leeds United,2021-02-14 Arsenal-Leeds United,2021-02-14,Matchweek 24,Sun,Away,L,2,4,Arsenal,540,498,42,10,0,2,17,18,5,2,3,0,419,0,9,16:30:00
+ENG-Premier League,2021,Leeds United,2021-02-19 Wolves-Leeds United,2021-02-19,Matchweek 25,Fri,Away,L,0,1,Wolves,487,436,50,14,0,9,22,19,9,4,4,0,387,1,9,20:00:00
+ENG-Premier League,2021,Leeds United,2021-02-23 Leeds United-Southampton,2021-02-23,Matchweek 18,Tue,Home,W,3,0,Southampton,361,314,46,14,1,2,8,20,2,1,0,0,247,1,8,18:00:00
+ENG-Premier League,2021,Leeds United,2021-02-27 Leeds United-Aston Villa,2021-02-27,Matchweek 26,Sat,Home,L,0,1,Aston Villa,579,519,60,14,0,9,27,32,7,3,2,0,448,0,11,17:30:00
+ENG-Premier League,2021,Leeds United,2021-03-08 West Ham-Leeds United,2021-03-08,Matchweek 27,Mon,Away,L,0,2,West Ham,580,531,48,10,1,7,20,23,6,4,2,0,476,1,8,20:00:00
+ENG-Premier League,2021,Leeds United,2021-03-13 Leeds United-Chelsea,2021-03-13,Matchweek 28,Sat,Home,D,0,0,Chelsea,394,342,47,9,0,2,22,21,8,2,6,0,280,5,13,12:30:00
+ENG-Premier League,2021,Leeds United,2021-03-19 Fulham-Leeds United,2021-03-19,Matchweek 29,Fri,Away,W,2,1,Fulham,380,325,51,12,1,4,19,25,7,1,4,1,258,4,10,20:00:00
+ENG-Premier League,2021,Leeds United,2021-04-03 Leeds United-Sheffield Utd,2021-04-03,Matchweek 30,Sat,Home,W,2,1,Sheffield Utd,534,487,46,13,0,7,16,21,5,3,1,0,413,1,10,15:00:00
+ENG-Premier League,2021,Leeds United,2021-04-10 Manchester City-Leeds United,2021-04-10,Matchweek 31,Sat,Away,W,2,1,Manchester City,281,233,45,14,1,2,9,9,3,1,2,0,187,3,5,12:30:00
+ENG-Premier League,2021,Leeds United,2021-04-19 Leeds United-Liverpool,2021-04-19,Matchweek 32,Mon,Home,D,1,1,Liverpool,577,517,60,18,3,10,26,18,10,9,0,0,470,0,13,20:00:00
+ENG-Premier League,2021,Leeds United,2021-04-25 Leeds United-Manchester Utd,2021-04-25,Matchweek 33,Sun,Home,D,0,0,Manchester Utd,426,384,40,11,0,6,13,18,2,2,0,0,323,2,5,14:00:00
+ENG-Premier League,2021,Leeds United,2021-05-01 Brighton-Leeds United,2021-05-01,Matchweek 34,Sat,Away,L,0,2,Brighton,531,460,70,17,0,5,29,28,9,7,0,0,421,1,12,15:00:00
+ENG-Premier League,2021,Leeds United,2021-05-08 Leeds United-Tottenham,2021-05-08,Matchweek 35,Sat,Home,W,3,1,Tottenham,497,447,49,12,0,6,28,21,8,6,0,0,383,1,13,12:30:00
+ENG-Premier League,2021,Leeds United,2021-05-15 Burnley-Leeds United,2021-05-15,Matchweek 36,Sat,Away,W,4,0,Burnley,491,442,43,11,1,9,21,12,8,6,0,0,363,6,2,12:30:00
+ENG-Premier League,2021,Leeds United,2021-05-18 Southampton-Leeds United,2021-05-18,Matchweek 37,Tue,Away,W,2,0,Southampton,426,363,62,12,3,6,12,32,4,2,2,0,315,1,16,18:00:00
+ENG-Premier League,2021,Leeds United,2021-05-23 Leeds United-West Brom,2021-05-23,Matchweek 38,Sun,Home,W,3,1,West Brom,542,489,50,13,1,2,17,19,8,7,0,0,440,3,6,16:00:00
+ENG-Premier League,2021,Leicester City,2020-09-13 West Brom-Leicester City,2020-09-13,Matchweek 1,Sun,Away,W,3,0,West Brom,658,599,56,13,1,5,17,31,5,0,4,0,546,3,7,14:00:00
+ENG-Premier League,2021,Leicester City,2020-09-20 Leicester City-Burnley,2020-09-20,Matchweek 2,Sun,Home,W,4,2,Burnley,666,611,55,14,0,5,28,14,15,5,2,0,546,0,9,19:00:00
+ENG-Premier League,2021,Leicester City,2020-09-27 Manchester City-Leicester City,2020-09-27,Matchweek 3,Sun,Away,W,5,2,Manchester City,291,249,39,12,0,2,7,7,3,1,0,0,212,3,4,16:30:00
+ENG-Premier League,2021,Leicester City,2020-10-04 Leicester City-West Ham,2020-10-04,Matchweek 4,Sun,Home,L,0,3,West Ham,741,688,49,10,3,2,21,25,6,1,5,0,606,4,15,12:00:00
+ENG-Premier League,2021,Leicester City,2020-10-18 Leicester City-Aston Villa,2020-10-18,Matchweek 5,Sun,Home,L,0,1,Aston Villa,452,407,43,19,0,2,11,16,2,1,0,0,333,2,9,19:15:00
+ENG-Premier League,2021,Leicester City,2020-10-25 Arsenal-Leicester City,2020-10-25,Matchweek 6,Sun,Away,W,1,0,Arsenal,481,442,39,13,1,2,5,15,3,0,1,0,390,0,7,19:15:00
+ENG-Premier League,2021,Leicester City,2020-11-02 Leeds United-Leicester City,2020-11-02,Matchweek 7,Mon,Away,W,4,1,Leeds United,337,296,41,10,1,0,12,14,3,1,2,0,234,0,5,20:00:00
+ENG-Premier League,2021,Leicester City,2020-11-08 Leicester City-Wolves,2020-11-08,Matchweek 8,Sun,Home,W,1,0,Wolves,536,498,38,6,2,1,24,18,6,0,5,0,422,0,7,14:00:00
+ENG-Premier League,2021,Leicester City,2020-11-22 Liverpool-Leicester City,2020-11-22,Matchweek 9,Sun,Away,L,0,3,Liverpool,489,435,53,16,1,2,17,22,3,2,1,0,378,1,10,19:15:00
+ENG-Premier League,2021,Leicester City,2020-11-30 Leicester City-Fulham,2020-11-30,Matchweek 10,Mon,Home,L,1,2,Fulham,715,662,53,20,1,1,27,21,6,4,2,0,599,0,7,17:30:00
+ENG-Premier League,2021,Leicester City,2020-12-06 Sheffield Utd-Leicester City,2020-12-06,Matchweek 11,Sun,Away,W,2,1,Sheffield Utd,729,680,45,16,1,4,27,19,5,0,4,1,599,4,16,14:15:00
+ENG-Premier League,2021,Leicester City,2020-12-13 Leicester City-Brighton,2020-12-13,Matchweek 12,Sun,Home,W,3,0,Brighton,582,538,40,11,0,5,17,15,9,0,0,0,491,4,11,19:15:00
+ENG-Premier League,2021,Leicester City,2020-12-16 Leicester City-Everton,2020-12-16,Matchweek 13,Wed,Home,L,0,2,Everton,590,546,42,11,1,1,16,22,4,1,3,0,490,2,9,18:00:00
+ENG-Premier League,2021,Leicester City,2020-12-20 Tottenham-Leicester City,2020-12-20,Matchweek 14,Sun,Away,W,2,0,Tottenham,442,396,42,16,0,1,12,16,3,1,2,0,341,4,3,14:15:00
+ENG-Premier League,2021,Leicester City,2020-12-26 Leicester City-Manchester Utd,2020-12-26,Matchweek 15,Sat,Home,D,2,2,Manchester Utd,556,506,49,18,0,3,22,20,5,1,3,0,434,1,11,12:30:00
+ENG-Premier League,2021,Leicester City,2020-12-28 Crystal Palace-Leicester City,2020-12-28,Matchweek 16,Mon,Away,D,1,1,Crystal Palace,662,615,45,10,0,5,26,24,5,3,2,0,523,2,17,15:00:00
+ENG-Premier League,2021,Leicester City,2021-01-03 Newcastle Utd-Leicester City,2021-01-03,Matchweek 17,Sun,Away,W,2,1,Newcastle Utd,531,490,38,13,1,1,21,13,6,2,4,0,414,3,14,14:15:00
+ENG-Premier League,2021,Leicester City,2021-01-16 Leicester City-Southampton,2021-01-16,Matchweek 19,Sat,Home,W,2,0,Southampton,489,442,42,12,0,2,15,19,2,1,1,0,347,5,14,20:00:00
+ENG-Premier League,2021,Leicester City,2021-01-19 Leicester City-Chelsea,2021-01-19,Matchweek 18,Tue,Home,W,2,0,Chelsea,385,334,50,18,1,3,18,21,6,3,1,0,301,1,13,20:15:00
+ENG-Premier League,2021,Leicester City,2021-01-27 Everton-Leicester City,2021-01-27,Matchweek 20,Wed,Away,D,1,1,Everton,623,568,54,12,1,0,21,24,11,1,1,0,519,1,14,20:15:00
+ENG-Premier League,2021,Leicester City,2021-01-31 Leicester City-Leeds United,2021-01-31,Matchweek 21,Sun,Home,L,1,3,Leeds United,448,395,51,17,1,1,14,21,5,0,4,1,328,2,11,14:00:00
+ENG-Premier League,2021,Leicester City,2021-02-03 Fulham-Leicester City,2021-02-03,Matchweek 22,Wed,Away,W,2,0,Fulham,492,432,57,18,1,5,8,26,2,0,0,0,373,3,11,18:00:00
+ENG-Premier League,2021,Leicester City,2021-02-07 Wolves-Leicester City,2021-02-07,Matchweek 23,Sun,Away,D,0,0,Wolves,604,558,45,10,0,2,12,23,2,1,0,1,519,1,10,14:00:00
+ENG-Premier League,2021,Leicester City,2021-02-13 Leicester City-Liverpool,2021-02-13,Matchweek 24,Sat,Home,W,3,1,Liverpool,383,354,27,6,0,1,6,12,2,1,1,0,263,2,9,12:30:00
+ENG-Premier League,2021,Leicester City,2021-02-21 Aston Villa-Leicester City,2021-02-21,Matchweek 25,Sun,Away,W,2,1,Aston Villa,482,434,47,14,1,3,13,16,8,0,4,0,391,1,6,14:05:00
+ENG-Premier League,2021,Leicester City,2021-02-28 Leicester City-Arsenal,2021-02-28,Matchweek 26,Sun,Home,L,1,3,Arsenal,437,408,29,4,0,1,9,14,2,2,0,0,336,0,6,12:00:00
+ENG-Premier League,2021,Leicester City,2021-03-03 Burnley-Leicester City,2021-03-03,Matchweek 29,Wed,Away,D,1,1,Burnley,624,575,47,9,4,4,19,23,8,1,5,0,499,2,8,18:00:00
+ENG-Premier League,2021,Leicester City,2021-03-06 Brighton-Leicester City,2021-03-06,Matchweek 27,Sat,Away,W,2,1,Brighton,658,598,59,18,2,3,13,24,6,2,4,0,549,1,13,20:00:00
+ENG-Premier League,2021,Leicester City,2021-03-14 Leicester City-Sheffield Utd,2021-03-14,Matchweek 28,Sun,Home,W,5,0,Sheffield Utd,792,749,41,9,2,1,15,22,9,3,3,0,695,2,9,14:00:00
+ENG-Premier League,2021,Leicester City,2021-04-03 Leicester City-Manchester City,2021-04-03,Matchweek 30,Sat,Home,L,0,2,Manchester City,481,437,41,13,0,0,6,15,1,0,1,0,393,3,8,17:30:00
+ENG-Premier League,2021,Leicester City,2021-04-11 West Ham-Leicester City,2021-04-11,Matchweek 31,Sun,Away,L,2,3,West Ham,686,642,43,10,4,2,31,18,9,3,5,0,557,1,13,14:05:00
+ENG-Premier League,2021,Leicester City,2021-04-22 Leicester City-West Brom,2021-04-22,Matchweek 32,Thu,Home,W,3,0,West Brom,744,697,46,11,1,4,10,23,7,2,2,1,631,1,9,20:00:00
+ENG-Premier League,2021,Leicester City,2021-04-26 Leicester City-Crystal Palace,2021-04-26,Matchweek 33,Mon,Home,W,2,1,Crystal Palace,637,593,42,14,2,5,17,16,7,4,2,0,521,2,13,20:00:00
+ENG-Premier League,2021,Leicester City,2021-04-30 Southampton-Leicester City,2021-04-30,Matchweek 34,Fri,Away,D,1,1,Southampton,695,648,42,8,0,2,32,21,10,3,1,0,568,5,12,20:00:00
+ENG-Premier League,2021,Leicester City,2021-05-07 Leicester City-Newcastle Utd,2021-05-07,Matchweek 35,Fri,Home,L,2,4,Newcastle Utd,652,605,45,9,0,6,32,18,9,3,4,0,550,2,6,20:00:00
+ENG-Premier League,2021,Leicester City,2021-05-11 Manchester Utd-Leicester City,2021-05-11,Matchweek 36,Tue,Away,W,2,1,Manchester Utd,529,488,41,11,1,1,16,21,4,1,3,0,428,0,6,18:00:00
+ENG-Premier League,2021,Leicester City,2021-05-18 Chelsea-Leicester City,2021-05-18,Matchweek 37,Tue,Away,L,1,2,Chelsea,428,371,57,16,0,3,17,24,5,4,1,0,320,0,11,20:15:00
+ENG-Premier League,2021,Leicester City,2021-05-23 Leicester City-Tottenham,2021-05-23,Matchweek 38,Sun,Home,L,2,4,Tottenham,489,437,49,7,1,1,15,25,8,3,2,1,368,3,13,16:00:00
+ENG-Premier League,2021,Liverpool,2020-09-12 Liverpool-Leeds United,2020-09-12,Matchweek 1,Sat,Home,W,4,3,Leeds United,492,431,59,9,1,3,20,34,9,1,6,1,362,2,8,17:30:00
+ENG-Premier League,2021,Liverpool,2020-09-20 Chelsea-Liverpool,2020-09-20,Matchweek 2,Sun,Away,W,2,0,Chelsea,816,769,46,10,1,6,24,22,11,2,4,0,711,1,10,16:30:00
+ENG-Premier League,2021,Liverpool,2020-09-28 Liverpool-Arsenal,2020-09-28,Matchweek 3,Mon,Home,W,3,1,Arsenal,823,771,52,12,1,1,22,28,7,1,5,0,712,0,8,20:00:00
+ENG-Premier League,2021,Liverpool,2020-10-04 Aston Villa-Liverpool,2020-10-04,Matchweek 4,Sun,Away,L,2,7,Aston Villa,708,651,56,8,2,10,20,28,7,1,4,0,591,1,14,19:15:00
+ENG-Premier League,2021,Liverpool,2020-10-17 Everton-Liverpool,2020-10-17,Matchweek 5,Sat,Away,D,2,2,Everton,565,515,47,16,1,6,20,14,5,2,3,0,459,3,7,12:30:00
+ENG-Premier League,2021,Liverpool,2020-10-24 Liverpool-Sheffield Utd,2020-10-24,Matchweek 6,Sat,Home,W,2,1,Sheffield Utd,724,675,47,14,0,11,22,16,7,1,3,0,611,2,17,20:00:00
+ENG-Premier League,2021,Liverpool,2020-10-31 Liverpool-West Ham,2020-10-31,Matchweek 7,Sat,Home,W,2,1,West Ham,872,831,40,12,1,3,16,22,1,0,1,0,760,1,14,17:30:00
+ENG-Premier League,2021,Liverpool,2020-11-08 Manchester City-Liverpool,2020-11-08,Matchweek 8,Sun,Away,D,1,1,Manchester City,501,442,54,20,3,2,11,23,2,1,0,0,399,5,7,16:30:00
+ENG-Premier League,2021,Liverpool,2020-11-22 Liverpool-Leicester City,2020-11-22,Matchweek 9,Sun,Home,W,3,0,Leicester City,621,577,42,7,0,3,25,16,10,5,4,0,517,2,5,19:15:00
+ENG-Premier League,2021,Liverpool,2020-11-28 Brighton-Liverpool,2020-11-28,Matchweek 10,Sat,Away,D,1,1,Brighton,576,519,55,10,0,3,12,29,3,1,1,0,463,2,9,12:30:00
+ENG-Premier League,2021,Liverpool,2020-12-06 Liverpool-Wolves,2020-12-06,Matchweek 11,Sun,Home,W,4,0,Wolves,663,625,37,16,1,1,20,11,4,0,2,0,581,1,7,19:15:00
+ENG-Premier League,2021,Liverpool,2020-12-13 Fulham-Liverpool,2020-12-13,Matchweek 12,Sun,Away,D,1,1,Fulham,771,716,53,9,0,2,33,27,8,1,7,0,647,2,10,16:30:00
+ENG-Premier League,2021,Liverpool,2020-12-16 Liverpool-Tottenham,2020-12-16,Matchweek 13,Wed,Home,W,2,1,Tottenham,866,821,43,9,1,3,28,18,7,1,3,0,744,2,9,20:00:00
+ENG-Premier League,2021,Liverpool,2020-12-19 Crystal Palace-Liverpool,2020-12-19,Matchweek 14,Sat,Away,W,7,0,Crystal Palace,775,740,35,11,2,8,11,16,4,0,3,0,672,0,7,12:30:00
+ENG-Premier League,2021,Liverpool,2020-12-27 Liverpool-West Brom,2020-12-27,Matchweek 15,Sun,Home,D,1,1,West Brom,852,809,42,7,1,2,35,22,7,1,5,0,734,1,11,16:30:00
+ENG-Premier League,2021,Liverpool,2020-12-30 Newcastle Utd-Liverpool,2020-12-30,Matchweek 16,Wed,Away,D,0,0,Newcastle Utd,734,674,56,11,3,2,37,27,12,3,9,0,609,4,8,20:00:00
+ENG-Premier League,2021,Liverpool,2021-01-04 Southampton-Liverpool,2021-01-04,Matchweek 17,Mon,Away,L,0,1,Southampton,750,700,49,11,0,4,43,23,10,2,4,1,587,1,13,20:00:00
+ENG-Premier League,2021,Liverpool,2021-01-17 Liverpool-Manchester Utd,2021-01-17,Matchweek 19,Sun,Home,D,0,0,Manchester Utd,713,668,44,14,1,7,22,19,7,2,2,0,601,1,5,16:30:00
+ENG-Premier League,2021,Liverpool,2021-01-21 Liverpool-Burnley,2021-01-21,Matchweek 18,Thu,Home,L,0,1,Burnley,753,701,51,14,0,7,40,18,12,3,5,0,617,1,6,20:00:00
+ENG-Premier League,2021,Liverpool,2021-01-28 Tottenham-Liverpool,2021-01-28,Matchweek 20,Thu,Away,W,3,1,Tottenham,627,590,35,11,1,1,12,17,2,0,2,0,530,2,9,20:00:00
+ENG-Premier League,2021,Liverpool,2021-01-31 West Ham-Liverpool,2021-01-31,Matchweek 21,Sun,Away,W,3,1,West Ham,818,780,37,9,1,4,13,15,4,1,3,0,721,1,9,16:30:00
+ENG-Premier League,2021,Liverpool,2021-02-03 Liverpool-Brighton,2021-02-03,Matchweek 22,Wed,Home,L,0,1,Brighton,756,706,50,9,0,1,27,25,5,0,3,0,629,0,12,20:15:00
+ENG-Premier League,2021,Liverpool,2021-02-07 Liverpool-Manchester City,2021-02-07,Matchweek 23,Sun,Home,L,1,4,Manchester City,696,649,46,7,0,4,21,25,6,5,1,0,599,1,9,16:30:00
+ENG-Premier League,2021,Liverpool,2021-02-13 Leicester City-Liverpool,2021-02-13,Matchweek 24,Sat,Away,L,1,3,Leicester City,627,574,52,7,2,2,31,25,12,6,4,0,495,1,11,12:30:00
+ENG-Premier League,2021,Liverpool,2021-02-20 Liverpool-Everton,2021-02-20,Matchweek 25,Sat,Home,L,0,2,Everton,752,699,51,11,2,4,29,26,7,0,5,0,641,2,7,17:30:00
+ENG-Premier League,2021,Liverpool,2021-02-28 Sheffield Utd-Liverpool,2021-02-28,Matchweek 26,Sun,Away,W,2,0,Sheffield Utd,677,634,42,12,0,4,14,18,3,0,3,0,561,1,12,19:15:00
+ENG-Premier League,2021,Liverpool,2021-03-04 Liverpool-Chelsea,2021-03-04,Matchweek 29,Thu,Home,L,0,1,Chelsea,708,654,53,12,1,5,15,30,5,0,4,0,606,1,5,20:15:00
+ENG-Premier League,2021,Liverpool,2021-03-07 Liverpool-Fulham,2021-03-07,Matchweek 27,Sun,Home,L,0,1,Fulham,775,723,49,8,1,3,38,22,9,5,4,0,628,3,12,14:00:00
+ENG-Premier League,2021,Liverpool,2021-03-15 Wolves-Liverpool,2021-03-15,Matchweek 28,Mon,Away,W,1,0,Wolves,502,461,40,19,1,5,12,15,2,0,2,0,378,1,12,20:00:00
+ENG-Premier League,2021,Liverpool,2021-04-03 Arsenal-Liverpool,2021-04-03,Matchweek 30,Sat,Away,W,3,0,Arsenal,751,714,34,10,1,8,21,20,2,0,1,0,638,3,6,20:00:00
+ENG-Premier League,2021,Liverpool,2021-04-10 Liverpool-Aston Villa,2021-04-10,Matchweek 31,Sat,Home,W,2,1,Aston Villa,628,575,51,12,0,2,25,19,7,0,4,0,504,2,17,15:00:00
+ENG-Premier League,2021,Liverpool,2021-04-19 Leeds United-Liverpool,2021-04-19,Matchweek 32,Mon,Away,D,1,1,Leeds United,374,320,50,7,2,2,17,26,8,0,8,0,282,4,9,20:00:00
+ENG-Premier League,2021,Liverpool,2021-04-24 Liverpool-Newcastle Utd,2021-04-24,Matchweek 33,Sat,Home,D,1,1,Newcastle Utd,834,793,40,10,1,3,17,19,6,0,4,0,746,1,13,12:30:00
+ENG-Premier League,2021,Liverpool,2021-05-08 Liverpool-Southampton,2021-05-08,Matchweek 35,Sat,Home,W,2,0,Southampton,616,573,39,6,1,9,26,20,8,0,5,0,520,4,12,20:15:00
+ENG-Premier League,2021,Liverpool,2021-05-13 Manchester Utd-Liverpool,2021-05-13,Matchweek 34,Thu,Away,W,4,2,Manchester Utd,489,442,46,11,4,2,9,18,4,2,2,0,382,1,4,20:15:00
+ENG-Premier League,2021,Liverpool,2021-05-16 West Brom-Liverpool,2021-05-16,Matchweek 36,Sun,Away,W,2,1,West Brom,756,704,50,10,3,4,30,21,13,3,9,0,641,2,8,16:30:00
+ENG-Premier League,2021,Liverpool,2021-05-19 Burnley-Liverpool,2021-05-19,Matchweek 37,Wed,Away,W,3,0,Burnley,622,579,42,10,3,4,16,15,7,0,3,0,516,1,8,20:15:00
+ENG-Premier League,2021,Liverpool,2021-05-23 Liverpool-Crystal Palace,2021-05-23,Matchweek 38,Sun,Home,W,2,0,Crystal Palace,643,591,50,8,1,5,28,22,14,1,9,0,535,2,7,16:00:00
+ENG-Premier League,2021,Manchester City,2020-09-21 Wolves-Manchester City,2020-09-21,Matchweek 2,Mon,Away,W,3,1,Wolves,728,683,42,6,1,5,8,20,6,1,2,0,626,3,11,20:15:00
+ENG-Premier League,2021,Manchester City,2020-09-27 Manchester City-Leicester City,2020-09-27,Matchweek 3,Sun,Home,L,2,5,Leicester City,735,691,42,9,0,11,27,22,3,3,0,0,643,2,10,16:30:00
+ENG-Premier League,2021,Manchester City,2020-10-03 Leeds United-Manchester City,2020-10-03,Matchweek 4,Sat,Away,D,1,1,Leeds United,445,383,59,12,0,1,20,29,10,10,0,0,352,3,11,17:30:00
+ENG-Premier League,2021,Manchester City,2020-10-17 Manchester City-Arsenal,2020-10-17,Matchweek 5,Sat,Home,W,1,0,Arsenal,689,647,42,12,0,2,10,13,6,2,1,0,604,0,10,17:30:00
+ENG-Premier League,2021,Manchester City,2020-10-24 West Ham-Manchester City,2020-10-24,Matchweek 6,Sat,Away,D,1,1,West Ham,796,748,48,14,5,2,23,20,10,2,0,0,697,0,12,12:30:00
+ENG-Premier League,2021,Manchester City,2020-10-31 Sheffield Utd-Manchester City,2020-10-31,Matchweek 7,Sat,Away,W,1,0,Sheffield Utd,760,706,52,12,1,8,11,29,5,5,0,0,659,2,8,12:30:00
+ENG-Premier League,2021,Manchester City,2020-11-08 Manchester City-Liverpool,2020-11-08,Matchweek 8,Sun,Home,D,1,1,Liverpool,586,544,40,15,2,5,9,15,1,0,1,0,493,2,7,16:30:00
+ENG-Premier League,2021,Manchester City,2020-11-21 Tottenham-Manchester City,2020-11-21,Matchweek 9,Sat,Away,L,0,2,Tottenham,646,605,39,13,0,4,30,11,10,6,2,0,553,2,10,17:30:00
+ENG-Premier League,2021,Manchester City,2020-11-28 Manchester City-Burnley,2020-11-28,Matchweek 10,Sat,Home,W,5,0,Burnley,750,714,34,6,1,5,11,15,6,0,0,0,660,2,9,15:00:00
+ENG-Premier League,2021,Manchester City,2020-12-05 Manchester City-Fulham,2020-12-05,Matchweek 11,Sat,Home,W,2,0,Fulham,831,785,45,6,1,2,11,22,9,2,1,0,738,1,7,15:00:00
+ENG-Premier League,2021,Manchester City,2020-12-12 Manchester Utd-Manchester City,2020-12-12,Matchweek 12,Sat,Away,D,0,0,Manchester Utd,619,572,45,14,1,8,11,21,3,1,1,0,526,2,8,17:30:00
+ENG-Premier League,2021,Manchester City,2020-12-15 Manchester City-West Brom,2020-12-15,Matchweek 13,Tue,Home,D,1,1,West Brom,810,759,48,8,0,3,32,20,13,1,10,1,710,3,11,20:00:00
+ENG-Premier League,2021,Manchester City,2020-12-19 Southampton-Manchester City,2020-12-19,Matchweek 14,Sat,Away,W,1,0,Southampton,586,538,46,11,1,1,9,22,6,1,1,0,493,2,14,15:00:00
+ENG-Premier League,2021,Manchester City,2020-12-26 Manchester City-Newcastle Utd,2020-12-26,Matchweek 15,Sat,Home,W,2,0,Newcastle Utd,894,851,42,15,0,1,11,17,7,2,3,0,801,1,15,20:00:00
+ENG-Premier League,2021,Manchester City,2021-01-03 Chelsea-Manchester City,2021-01-03,Matchweek 17,Sun,Away,W,3,1,Chelsea,583,540,43,12,1,0,7,18,3,0,1,0,509,0,6,16:30:00
+ENG-Premier League,2021,Manchester City,2021-01-13 Manchester City-Brighton,2021-01-13,Matchweek 18,Wed,Home,W,1,0,Brighton,768,725,41,13,1,3,20,15,8,2,3,0,676,2,8,18:00:00
+ENG-Premier League,2021,Manchester City,2021-01-17 Manchester City-Crystal Palace,2021-01-17,Matchweek 19,Sun,Home,W,4,0,Crystal Palace,799,760,39,6,0,3,29,19,11,3,5,2,705,0,9,19:15:00
+ENG-Premier League,2021,Manchester City,2021-01-20 Manchester City-Aston Villa,2021-01-20,Matchweek 1,Wed,Home,W,2,0,Aston Villa,677,633,41,9,0,3,29,14,16,2,8,1,574,3,4,18:00:00
+ENG-Premier League,2021,Manchester City,2021-01-26 West Brom-Manchester City,2021-01-26,Matchweek 20,Tue,Away,W,5,0,West Brom,923,886,36,8,4,2,16,17,8,0,8,0,830,1,4,20:15:00
+ENG-Premier League,2021,Manchester City,2021-01-30 Manchester City-Sheffield Utd,2021-01-30,Matchweek 21,Sat,Home,W,1,0,Sheffield Utd,848,805,43,11,0,11,21,18,10,0,7,0,756,0,10,15:00:00
+ENG-Premier League,2021,Manchester City,2021-02-03 Burnley-Manchester City,2021-02-03,Matchweek 22,Wed,Away,W,2,0,Burnley,834,803,29,11,0,7,10,11,3,1,0,0,757,2,9,18:00:00
+ENG-Premier League,2021,Manchester City,2021-02-07 Liverpool-Manchester City,2021-02-07,Matchweek 23,Sun,Away,W,4,1,Liverpool,542,509,31,13,0,4,6,11,1,0,0,0,459,2,8,16:30:00
+ENG-Premier League,2021,Manchester City,2021-02-13 Manchester City-Tottenham,2021-02-13,Matchweek 24,Sat,Home,W,3,0,Tottenham,723,694,28,11,0,0,10,9,4,2,2,0,651,1,5,17:30:00
+ENG-Premier League,2021,Manchester City,2021-02-17 Everton-Manchester City,2021-02-17,Matchweek 16,Wed,Away,W,3,1,Everton,804,762,42,8,4,3,23,20,10,5,3,0,707,0,10,20:15:00
+ENG-Premier League,2021,Manchester City,2021-02-21 Arsenal-Manchester City,2021-02-21,Matchweek 25,Sun,Away,W,1,0,Arsenal,626,584,39,12,3,5,7,14,3,0,0,0,549,3,6,16:30:00
+ENG-Premier League,2021,Manchester City,2021-02-27 Manchester City-West Ham,2021-02-27,Matchweek 26,Sat,Home,W,2,1,West Ham,719,676,41,12,2,2,17,19,4,1,3,0,629,2,6,12:30:00
+ENG-Premier League,2021,Manchester City,2021-03-02 Manchester City-Wolves,2021-03-02,Matchweek 29,Tue,Home,W,4,1,Wolves,842,806,33,6,3,4,24,11,10,5,0,0,754,3,7,20:00:00
+ENG-Premier League,2021,Manchester City,2021-03-07 Manchester City-Manchester Utd,2021-03-07,Matchweek 27,Sun,Home,L,0,2,Manchester Utd,761,717,44,12,1,2,21,20,6,2,1,0,671,0,6,16:30:00
+ENG-Premier League,2021,Manchester City,2021-03-10 Manchester City-Southampton,2021-03-10,Matchweek 33,Wed,Home,W,5,2,Southampton,708,666,41,8,0,5,8,21,5,0,2,0,638,1,7,18:00:00
+ENG-Premier League,2021,Manchester City,2021-03-13 Fulham-Manchester City,2021-03-13,Matchweek 28,Sat,Away,W,3,0,Fulham,567,525,39,14,1,3,10,19,2,0,2,0,475,3,6,20:00:00
+ENG-Premier League,2021,Manchester City,2021-04-03 Leicester City-Manchester City,2021-04-03,Matchweek 30,Sat,Away,W,2,0,Leicester City,614,575,38,15,1,4,18,18,1,1,0,0,528,1,11,17:30:00
+ENG-Premier League,2021,Manchester City,2021-04-10 Manchester City-Leeds United,2021-04-10,Matchweek 31,Sat,Home,L,1,2,Leeds United,687,633,52,17,1,3,36,23,9,1,3,0,590,2,8,12:30:00
+ENG-Premier League,2021,Manchester City,2021-04-21 Aston Villa-Manchester City,2021-04-21,Matchweek 32,Wed,Away,W,2,1,Aston Villa,847,798,47,11,0,4,20,16,11,0,5,0,763,2,7,20:15:00
+ENG-Premier League,2021,Manchester City,2021-05-01 Crystal Palace-Manchester City,2021-05-01,Matchweek 34,Sat,Away,W,2,0,Crystal Palace,735,697,37,11,0,12,18,12,6,3,3,0,633,1,11,12:30:00
+ENG-Premier League,2021,Manchester City,2021-05-08 Manchester City-Chelsea,2021-05-08,Matchweek 35,Sat,Home,L,1,2,Chelsea,577,534,42,14,0,1,16,16,6,5,1,0,514,1,8,17:30:00
+ENG-Premier League,2021,Manchester City,2021-05-14 Newcastle Utd-Manchester City,2021-05-14,Matchweek 36,Fri,Away,W,4,3,Newcastle Utd,967,932,35,10,0,4,22,14,5,2,1,0,893,0,9,20:00:00
+ENG-Premier League,2021,Manchester City,2021-05-18 Brighton-Manchester City,2021-05-18,Matchweek 37,Tue,Away,L,2,3,Brighton,382,340,41,15,1,1,7,10,3,1,2,0,315,1,5,19:00:00
+ENG-Premier League,2021,Manchester City,2021-05-23 Manchester City-Everton,2021-05-23,Matchweek 38,Sun,Home,W,5,0,Everton,759,720,38,11,2,2,14,15,7,1,4,0,688,1,7,16:00:00
+ENG-Premier League,2021,Manchester Utd,2020-09-19 Manchester Utd-Crystal Palace,2020-09-19,Matchweek 2,Sat,Home,L,1,3,Crystal Palace,758,705,52,11,0,8,28,24,9,1,5,0,634,1,21,17:30:00
+ENG-Premier League,2021,Manchester Utd,2020-09-26 Brighton-Manchester Utd,2020-09-26,Matchweek 3,Sat,Away,W,3,2,Brighton,470,425,41,17,1,5,8,11,1,1,0,0,386,4,8,12:30:00
+ENG-Premier League,2021,Manchester Utd,2020-10-04 Manchester Utd-Tottenham,2020-10-04,Matchweek 4,Sun,Home,L,1,6,Tottenham,450,404,45,10,0,2,9,20,2,2,0,0,371,1,12,16:30:00
+ENG-Premier League,2021,Manchester Utd,2020-10-17 Newcastle Utd-Manchester Utd,2020-10-17,Matchweek 5,Sat,Away,W,4,1,Newcastle Utd,673,634,37,7,1,6,19,20,7,2,5,0,565,2,7,20:00:00
+ENG-Premier League,2021,Manchester Utd,2020-10-24 Manchester Utd-Chelsea,2020-10-24,Matchweek 6,Sat,Home,D,0,0,Chelsea,635,585,48,6,0,3,20,26,9,1,4,2,515,2,18,17:30:00
+ENG-Premier League,2021,Manchester Utd,2020-11-01 Manchester Utd-Arsenal,2020-11-01,Matchweek 7,Sun,Home,L,0,1,Arsenal,615,560,51,13,1,1,18,21,6,1,5,0,512,4,6,16:30:00
+ENG-Premier League,2021,Manchester Utd,2020-11-07 Everton-Manchester Utd,2020-11-07,Matchweek 8,Sat,Away,W,3,1,Everton,485,438,46,13,1,3,8,19,2,2,0,0,394,1,10,12:30:00
+ENG-Premier League,2021,Manchester Utd,2020-11-21 Manchester Utd-West Brom,2020-11-21,Matchweek 9,Sat,Home,W,1,0,West Brom,705,650,54,16,2,9,20,21,8,1,4,1,585,1,17,20:00:00
+ENG-Premier League,2021,Manchester Utd,2020-11-29 Southampton-Manchester Utd,2020-11-29,Matchweek 10,Sun,Away,W,3,2,Southampton,566,517,49,12,3,3,21,21,9,1,7,0,448,0,11,14:00:00
+ENG-Premier League,2021,Manchester Utd,2020-12-05 West Ham-Manchester Utd,2020-12-05,Matchweek 11,Sat,Away,W,3,1,West Ham,667,622,42,13,2,6,10,15,4,2,1,0,569,3,8,17:30:00
+ENG-Premier League,2021,Manchester Utd,2020-12-12 Manchester Utd-Manchester City,2020-12-12,Matchweek 12,Sat,Home,D,0,0,Manchester City,526,488,36,7,0,6,6,14,4,4,0,0,444,2,2,17:30:00
+ENG-Premier League,2021,Manchester Utd,2020-12-17 Sheffield Utd-Manchester Utd,2020-12-17,Matchweek 13,Thu,Away,W,3,2,Sheffield Utd,597,538,55,18,1,9,8,23,3,1,1,1,494,4,7,20:00:00
+ENG-Premier League,2021,Manchester Utd,2020-12-20 Manchester Utd-Leeds United,2020-12-20,Matchweek 14,Sun,Home,W,6,2,Leeds United,386,336,48,9,2,3,12,15,11,3,8,0,292,2,9,16:30:00
+ENG-Premier League,2021,Manchester Utd,2020-12-26 Leicester City-Manchester Utd,2020-12-26,Matchweek 15,Sat,Away,D,2,2,Leicester City,477,430,43,11,2,2,7,24,0,0,0,0,374,4,12,12:30:00
+ENG-Premier League,2021,Manchester Utd,2020-12-29 Manchester Utd-Wolves,2020-12-29,Matchweek 16,Tue,Home,W,1,0,Wolves,657,617,36,9,0,8,18,19,2,1,0,0,561,4,8,20:00:00
+ENG-Premier League,2021,Manchester Utd,2021-01-01 Manchester Utd-Aston Villa,2021-01-01,Matchweek 17,Fri,Home,W,2,1,Aston Villa,440,400,39,10,0,3,17,14,5,1,4,0,351,1,12,20:00:00
+ENG-Premier League,2021,Manchester Utd,2021-01-12 Burnley-Manchester Utd,2021-01-12,Matchweek 1,Tue,Away,W,1,0,Burnley,608,562,44,18,0,3,21,14,4,1,0,0,497,2,8,20:15:00
+ENG-Premier League,2021,Manchester Utd,2021-01-17 Liverpool-Manchester Utd,2021-01-17,Matchweek 19,Sun,Away,D,0,0,Liverpool,390,334,48,13,1,6,11,21,3,3,0,0,280,8,10,16:30:00
+ENG-Premier League,2021,Manchester Utd,2021-01-20 Fulham-Manchester Utd,2021-01-20,Matchweek 18,Wed,Away,W,2,1,Fulham,705,648,55,6,1,5,28,32,8,1,5,0,587,2,11,20:15:00
+ENG-Premier League,2021,Manchester Utd,2021-01-27 Manchester Utd-Sheffield Utd,2021-01-27,Matchweek 20,Wed,Home,L,1,2,Sheffield Utd,851,801,50,15,0,15,23,23,7,2,4,0,740,0,9,20:15:00
+ENG-Premier League,2021,Manchester Utd,2021-01-30 Arsenal-Manchester Utd,2021-01-30,Matchweek 21,Sat,Away,D,0,0,Arsenal,620,566,52,8,0,5,24,25,7,4,2,0,520,2,15,17:30:00
+ENG-Premier League,2021,Manchester Utd,2021-02-02 Manchester Utd-Southampton,2021-02-02,Matchweek 22,Tue,Home,W,9,0,Southampton,670,635,32,5,1,7,22,18,5,1,3,0,574,3,6,20:15:00
+ENG-Premier League,2021,Manchester Utd,2021-02-06 Manchester Utd-Everton,2021-02-06,Matchweek 23,Sat,Home,D,3,3,Everton,692,649,43,12,1,9,22,14,5,4,1,0,607,0,10,20:00:00
+ENG-Premier League,2021,Manchester Utd,2021-02-14 West Brom-Manchester Utd,2021-02-14,Matchweek 24,Sun,Away,D,1,1,West Brom,766,706,57,14,0,9,26,28,5,3,2,0,643,3,17,14:00:00
+ENG-Premier League,2021,Manchester Utd,2021-02-21 Manchester Utd-Newcastle Utd,2021-02-21,Matchweek 25,Sun,Home,W,3,1,Newcastle Utd,733,691,40,11,1,5,16,16,6,4,2,0,627,2,16,19:00:00
+ENG-Premier League,2021,Manchester Utd,2021-02-28 Chelsea-Manchester Utd,2021-02-28,Matchweek 26,Sun,Away,D,0,0,Chelsea,492,437,52,11,1,7,13,26,4,2,2,0,396,3,13,16:30:00
+ENG-Premier League,2021,Manchester Utd,2021-03-03 Crystal Palace-Manchester Utd,2021-03-03,Matchweek 29,Wed,Away,D,0,0,Crystal Palace,660,612,46,5,0,14,25,29,6,3,3,0,558,2,9,20:15:00
+ENG-Premier League,2021,Manchester Utd,2021-03-07 Manchester City-Manchester Utd,2021-03-07,Matchweek 27,Sun,Away,W,2,0,Manchester City,395,356,38,7,0,4,4,11,2,2,0,0,309,1,16,16:30:00
+ENG-Premier League,2021,Manchester Utd,2021-03-14 Manchester Utd-West Ham,2021-03-14,Matchweek 28,Sun,Home,W,1,0,West Ham,715,683,32,4,0,5,17,11,6,2,4,0,633,0,4,19:15:00
+ENG-Premier League,2021,Manchester Utd,2021-04-04 Manchester Utd-Brighton,2021-04-04,Matchweek 30,Sun,Home,W,2,1,Brighton,646,608,38,9,0,3,21,17,5,3,2,0,534,0,12,19:30:00
+ENG-Premier League,2021,Manchester Utd,2021-04-11 Tottenham-Manchester Utd,2021-04-11,Matchweek 31,Sun,Away,W,3,1,Tottenham,547,498,48,14,1,2,22,19,5,4,1,0,447,1,14,16:30:00
+ENG-Premier League,2021,Manchester Utd,2021-04-18 Manchester Utd-Burnley,2021-04-18,Matchweek 32,Sun,Home,W,3,1,Burnley,665,607,56,16,2,10,20,25,8,2,3,0,576,2,6,16:00:00
+ENG-Premier League,2021,Manchester Utd,2021-04-25 Leeds United-Manchester Utd,2021-04-25,Matchweek 33,Sun,Away,D,0,0,Leeds United,540,484,56,20,3,0,22,28,6,3,3,0,453,0,11,14:00:00
+ENG-Premier League,2021,Manchester Utd,2021-05-09 Aston Villa-Manchester Utd,2021-05-09,Matchweek 35,Sun,Away,W,3,1,Aston Villa,603,560,43,12,0,6,19,16,6,5,0,0,506,0,10,14:05:00
+ENG-Premier League,2021,Manchester Utd,2021-05-11 Manchester Utd-Leicester City,2021-05-11,Matchweek 36,Tue,Home,L,1,2,Leicester City,603,551,49,12,0,8,9,25,3,2,1,0,492,3,10,18:00:00
+ENG-Premier League,2021,Manchester Utd,2021-05-13 Manchester Utd-Liverpool,2021-05-13,Matchweek 34,Thu,Home,L,2,4,Liverpool,557,506,50,12,3,6,21,19,6,5,0,0,433,1,12,20:15:00
+ENG-Premier League,2021,Manchester Utd,2021-05-18 Manchester Utd-Fulham,2021-05-18,Matchweek 37,Tue,Home,D,1,1,Fulham,589,543,42,13,0,5,19,19,6,3,3,0,489,4,8,18:00:00
+ENG-Premier League,2021,Manchester Utd,2021-05-23 Wolves-Manchester Utd,2021-05-23,Matchweek 38,Sun,Away,W,2,1,Wolves,470,424,45,14,3,0,6,17,2,0,2,0,404,1,6,16:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-09-12 West Ham-Newcastle Utd,2020-09-12,Matchweek 1,Sat,Away,W,2,0,West Ham,378,339,35,14,0,5,20,10,7,1,0,5,283,4,6,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-09-20 Newcastle Utd-Brighton,2020-09-20,Matchweek 2,Sun,Home,L,0,3,Brighton,430,375,54,17,0,4,20,18,7,1,3,1,316,1,12,14:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-09-27 Tottenham-Newcastle Utd,2020-09-27,Matchweek 3,Sun,Away,D,1,1,Tottenham,356,318,37,14,0,4,17,11,4,1,1,2,264,1,3,14:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-10-03 Newcastle Utd-Burnley,2020-10-03,Matchweek 4,Sat,Home,W,3,1,Burnley,461,410,47,20,0,6,15,18,3,0,1,0,337,4,8,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-10-17 Newcastle Utd-Manchester Utd,2020-10-17,Matchweek 5,Sat,Home,L,1,4,Manchester Utd,395,344,51,14,0,4,10,22,0,0,0,0,282,0,15,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-10-25 Wolves-Newcastle Utd,2020-10-25,Matchweek 6,Sun,Away,D,1,1,Wolves,437,394,43,9,0,3,16,17,3,0,2,0,350,0,10,16:30:00
+ENG-Premier League,2021,Newcastle Utd,2020-11-01 Newcastle Utd-Everton,2020-11-01,Matchweek 7,Sun,Home,W,2,1,Everton,415,358,56,9,1,8,11,29,5,1,1,2,319,1,13,14:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-11-06 Southampton-Newcastle Utd,2020-11-06,Matchweek 8,Fri,Away,L,0,2,Southampton,394,344,49,15,0,1,10,20,3,1,0,2,294,1,7,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-11-21 Newcastle Utd-Chelsea,2020-11-21,Matchweek 9,Sat,Home,L,0,2,Chelsea,330,280,48,14,0,1,20,17,7,1,1,2,228,2,5,12:30:00
+ENG-Premier League,2021,Newcastle Utd,2020-11-27 Crystal Palace-Newcastle Utd,2020-11-27,Matchweek 10,Fri,Away,W,2,0,Crystal Palace,420,375,45,7,0,2,17,24,3,1,0,1,306,0,7,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-12-12 Newcastle Utd-West Brom,2020-12-12,Matchweek 12,Sat,Home,W,2,1,West Brom,451,397,51,14,0,3,19,23,4,4,0,0,350,3,6,15:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-12-16 Leeds United-Newcastle Utd,2020-12-16,Matchweek 13,Wed,Away,L,2,5,Leeds United,277,227,48,12,0,0,15,13,4,1,3,0,180,2,6,18:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-12-19 Newcastle Utd-Fulham,2020-12-19,Matchweek 14,Sat,Home,D,1,1,Fulham,503,468,34,14,0,5,19,8,2,1,1,0,398,1,10,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-12-26 Manchester City-Newcastle Utd,2020-12-26,Matchweek 15,Sat,Away,L,0,2,Manchester City,307,274,30,6,0,1,18,13,3,2,1,0,223,3,5,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2020-12-30 Newcastle Utd-Liverpool,2020-12-30,Matchweek 16,Wed,Home,D,0,0,Liverpool,279,229,48,17,0,1,18,18,5,3,1,1,176,2,11,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-01-03 Newcastle Utd-Leicester City,2021-01-03,Matchweek 17,Sun,Home,L,1,2,Leicester City,425,365,57,13,0,4,19,28,3,1,2,0,287,3,9,14:15:00
+ENG-Premier League,2021,Newcastle Utd,2021-01-12 Sheffield Utd-Newcastle Utd,2021-01-12,Matchweek 18,Tue,Away,L,0,1,Sheffield Utd,324,270,52,12,0,0,12,23,2,0,2,0,220,2,6,18:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-01-18 Arsenal-Newcastle Utd,2021-01-18,Matchweek 19,Mon,Away,L,0,3,Arsenal,353,306,46,12,0,2,10,16,2,1,0,1,253,1,4,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-01-23 Aston Villa-Newcastle Utd,2021-01-23,Matchweek 11,Sat,Away,L,0,2,Aston Villa,434,378,54,10,0,5,31,28,4,1,3,0,320,2,18,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-01-26 Newcastle Utd-Leeds United,2021-01-26,Matchweek 20,Tue,Home,L,1,2,Leeds United,362,310,51,11,0,0,26,20,9,4,4,1,244,1,8,18:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-01-30 Everton-Newcastle Utd,2021-01-30,Matchweek 21,Sat,Away,W,2,0,Everton,355,295,60,15,1,1,30,21,12,5,3,2,252,0,17,12:30:00
+ENG-Premier League,2021,Newcastle Utd,2021-02-02 Newcastle Utd-Crystal Palace,2021-02-02,Matchweek 22,Tue,Home,L,1,2,Crystal Palace,672,619,52,12,2,13,33,24,9,2,5,0,554,1,14,20:15:00
+ENG-Premier League,2021,Newcastle Utd,2021-02-06 Newcastle Utd-Southampton,2021-02-06,Matchweek 23,Sat,Home,W,3,2,Southampton,249,197,49,18,0,1,6,17,0,0,0,0,140,3,7,15:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-02-15 Chelsea-Newcastle Utd,2021-02-15,Matchweek 24,Mon,Away,L,0,2,Chelsea,337,284,51,7,0,0,16,25,5,1,4,0,252,2,10,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-02-21 Manchester Utd-Newcastle Utd,2021-02-21,Matchweek 25,Sun,Away,L,1,3,Manchester Utd,300,258,41,11,0,1,13,15,4,0,1,0,200,1,6,19:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-02-27 Newcastle Utd-Wolves,2021-02-27,Matchweek 26,Sat,Home,D,1,1,Wolves,421,380,39,12,0,2,17,13,3,2,0,0,340,2,3,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-03-07 West Brom-Newcastle Utd,2021-03-07,Matchweek 27,Sun,Away,D,0,0,West Brom,416,355,60,12,0,2,20,25,7,2,4,0,270,1,16,12:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-03-12 Newcastle Utd-Aston Villa,2021-03-12,Matchweek 28,Fri,Home,D,1,1,Aston Villa,443,393,50,14,1,3,27,23,2,1,1,0,307,0,9,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-03-20 Brighton-Newcastle Utd,2021-03-20,Matchweek 29,Sat,Away,L,0,3,Brighton,414,371,42,14,0,3,5,19,1,1,0,0,330,1,8,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-04-04 Newcastle Utd-Tottenham,2021-04-04,Matchweek 30,Sun,Home,D,2,2,Tottenham,402,345,56,17,0,8,28,20,7,2,4,0,285,1,9,14:05:00
+ENG-Premier League,2021,Newcastle Utd,2021-04-11 Burnley-Newcastle Utd,2021-04-11,Matchweek 31,Sun,Away,W,2,1,Burnley,394,345,47,10,0,2,18,24,3,2,0,0,262,2,11,12:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-04-17 Newcastle Utd-West Ham,2021-04-17,Matchweek 32,Sat,Home,W,3,2,West Ham,306,267,37,7,1,4,9,16,3,3,0,0,226,2,7,12:30:00
+ENG-Premier League,2021,Newcastle Utd,2021-04-24 Liverpool-Newcastle Utd,2021-04-24,Matchweek 33,Sat,Away,D,1,1,Liverpool,397,346,47,10,5,6,16,19,3,3,0,0,309,4,7,12:30:00
+ENG-Premier League,2021,Newcastle Utd,2021-05-02 Newcastle Utd-Arsenal,2021-05-02,Matchweek 34,Sun,Home,L,0,2,Arsenal,434,395,38,10,0,6,20,13,3,3,0,0,363,1,3,14:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-05-07 Leicester City-Newcastle Utd,2021-05-07,Matchweek 35,Fri,Away,W,4,2,Leicester City,310,265,44,12,1,3,14,15,6,5,0,0,216,1,7,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-05-14 Newcastle Utd-Manchester City,2021-05-14,Matchweek 36,Fri,Home,L,3,4,Manchester City,218,183,35,7,0,2,11,10,4,4,0,0,146,0,4,20:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-05-19 Newcastle Utd-Sheffield Utd,2021-05-19,Matchweek 37,Wed,Home,W,1,0,Sheffield Utd,534,479,53,10,0,2,15,27,5,2,3,0,465,2,11,18:00:00
+ENG-Premier League,2021,Newcastle Utd,2021-05-23 Fulham-Newcastle Utd,2021-05-23,Matchweek 38,Sun,Away,W,2,0,Fulham,376,326,50,12,0,4,11,22,4,4,0,0,292,0,3,16:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-09-14 Sheffield Utd-Wolves,2020-09-14,Matchweek 1,Mon,Home,L,0,2,Wolves,533,478,51,7,0,2,43,23,12,3,5,4,405,4,11,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-09-21 Aston Villa-Sheffield Utd,2020-09-21,Matchweek 2,Mon,Away,L,0,1,Aston Villa,252,199,53,12,1,1,14,17,4,4,0,0,142,0,4,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-09-27 Sheffield Utd-Leeds United,2020-09-27,Matchweek 3,Sun,Home,L,0,1,Leeds United,369,324,43,5,2,1,15,18,5,5,0,0,261,2,13,12:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-10-04 Arsenal-Sheffield Utd,2020-10-04,Matchweek 4,Sun,Away,L,1,2,Arsenal,414,380,31,3,0,4,18,16,4,4,0,0,313,3,12,14:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-10-18 Sheffield Utd-Fulham,2020-10-18,Matchweek 5,Sun,Home,D,1,1,Fulham,435,398,33,8,0,2,15,16,2,1,0,0,336,4,2,12:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-10-24 Liverpool-Sheffield Utd,2020-10-24,Matchweek 6,Sat,Away,L,1,2,Liverpool,446,408,38,8,0,2,20,17,3,3,0,0,329,0,10,20:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-10-31 Sheffield Utd-Manchester City,2020-10-31,Matchweek 7,Sat,Home,L,0,1,Manchester City,411,377,34,8,0,3,16,15,2,2,0,0,313,0,9,12:30:00
+ENG-Premier League,2021,Sheffield Utd,2020-11-07 Chelsea-Sheffield Utd,2020-11-07,Matchweek 8,Sat,Away,L,1,4,Chelsea,360,312,47,6,0,1,14,24,7,3,2,0,245,1,11,17:30:00
+ENG-Premier League,2021,Sheffield Utd,2020-11-22 Sheffield Utd-West Ham,2020-11-22,Matchweek 9,Sun,Home,L,0,1,West Ham,565,522,39,8,0,0,21,18,2,2,0,0,438,4,14,14:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-11-28 West Brom-Sheffield Utd,2020-11-28,Matchweek 10,Sat,Away,L,0,1,West Brom,449,398,49,12,0,4,23,18,9,7,0,0,349,2,4,20:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-12-06 Sheffield Utd-Leicester City,2020-12-06,Matchweek 11,Sun,Home,L,1,2,Leicester City,324,274,46,10,1,1,22,22,6,6,0,0,210,4,8,14:15:00
+ENG-Premier League,2021,Sheffield Utd,2020-12-13 Southampton-Sheffield Utd,2020-12-13,Matchweek 12,Sun,Away,L,0,3,Southampton,300,249,51,11,0,1,16,23,4,2,0,0,202,0,8,12:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-12-17 Sheffield Utd-Manchester Utd,2020-12-17,Matchweek 13,Thu,Home,L,2,3,Manchester Utd,406,356,48,11,0,3,17,22,6,6,0,0,287,2,9,20:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-12-20 Brighton-Sheffield Utd,2020-12-20,Matchweek 14,Sun,Away,D,1,1,Brighton,233,188,43,9,0,1,9,18,2,1,1,0,143,2,4,12:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-12-26 Sheffield Utd-Everton,2020-12-26,Matchweek 15,Sat,Home,L,0,1,Everton,463,413,50,12,1,0,15,26,5,4,1,0,332,0,12,20:00:00
+ENG-Premier League,2021,Sheffield Utd,2020-12-29 Burnley-Sheffield Utd,2020-12-29,Matchweek 16,Tue,Away,L,0,1,Burnley,606,550,54,15,1,10,23,27,5,5,0,0,475,2,7,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-01-02 Crystal Palace-Sheffield Utd,2021-01-02,Matchweek 17,Sat,Away,L,0,2,Crystal Palace,577,516,58,7,0,9,20,39,6,5,0,0,455,3,10,15:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-01-12 Sheffield Utd-Newcastle Utd,2021-01-12,Matchweek 18,Tue,Home,W,1,0,Newcastle Utd,612,566,44,12,1,5,24,24,5,3,0,0,514,2,10,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-01-17 Sheffield Utd-Tottenham,2021-01-17,Matchweek 19,Sun,Home,L,1,3,Tottenham,462,417,41,5,0,0,22,22,5,4,0,0,346,4,5,14:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-01-27 Manchester Utd-Sheffield Utd,2021-01-27,Matchweek 20,Wed,Away,W,2,1,Manchester Utd,281,241,35,10,1,2,7,12,2,2,0,0,185,5,9,20:15:00
+ENG-Premier League,2021,Sheffield Utd,2021-01-30 Manchester City-Sheffield Utd,2021-01-30,Matchweek 21,Sat,Away,L,0,1,Manchester City,288,263,24,7,0,1,3,10,0,0,0,0,216,1,3,15:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-02-02 Sheffield Utd-West Brom,2021-02-02,Matchweek 22,Tue,Home,W,2,1,West Brom,651,596,55,11,0,6,27,28,9,8,1,0,524,0,8,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-02-07 Sheffield Utd-Chelsea,2021-02-07,Matchweek 23,Sun,Home,L,1,2,Chelsea,375,329,44,9,0,0,9,24,1,1,0,0,266,2,8,19:15:00
+ENG-Premier League,2021,Sheffield Utd,2021-02-15 West Ham-Sheffield Utd,2021-02-15,Matchweek 24,Mon,Away,L,0,3,West Ham,550,506,43,12,0,3,26,17,7,5,2,0,454,1,4,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-02-20 Fulham-Sheffield Utd,2021-02-20,Matchweek 25,Sat,Away,L,0,1,Fulham,367,307,57,12,1,4,13,30,4,4,0,0,233,3,6,20:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-02-28 Sheffield Utd-Liverpool,2021-02-28,Matchweek 26,Sun,Home,L,0,2,Liverpool,451,403,45,10,1,3,19,22,4,4,0,0,329,3,10,19:15:00
+ENG-Premier League,2021,Sheffield Utd,2021-03-03 Sheffield Utd-Aston Villa,2021-03-03,Matchweek 29,Wed,Home,W,1,0,Aston Villa,286,250,35,6,1,3,8,13,2,2,0,0,191,1,1,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-03-06 Sheffield Utd-Southampton,2021-03-06,Matchweek 27,Sat,Home,L,0,2,Southampton,445,388,55,13,1,7,21,26,7,7,0,0,310,2,12,15:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-03-14 Leicester City-Sheffield Utd,2021-03-14,Matchweek 28,Sun,Away,L,0,5,Leicester City,318,276,42,12,0,4,7,15,1,1,0,0,229,0,15,14:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-04-03 Leeds United-Sheffield Utd,2021-04-03,Matchweek 30,Sat,Away,L,1,2,Leeds United,458,402,55,13,0,1,18,23,7,7,0,0,334,1,15,15:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-04-11 Sheffield Utd-Arsenal,2021-04-11,Matchweek 31,Sun,Home,L,0,3,Arsenal,500,463,35,9,0,3,9,15,2,0,0,0,417,2,8,19:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-04-17 Wolves-Sheffield Utd,2021-04-17,Matchweek 32,Sat,Away,L,0,1,Wolves,567,532,33,10,1,8,28,14,3,0,0,0,476,2,7,20:15:00
+ENG-Premier League,2021,Sheffield Utd,2021-04-24 Sheffield Utd-Brighton,2021-04-24,Matchweek 33,Sat,Home,W,1,0,Brighton,323,284,39,8,0,1,12,16,2,2,0,0,214,0,7,20:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-05-02 Tottenham-Sheffield Utd,2021-05-02,Matchweek 34,Sun,Away,L,0,4,Tottenham,393,352,41,11,0,4,19,11,6,5,0,0,299,0,9,19:15:00
+ENG-Premier League,2021,Sheffield Utd,2021-05-08 Sheffield Utd-Crystal Palace,2021-05-08,Matchweek 35,Sat,Home,L,0,2,Crystal Palace,461,417,42,8,0,7,19,20,5,0,5,0,367,2,8,15:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-05-16 Everton-Sheffield Utd,2021-05-16,Matchweek 36,Sun,Away,W,1,0,Everton,422,379,40,8,0,4,13,16,4,0,4,0,320,3,6,19:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-05-19 Newcastle Utd-Sheffield Utd,2021-05-19,Matchweek 37,Wed,Away,L,0,1,Newcastle Utd,511,469,38,7,0,2,21,19,2,0,2,0,419,4,4,18:00:00
+ENG-Premier League,2021,Sheffield Utd,2021-05-23 Sheffield Utd-Burnley,2021-05-23,Matchweek 38,Sun,Home,W,1,0,Burnley,400,360,38,2,0,2,20,14,8,0,6,0,268,2,5,16:00:00
+ENG-Premier League,2021,Southampton,2020-09-12 Crystal Palace-Southampton,2020-09-12,Matchweek 1,Sat,Away,L,0,1,Crystal Palace,638,578,60,16,0,8,18,32,3,1,2,0,497,0,6,15:00:00
+ENG-Premier League,2021,Southampton,2020-09-20 Southampton-Tottenham,2020-09-20,Matchweek 2,Sun,Home,L,2,5,Tottenham,489,442,45,22,0,3,12,13,3,3,0,0,363,2,8,12:00:00
+ENG-Premier League,2021,Southampton,2020-09-26 Burnley-Southampton,2020-09-26,Matchweek 3,Sat,Away,W,1,0,Burnley,521,471,49,10,1,1,6,32,2,0,0,2,370,1,10,20:00:00
+ENG-Premier League,2021,Southampton,2020-10-04 Southampton-West Brom,2020-10-04,Matchweek 4,Sun,Home,W,2,0,West Brom,576,521,54,10,1,2,13,32,5,3,1,0,437,1,17,12:00:00
+ENG-Premier League,2021,Southampton,2020-10-17 Chelsea-Southampton,2020-10-17,Matchweek 5,Sat,Away,D,3,3,Chelsea,550,491,58,14,1,4,13,31,2,1,1,0,407,1,13,15:00:00
+ENG-Premier League,2021,Southampton,2020-10-25 Southampton-Everton,2020-10-25,Matchweek 6,Sun,Home,W,2,0,Everton,650,612,37,12,0,1,16,18,4,2,0,2,564,1,9,14:00:00
+ENG-Premier League,2021,Southampton,2020-11-01 Aston Villa-Southampton,2020-11-01,Matchweek 7,Sun,Away,W,4,3,Aston Villa,339,294,43,12,0,2,2,20,1,1,0,0,233,2,5,12:00:00
+ENG-Premier League,2021,Southampton,2020-11-06 Southampton-Newcastle Utd,2020-11-06,Matchweek 8,Fri,Home,W,2,0,Newcastle Utd,604,553,47,12,0,0,12,24,7,3,4,0,491,4,10,20:00:00
+ENG-Premier League,2021,Southampton,2020-11-23 Wolves-Southampton,2020-11-23,Matchweek 9,Mon,Away,D,1,1,Wolves,549,501,47,16,3,4,12,17,4,1,2,0,442,1,6,20:00:00
+ENG-Premier League,2021,Southampton,2020-11-29 Southampton-Manchester Utd,2020-11-29,Matchweek 10,Sun,Home,L,2,3,Manchester Utd,561,515,46,11,0,3,13,19,5,4,1,0,440,0,11,14:00:00
+ENG-Premier League,2021,Southampton,2020-12-07 Brighton-Southampton,2020-12-07,Matchweek 11,Mon,Away,W,2,1,Brighton,465,415,47,13,0,2,17,23,3,2,1,0,347,3,8,20:00:00
+ENG-Premier League,2021,Southampton,2020-12-13 Southampton-Sheffield Utd,2020-12-13,Matchweek 12,Sun,Home,W,3,0,Sheffield Utd,617,569,45,13,2,0,19,19,8,4,2,2,519,3,6,12:00:00
+ENG-Premier League,2021,Southampton,2020-12-16 Arsenal-Southampton,2020-12-16,Matchweek 13,Wed,Away,D,1,1,Arsenal,680,633,46,14,2,5,25,19,7,3,4,0,565,1,11,18:00:00
+ENG-Premier League,2021,Southampton,2020-12-19 Southampton-Manchester City,2020-12-19,Matchweek 14,Sat,Home,L,0,1,Manchester City,549,499,47,12,0,3,24,21,6,3,3,0,437,3,9,15:00:00
+ENG-Premier League,2021,Southampton,2020-12-26 Fulham-Southampton,2020-12-26,Matchweek 15,Sat,Away,D,0,0,Fulham,443,390,49,15,0,1,12,27,3,1,2,0,311,4,6,15:00:00
+ENG-Premier League,2021,Southampton,2020-12-29 Southampton-West Ham,2020-12-29,Matchweek 16,Tue,Home,D,0,0,West Ham,627,579,46,17,0,1,19,23,4,1,2,1,511,2,10,18:00:00
+ENG-Premier League,2021,Southampton,2021-01-04 Southampton-Liverpool,2021-01-04,Matchweek 17,Mon,Home,W,1,0,Liverpool,380,329,45,12,0,0,4,17,1,0,1,0,247,6,4,20:00:00
+ENG-Premier League,2021,Southampton,2021-01-16 Leicester City-Southampton,2021-01-16,Matchweek 19,Sat,Away,L,0,2,Leicester City,541,487,53,15,2,3,17,23,5,0,5,0,395,1,12,20:00:00
+ENG-Premier League,2021,Southampton,2021-01-26 Southampton-Arsenal,2021-01-26,Matchweek 20,Tue,Home,L,1,3,Arsenal,542,497,43,7,0,1,19,23,4,0,4,0,454,2,9,20:15:00
+ENG-Premier League,2021,Southampton,2021-01-30 Southampton-Aston Villa,2021-01-30,Matchweek 21,Sat,Home,L,0,1,Aston Villa,546,488,54,15,1,4,24,25,7,6,1,0,424,4,7,20:00:00
+ENG-Premier League,2021,Southampton,2021-02-02 Manchester Utd-Southampton,2021-02-02,Matchweek 22,Tue,Away,L,0,9,Manchester Utd,231,186,43,12,0,0,4,8,3,3,0,0,146,2,6,20:15:00
+ENG-Premier League,2021,Southampton,2021-02-06 Newcastle Utd-Southampton,2021-02-06,Matchweek 23,Sat,Away,L,2,3,Newcastle Utd,668,617,46,12,0,1,30,19,7,4,3,0,539,5,14,15:00:00
+ENG-Premier League,2021,Southampton,2021-02-14 Southampton-Wolves,2021-02-14,Matchweek 24,Sun,Home,L,1,2,Wolves,515,468,41,10,0,1,11,17,4,1,2,0,394,6,7,12:00:00
+ENG-Premier League,2021,Southampton,2021-02-20 Southampton-Chelsea,2021-02-20,Matchweek 25,Sat,Home,D,1,1,Chelsea,329,281,48,14,1,1,8,23,3,2,1,0,213,0,10,12:30:00
+ENG-Premier League,2021,Southampton,2021-02-23 Leeds United-Southampton,2021-02-23,Matchweek 18,Tue,Away,L,0,3,Leeds United,419,360,57,12,0,1,15,29,4,1,3,0,308,2,8,18:00:00
+ENG-Premier League,2021,Southampton,2021-03-01 Everton-Southampton,2021-03-01,Matchweek 26,Mon,Away,L,0,1,Everton,509,455,54,17,0,2,21,21,10,6,4,0,380,0,14,20:00:00
+ENG-Premier League,2021,Southampton,2021-03-06 Sheffield Utd-Southampton,2021-03-06,Matchweek 27,Sat,Away,W,2,0,Sheffield Utd,424,373,49,18,0,0,10,19,3,0,2,0,312,2,5,15:00:00
+ENG-Premier League,2021,Southampton,2021-03-10 Manchester City-Southampton,2021-03-10,Matchweek 33,Wed,Away,L,2,5,Manchester City,513,470,39,4,0,1,7,18,5,0,5,0,421,4,8,18:00:00
+ENG-Premier League,2021,Southampton,2021-03-14 Southampton-Brighton,2021-03-14,Matchweek 28,Sun,Home,L,1,2,Brighton,540,489,50,10,0,1,20,23,4,1,3,0,417,1,9,12:00:00
+ENG-Premier League,2021,Southampton,2021-04-04 Southampton-Burnley,2021-04-04,Matchweek 30,Sun,Home,W,3,2,Burnley,465,423,42,11,0,2,20,18,6,4,2,0,343,0,4,12:00:00
+ENG-Premier League,2021,Southampton,2021-04-12 West Brom-Southampton,2021-04-12,Matchweek 31,Mon,Away,L,0,3,West Brom,491,430,59,14,0,2,23,20,10,6,3,0,364,2,7,18:00:00
+ENG-Premier League,2021,Southampton,2021-04-21 Tottenham-Southampton,2021-04-21,Matchweek 29,Wed,Away,L,1,2,Tottenham,404,362,42,12,0,1,13,14,5,4,1,0,298,0,17,18:00:00
+ENG-Premier League,2021,Southampton,2021-04-30 Southampton-Leicester City,2021-04-30,Matchweek 34,Fri,Home,D,1,1,Leicester City,297,245,51,17,0,3,2,20,0,0,0,0,191,1,6,20:00:00
+ENG-Premier League,2021,Southampton,2021-05-08 Liverpool-Southampton,2021-05-08,Matchweek 35,Sat,Away,L,0,2,Liverpool,522,473,48,14,1,7,17,18,4,2,1,0,426,1,16,20:15:00
+ENG-Premier League,2021,Southampton,2021-05-11 Southampton-Crystal Palace,2021-05-11,Matchweek 32,Tue,Home,W,3,1,Crystal Palace,570,520,49,14,1,8,19,17,12,4,6,0,482,1,10,20:15:00
+ENG-Premier League,2021,Southampton,2021-05-15 Southampton-Fulham,2021-05-15,Matchweek 36,Sat,Home,W,3,1,Fulham,514,457,54,15,0,3,11,25,6,3,2,1,433,3,7,15:00:00
+ENG-Premier League,2021,Southampton,2021-05-18 Southampton-Leeds United,2021-05-18,Matchweek 37,Tue,Home,L,0,2,Leeds United,437,388,47,12,0,2,16,21,4,0,4,0,348,2,6,18:00:00
+ENG-Premier League,2021,Southampton,2021-05-23 West Ham-Southampton,2021-05-23,Matchweek 38,Sun,Away,L,0,3,West Ham,573,527,44,10,0,3,10,21,3,2,1,0,459,2,12,16:00:00
+ENG-Premier League,2021,Tottenham,2020-09-13 Tottenham-Everton,2020-09-13,Matchweek 1,Sun,Home,L,0,1,Everton,617,560,57,8,0,6,24,34,5,2,3,0,514,0,9,16:30:00
+ENG-Premier League,2021,Tottenham,2020-09-20 Southampton-Tottenham,2020-09-20,Matchweek 2,Sun,Away,W,5,2,Southampton,464,396,62,19,0,6,6,29,2,1,0,0,326,6,13,12:00:00
+ENG-Premier League,2021,Tottenham,2020-09-27 Tottenham-Newcastle Utd,2020-09-27,Matchweek 3,Sun,Home,D,1,1,Newcastle Utd,682,639,43,8,0,5,20,20,10,8,0,0,591,0,6,14:00:00
+ENG-Premier League,2021,Tottenham,2020-10-04 Manchester Utd-Tottenham,2020-10-04,Matchweek 4,Sun,Away,W,6,1,Manchester Utd,699,664,35,13,0,7,8,12,4,2,1,0,626,0,7,16:30:00
+ENG-Premier League,2021,Tottenham,2020-10-18 Tottenham-West Ham,2020-10-18,Matchweek 5,Sun,Home,D,3,3,West Ham,537,497,39,14,0,2,12,10,3,3,0,0,434,1,14,16:30:00
+ENG-Premier League,2021,Tottenham,2020-10-26 Burnley-Tottenham,2020-10-26,Matchweek 6,Mon,Away,W,1,0,Burnley,646,596,48,12,2,6,18,23,5,5,0,0,534,2,7,20:00:00
+ENG-Premier League,2021,Tottenham,2020-11-01 Tottenham-Brighton,2020-11-01,Matchweek 7,Sun,Home,W,2,1,Brighton,429,375,54,15,1,4,9,28,4,4,0,0,318,0,8,19:15:00
+ENG-Premier League,2021,Tottenham,2020-11-08 West Brom-Tottenham,2020-11-08,Matchweek 8,Sun,Away,W,1,0,West Brom,551,500,50,17,0,5,21,18,6,5,1,0,421,1,10,12:00:00
+ENG-Premier League,2021,Tottenham,2020-11-21 Tottenham-Manchester City,2020-11-21,Matchweek 9,Sat,Home,W,2,0,Manchester City,333,286,46,20,1,4,2,8,0,0,0,0,241,1,6,17:30:00
+ENG-Premier League,2021,Tottenham,2020-11-29 Chelsea-Tottenham,2020-11-29,Matchweek 10,Sun,Away,D,0,0,Chelsea,472,417,54,21,0,4,7,19,3,2,1,0,375,1,7,16:30:00
+ENG-Premier League,2021,Tottenham,2020-12-06 Tottenham-Arsenal,2020-12-06,Matchweek 11,Sun,Home,W,2,0,Arsenal,309,269,39,10,0,2,6,14,3,3,0,0,205,1,5,16:30:00
+ENG-Premier League,2021,Tottenham,2020-12-13 Crystal Palace-Tottenham,2020-12-13,Matchweek 12,Sun,Away,D,1,1,Crystal Palace,505,453,52,15,2,9,19,22,7,6,1,0,389,0,5,14:15:00
+ENG-Premier League,2021,Tottenham,2020-12-16 Liverpool-Tottenham,2020-12-16,Matchweek 13,Wed,Away,L,1,2,Liverpool,284,249,35,9,1,1,10,14,4,2,2,0,174,0,7,20:00:00
+ENG-Premier League,2021,Tottenham,2020-12-20 Tottenham-Leicester City,2020-12-20,Matchweek 14,Sun,Home,L,0,2,Leicester City,571,517,52,16,0,3,23,23,5,3,2,0,439,2,6,14:15:00
+ENG-Premier League,2021,Tottenham,2020-12-27 Wolves-Tottenham,2020-12-27,Matchweek 15,Sun,Away,D,1,1,Wolves,494,447,47,21,1,3,7,18,2,1,1,0,385,0,8,19:15:00
+ENG-Premier League,2021,Tottenham,2021-01-02 Tottenham-Leeds United,2021-01-02,Matchweek 17,Sat,Home,W,3,0,Leeds United,379,332,47,13,0,1,8,20,3,1,2,0,284,0,4,12:30:00
+ENG-Premier League,2021,Tottenham,2021-01-13 Tottenham-Fulham,2021-01-13,Matchweek 16,Wed,Home,D,1,1,Fulham,568,512,54,16,0,2,21,23,6,2,4,0,454,2,6,20:15:00
+ENG-Premier League,2021,Tottenham,2021-01-17 Sheffield Utd-Tottenham,2021-01-17,Matchweek 19,Sun,Away,W,3,1,Sheffield Utd,625,571,53,16,3,0,13,23,7,3,4,0,512,1,8,14:00:00
+ENG-Premier League,2021,Tottenham,2021-01-28 Tottenham-Liverpool,2021-01-28,Matchweek 20,Thu,Home,L,1,3,Liverpool,621,577,42,13,2,4,5,17,1,1,0,0,514,2,8,20:00:00
+ENG-Premier League,2021,Tottenham,2021-01-31 Brighton-Tottenham,2021-01-31,Matchweek 21,Sun,Away,L,0,1,Brighton,603,551,51,11,0,4,15,26,2,2,0,0,484,1,13,19:15:00
+ENG-Premier League,2021,Tottenham,2021-02-04 Tottenham-Chelsea,2021-02-04,Matchweek 22,Thu,Home,L,0,1,Chelsea,493,444,49,16,0,0,11,20,2,0,1,0,395,0,18,20:00:00
+ENG-Premier League,2021,Tottenham,2021-02-07 Tottenham-West Brom,2021-02-07,Matchweek 23,Sun,Home,W,2,0,West Brom,635,582,52,16,1,3,20,23,8,6,0,0,529,1,13,12:00:00
+ENG-Premier League,2021,Tottenham,2021-02-13 Manchester City-Tottenham,2021-02-13,Matchweek 24,Sat,Away,L,0,3,Manchester City,476,444,32,12,0,4,8,8,2,0,2,0,404,0,6,17:30:00
+ENG-Premier League,2021,Tottenham,2021-02-21 West Ham-Tottenham,2021-02-21,Matchweek 25,Sun,Away,L,1,2,West Ham,616,571,45,13,1,4,30,14,7,7,0,0,493,0,11,12:00:00
+ENG-Premier League,2021,Tottenham,2021-02-28 Tottenham-Burnley,2021-02-28,Matchweek 26,Sun,Home,W,4,0,Burnley,667,629,38,10,1,6,10,18,3,1,1,0,553,0,11,14:00:00
+ENG-Premier League,2021,Tottenham,2021-03-04 Fulham-Tottenham,2021-03-04,Matchweek 33,Thu,Away,W,1,0,Fulham,408,359,47,15,2,1,5,19,1,1,0,0,293,2,12,18:00:00
+ENG-Premier League,2021,Tottenham,2021-03-07 Tottenham-Crystal Palace,2021-03-07,Matchweek 27,Sun,Home,W,4,1,Crystal Palace,720,683,36,20,0,10,13,11,1,1,0,0,627,1,12,19:15:00
+ENG-Premier League,2021,Tottenham,2021-03-14 Arsenal-Tottenham,2021-03-14,Matchweek 28,Sun,Away,L,1,2,Arsenal,520,477,42,9,0,6,11,21,3,2,1,0,421,1,6,16:30:00
+ENG-Premier League,2021,Tottenham,2021-03-21 Aston Villa-Tottenham,2021-03-21,Matchweek 18,Sun,Away,W,2,0,Aston Villa,462,411,50,17,0,4,17,20,8,5,1,0,356,1,11,19:30:00
+ENG-Premier League,2021,Tottenham,2021-04-04 Newcastle Utd-Tottenham,2021-04-04,Matchweek 30,Sun,Away,D,2,2,Newcastle Utd,555,521,31,11,2,3,14,8,3,3,0,0,446,3,6,14:05:00
+ENG-Premier League,2021,Tottenham,2021-04-11 Tottenham-Manchester Utd,2021-04-11,Matchweek 31,Sun,Home,L,1,3,Manchester Utd,486,432,51,16,1,3,18,20,7,7,0,0,380,3,16,16:30:00
+ENG-Premier League,2021,Tottenham,2021-04-16 Everton-Tottenham,2021-04-16,Matchweek 32,Fri,Away,D,2,2,Everton,490,438,52,10,1,2,10,25,3,1,2,0,368,0,8,20:00:00
+ENG-Premier League,2021,Tottenham,2021-04-21 Tottenham-Southampton,2021-04-21,Matchweek 29,Wed,Home,W,2,1,Southampton,658,608,48,12,1,4,11,28,5,2,1,0,546,2,22,18:00:00
+ENG-Premier League,2021,Tottenham,2021-05-02 Tottenham-Sheffield Utd,2021-05-02,Matchweek 34,Sun,Home,W,4,0,Sheffield Utd,754,716,35,7,2,2,15,17,6,6,0,0,673,3,4,19:15:00
+ENG-Premier League,2021,Tottenham,2021-05-08 Leeds United-Tottenham,2021-05-08,Matchweek 35,Sat,Away,L,1,3,Leeds United,448,385,61,12,0,3,15,30,6,6,0,0,330,2,12,12:30:00
+ENG-Premier League,2021,Tottenham,2021-05-16 Tottenham-Wolves,2021-05-16,Matchweek 36,Sun,Home,W,2,0,Wolves,631,579,50,13,2,8,20,19,10,8,1,0,537,2,10,14:05:00
+ENG-Premier League,2021,Tottenham,2021-05-19 Tottenham-Aston Villa,2021-05-19,Matchweek 37,Wed,Home,L,1,2,Aston Villa,616,561,53,16,0,4,20,21,4,2,1,0,506,2,12,18:00:00
+ENG-Premier League,2021,Tottenham,2021-05-23 Leicester City-Tottenham,2021-05-23,Matchweek 38,Sun,Away,W,4,2,Leicester City,547,490,56,12,1,2,24,27,7,3,4,0,431,1,14,16:00:00
+ENG-Premier League,2021,West Brom,2020-09-13 West Brom-Leicester City,2020-09-13,Matchweek 1,Sun,Home,L,0,3,Leicester City,374,325,45,11,0,8,9,22,2,2,0,0,272,4,6,14:00:00
+ENG-Premier League,2021,West Brom,2020-09-19 Everton-West Brom,2020-09-19,Matchweek 2,Sat,Away,L,2,5,Everton,345,312,32,9,0,4,6,8,1,0,0,1,268,1,9,12:30:00
+ENG-Premier League,2021,West Brom,2020-09-26 West Brom-Chelsea,2020-09-26,Matchweek 3,Sat,Home,D,3,3,Chelsea,283,237,45,15,1,3,14,16,3,1,1,1,185,1,8,17:30:00
+ENG-Premier League,2021,West Brom,2020-10-04 Southampton-West Brom,2020-10-04,Matchweek 4,Sun,Away,L,0,2,Southampton,360,305,54,20,1,1,9,21,1,0,0,0,244,1,6,12:00:00
+ENG-Premier League,2021,West Brom,2020-10-19 West Brom-Burnley,2020-10-19,Matchweek 5,Mon,Home,D,0,0,Burnley,538,479,57,17,1,5,21,25,8,1,2,0,396,2,13,17:30:00
+ENG-Premier League,2021,West Brom,2020-10-26 Brighton-West Brom,2020-10-26,Matchweek 6,Mon,Away,D,1,1,Brighton,524,473,50,16,1,8,18,25,2,0,1,0,425,1,5,17:30:00
+ENG-Premier League,2021,West Brom,2020-11-02 Fulham-West Brom,2020-11-02,Matchweek 7,Mon,Away,L,0,2,Fulham,516,469,43,12,1,3,13,19,2,0,1,0,401,4,14,17:30:00
+ENG-Premier League,2021,West Brom,2020-11-08 West Brom-Tottenham,2020-11-08,Matchweek 8,Sun,Home,L,0,1,Tottenham,394,341,52,13,0,2,30,21,9,4,4,0,251,1,10,12:00:00
+ENG-Premier League,2021,West Brom,2020-11-21 Manchester Utd-West Brom,2020-11-21,Matchweek 9,Sat,Away,L,0,1,Manchester Utd,419,376,42,13,0,2,8,19,2,1,0,0,317,1,7,20:00:00
+ENG-Premier League,2021,West Brom,2020-11-28 West Brom-Sheffield Utd,2020-11-28,Matchweek 10,Sat,Home,W,1,0,Sheffield Utd,431,373,56,10,2,3,25,21,14,5,0,7,324,2,6,20:00:00
+ENG-Premier League,2021,West Brom,2020-12-06 West Brom-Crystal Palace,2020-12-06,Matchweek 11,Sun,Home,L,1,5,Crystal Palace,529,479,48,18,0,3,14,14,4,2,1,1,450,2,10,12:00:00
+ENG-Premier League,2021,West Brom,2020-12-12 Newcastle Utd-West Brom,2020-12-12,Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,538,492,44,11,0,2,24,22,3,1,2,0,420,2,7,15:00:00
+ENG-Premier League,2021,West Brom,2020-12-15 Manchester City-West Brom,2020-12-15,Matchweek 13,Tue,Away,D,1,1,Manchester City,246,204,40,8,0,2,5,12,2,0,1,0,149,2,6,20:00:00
+ENG-Premier League,2021,West Brom,2020-12-20 West Brom-Aston Villa,2020-12-20,Matchweek 14,Sun,Home,L,0,3,Aston Villa,307,267,39,11,0,0,10,11,1,1,0,0,196,1,3,19:15:00
+ENG-Premier League,2021,West Brom,2020-12-27 Liverpool-West Brom,2020-12-27,Matchweek 15,Sun,Away,D,1,1,Liverpool,248,199,44,9,1,0,14,15,3,2,0,0,131,5,11,16:30:00
+ENG-Premier League,2021,West Brom,2020-12-29 West Brom-Leeds United,2020-12-29,Matchweek 16,Tue,Home,L,0,5,Leeds United,277,232,44,11,0,1,17,17,3,2,1,0,171,1,6,18:00:00
+ENG-Premier League,2021,West Brom,2021-01-02 West Brom-Arsenal,2021-01-02,Matchweek 17,Sat,Home,L,0,4,Arsenal,421,376,42,6,1,2,21,18,3,2,0,0,302,3,8,20:00:00
+ENG-Premier League,2021,West Brom,2021-01-16 Wolves-West Brom,2021-01-16,Matchweek 19,Sat,Away,W,3,2,Wolves,304,255,47,7,0,1,6,25,0,0,0,0,197,2,9,12:30:00
+ENG-Premier League,2021,West Brom,2021-01-19 West Ham-West Brom,2021-01-19,Matchweek 18,Tue,Away,L,1,2,West Ham,414,375,39,12,0,3,16,17,1,1,0,0,290,0,7,18:00:00
+ENG-Premier League,2021,West Brom,2021-01-26 West Brom-Manchester City,2021-01-26,Matchweek 20,Tue,Home,L,0,5,Manchester City,277,236,41,9,0,1,10,17,3,1,0,1,179,0,3,20:15:00
+ENG-Premier League,2021,West Brom,2021-01-30 West Brom-Fulham,2021-01-30,Matchweek 21,Sat,Home,D,2,2,Fulham,377,334,42,11,1,1,17,19,2,1,0,1,236,1,8,15:00:00
+ENG-Premier League,2021,West Brom,2021-02-02 Sheffield Utd-West Brom,2021-02-02,Matchweek 22,Tue,Away,L,1,2,Sheffield Utd,310,264,43,10,0,3,17,18,2,1,0,1,196,3,7,18:00:00
+ENG-Premier League,2021,West Brom,2021-02-07 Tottenham-West Brom,2021-02-07,Matchweek 23,Sun,Away,L,0,2,Tottenham,341,293,44,17,0,5,11,16,0,0,0,0,245,4,6,12:00:00
+ENG-Premier League,2021,West Brom,2021-02-14 West Brom-Manchester Utd,2021-02-14,Matchweek 24,Sun,Home,D,1,1,Manchester Utd,284,248,34,13,0,1,15,11,4,2,0,0,181,2,8,14:00:00
+ENG-Premier League,2021,West Brom,2021-02-20 Burnley-West Brom,2021-02-20,Matchweek 25,Sat,Away,D,0,0,Burnley,304,247,54,18,0,5,12,19,5,2,1,0,176,3,6,15:00:00
+ENG-Premier League,2021,West Brom,2021-02-27 West Brom-Brighton,2021-02-27,Matchweek 26,Sat,Home,W,1,0,Brighton,276,217,58,13,0,0,12,28,7,6,0,0,162,1,7,15:00:00
+ENG-Premier League,2021,West Brom,2021-03-04 West Brom-Everton,2021-03-04,Matchweek 29,Thu,Home,L,0,1,Everton,514,466,45,9,0,7,25,29,3,3,0,0,391,3,8,18:00:00
+ENG-Premier League,2021,West Brom,2021-03-07 West Brom-Newcastle Utd,2021-03-07,Matchweek 27,Sun,Home,D,0,0,Newcastle Utd,464,411,52,11,0,6,36,26,9,5,1,1,328,1,8,12:00:00
+ENG-Premier League,2021,West Brom,2021-03-13 Crystal Palace-West Brom,2021-03-13,Matchweek 28,Sat,Away,L,0,1,Crystal Palace,458,405,52,16,0,4,21,31,2,2,0,0,343,1,10,15:00:00
+ENG-Premier League,2021,West Brom,2021-04-03 Chelsea-West Brom,2021-04-03,Matchweek 30,Sat,Away,W,5,2,Chelsea,339,286,49,9,1,3,8,27,3,2,0,0,244,4,10,12:30:00
+ENG-Premier League,2021,West Brom,2021-04-12 West Brom-Southampton,2021-04-12,Matchweek 31,Mon,Home,W,3,0,Southampton,326,278,44,11,0,1,17,16,5,4,0,0,215,4,6,18:00:00
+ENG-Premier League,2021,West Brom,2021-04-22 Leicester City-West Brom,2021-04-22,Matchweek 32,Thu,Away,L,0,3,Leicester City,294,241,53,14,0,2,10,24,3,3,0,0,188,0,6,20:00:00
+ENG-Premier League,2021,West Brom,2021-04-25 Aston Villa-West Brom,2021-04-25,Matchweek 33,Sun,Away,D,2,2,Aston Villa,267,223,43,13,1,2,13,12,4,3,0,1,155,1,6,19:00:00
+ENG-Premier League,2021,West Brom,2021-05-03 West Brom-Wolves,2021-05-03,Matchweek 34,Mon,Home,D,1,1,Wolves,387,338,48,13,0,5,20,21,5,3,0,0,270,1,6,18:00:00
+ENG-Premier League,2021,West Brom,2021-05-09 Arsenal-West Brom,2021-05-09,Matchweek 35,Sun,Away,L,1,3,Arsenal,336,290,44,7,0,2,23,21,6,4,0,0,233,2,2,19:00:00
+ENG-Premier League,2021,West Brom,2021-05-16 West Brom-Liverpool,2021-05-16,Matchweek 36,Sun,Home,L,1,2,Liverpool,241,187,51,15,0,2,22,10,9,3,4,1,140,3,4,16:30:00
+ENG-Premier League,2021,West Brom,2021-05-19 West Brom-West Ham,2021-05-19,Matchweek 37,Wed,Home,L,1,3,West Ham,409,361,46,10,1,0,24,18,5,3,0,0,287,2,8,20:15:00
+ENG-Premier League,2021,West Brom,2021-05-23 Leeds United-West Brom,2021-05-23,Matchweek 38,Sun,Away,L,1,3,Leeds United,306,253,50,15,0,2,11,16,3,2,1,0,211,3,5,16:00:00
+ENG-Premier League,2021,West Ham,2020-09-12 West Ham-Newcastle Utd,2020-09-12,Matchweek 1,Sat,Home,L,0,2,Newcastle Utd,528,480,46,11,0,3,30,17,8,5,2,0,415,2,8,20:00:00
+ENG-Premier League,2021,West Ham,2020-09-19 Arsenal-West Ham,2020-09-19,Matchweek 2,Sat,Away,L,1,2,Arsenal,434,385,47,15,0,2,27,19,5,3,2,0,340,2,7,20:00:00
+ENG-Premier League,2021,West Ham,2020-09-27 West Ham-Wolves,2020-09-27,Matchweek 3,Sun,Home,W,4,0,Wolves,402,358,41,13,1,5,9,19,1,0,1,0,304,3,10,19:00:00
+ENG-Premier League,2021,West Ham,2020-10-04 Leicester City-West Ham,2020-10-04,Matchweek 4,Sun,Away,W,3,0,Leicester City,329,291,36,14,2,2,12,14,4,4,0,0,225,2,8,12:00:00
+ENG-Premier League,2021,West Ham,2020-10-18 Tottenham-West Ham,2020-10-18,Matchweek 5,Sun,Away,D,3,3,Tottenham,527,473,51,13,1,3,33,23,7,3,4,0,408,3,14,16:30:00
+ENG-Premier League,2021,West Ham,2020-10-24 West Ham-Manchester City,2020-10-24,Matchweek 6,Sat,Home,D,1,1,Manchester City,350,315,34,6,0,4,12,9,2,1,1,0,235,1,10,12:30:00
+ENG-Premier League,2021,West Ham,2020-10-31 Liverpool-West Ham,2020-10-31,Matchweek 7,Sat,Away,L,1,2,Liverpool,334,296,38,14,0,5,18,11,2,2,0,0,224,0,6,17:30:00
+ENG-Premier League,2021,West Ham,2020-11-07 West Ham-Fulham,2020-11-07,Matchweek 8,Sat,Home,W,1,0,Fulham,563,516,44,10,0,6,33,18,9,4,5,0,476,3,7,20:00:00
+ENG-Premier League,2021,West Ham,2020-11-22 Sheffield Utd-West Ham,2020-11-22,Matchweek 9,Sun,Away,W,1,0,Sheffield Utd,552,502,48,11,0,7,22,27,6,2,3,0,432,2,10,14:00:00
+ENG-Premier League,2021,West Ham,2020-11-30 West Ham-Aston Villa,2020-11-30,Matchweek 10,Mon,Home,W,2,1,Aston Villa,302,258,43,10,1,2,11,17,3,3,0,0,187,1,4,20:00:00
+ENG-Premier League,2021,West Ham,2020-12-05 West Ham-Manchester Utd,2020-12-05,Matchweek 11,Sat,Home,L,1,3,Manchester Utd,443,395,44,12,0,4,25,18,5,2,2,0,334,4,12,17:30:00
+ENG-Premier League,2021,West Ham,2020-12-11 Leeds United-West Ham,2020-12-11,Matchweek 12,Fri,Away,W,2,1,Leeds United,353,301,52,13,1,1,22,25,6,4,1,1,244,0,11,20:00:00
+ENG-Premier League,2021,West Ham,2020-12-16 West Ham-Crystal Palace,2020-12-16,Matchweek 13,Wed,Home,D,1,1,Crystal Palace,495,450,45,11,0,5,28,22,5,4,1,0,410,0,5,20:00:00
+ENG-Premier League,2021,West Ham,2020-12-21 Chelsea-West Ham,2020-12-21,Matchweek 14,Mon,Away,L,0,3,Chelsea,498,449,45,10,0,7,25,20,4,1,2,0,371,4,15,20:00:00
+ENG-Premier League,2021,West Ham,2020-12-27 West Ham-Brighton,2020-12-27,Matchweek 15,Sun,Home,D,2,2,Brighton,478,430,46,8,0,2,26,19,5,3,0,0,353,2,10,14:15:00
+ENG-Premier League,2021,West Ham,2020-12-29 Southampton-West Ham,2020-12-29,Matchweek 16,Tue,Away,D,0,0,Southampton,378,333,42,17,1,1,18,15,3,0,3,0,263,3,8,18:00:00
+ENG-Premier League,2021,West Ham,2021-01-01 Everton-West Ham,2021-01-01,Matchweek 17,Fri,Away,W,1,0,Everton,429,391,38,10,1,2,18,17,4,2,2,0,316,0,10,17:30:00
+ENG-Premier League,2021,West Ham,2021-01-16 West Ham-Burnley,2021-01-16,Matchweek 19,Sat,Home,W,1,0,Burnley,420,372,43,9,0,2,32,19,7,6,1,0,281,5,10,15:00:00
+ENG-Premier League,2021,West Ham,2021-01-19 West Ham-West Brom,2021-01-19,Matchweek 18,Tue,Home,W,2,1,West Brom,598,549,47,9,0,4,24,25,3,0,3,0,480,2,8,18:00:00
+ENG-Premier League,2021,West Ham,2021-01-26 Crystal Palace-West Ham,2021-01-26,Matchweek 20,Tue,Away,W,3,2,Crystal Palace,502,450,50,9,0,5,11,27,4,4,0,0,375,2,12,18:00:00
+ENG-Premier League,2021,West Ham,2021-01-31 West Ham-Liverpool,2021-01-31,Matchweek 21,Sun,Home,L,1,3,Liverpool,402,364,36,9,1,1,22,8,6,5,0,0,297,2,10,16:30:00
+ENG-Premier League,2021,West Ham,2021-02-03 Aston Villa-West Ham,2021-02-03,Matchweek 22,Wed,Away,W,3,1,Aston Villa,412,370,41,11,2,3,16,17,3,1,2,0,313,1,13,20:15:00
+ENG-Premier League,2021,West Ham,2021-02-06 Fulham-West Ham,2021-02-06,Matchweek 23,Sat,Away,D,0,0,Fulham,396,343,49,11,1,1,15,20,3,1,1,0,287,4,10,17:30:00
+ENG-Premier League,2021,West Ham,2021-02-15 West Ham-Sheffield Utd,2021-02-15,Matchweek 24,Mon,Home,W,3,0,Sheffield Utd,469,426,42,10,0,2,15,16,7,1,5,0,374,1,9,18:00:00
+ENG-Premier League,2021,West Ham,2021-02-21 West Ham-Tottenham,2021-02-21,Matchweek 25,Sun,Home,W,2,1,Tottenham,290,239,50,7,1,0,13,21,5,2,3,0,175,1,6,12:00:00
+ENG-Premier League,2021,West Ham,2021-02-27 Manchester City-West Ham,2021-02-27,Matchweek 26,Sat,Away,L,1,2,Manchester City,417,385,31,10,0,6,13,9,2,1,1,0,330,1,5,12:30:00
+ENG-Premier League,2021,West Ham,2021-03-08 West Ham-Leeds United,2021-03-08,Matchweek 27,Mon,Home,W,2,0,Leeds United,310,265,44,8,0,1,15,14,6,4,2,0,211,1,9,20:00:00
+ENG-Premier League,2021,West Ham,2021-03-14 Manchester Utd-West Ham,2021-03-14,Matchweek 28,Sun,Away,L,0,1,Manchester Utd,456,415,39,12,0,1,19,19,2,2,0,0,356,2,5,19:15:00
+ENG-Premier League,2021,West Ham,2021-03-21 West Ham-Arsenal,2021-03-21,Matchweek 29,Sun,Home,D,3,3,Arsenal,394,352,41,7,0,4,19,22,3,1,2,0,281,1,10,15:00:00
+ENG-Premier League,2021,West Ham,2021-04-05 Wolves-West Ham,2021-04-05,Matchweek 30,Mon,Away,W,3,2,Wolves,361,309,51,10,0,2,14,20,2,1,1,0,261,1,12,20:15:00
+ENG-Premier League,2021,West Ham,2021-04-11 West Ham-Leicester City,2021-04-11,Matchweek 31,Sun,Home,W,3,2,Leicester City,404,358,43,14,0,1,8,21,1,0,1,0,289,3,6,14:05:00
+ENG-Premier League,2021,West Ham,2021-04-17 Newcastle Utd-West Ham,2021-04-17,Matchweek 32,Sat,Away,L,2,3,Newcastle Utd,583,519,64,10,0,5,27,39,8,6,0,0,478,0,13,12:30:00
+ENG-Premier League,2021,West Ham,2021-04-24 West Ham-Chelsea,2021-04-24,Matchweek 33,Sat,Home,L,0,1,Chelsea,495,439,53,13,1,1,17,27,4,3,0,0,368,3,15,17:30:00
+ENG-Premier League,2021,West Ham,2021-05-03 Burnley-West Ham,2021-05-03,Matchweek 34,Mon,Away,W,2,1,Burnley,596,551,43,5,0,2,24,23,4,1,1,0,456,2,9,20:15:00
+ENG-Premier League,2021,West Ham,2021-05-09 West Ham-Everton,2021-05-09,Matchweek 35,Sun,Home,L,0,1,Everton,678,628,48,12,0,3,40,24,5,2,3,0,580,2,9,16:30:00
+ENG-Premier League,2021,West Ham,2021-05-15 Brighton-West Ham,2021-05-15,Matchweek 36,Sat,Away,D,1,1,Brighton,597,562,33,7,0,0,24,14,3,1,2,0,500,2,10,20:00:00
+ENG-Premier League,2021,West Ham,2021-05-19 West Brom-West Ham,2021-05-19,Matchweek 37,Wed,Away,W,3,1,West Brom,377,323,53,8,1,2,23,24,8,6,2,0,263,1,9,20:15:00
+ENG-Premier League,2021,West Ham,2021-05-23 West Ham-Southampton,2021-05-23,Matchweek 38,Sun,Home,W,3,0,Southampton,349,298,46,9,0,2,15,22,2,1,1,0,233,5,12,16:00:00
+ENG-Premier League,2021,Wolves,2020-09-14 Sheffield Utd-Wolves,2020-09-14,Matchweek 1,Mon,Away,W,2,0,Sheffield Utd,432,384,48,17,1,3,15,19,5,0,3,0,334,0,8,18:00:00
+ENG-Premier League,2021,Wolves,2020-09-21 Wolves-Manchester City,2020-09-21,Matchweek 2,Mon,Home,L,1,3,Manchester City,391,349,40,11,1,3,13,13,4,1,2,0,294,2,9,20:15:00
+ENG-Premier League,2021,Wolves,2020-09-27 West Ham-Wolves,2020-09-27,Matchweek 3,Sun,Away,L,0,4,West Ham,676,628,46,9,1,0,18,24,3,1,1,0,576,2,11,19:00:00
+ENG-Premier League,2021,Wolves,2020-10-04 Wolves-Fulham,2020-10-04,Matchweek 4,Sun,Home,W,1,0,Fulham,525,478,47,7,0,0,18,25,6,2,2,0,441,0,8,14:00:00
+ENG-Premier League,2021,Wolves,2020-10-19 Leeds United-Wolves,2020-10-19,Matchweek 5,Mon,Away,W,1,0,Leeds United,311,253,56,14,0,1,10,26,3,0,3,0,206,2,7,20:00:00
+ENG-Premier League,2021,Wolves,2020-10-25 Wolves-Newcastle Utd,2020-10-25,Matchweek 6,Sun,Home,D,1,1,Newcastle Utd,745,711,34,10,0,5,18,18,2,2,0,0,664,0,9,16:30:00
+ENG-Premier League,2021,Wolves,2020-10-30 Wolves-Crystal Palace,2020-10-30,Matchweek 7,Fri,Home,W,2,0,Crystal Palace,492,454,38,6,0,8,24,20,7,2,1,1,405,0,15,20:00:00
+ENG-Premier League,2021,Wolves,2020-11-08 Leicester City-Wolves,2020-11-08,Matchweek 8,Sun,Away,L,0,1,Leicester City,549,498,51,11,0,5,20,23,3,2,0,0,440,0,13,14:00:00
+ENG-Premier League,2021,Wolves,2020-11-23 Wolves-Southampton,2020-11-23,Matchweek 9,Mon,Home,D,1,1,Southampton,459,415,42,12,1,1,23,17,7,0,1,0,358,2,8,20:00:00
+ENG-Premier League,2021,Wolves,2020-11-29 Arsenal-Wolves,2020-11-29,Matchweek 10,Sun,Away,W,2,1,Arsenal,437,387,50,15,0,4,11,20,4,3,0,0,346,0,9,19:15:00
+ENG-Premier League,2021,Wolves,2020-12-06 Liverpool-Wolves,2020-12-06,Matchweek 11,Sun,Away,L,0,4,Liverpool,439,397,39,8,1,3,25,13,6,0,1,0,352,3,5,19:15:00
+ENG-Premier League,2021,Wolves,2020-12-12 Wolves-Aston Villa,2020-12-12,Matchweek 12,Sat,Home,L,0,1,Aston Villa,389,340,49,17,1,5,22,18,5,0,3,0,289,0,3,12:30:00
+ENG-Premier League,2021,Wolves,2020-12-15 Wolves-Chelsea,2020-12-15,Matchweek 13,Tue,Home,W,2,1,Chelsea,453,410,42,12,0,1,17,14,5,0,2,0,354,1,11,18:00:00
+ENG-Premier League,2021,Wolves,2020-12-21 Burnley-Wolves,2020-12-21,Matchweek 14,Mon,Away,L,1,2,Burnley,514,458,54,9,1,6,22,24,7,1,1,0,415,2,5,17:30:00
+ENG-Premier League,2021,Wolves,2020-12-27 Wolves-Tottenham,2020-12-27,Matchweek 15,Sun,Home,D,1,1,Tottenham,601,551,48,12,1,6,30,22,9,4,1,0,495,2,9,19:15:00
+ENG-Premier League,2021,Wolves,2020-12-29 Manchester Utd-Wolves,2020-12-29,Matchweek 16,Tue,Away,L,0,1,Manchester Utd,473,425,46,15,1,3,11,15,2,0,1,0,380,2,10,20:00:00
+ENG-Premier League,2021,Wolves,2021-01-02 Brighton-Wolves,2021-01-02,Matchweek 17,Sat,Away,D,3,3,Brighton,496,443,53,13,0,5,14,19,7,4,1,0,404,0,11,17:30:00
+ENG-Premier League,2021,Wolves,2021-01-12 Wolves-Everton,2021-01-12,Matchweek 18,Tue,Home,L,1,2,Everton,601,563,38,11,1,2,26,13,6,4,1,0,528,0,9,20:15:00
+ENG-Premier League,2021,Wolves,2021-01-16 Wolves-West Brom,2021-01-16,Matchweek 19,Sat,Home,L,2,3,West Brom,611,549,62,15,1,4,31,28,11,6,4,1,496,0,11,12:30:00
+ENG-Premier League,2021,Wolves,2021-01-27 Chelsea-Wolves,2021-01-27,Matchweek 20,Wed,Away,D,0,0,Chelsea,268,226,42,15,1,1,6,17,1,0,0,0,190,0,6,18:00:00
+ENG-Premier League,2021,Wolves,2021-01-30 Crystal Palace-Wolves,2021-01-30,Matchweek 21,Sat,Away,L,0,1,Crystal Palace,603,563,39,8,0,3,25,14,6,5,0,0,517,1,3,15:00:00
+ENG-Premier League,2021,Wolves,2021-02-02 Wolves-Arsenal,2021-02-02,Matchweek 22,Tue,Home,W,2,1,Arsenal,627,583,43,10,2,3,27,18,9,3,1,0,548,1,11,18:00:00
+ENG-Premier League,2021,Wolves,2021-02-07 Wolves-Leicester City,2021-02-07,Matchweek 23,Sun,Home,D,0,0,Leicester City,473,422,51,15,1,5,22,20,8,3,2,0,374,0,21,14:00:00
+ENG-Premier League,2021,Wolves,2021-02-14 Southampton-Wolves,2021-02-14,Matchweek 24,Sun,Away,W,2,1,Southampton,498,444,53,15,0,7,19,27,6,2,0,1,365,1,16,12:00:00
+ENG-Premier League,2021,Wolves,2021-02-19 Wolves-Leeds United,2021-02-19,Matchweek 25,Fri,Home,W,1,0,Leeds United,357,301,55,8,0,3,13,31,7,4,2,0,262,1,6,20:00:00
+ENG-Premier League,2021,Wolves,2021-02-27 Newcastle Utd-Wolves,2021-02-27,Matchweek 26,Sat,Away,D,1,1,Newcastle Utd,463,419,44,13,0,8,21,16,5,3,2,0,363,0,5,20:00:00
+ENG-Premier League,2021,Wolves,2021-03-02 Manchester City-Wolves,2021-03-02,Matchweek 29,Tue,Away,L,1,4,Manchester City,325,293,31,12,0,2,7,4,2,2,0,0,266,1,3,20:00:00
+ENG-Premier League,2021,Wolves,2021-03-06 Aston Villa-Wolves,2021-03-06,Matchweek 27,Sat,Away,D,0,0,Aston Villa,468,422,46,14,0,7,24,19,3,0,2,0,372,0,4,17:30:00
+ENG-Premier League,2021,Wolves,2021-03-15 Wolves-Liverpool,2021-03-15,Matchweek 28,Mon,Home,L,0,1,Liverpool,562,517,43,10,1,8,29,18,3,0,2,0,428,2,11,20:00:00
+ENG-Premier League,2021,Wolves,2021-04-05 Wolves-West Ham,2021-04-05,Matchweek 30,Mon,Home,L,2,3,West Ham,681,643,37,10,1,6,31,16,4,1,3,0,580,1,8,20:15:00
+ENG-Premier League,2021,Wolves,2021-04-09 Fulham-Wolves,2021-04-09,Matchweek 31,Fri,Away,W,1,0,Fulham,504,451,52,13,0,1,20,23,4,0,3,0,410,1,10,20:00:00
+ENG-Premier League,2021,Wolves,2021-04-17 Wolves-Sheffield Utd,2021-04-17,Matchweek 32,Sat,Home,W,1,0,Sheffield Utd,527,473,52,17,0,3,14,27,3,0,3,0,443,2,4,20:15:00
+ENG-Premier League,2021,Wolves,2021-04-25 Wolves-Burnley,2021-04-25,Matchweek 33,Sun,Home,L,0,4,Burnley,527,477,48,9,0,3,27,18,8,1,7,0,398,2,14,12:00:00
+ENG-Premier League,2021,Wolves,2021-05-03 West Brom-Wolves,2021-05-03,Matchweek 34,Mon,Away,D,1,1,West Brom,511,460,49,18,2,1,21,14,6,1,5,0,388,2,6,18:00:00
+ENG-Premier League,2021,Wolves,2021-05-09 Wolves-Brighton,2021-05-09,Matchweek 35,Sun,Home,W,2,1,Brighton,622,568,54,8,1,6,25,25,10,0,2,0,532,0,10,12:00:00
+ENG-Premier League,2021,Wolves,2021-05-16 Tottenham-Wolves,2021-05-16,Matchweek 36,Sun,Away,L,0,2,Tottenham,390,352,35,10,0,1,11,11,3,3,0,0,314,3,8,14:05:00
+ENG-Premier League,2021,Wolves,2021-05-19 Everton-Wolves,2021-05-19,Matchweek 37,Wed,Away,L,0,1,Everton,599,545,54,11,0,4,35,26,12,2,6,0,487,0,12,18:00:00
+ENG-Premier League,2021,Wolves,2021-05-23 Wolves-Manchester Utd,2021-05-23,Matchweek 38,Sun,Home,L,1,2,Manchester Utd,626,585,40,4,0,4,30,20,6,3,2,0,534,1,7,16:00:00

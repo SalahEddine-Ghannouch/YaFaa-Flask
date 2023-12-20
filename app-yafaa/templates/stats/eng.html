@@ -10,41 +10,138 @@
 
 {% block content %}
 
-<div class="js-league-table">
-    <div class="league-table__container">
-        <h2 class="heading-primary">ENG Premier League : {{ season_selected[:4]}}/{{ (season_selected[:4]|int) + 1 }}        </h2>
-        <table class="league-table" cellspacing="0" cellpadding="0">
-            <thead class="league-table__heading">
-                <tr class="league-table__row">
-                    <th title="Rank">Rank</th>
-                    <th title="Team">Team</th>
-                    <th title="ELO">ELO</th>
-                    <th title="Date">Date</th>
-                    <th title="Country">Country</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for row in elo_data %}
-                    <tr class="league-table__row">
-                        <td>{{row.rank}}</td>
-                        <td>{{row.teams}}</td>
-                        <td>{{row.elo | round(3)}}</td>
-                        <td>{{row.week}}</td>
-                        <td>{{row.country}}</td>
-                        
-                    </tr>
-                 {% endfor %}
-            </tbody>
-        </table>
+<style>
+    .match-container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .team {
+        text-align: center;
+    }
+
+    .team-logo {
+        max-width: 100px;
+        max-height: 100px;
+        border-radius: 50%;
+    }
+
+    .stats {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        margin: 5px;
+        padding: 5px;
+        border-radius: 3px;
+        display: flex;
+        align-items: center;
+    }
+
+    .card img {
+        width: 20px; /* Ajustez la taille des icônes de cartes selon vos besoins */
+        margin-right: 4px;
+    }
+
+    .yellow-card {
+        background-color: yellow;
+    }
+
+    .red-card {
+        background-color: rgb(250, 127, 127);
+        color: white;
+    }
+</style>
+
+<div class="match">
+    <div class="match-header">
+        <div class="match-status"></div>
+        <div class="match-tournament">
+            <img src="{{url_for('static', filename='svg/leagues/eng.png')}}" style="width: 40px;"  alt="Tournament Logo" /> Premier League
+        </div>
+        <div class="match-actions">
+            <button class="btn-icon"><i class="material-icons">grade</i></button>
+            <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>
+        </div>
+    </div>
+
+    <div class="match-content">
+        <div class="column">
+            <div class="team team--home">
+                <div class="team-logo">
+                    <img src="" alt="Home Team Logo" />
+                </div>
+                <h2 class="team-name">sss</h2>
+            </div>
+        </div>
+        <div class="column">
+            <div class="match-details">
+                <div class="match-date">
+                    <div class="stats">
+                        <div class="card yellow-card">
+                            <img src="{{url_for('static', filename='svg/logo/yellow-card.png')}}" alt="Yellow Card">
+                            : 3
+                        </div>
+                        <div class="card red-card">
+                            <img src="{{url_for('static', filename='svg/logo/red.png')}}" alt="Red Card">
+                            : 1
+                        </div>
+                    </div>
+                </div>
+                <div class="match-time-lapsed">
+                   00 min
+                </div>
+                <div class="match-time-lapsed">
+                    00 min
+                 </div>
+                 <div class="match-time-lapsed">
+                    00 min
+                 </div>
+                <div class="match-referee">
+                    Referee: XXX</strong>
+                </div>
+                <div class="match-bet-options">
+                    <!-- <button class="match-bet-option"> min</button> -->
+                </div>
+                <button class="match-bet-place">Venue : XX</button>
+            </div>
+        </div>
+        <div class="column">
+            <div class="team team--away">
+                <div class="team-logo">
+                    <img src="" alt="Away Team Logo" />
+                </div>
+                <h2 class="team-name">Team name</h2>
+            </div>
+        </div>
     </div>
 </div>
+
 
 <div class="js-current-fixtures" >
     <div class="league-table__container">
         <h2 class="heading-primary">Season</h2>
     <form  method="post" >
-        <select id="season" style="width: 250px;" class="selectB" name="season" value="{{ season_selected}}">
+        <select id="season" style="width: 250px;" class="selectB" name="season" value="{{selected_year}}">
             {%for elm in season_available%}
+            <option value="{{elm}}">{{elm}}</option>
+            {%endfor%}
+        </select>
+        <br><br>
+        <select id="team1" style="width: 250px;" class="selectB" name="team1" value="">
+            {%for elm in cleaned_teams%}
+            <option value="{{elm}}">{{elm}}</option>
+            {%endfor%}
+        </select>
+        <br><br>
+        <strong style="padding-left: 109px;font-size:15px;">.VS.</strong>
+        <br><br>
+        <select id="team2" style="width: 250px;" class="selectB" name="team2" value="">
+            {%for elm in cleaned_teams%}
             <option value="{{elm}}">{{elm}}</option>
             {%endfor%}
         </select>
@@ -54,14 +151,6 @@
     </div>
 </div>
 
-<div class="js-next-fixtures">
-    <div class="fixtures">
-        <h2 class="heading-secondary">Elo Distribution for ENG-Premier League</h2>
-        <ul class="fixtures-list">
-            
-        </ul>
-    </div>
-</div>
 
 
 

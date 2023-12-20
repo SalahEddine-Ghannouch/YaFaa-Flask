@@ -1,0 +1,761 @@
+league,season,team,game,date,time,round,day,venue,result,GF,GA,opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee
+ENG-Premier League,1920,Arsenal,2019-08-11 Newcastle Utd-Arsenal,2019-08-11,14:00:00,Matchweek 1,Sun,Away,W,1,0,Newcastle Utd,1.1,0.4,62,47635,Granit Xhaka,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Arsenal,2019-08-17 Arsenal-Burnley,2019-08-17,12:30:00,Matchweek 2,Sat,Home,W,2,1,Burnley,0.8,1.5,67,60214,Nacho Monreal,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Arsenal,2019-08-24 Liverpool-Arsenal,2019-08-24,17:30:00,Matchweek 3,Sat,Away,L,1,3,Liverpool,1.0,2.5,48,53298,Granit Xhaka,4-3-1-2,Anthony Taylor
+ENG-Premier League,1920,Arsenal,2019-09-01 Arsenal-Tottenham,2019-09-01,16:30:00,Matchweek 4,Sun,Home,D,2,2,Tottenham,2.4,2.0,55,60333,Granit Xhaka,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Arsenal,2019-09-15 Watford-Arsenal,2019-09-15,16:30:00,Matchweek 5,Sun,Away,D,2,2,Watford,0.8,2.7,48,21360,Granit Xhaka,4-1-2-1-2◆,Anthony Taylor
+ENG-Premier League,1920,Arsenal,2019-09-22 Arsenal-Aston Villa,2019-09-22,16:30:00,Matchweek 6,Sun,Home,W,3,2,Aston Villa,2.4,1.5,58,60331,Granit Xhaka,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Arsenal,2019-09-30 Manchester Utd-Arsenal,2019-09-30,20:00:00,Matchweek 7,Mon,Away,D,1,1,Manchester Utd,1.9,0.9,45,73201,Granit Xhaka,4-3-3,Kevin Friend
+ENG-Premier League,1920,Arsenal,2019-10-06 Arsenal-Bournemouth,2019-10-06,14:00:00,Matchweek 8,Sun,Home,W,1,0,Bournemouth,1.2,0.6,53,60326,Granit Xhaka,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Arsenal,2019-10-21 Sheffield Utd-Arsenal,2019-10-21,20:00:00,Matchweek 9,Mon,Away,L,0,1,Sheffield Utd,1.0,0.9,67,30775,Granit Xhaka,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Arsenal,2019-10-27 Arsenal-Crystal Palace,2019-10-27,16:30:00,Matchweek 10,Sun,Home,D,2,2,Crystal Palace,1.3,1.6,56,60345,Granit Xhaka,4-4-2,Martin Atkinson
+ENG-Premier League,1920,Arsenal,2019-11-02 Arsenal-Wolves,2019-11-02,15:00:00,Matchweek 11,Sat,Home,D,1,1,Wolves,0.9,1.8,57,60383,Pierre-Emerick Aubameyang,4-3-1-2,Michael Oliver
+ENG-Premier League,1920,Arsenal,2019-11-09 Leicester City-Arsenal,2019-11-09,17:30:00,Matchweek 12,Sat,Away,L,0,2,Leicester City,1.0,1.2,49,32209,Pierre-Emerick Aubameyang,3-4-1-2,Chris Kavanagh
+ENG-Premier League,1920,Arsenal,2019-11-23 Arsenal-Southampton,2019-11-23,15:00:00,Matchweek 13,Sat,Home,D,2,2,Southampton,1.8,2.4,61,60295,Pierre-Emerick Aubameyang,3-4-1-2,Stuart Attwell
+ENG-Premier League,1920,Arsenal,2019-12-01 Norwich City-Arsenal,2019-12-01,14:00:00,Matchweek 14,Sun,Away,D,2,2,Norwich City,1.9,0.8,60,27067,Pierre-Emerick Aubameyang,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Arsenal,2019-12-05 Arsenal-Brighton,2019-12-05,20:15:00,Matchweek 15,Thu,Home,L,1,2,Brighton,0.9,1.7,50,60164,Pierre-Emerick Aubameyang,4-2-3-1,Graham Scott
+ENG-Premier League,1920,Arsenal,2019-12-09 West Ham-Arsenal,2019-12-09,20:00:00,Matchweek 16,Mon,Away,W,3,1,West Ham,1.4,0.6,64,59936,Pierre-Emerick Aubameyang,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Arsenal,2019-12-15 Arsenal-Manchester City,2019-12-15,16:30:00,Matchweek 17,Sun,Home,L,0,3,Manchester City,0.5,1.3,43,60031,Pierre-Emerick Aubameyang,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Arsenal,2019-12-21 Everton-Arsenal,2019-12-21,12:30:00,Matchweek 18,Sat,Away,D,0,0,Everton,0.6,0.5,57,39336,Pierre-Emerick Aubameyang,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Arsenal,2019-12-26 Bournemouth-Arsenal,2019-12-26,15:00:00,Matchweek 19,Thu,Away,D,1,1,Bournemouth,1.4,2.0,60,10234,Pierre-Emerick Aubameyang,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Arsenal,2019-12-29 Arsenal-Chelsea,2019-12-29,14:00:00,Matchweek 20,Sun,Home,L,1,2,Chelsea,0.5,1.4,42,60309,Pierre-Emerick Aubameyang,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Arsenal,2020-01-01 Arsenal-Manchester Utd,2020-01-01,20:00:00,Matchweek 21,Wed,Home,W,2,0,Manchester Utd,1.5,0.7,49,60328,Pierre-Emerick Aubameyang,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Arsenal,2020-01-11 Crystal Palace-Arsenal,2020-01-11,12:30:00,Matchweek 22,Sat,Away,D,1,1,Crystal Palace,1.4,0.6,57,25468,Pierre-Emerick Aubameyang,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Arsenal,2020-01-18 Arsenal-Sheffield Utd,2020-01-18,15:00:00,Matchweek 23,Sat,Home,D,1,1,Sheffield Utd,1.4,0.8,61,60310,Alexandre Lacazette,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Arsenal,2020-01-21 Chelsea-Arsenal,2020-01-21,20:15:00,Matchweek 24,Tue,Away,D,2,2,Chelsea,0.4,2.9,42,40577,Héctor Bellerín,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Arsenal,2020-02-02 Burnley-Arsenal,2020-02-02,14:00:00,Matchweek 25,Sun,Away,D,0,0,Burnley,1.2,1.9,56,21048,Pierre-Emerick Aubameyang,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Arsenal,2020-02-16 Arsenal-Newcastle Utd,2020-02-16,16:30:00,Matchweek 26,Sun,Home,W,4,0,Newcastle Utd,2.6,0.9,68,60188,Pierre-Emerick Aubameyang,4-2-3-1,Lee Mason
+ENG-Premier League,1920,Arsenal,2020-02-23 Arsenal-Everton,2020-02-23,16:30:00,Matchweek 27,Sun,Home,W,3,2,Everton,1.3,2.7,51,60296,Pierre-Emerick Aubameyang,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Arsenal,2020-03-07 Arsenal-West Ham,2020-03-07,15:00:00,Matchweek 29,Sat,Home,W,1,0,West Ham,1.2,1.5,68,60335,Pierre-Emerick Aubameyang,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Arsenal,2020-06-17 Manchester City-Arsenal,2020-06-17,20:15:00,Matchweek 28,Wed,Away,L,0,3,Manchester City,0.3,2.6,33,,Pierre-Emerick Aubameyang,4-3-2-1,Anthony Taylor
+ENG-Premier League,1920,Arsenal,2020-06-20 Brighton-Arsenal,2020-06-20,15:00:00,Matchweek 30,Sat,Away,L,1,2,Brighton,0.8,1.0,59,,Pierre-Emerick Aubameyang,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Arsenal,2020-06-25 Southampton-Arsenal,2020-06-25,18:00:00,Matchweek 31,Thu,Away,W,2,0,Southampton,1.9,0.9,47,,Pierre-Emerick Aubameyang,3-4-3,Graham Scott
+ENG-Premier League,1920,Arsenal,2020-07-01 Arsenal-Norwich City,2020-07-01,18:00:00,Matchweek 32,Wed,Home,W,4,0,Norwich City,1.5,0.3,51,,Pierre-Emerick Aubameyang,3-4-3,Peter Bankes
+ENG-Premier League,1920,Arsenal,2020-07-04 Wolves-Arsenal,2020-07-04,17:30:00,Matchweek 33,Sat,Away,W,2,0,Wolves,1.3,1.2,47,,Pierre-Emerick Aubameyang,3-4-3,Michael Oliver
+ENG-Premier League,1920,Arsenal,2020-07-07 Arsenal-Leicester City,2020-07-07,20:15:00,Matchweek 34,Tue,Home,D,1,1,Leicester City,1.1,0.9,39,,Pierre-Emerick Aubameyang,3-4-3,Chris Kavanagh
+ENG-Premier League,1920,Arsenal,2020-07-12 Tottenham-Arsenal,2020-07-12,16:30:00,Matchweek 35,Sun,Away,L,1,2,Tottenham,0.6,2.0,62,,Pierre-Emerick Aubameyang,3-4-3,Michael Oliver
+ENG-Premier League,1920,Arsenal,2020-07-15 Arsenal-Liverpool,2020-07-15,20:15:00,Matchweek 36,Wed,Home,W,2,1,Liverpool,0.8,2.1,32,,Alexandre Lacazette,3-4-3,Paul Tierney
+ENG-Premier League,1920,Arsenal,2020-07-21 Aston Villa-Arsenal,2020-07-21,20:15:00,Matchweek 37,Tue,Away,L,0,1,Aston Villa,0.6,0.6,69,,Pierre-Emerick Aubameyang,3-4-3,Chris Kavanagh
+ENG-Premier League,1920,Arsenal,2020-07-26 Arsenal-Watford,2020-07-26,16:00:00,Matchweek 38,Sun,Home,W,3,2,Watford,2.3,3.7,50,,Pierre-Emerick Aubameyang,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Aston Villa,2019-08-10 Tottenham-Aston Villa,2019-08-10,17:30:00,Matchweek 1,Sat,Away,L,1,3,Tottenham,0.7,2.4,30,60407,Jack Grealish,4-1-4-1,Chris Kavanagh
+ENG-Premier League,1920,Aston Villa,2019-08-17 Aston Villa-Bournemouth,2019-08-17,15:00:00,Matchweek 2,Sat,Home,L,1,2,Bournemouth,2.0,1.6,63,40996,Jack Grealish,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Aston Villa,2019-08-23 Aston Villa-Everton,2019-08-23,20:00:00,Matchweek 3,Fri,Home,W,2,0,Everton,1.0,1.3,36,41922,Jack Grealish,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,Aston Villa,2019-08-31 Crystal Palace-Aston Villa,2019-08-31,15:00:00,Matchweek 4,Sat,Away,L,0,1,Crystal Palace,0.4,1.4,48,25248,Jack Grealish,4-3-3,Kevin Friend
+ENG-Premier League,1920,Aston Villa,2019-09-16 Aston Villa-West Ham,2019-09-16,20:00:00,Matchweek 5,Mon,Home,D,0,0,West Ham,1.3,0.6,46,42010,Jack Grealish,4-3-3,Mike Dean
+ENG-Premier League,1920,Aston Villa,2019-09-22 Arsenal-Aston Villa,2019-09-22,16:30:00,Matchweek 6,Sun,Away,L,2,3,Arsenal,1.5,2.4,42,60331,Jack Grealish,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Aston Villa,2019-09-28 Aston Villa-Burnley,2019-09-28,15:00:00,Matchweek 7,Sat,Home,D,2,2,Burnley,1.0,1.5,60,41546,Jack Grealish,4-3-3,Lee Mason
+ENG-Premier League,1920,Aston Villa,2019-10-05 Norwich City-Aston Villa,2019-10-05,15:00:00,Matchweek 8,Sat,Away,W,5,1,Norwich City,3.0,2.6,43,27045,Jack Grealish,4-3-3,Andy Madley
+ENG-Premier League,1920,Aston Villa,2019-10-19 Aston Villa-Brighton,2019-10-19,15:00:00,Matchweek 9,Sat,Home,W,2,1,Brighton,3.0,1.2,49,41826,Jack Grealish,4-3-3,David Coote
+ENG-Premier League,1920,Aston Villa,2019-10-26 Manchester City-Aston Villa,2019-10-26,12:30:00,Matchweek 10,Sat,Away,L,0,3,Manchester City,1.0,2.9,37,54506,Jack Grealish,4-1-4-1,Graham Scott
+ENG-Premier League,1920,Aston Villa,2019-11-02 Aston Villa-Liverpool,2019-11-02,15:00:00,Matchweek 11,Sat,Home,L,1,2,Liverpool,0.4,2.4,27,41878,Tyrone Mings,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Aston Villa,2019-11-10 Wolves-Aston Villa,2019-11-10,14:00:00,Matchweek 12,Sun,Away,L,1,2,Wolves,0.6,2.4,50,31607,Tyrone Mings,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Aston Villa,2019-11-25 Aston Villa-Newcastle Utd,2019-11-25,20:00:00,Matchweek 13,Mon,Home,W,2,0,Newcastle Utd,2.3,0.6,61,41821,Jack Grealish,4-3-3,Lee Mason
+ENG-Premier League,1920,Aston Villa,2019-12-01 Manchester Utd-Aston Villa,2019-12-01,16:30:00,Matchweek 14,Sun,Away,D,2,2,Manchester Utd,1.2,1.7,38,73381,Jack Grealish,4-3-3,Craig Pawson
+ENG-Premier League,1920,Aston Villa,2019-12-04 Chelsea-Aston Villa,2019-12-04,19:30:00,Matchweek 15,Wed,Away,L,1,2,Chelsea,1.0,1.8,36,40628,Jack Grealish,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Aston Villa,2019-12-08 Aston Villa-Leicester City,2019-12-08,14:00:00,Matchweek 16,Sun,Home,L,1,4,Leicester City,1.2,4.6,41,41908,Jack Grealish,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,Aston Villa,2019-12-14 Sheffield Utd-Aston Villa,2019-12-14,15:00:00,Matchweek 17,Sat,Away,L,0,2,Sheffield Utd,1.1,1.7,44,30396,Jack Grealish,4-3-3,Peter Bankes
+ENG-Premier League,1920,Aston Villa,2019-12-21 Aston Villa-Southampton,2019-12-21,15:00:00,Matchweek 18,Sat,Home,L,1,3,Southampton,1.1,2.8,56,41834,Jack Grealish,4-3-3,Craig Pawson
+ENG-Premier League,1920,Aston Villa,2019-12-26 Aston Villa-Norwich City,2019-12-26,15:00:00,Matchweek 19,Thu,Home,W,1,0,Norwich City,0.6,1.2,43,41289,Jack Grealish,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Aston Villa,2019-12-28 Watford-Aston Villa,2019-12-28,15:00:00,Matchweek 20,Sat,Away,L,0,3,Watford,0.6,2.8,51,21348,Jack Grealish,4-2-3-1,Simon Hooper
+ENG-Premier League,1920,Aston Villa,2020-01-01 Burnley-Aston Villa,2020-01-01,12:30:00,Matchweek 21,Wed,Away,W,2,1,Burnley,1.3,2.2,38,19561,Jack Grealish,3-4-3,Michael Oliver
+ENG-Premier League,1920,Aston Villa,2020-01-12 Aston Villa-Manchester City,2020-01-12,16:30:00,Matchweek 22,Sun,Home,L,1,6,Manchester City,1.1,2.8,30,41823,Jack Grealish,5-3-2,Jonathan Moss
+ENG-Premier League,1920,Aston Villa,2020-01-18 Brighton-Aston Villa,2020-01-18,15:00:00,Matchweek 23,Sat,Away,D,1,1,Brighton,0.6,1.1,45,30551,Jack Grealish,3-4-3,Andy Madley
+ENG-Premier League,1920,Aston Villa,2020-01-21 Aston Villa-Watford,2020-01-21,19:30:00,Matchweek 24,Tue,Home,W,2,1,Watford,1.3,1.8,64,40867,Jack Grealish,3-4-3,Martin Atkinson
+ENG-Premier League,1920,Aston Villa,2020-02-01 Bournemouth-Aston Villa,2020-02-01,15:00:00,Matchweek 25,Sat,Away,L,1,2,Bournemouth,1.7,2.2,60,10722,Jack Grealish,3-4-3,Anthony Taylor
+ENG-Premier League,1920,Aston Villa,2020-02-16 Aston Villa-Tottenham,2020-02-16,14:00:00,Matchweek 26,Sun,Home,L,2,3,Tottenham,1.8,3.4,55,41874,Jack Grealish,3-4-3,Martin Atkinson
+ENG-Premier League,1920,Aston Villa,2020-02-22 Southampton-Aston Villa,2020-02-22,15:00:00,Matchweek 27,Sat,Away,L,0,2,Southampton,0.5,2.6,54,31478,Jack Grealish,3-4-3,Craig Pawson
+ENG-Premier League,1920,Aston Villa,2020-03-09 Leicester City-Aston Villa,2020-03-09,20:00:00,Matchweek 29,Mon,Away,L,0,4,Leicester City,0.5,2.1,36,32125,Jack Grealish,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,Aston Villa,2020-06-17 Aston Villa-Sheffield Utd,2020-06-17,18:00:00,Matchweek 28,Wed,Home,D,0,0,Sheffield Utd,1.4,0.3,46,,Jack Grealish,4-3-3,Michael Oliver
+ENG-Premier League,1920,Aston Villa,2020-06-21 Aston Villa-Chelsea,2020-06-21,16:15:00,Matchweek 30,Sun,Home,L,1,2,Chelsea,1.0,1.1,27,,Jack Grealish,4-3-3,Paul Tierney
+ENG-Premier League,1920,Aston Villa,2020-06-24 Newcastle Utd-Aston Villa,2020-06-24,18:00:00,Matchweek 31,Wed,Away,D,1,1,Newcastle Utd,1.6,0.9,48,,Jack Grealish,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Aston Villa,2020-06-27 Aston Villa-Wolves,2020-06-27,12:30:00,Matchweek 32,Sat,Home,L,0,1,Wolves,0.6,0.7,48,,Jack Grealish,4-1-2-1-2◆,Craig Pawson
+ENG-Premier League,1920,Aston Villa,2020-07-05 Liverpool-Aston Villa,2020-07-05,16:30:00,Matchweek 33,Sun,Away,L,0,2,Liverpool,0.7,0.7,30,,Jack Grealish,4-4-1-1,Paul Tierney
+ENG-Premier League,1920,Aston Villa,2020-07-09 Aston Villa-Manchester Utd,2020-07-09,20:15:00,Matchweek 34,Thu,Home,L,0,3,Manchester Utd,0.5,2.3,34,,Jack Grealish,4-4-1-1,Jonathan Moss
+ENG-Premier League,1920,Aston Villa,2020-07-12 Aston Villa-Crystal Palace,2020-07-12,14:15:00,Matchweek 35,Sun,Home,W,2,0,Crystal Palace,1.7,1.2,45,,Jack Grealish,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Aston Villa,2020-07-16 Everton-Aston Villa,2020-07-16,18:00:00,Matchweek 36,Thu,Away,D,1,1,Everton,1.3,0.9,46,,Jack Grealish,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Aston Villa,2020-07-21 Aston Villa-Arsenal,2020-07-21,20:15:00,Matchweek 37,Tue,Home,W,1,0,Arsenal,0.6,0.6,31,,Jack Grealish,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Aston Villa,2020-07-26 West Ham-Aston Villa,2020-07-26,16:00:00,Matchweek 38,Sun,Away,D,1,1,West Ham,1.0,0.9,38,,Jack Grealish,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,Bournemouth,2019-08-10 Bournemouth-Sheffield Utd,2019-08-10,15:00:00,Matchweek 1,Sat,Home,D,1,1,Sheffield Utd,1.3,1.3,53,10714,Steve Cook,3-4-3,Kevin Friend
+ENG-Premier League,1920,Bournemouth,2019-08-17 Aston Villa-Bournemouth,2019-08-17,15:00:00,Matchweek 2,Sat,Away,W,2,1,Aston Villa,1.6,2.0,37,40996,Steve Cook,4-4-1-1,Martin Atkinson
+ENG-Premier League,1920,Bournemouth,2019-08-25 Bournemouth-Manchester City,2019-08-25,14:00:00,Matchweek 3,Sun,Home,L,1,3,Manchester City,2.2,3.0,26,10486,Steve Cook,5-4-1,Andre Marriner
+ENG-Premier League,1920,Bournemouth,2019-08-31 Leicester City-Bournemouth,2019-08-31,15:00:00,Matchweek 4,Sat,Away,L,1,3,Leicester City,0.6,2.0,45,31613,Steve Cook,4-4-2,Peter Bankes
+ENG-Premier League,1920,Bournemouth,2019-09-15 Bournemouth-Everton,2019-09-15,14:00:00,Matchweek 5,Sun,Home,W,3,1,Everton,1.4,1.5,41,10416,Steve Cook,4-4-2,Paul Tierney
+ENG-Premier League,1920,Bournemouth,2019-09-20 Southampton-Bournemouth,2019-09-20,20:00:00,Matchweek 6,Fri,Away,W,3,1,Southampton,1.2,2.5,35,30168,Steve Cook,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Bournemouth,2019-09-28 Bournemouth-West Ham,2019-09-28,15:00:00,Matchweek 7,Sat,Home,D,2,2,West Ham,1.9,1.6,50,10729,Steve Cook,4-4-2,Stuart Attwell
+ENG-Premier League,1920,Bournemouth,2019-10-06 Arsenal-Bournemouth,2019-10-06,14:00:00,Matchweek 8,Sun,Away,L,0,1,Arsenal,0.6,1.2,47,60326,Steve Cook,4-4-2,Martin Atkinson
+ENG-Premier League,1920,Bournemouth,2019-10-19 Bournemouth-Norwich City,2019-10-19,15:00:00,Matchweek 9,Sat,Home,D,0,0,Norwich City,0.7,0.4,48,10669,Steve Cook,4-4-2,Lee Mason
+ENG-Premier League,1920,Bournemouth,2019-10-26 Watford-Bournemouth,2019-10-26,15:00:00,Matchweek 10,Sat,Away,D,0,0,Watford,1.0,0.8,59,20821,Steve Cook,4-4-2,Mike Dean
+ENG-Premier League,1920,Bournemouth,2019-11-02 Bournemouth-Manchester Utd,2019-11-02,12:30:00,Matchweek 11,Sat,Home,W,1,0,Manchester Utd,1.9,0.8,43,10669,Steve Cook,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Bournemouth,2019-11-09 Newcastle Utd-Bournemouth,2019-11-09,15:00:00,Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,1.8,2.4,65,44424,Steve Cook,4-4-2,Martin Atkinson
+ENG-Premier League,1920,Bournemouth,2019-11-23 Bournemouth-Wolves,2019-11-23,15:00:00,Matchweek 13,Sat,Home,L,1,2,Wolves,0.6,1.1,47,10539,Simon Francis,3-4-3,Simon Hooper
+ENG-Premier League,1920,Bournemouth,2019-11-30 Tottenham-Bournemouth,2019-11-30,15:00:00,Matchweek 14,Sat,Away,L,2,3,Tottenham,1.1,2.3,48,59626,Steve Cook,4-4-2,Lee Mason
+ENG-Premier League,1920,Bournemouth,2019-12-03 Crystal Palace-Bournemouth,2019-12-03,19:30:00,Matchweek 15,Tue,Away,L,0,1,Crystal Palace,0.4,0.3,68,23497,Nathan Aké,4-4-2,Anthony Taylor
+ENG-Premier League,1920,Bournemouth,2019-12-07 Bournemouth-Liverpool,2019-12-07,15:00:00,Matchweek 16,Sat,Home,L,0,3,Liverpool,0.1,2.4,27,10832,Simon Francis,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Bournemouth,2019-12-14 Chelsea-Bournemouth,2019-12-14,15:00:00,Matchweek 17,Sat,Away,W,1,0,Chelsea,1.0,2.1,34,40243,Simon Francis,4-5-1,Graham Scott
+ENG-Premier League,1920,Bournemouth,2019-12-21 Bournemouth-Burnley,2019-12-21,15:00:00,Matchweek 18,Sat,Home,L,0,1,Burnley,0.1,0.2,63,10020,Simon Francis,4-5-1,Martin Atkinson
+ENG-Premier League,1920,Bournemouth,2019-12-26 Bournemouth-Arsenal,2019-12-26,15:00:00,Matchweek 19,Thu,Home,D,1,1,Arsenal,2.0,1.4,40,10234,Steve Cook,4-5-1,Stuart Attwell
+ENG-Premier League,1920,Bournemouth,2019-12-28 Brighton-Bournemouth,2019-12-28,12:30:00,Matchweek 20,Sat,Away,L,0,2,Brighton,0.5,0.8,45,30441,Steve Cook,4-4-2,Paul Tierney
+ENG-Premier League,1920,Bournemouth,2020-01-01 West Ham-Bournemouth,2020-01-01,17:30:00,Matchweek 21,Wed,Away,L,0,4,West Ham,0.6,2.4,57,59917,Simon Francis,4-3-3,Graham Scott
+ENG-Premier League,1920,Bournemouth,2020-01-12 Bournemouth-Watford,2020-01-12,14:00:00,Matchweek 22,Sun,Home,L,0,3,Watford,0.4,2.0,57,10384,Simon Francis,4-4-2,Mike Dean
+ENG-Premier League,1920,Bournemouth,2020-01-18 Norwich City-Bournemouth,2020-01-18,15:00:00,Matchweek 23,Sat,Away,L,0,1,Norwich City,0.7,1.8,35,26781,Steve Cook,4-3-3,Paul Tierney
+ENG-Premier League,1920,Bournemouth,2020-01-21 Bournemouth-Brighton,2020-01-21,19:30:00,Matchweek 24,Tue,Home,W,3,1,Brighton,1.4,1.8,34,10065,Simon Francis,4-4-1-1,Kevin Friend
+ENG-Premier League,1920,Bournemouth,2020-02-01 Bournemouth-Aston Villa,2020-02-01,15:00:00,Matchweek 25,Sat,Home,W,2,1,Aston Villa,2.2,1.7,40,10722,Simon Francis,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Bournemouth,2020-02-09 Sheffield Utd-Bournemouth,2020-02-09,14:00:00,Matchweek 26,Sun,Away,L,1,2,Sheffield Utd,1.4,1.9,45,30361,Simon Francis,4-5-1,Jonathan Moss
+ENG-Premier League,1920,Bournemouth,2020-02-22 Burnley-Bournemouth,2020-02-22,15:00:00,Matchweek 27,Sat,Away,L,0,3,Burnley,1.8,3.2,58,18227,Simon Francis,4-3-3,Mike Dean
+ENG-Premier League,1920,Bournemouth,2020-02-29 Bournemouth-Chelsea,2020-02-29,15:00:00,Matchweek 28,Sat,Home,D,2,2,Chelsea,1.4,1.9,27,10667,Steve Cook,4-3-3,Andre Marriner
+ENG-Premier League,1920,Bournemouth,2020-03-07 Liverpool-Bournemouth,2020-03-07,12:30:00,Matchweek 29,Sat,Away,L,1,2,Liverpool,1.4,1.8,26,53323,Steve Cook,4-1-4-1,Paul Tierney
+ENG-Premier League,1920,Bournemouth,2020-06-20 Bournemouth-Crystal Palace,2020-06-20,19:45:00,Matchweek 30,Sat,Home,L,0,2,Crystal Palace,0.5,0.8,58,,Steve Cook,4-1-4-1,Stuart Attwell
+ENG-Premier League,1920,Bournemouth,2020-06-24 Wolves-Bournemouth,2020-06-24,18:00:00,Matchweek 31,Wed,Away,L,0,1,Wolves,0.1,1.7,46,,Steve Cook,4-5-1,Michael Oliver
+ENG-Premier League,1920,Bournemouth,2020-07-01 Bournemouth-Newcastle Utd,2020-07-01,18:00:00,Matchweek 32,Wed,Home,L,1,4,Newcastle Utd,1.6,1.8,55,,Steve Cook,4-4-2,Kevin Friend
+ENG-Premier League,1920,Bournemouth,2020-07-04 Manchester Utd-Bournemouth,2020-07-04,15:00:00,Matchweek 33,Sat,Away,L,2,5,Manchester Utd,1.8,2.5,32,,Nathan Aké,4-4-2,Mike Dean
+ENG-Premier League,1920,Bournemouth,2020-07-09 Bournemouth-Tottenham,2020-07-09,18:00:00,Matchweek 34,Thu,Home,D,0,0,Tottenham,1.4,0.5,37,,Nathan Aké,4-4-2,Paul Tierney
+ENG-Premier League,1920,Bournemouth,2020-07-12 Bournemouth-Leicester City,2020-07-12,19:00:00,Matchweek 35,Sun,Home,W,4,1,Leicester City,2.5,1.5,44,,Nathan Aké,4-4-2,Stuart Attwell
+ENG-Premier League,1920,Bournemouth,2020-07-15 Manchester City-Bournemouth,2020-07-15,18:00:00,Matchweek 36,Wed,Away,L,1,2,Manchester City,1.6,0.7,29,,Steve Cook,4-1-4-1,Lee Mason
+ENG-Premier League,1920,Bournemouth,2020-07-19 Bournemouth-Southampton,2020-07-19,14:00:00,Matchweek 37,Sun,Home,L,0,2,Southampton,0.5,2.5,44,,Steve Cook,4-4-2,Craig Pawson
+ENG-Premier League,1920,Bournemouth,2020-07-26 Everton-Bournemouth,2020-07-26,16:00:00,Matchweek 38,Sun,Away,W,3,1,Everton,1.5,1.7,31,,Steve Cook,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Brighton,2019-08-10 Watford-Brighton,2019-08-10,15:00:00,Matchweek 1,Sat,Away,W,3,0,Watford,0.8,0.7,51,20245,Lewis Dunk,3-4-3,Craig Pawson
+ENG-Premier League,1920,Brighton,2019-08-17 Brighton-West Ham,2019-08-17,15:00:00,Matchweek 2,Sat,Home,D,1,1,West Ham,2.0,0.8,57,30459,Lewis Dunk,3-4-3,Anthony Taylor
+ENG-Premier League,1920,Brighton,2019-08-24 Brighton-Southampton,2019-08-24,15:00:00,Matchweek 3,Sat,Home,L,0,2,Southampton,0.8,1.7,51,30019,Lewis Dunk,3-4-3,Kevin Friend
+ENG-Premier League,1920,Brighton,2019-08-31 Manchester City-Brighton,2019-08-31,15:00:00,Matchweek 4,Sat,Away,L,0,4,Manchester City,0.9,1.9,47,54386,Lewis Dunk,3-4-3,Jonathan Moss
+ENG-Premier League,1920,Brighton,2019-09-14 Brighton-Burnley,2019-09-14,15:00:00,Matchweek 5,Sat,Home,D,1,1,Burnley,1.4,0.4,62,29398,Lewis Dunk,3-4-3,Michael Oliver
+ENG-Premier League,1920,Brighton,2019-09-21 Newcastle Utd-Brighton,2019-09-21,17:30:00,Matchweek 6,Sat,Away,D,0,0,Newcastle Utd,1.4,0.9,71,43316,Lewis Dunk,3-4-3,Martin Atkinson
+ENG-Premier League,1920,Brighton,2019-09-28 Chelsea-Brighton,2019-09-28,15:00:00,Matchweek 7,Sat,Away,L,0,2,Chelsea,0.6,3.7,47,40683,Lewis Dunk,3-5-1-1,Chris Kavanagh
+ENG-Premier League,1920,Brighton,2019-10-05 Brighton-Tottenham,2019-10-05,12:30:00,Matchweek 8,Sat,Home,W,3,0,Tottenham,2.4,0.4,48,30610,Lewis Dunk,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Brighton,2019-10-19 Aston Villa-Brighton,2019-10-19,15:00:00,Matchweek 9,Sat,Away,L,1,2,Aston Villa,1.2,3.0,51,41826,Lewis Dunk,4-4-2,David Coote
+ENG-Premier League,1920,Brighton,2019-10-26 Brighton-Everton,2019-10-26,15:00:00,Matchweek 10,Sat,Home,W,3,2,Everton,1.2,0.9,55,30529,Lewis Dunk,4-4-2,Andy Madley
+ENG-Premier League,1920,Brighton,2019-11-02 Brighton-Norwich City,2019-11-02,15:00:00,Matchweek 11,Sat,Home,W,2,0,Norwich City,2.7,0.4,58,30539,Lewis Dunk,4-4-2,Kevin Friend
+ENG-Premier League,1920,Brighton,2019-11-10 Manchester Utd-Brighton,2019-11-10,14:00:00,Matchweek 12,Sun,Away,L,1,3,Manchester Utd,0.8,3.6,58,73556,Lewis Dunk,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Brighton,2019-11-23 Brighton-Leicester City,2019-11-23,15:00:00,Matchweek 13,Sat,Home,L,0,2,Leicester City,0.6,3.6,53,30640,Dale Stephens,3-4-3,Mike Dean
+ENG-Premier League,1920,Brighton,2019-11-30 Liverpool-Brighton,2019-11-30,15:00:00,Matchweek 14,Sat,Away,L,1,2,Liverpool,0.8,1.3,56,53319,Lewis Dunk,4-3-2-1,Martin Atkinson
+ENG-Premier League,1920,Brighton,2019-12-05 Arsenal-Brighton,2019-12-05,20:15:00,Matchweek 15,Thu,Away,W,2,1,Arsenal,1.7,0.9,50,60164,Lewis Dunk,4-1-2-1-2◆,Graham Scott
+ENG-Premier League,1920,Brighton,2019-12-08 Brighton-Wolves,2019-12-08,16:30:00,Matchweek 16,Sun,Home,D,2,2,Wolves,1.2,1.5,61,30189,Lewis Dunk,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Brighton,2019-12-16 Crystal Palace-Brighton,2019-12-16,19:45:00,Matchweek 17,Mon,Away,D,1,1,Crystal Palace,2.3,0.7,65,24175,Lewis Dunk,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Brighton,2019-12-21 Brighton-Sheffield Utd,2019-12-21,15:00:00,Matchweek 18,Sat,Home,L,0,1,Sheffield Utd,0.5,1.3,69,30505,Lewis Dunk,4-2-3-1,Robert Jones
+ENG-Premier League,1920,Brighton,2019-12-26 Tottenham-Brighton,2019-12-26,12:30:00,Matchweek 19,Thu,Away,L,1,2,Tottenham,1.0,0.8,46,56308,Dale Stephens,3-4-3,Graham Scott
+ENG-Premier League,1920,Brighton,2019-12-28 Brighton-Bournemouth,2019-12-28,12:30:00,Matchweek 20,Sat,Home,W,2,0,Bournemouth,0.8,0.5,55,30441,Lewis Dunk,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Brighton,2020-01-01 Brighton-Chelsea,2020-01-01,12:30:00,Matchweek 21,Wed,Home,D,1,1,Chelsea,1.3,1.3,48,30559,Lewis Dunk,4-1-2-1-2◆,Stuart Attwell
+ENG-Premier League,1920,Brighton,2020-01-11 Everton-Brighton,2020-01-11,15:00:00,Matchweek 22,Sat,Away,L,0,1,Everton,1.3,1.7,47,38772,Lewis Dunk,3-4-3,David Coote
+ENG-Premier League,1920,Brighton,2020-01-18 Brighton-Aston Villa,2020-01-18,15:00:00,Matchweek 23,Sat,Home,D,1,1,Aston Villa,1.1,0.6,55,30551,Lewis Dunk,4-4-2,Andy Madley
+ENG-Premier League,1920,Brighton,2020-01-21 Bournemouth-Brighton,2020-01-21,19:30:00,Matchweek 24,Tue,Away,L,1,3,Bournemouth,1.8,1.4,66,10065,Lewis Dunk,4-4-2,Kevin Friend
+ENG-Premier League,1920,Brighton,2020-02-01 West Ham-Brighton,2020-02-01,15:00:00,Matchweek 25,Sat,Away,D,3,3,West Ham,1.9,0.8,65,59952,Lewis Dunk,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Brighton,2020-02-08 Brighton-Watford,2020-02-08,17:30:00,Matchweek 26,Sat,Home,D,1,1,Watford,0.8,0.2,66,30443,Lewis Dunk,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Brighton,2020-02-22 Sheffield Utd-Brighton,2020-02-22,15:00:00,Matchweek 27,Sat,Away,D,1,1,Sheffield Utd,1.2,1.6,35,31888,Lewis Dunk,5-3-2,Graham Scott
+ENG-Premier League,1920,Brighton,2020-02-29 Brighton-Crystal Palace,2020-02-29,12:30:00,Matchweek 28,Sat,Home,L,0,1,Crystal Palace,2.2,2.5,65,30124,Lewis Dunk,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Brighton,2020-03-07 Wolves-Brighton,2020-03-07,15:00:00,Matchweek 29,Sat,Away,D,0,0,Wolves,0.3,0.8,57,31490,Lewis Dunk,4-3-3,Andre Marriner
+ENG-Premier League,1920,Brighton,2020-06-20 Brighton-Arsenal,2020-06-20,15:00:00,Matchweek 30,Sat,Home,W,2,1,Arsenal,1.0,0.8,41,,Lewis Dunk,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Brighton,2020-06-23 Leicester City-Brighton,2020-06-23,18:00:00,Matchweek 31,Tue,Away,D,0,0,Leicester City,1.1,0.6,34,,Lewis Dunk,4-2-2-2,Lee Mason
+ENG-Premier League,1920,Brighton,2020-06-30 Brighton-Manchester Utd,2020-06-30,20:15:00,Matchweek 32,Tue,Home,L,0,3,Manchester Utd,0.4,1.0,38,,Lewis Dunk,4-4-2,Andre Marriner
+ENG-Premier League,1920,Brighton,2020-07-04 Norwich City-Brighton,2020-07-04,12:30:00,Matchweek 33,Sat,Away,W,1,0,Norwich City,1.0,0.6,42,,Lewis Dunk,4-2-2-2,Stuart Attwell
+ENG-Premier League,1920,Brighton,2020-07-08 Brighton-Liverpool,2020-07-08,20:15:00,Matchweek 34,Wed,Home,L,1,3,Liverpool,2.4,2.5,44,,Lewis Dunk,4-3-1-2,Craig Pawson
+ENG-Premier League,1920,Brighton,2020-07-11 Brighton-Manchester City,2020-07-11,20:00:00,Matchweek 35,Sat,Home,L,0,5,Manchester City,0.2,4.4,30,,Lewis Dunk,4-4-1-1,Graham Scott
+ENG-Premier League,1920,Brighton,2020-07-16 Southampton-Brighton,2020-07-16,20:15:00,Matchweek 36,Thu,Away,D,1,1,Southampton,0.7,2.5,33,,Lewis Dunk,3-4-1-2,Andre Marriner
+ENG-Premier League,1920,Brighton,2020-07-20 Brighton-Newcastle Utd,2020-07-20,18:00:00,Matchweek 37,Mon,Home,D,0,0,Newcastle Utd,0.8,0.9,61,,Lewis Dunk,4-2-3-1,Simon Hooper
+ENG-Premier League,1920,Brighton,2020-07-26 Burnley-Brighton,2020-07-26,16:00:00,Matchweek 38,Sun,Away,W,2,1,Burnley,1.2,1.7,45,,Lewis Dunk,3-4-1-2,Jonathan Moss
+ENG-Premier League,1920,Burnley,2019-08-10 Burnley-Southampton,2019-08-10,15:00:00,Matchweek 1,Sat,Home,W,3,0,Southampton,0.9,1.2,47,19784,Ben Mee,4-4-2,Graham Scott
+ENG-Premier League,1920,Burnley,2019-08-17 Arsenal-Burnley,2019-08-17,12:30:00,Matchweek 2,Sat,Away,L,1,2,Arsenal,1.5,0.8,33,60214,Ben Mee,4-4-2,Mike Dean
+ENG-Premier League,1920,Burnley,2019-08-25 Wolves-Burnley,2019-08-25,16:30:00,Matchweek 3,Sun,Away,D,1,1,Wolves,1.6,1.5,35,30522,Ben Mee,4-4-2,Craig Pawson
+ENG-Premier League,1920,Burnley,2019-08-31 Burnley-Liverpool,2019-08-31,17:30:00,Matchweek 4,Sat,Home,L,0,3,Liverpool,0.9,1.0,37,21762,Ben Mee,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Burnley,2019-09-14 Brighton-Burnley,2019-09-14,15:00:00,Matchweek 5,Sat,Away,D,1,1,Brighton,0.4,1.4,38,29398,Ben Mee,4-4-2,Michael Oliver
+ENG-Premier League,1920,Burnley,2019-09-21 Burnley-Norwich City,2019-09-21,15:00:00,Matchweek 6,Sat,Home,W,2,0,Norwich City,2.0,0.8,42,19712,Ben Mee,4-4-2,David Coote
+ENG-Premier League,1920,Burnley,2019-09-28 Aston Villa-Burnley,2019-09-28,15:00:00,Matchweek 7,Sat,Away,D,2,2,Aston Villa,1.5,1.0,40,41546,Ben Mee,4-4-2,Lee Mason
+ENG-Premier League,1920,Burnley,2019-10-05 Burnley-Everton,2019-10-05,15:00:00,Matchweek 8,Sat,Home,W,1,0,Everton,0.6,1.3,42,20650,Ben Mee,4-4-2,Graham Scott
+ENG-Premier League,1920,Burnley,2019-10-19 Leicester City-Burnley,2019-10-19,15:00:00,Matchweek 9,Sat,Away,L,1,2,Leicester City,1.5,1.0,37,32105,Ben Mee,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Burnley,2019-10-26 Burnley-Chelsea,2019-10-26,17:30:00,Matchweek 10,Sat,Home,L,2,4,Chelsea,2.1,0.9,37,20975,Ben Mee,4-4-2,Michael Oliver
+ENG-Premier League,1920,Burnley,2019-11-02 Sheffield Utd-Burnley,2019-11-02,15:00:00,Matchweek 11,Sat,Away,L,0,3,Sheffield Utd,0.8,2.3,55,31131,Ben Mee,4-4-2,Simon Hooper
+ENG-Premier League,1920,Burnley,2019-11-09 Burnley-West Ham,2019-11-09,15:00:00,Matchweek 12,Sat,Home,W,3,0,West Ham,2.1,0.5,41,20255,Ben Mee,4-4-2,Kevin Friend
+ENG-Premier League,1920,Burnley,2019-11-23 Watford-Burnley,2019-11-23,15:00:00,Matchweek 13,Sat,Away,W,3,0,Watford,1.9,1.0,38,19711,Ben Mee,4-4-2,Paul Tierney
+ENG-Premier League,1920,Burnley,2019-11-30 Burnley-Crystal Palace,2019-11-30,15:00:00,Matchweek 14,Sat,Home,L,0,2,Crystal Palace,1.9,0.7,44,19818,Ben Mee,4-4-2,Peter Bankes
+ENG-Premier League,1920,Burnley,2019-12-03 Burnley-Manchester City,2019-12-03,20:15:00,Matchweek 15,Tue,Home,L,1,4,Manchester City,0.6,2.2,25,20101,Ben Mee,4-4-1-1,Jonathan Moss
+ENG-Premier League,1920,Burnley,2019-12-07 Tottenham-Burnley,2019-12-07,15:00:00,Matchweek 16,Sat,Away,L,0,5,Tottenham,0.9,2.6,51,58401,Ben Mee,4-4-2,Kevin Friend
+ENG-Premier League,1920,Burnley,2019-12-14 Burnley-Newcastle Utd,2019-12-14,15:00:00,Matchweek 17,Sat,Home,W,1,0,Newcastle Utd,1.4,1.0,48,19798,Ben Mee,4-4-2,Tim Robinson
+ENG-Premier League,1920,Burnley,2019-12-21 Bournemouth-Burnley,2019-12-21,15:00:00,Matchweek 18,Sat,Away,W,1,0,Bournemouth,0.2,0.1,37,10020,Ben Mee,4-4-2,Martin Atkinson
+ENG-Premier League,1920,Burnley,2019-12-26 Everton-Burnley,2019-12-26,15:00:00,Matchweek 19,Thu,Away,L,0,1,Everton,0.3,1.4,33,39177,Ben Mee,4-4-2,Anthony Taylor
+ENG-Premier League,1920,Burnley,2019-12-28 Burnley-Manchester Utd,2019-12-28,19:45:00,Matchweek 20,Sat,Home,L,0,2,Manchester Utd,0.5,2.2,39,21924,Ben Mee,4-4-2,Mike Dean
+ENG-Premier League,1920,Burnley,2020-01-01 Burnley-Aston Villa,2020-01-01,12:30:00,Matchweek 21,Wed,Home,L,1,2,Aston Villa,2.2,1.3,62,19561,Ben Mee,4-4-2,Michael Oliver
+ENG-Premier League,1920,Burnley,2020-01-11 Chelsea-Burnley,2020-01-11,15:00:00,Matchweek 22,Sat,Away,L,0,3,Chelsea,0.8,2.7,35,40396,Ben Mee,4-4-1-1,Kevin Friend
+ENG-Premier League,1920,Burnley,2020-01-19 Burnley-Leicester City,2020-01-19,14:00:00,Matchweek 23,Sun,Home,W,2,1,Leicester City,1.4,2.5,45,19788,Ben Mee,4-4-2,Anthony Taylor
+ENG-Premier League,1920,Burnley,2020-01-22 Manchester Utd-Burnley,2020-01-22,20:15:00,Matchweek 24,Wed,Away,W,2,0,Manchester Utd,0.6,1.4,28,73198,Ben Mee,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Burnley,2020-02-02 Burnley-Arsenal,2020-02-02,14:00:00,Matchweek 25,Sun,Home,D,0,0,Arsenal,1.9,1.2,44,21048,Ben Mee,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Burnley,2020-02-15 Southampton-Burnley,2020-02-15,12:30:00,Matchweek 26,Sat,Away,W,2,1,Southampton,0.8,0.8,38,26302,Ben Mee,4-4-2,Simon Hooper
+ENG-Premier League,1920,Burnley,2020-02-22 Burnley-Bournemouth,2020-02-22,15:00:00,Matchweek 27,Sat,Home,W,3,0,Bournemouth,3.2,1.8,42,18227,Ben Mee,4-4-2,Mike Dean
+ENG-Premier League,1920,Burnley,2020-02-29 Newcastle Utd-Burnley,2020-02-29,15:00:00,Matchweek 28,Sat,Away,D,0,0,Newcastle Utd,0.7,1.1,46,52219,Ben Mee,4-4-2,Andy Madley
+ENG-Premier League,1920,Burnley,2020-03-07 Burnley-Tottenham,2020-03-07,17:30:00,Matchweek 29,Sat,Home,D,1,1,Tottenham,3.0,1.2,46,20496,Ben Mee,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Burnley,2020-06-22 Manchester City-Burnley,2020-06-22,20:00:00,Matchweek 30,Mon,Away,L,0,5,Manchester City,0.0,2.4,29,,Ben Mee,4-4-2,Andre Marriner
+ENG-Premier League,1920,Burnley,2020-06-25 Burnley-Watford,2020-06-25,18:00:00,Matchweek 31,Thu,Home,W,1,0,Watford,0.9,0.7,54,,Ben Mee,4-4-2,Mike Dean
+ENG-Premier League,1920,Burnley,2020-06-29 Crystal Palace-Burnley,2020-06-29,20:00:00,Matchweek 32,Mon,Away,W,1,0,Crystal Palace,0.4,0.9,41,,Ben Mee,4-4-1-1,Simon Hooper
+ENG-Premier League,1920,Burnley,2020-07-05 Burnley-Sheffield Utd,2020-07-05,12:00:00,Matchweek 33,Sun,Home,D,1,1,Sheffield Utd,1.3,1.1,48,,James Tarkowski,4-4-2,Peter Bankes
+ENG-Premier League,1920,Burnley,2020-07-08 West Ham-Burnley,2020-07-08,18:00:00,Matchweek 34,Wed,Away,W,1,0,West Ham,0.9,1.6,47,,James Tarkowski,4-4-2,Michael Oliver
+ENG-Premier League,1920,Burnley,2020-07-11 Liverpool-Burnley,2020-07-11,15:00:00,Matchweek 35,Sat,Away,D,1,1,Liverpool,0.4,1.7,29,,James Tarkowski,4-4-2,David Coote
+ENG-Premier League,1920,Burnley,2020-07-15 Burnley-Wolves,2020-07-15,18:00:00,Matchweek 36,Wed,Home,D,1,1,Wolves,1.9,1.2,47,,James Tarkowski,4-4-2,Mike Dean
+ENG-Premier League,1920,Burnley,2020-07-18 Norwich City-Burnley,2020-07-18,17:30:00,Matchweek 37,Sat,Away,W,2,0,Norwich City,1.8,0.3,58,,James Tarkowski,4-4-2,Kevin Friend
+ENG-Premier League,1920,Burnley,2020-07-26 Burnley-Brighton,2020-07-26,16:00:00,Matchweek 38,Sun,Home,L,1,2,Brighton,1.7,1.2,55,,James Tarkowski,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Chelsea,2019-08-11 Manchester Utd-Chelsea,2019-08-11,16:30:00,Matchweek 1,Sun,Away,L,0,4,Manchester Utd,1.0,2.2,54,73620,César Azpilicueta,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Chelsea,2019-08-18 Chelsea-Leicester City,2019-08-18,16:30:00,Matchweek 2,Sun,Home,D,1,1,Leicester City,1.1,0.8,50,40629,César Azpilicueta,4-3-3,Oliver Langford
+ENG-Premier League,1920,Chelsea,2019-08-24 Norwich City-Chelsea,2019-08-24,12:30:00,Matchweek 3,Sat,Away,W,3,2,Norwich City,1.5,1.1,54,27032,César Azpilicueta,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Chelsea,2019-08-31 Chelsea-Sheffield Utd,2019-08-31,15:00:00,Matchweek 4,Sat,Home,D,2,2,Sheffield Utd,2.0,1.1,62,40560,César Azpilicueta,4-3-3,Stuart Attwell
+ENG-Premier League,1920,Chelsea,2019-09-14 Wolves-Chelsea,2019-09-14,15:00:00,Matchweek 5,Sat,Away,W,5,2,Wolves,2.7,1.7,54,31534,César Azpilicueta,3-4-3,Graham Scott
+ENG-Premier League,1920,Chelsea,2019-09-22 Chelsea-Liverpool,2019-09-22,16:30:00,Matchweek 6,Sun,Home,L,1,2,Liverpool,1.3,0.6,55,40638,César Azpilicueta,4-3-3,Michael Oliver
+ENG-Premier League,1920,Chelsea,2019-09-28 Chelsea-Brighton,2019-09-28,15:00:00,Matchweek 7,Sat,Home,W,2,0,Brighton,3.7,0.6,53,40683,César Azpilicueta,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Chelsea,2019-10-06 Southampton-Chelsea,2019-10-06,14:00:00,Matchweek 8,Sun,Away,W,4,1,Southampton,1.7,1.4,57,31473,César Azpilicueta,4-3-3,Paul Tierney
+ENG-Premier League,1920,Chelsea,2019-10-19 Chelsea-Newcastle Utd,2019-10-19,15:00:00,Matchweek 9,Sat,Home,W,1,0,Newcastle Utd,2.0,0.4,71,40513,César Azpilicueta,4-3-3,Andre Marriner
+ENG-Premier League,1920,Chelsea,2019-10-26 Burnley-Chelsea,2019-10-26,17:30:00,Matchweek 10,Sat,Away,W,4,2,Burnley,0.9,2.1,63,20975,César Azpilicueta,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Chelsea,2019-11-02 Watford-Chelsea,2019-11-02,17:30:00,Matchweek 11,Sat,Away,W,2,1,Watford,2.1,1.3,67,21011,César Azpilicueta,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Chelsea,2019-11-09 Chelsea-Crystal Palace,2019-11-09,12:30:00,Matchweek 12,Sat,Home,W,2,0,Crystal Palace,3.6,0.2,60,40525,Willian,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Chelsea,2019-11-23 Manchester City-Chelsea,2019-11-23,17:30:00,Matchweek 13,Sat,Away,L,1,2,Manchester City,0.9,1.0,53,54486,César Azpilicueta,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Chelsea,2019-11-30 Chelsea-West Ham,2019-11-30,15:00:00,Matchweek 14,Sat,Home,L,0,1,West Ham,2.3,0.9,66,40595,Jorginho,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Chelsea,2019-12-04 Chelsea-Aston Villa,2019-12-04,19:30:00,Matchweek 15,Wed,Home,W,2,1,Aston Villa,1.8,1.0,64,40628,César Azpilicueta,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Chelsea,2019-12-07 Everton-Chelsea,2019-12-07,12:30:00,Matchweek 16,Sat,Away,L,1,3,Everton,1.1,1.8,69,39114,César Azpilicueta,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Chelsea,2019-12-14 Chelsea-Bournemouth,2019-12-14,15:00:00,Matchweek 17,Sat,Home,L,0,1,Bournemouth,2.1,1.0,66,40243,César Azpilicueta,4-3-3,Graham Scott
+ENG-Premier League,1920,Chelsea,2019-12-22 Tottenham-Chelsea,2019-12-22,16:30:00,Matchweek 18,Sun,Away,W,2,0,Tottenham,1.3,0.3,55,61104,César Azpilicueta,3-4-3,Anthony Taylor
+ENG-Premier League,1920,Chelsea,2019-12-26 Chelsea-Southampton,2019-12-26,15:00:00,Matchweek 19,Thu,Home,L,0,2,Southampton,0.7,1.1,66,40651,César Azpilicueta,3-4-3,Jonathan Moss
+ENG-Premier League,1920,Chelsea,2019-12-29 Arsenal-Chelsea,2019-12-29,14:00:00,Matchweek 20,Sun,Away,W,2,1,Arsenal,1.4,0.5,58,60309,César Azpilicueta,3-4-3,Craig Pawson
+ENG-Premier League,1920,Chelsea,2020-01-01 Brighton-Chelsea,2020-01-01,12:30:00,Matchweek 21,Wed,Away,D,1,1,Brighton,1.3,1.3,52,30559,César Azpilicueta,4-3-3,Stuart Attwell
+ENG-Premier League,1920,Chelsea,2020-01-11 Chelsea-Burnley,2020-01-11,15:00:00,Matchweek 22,Sat,Home,W,3,0,Burnley,2.7,0.8,65,40396,César Azpilicueta,4-3-3,Kevin Friend
+ENG-Premier League,1920,Chelsea,2020-01-18 Newcastle Utd-Chelsea,2020-01-18,17:30:00,Matchweek 23,Sat,Away,L,0,1,Newcastle Utd,2.4,0.6,69,52217,César Azpilicueta,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Chelsea,2020-01-21 Chelsea-Arsenal,2020-01-21,20:15:00,Matchweek 24,Tue,Home,D,2,2,Arsenal,2.9,0.4,58,40577,César Azpilicueta,4-3-3,Stuart Attwell
+ENG-Premier League,1920,Chelsea,2020-02-01 Leicester City-Chelsea,2020-02-01,12:30:00,Matchweek 25,Sat,Away,D,2,2,Leicester City,0.6,1.4,51,32186,César Azpilicueta,4-2-3-1,Lee Mason
+ENG-Premier League,1920,Chelsea,2020-02-17 Chelsea-Manchester Utd,2020-02-17,20:00:00,Matchweek 26,Mon,Home,L,0,2,Manchester Utd,0.9,0.6,61,40504,César Azpilicueta,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Chelsea,2020-02-22 Chelsea-Tottenham,2020-02-22,12:30:00,Matchweek 27,Sat,Home,W,2,1,Tottenham,1.7,0.2,49,40608,César Azpilicueta,3-4-3,Michael Oliver
+ENG-Premier League,1920,Chelsea,2020-02-29 Bournemouth-Chelsea,2020-02-29,15:00:00,Matchweek 28,Sat,Away,D,2,2,Bournemouth,1.9,1.4,73,10667,César Azpilicueta,3-4-3,Andre Marriner
+ENG-Premier League,1920,Chelsea,2020-03-08 Chelsea-Everton,2020-03-08,14:00:00,Matchweek 29,Sun,Home,W,4,0,Everton,1.8,0.5,60,40694,César Azpilicueta,4-3-3,Kevin Friend
+ENG-Premier League,1920,Chelsea,2020-06-21 Aston Villa-Chelsea,2020-06-21,16:15:00,Matchweek 30,Sun,Away,W,2,1,Aston Villa,1.1,1.0,73,,César Azpilicueta,4-3-3,Paul Tierney
+ENG-Premier League,1920,Chelsea,2020-06-25 Chelsea-Manchester City,2020-06-25,20:15:00,Matchweek 31,Thu,Home,W,2,1,Manchester City,3.2,0.8,35,,César Azpilicueta,4-3-3,Stuart Attwell
+ENG-Premier League,1920,Chelsea,2020-07-01 West Ham-Chelsea,2020-07-01,20:15:00,Matchweek 32,Wed,Away,L,2,3,West Ham,1.6,2.2,71,,César Azpilicueta,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Chelsea,2020-07-04 Chelsea-Watford,2020-07-04,20:00:00,Matchweek 33,Sat,Home,W,3,0,Watford,2.5,0.6,70,,César Azpilicueta,4-3-3,Kevin Friend
+ENG-Premier League,1920,Chelsea,2020-07-07 Crystal Palace-Chelsea,2020-07-07,18:00:00,Matchweek 34,Tue,Away,W,3,2,Crystal Palace,1.9,1.5,57,,César Azpilicueta,4-3-3,David Coote
+ENG-Premier League,1920,Chelsea,2020-07-11 Sheffield Utd-Chelsea,2020-07-11,17:30:00,Matchweek 35,Sat,Away,L,0,3,Sheffield Utd,1.2,2.3,76,,César Azpilicueta,4-3-3,Andre Marriner
+ENG-Premier League,1920,Chelsea,2020-07-14 Chelsea-Norwich City,2020-07-14,20:15:00,Matchweek 36,Tue,Home,W,1,0,Norwich City,2.5,0.1,67,,César Azpilicueta,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Chelsea,2020-07-22 Liverpool-Chelsea,2020-07-22,20:15:00,Matchweek 37,Wed,Away,L,3,5,Liverpool,2.4,1.7,50,,César Azpilicueta,3-4-3,Andre Marriner
+ENG-Premier League,1920,Chelsea,2020-07-26 Chelsea-Wolves,2020-07-26,16:00:00,Matchweek 38,Sun,Home,W,2,0,Wolves,1.4,0.2,62,,César Azpilicueta,3-4-3,Stuart Attwell
+ENG-Premier League,1920,Crystal Palace,2019-08-10 Crystal Palace-Everton,2019-08-10,15:00:00,Matchweek 1,Sat,Home,D,0,0,Everton,0.9,1.1,36,25151,Luka Milivojević,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Crystal Palace,2019-08-18 Sheffield Utd-Crystal Palace,2019-08-18,14:00:00,Matchweek 2,Sun,Away,L,0,1,Sheffield Utd,0.3,2.2,57,30197,Luka Milivojević,4-4-2,David Coote
+ENG-Premier League,1920,Crystal Palace,2019-08-24 Manchester Utd-Crystal Palace,2019-08-24,15:00:00,Matchweek 3,Sat,Away,W,2,1,Manchester Utd,1.1,2.5,29,73454,Luka Milivojević,4-5-1,Paul Tierney
+ENG-Premier League,1920,Crystal Palace,2019-08-31 Crystal Palace-Aston Villa,2019-08-31,15:00:00,Matchweek 4,Sat,Home,W,1,0,Aston Villa,1.4,0.4,52,25248,Luka Milivojević,4-3-3,Kevin Friend
+ENG-Premier League,1920,Crystal Palace,2019-09-14 Tottenham-Crystal Palace,2019-09-14,15:00:00,Matchweek 5,Sat,Away,L,0,4,Tottenham,0.6,1.0,36,59812,Luka Milivojević,4-5-1,Craig Pawson
+ENG-Premier League,1920,Crystal Palace,2019-09-22 Crystal Palace-Wolves,2019-09-22,14:00:00,Matchweek 6,Sun,Home,D,1,1,Wolves,0.9,1.5,51,25122,Luka Milivojević,4-5-1,Stuart Attwell
+ENG-Premier League,1920,Crystal Palace,2019-09-28 Crystal Palace-Norwich City,2019-09-28,15:00:00,Matchweek 7,Sat,Home,W,2,0,Norwich City,1.5,0.7,45,25477,Luka Milivojević,4-5-1,Jonathan Moss
+ENG-Premier League,1920,Crystal Palace,2019-10-05 West Ham-Crystal Palace,2019-10-05,17:30:00,Matchweek 8,Sat,Away,W,2,1,West Ham,2.1,1.4,48,59912,Gary Cahill,4-5-1,Michael Oliver
+ENG-Premier League,1920,Crystal Palace,2019-10-19 Crystal Palace-Manchester City,2019-10-19,17:30:00,Matchweek 9,Sat,Home,L,0,2,Manchester City,0.9,3.5,29,25480,Luka Milivojević,4-5-1,Anthony Taylor
+ENG-Premier League,1920,Crystal Palace,2019-10-27 Arsenal-Crystal Palace,2019-10-27,16:30:00,Matchweek 10,Sun,Away,D,2,2,Arsenal,1.6,1.3,44,60345,Luka Milivojević,4-5-1,Martin Atkinson
+ENG-Premier League,1920,Crystal Palace,2019-11-03 Crystal Palace-Leicester City,2019-11-03,14:00:00,Matchweek 11,Sun,Home,L,0,2,Leicester City,0.5,1.1,45,25480,Luka Milivojević,4-5-1,Paul Tierney
+ENG-Premier League,1920,Crystal Palace,2019-11-09 Chelsea-Crystal Palace,2019-11-09,12:30:00,Matchweek 12,Sat,Away,L,0,2,Chelsea,0.2,3.6,40,40525,Luka Milivojević,4-5-1,Mike Dean
+ENG-Premier League,1920,Crystal Palace,2019-11-23 Crystal Palace-Liverpool,2019-11-23,15:00:00,Matchweek 13,Sat,Home,L,1,2,Liverpool,1.0,1.4,40,25486,Luka Milivojević,4-5-1,Kevin Friend
+ENG-Premier League,1920,Crystal Palace,2019-11-30 Burnley-Crystal Palace,2019-11-30,15:00:00,Matchweek 14,Sat,Away,W,2,0,Burnley,0.7,1.9,56,19818,Luka Milivojević,4-5-1,Peter Bankes
+ENG-Premier League,1920,Crystal Palace,2019-12-03 Crystal Palace-Bournemouth,2019-12-03,19:30:00,Matchweek 15,Tue,Home,W,1,0,Bournemouth,0.3,0.4,32,23497,Luka Milivojević,4-5-1,Anthony Taylor
+ENG-Premier League,1920,Crystal Palace,2019-12-07 Watford-Crystal Palace,2019-12-07,15:00:00,Matchweek 16,Sat,Away,D,0,0,Watford,0.2,1.4,49,20070,Luka Milivojević,4-5-1,Martin Atkinson
+ENG-Premier League,1920,Crystal Palace,2019-12-16 Crystal Palace-Brighton,2019-12-16,19:45:00,Matchweek 17,Mon,Home,D,1,1,Brighton,0.7,2.3,35,24175,Luka Milivojević,4-3-3,Craig Pawson
+ENG-Premier League,1920,Crystal Palace,2019-12-21 Newcastle Utd-Crystal Palace,2019-12-21,15:00:00,Matchweek 18,Sat,Away,L,0,1,Newcastle Utd,1.3,0.5,57,45453,Luka Milivojević,4-3-3,Simon Hooper
+ENG-Premier League,1920,Crystal Palace,2019-12-26 Crystal Palace-West Ham,2019-12-26,15:00:00,Matchweek 19,Thu,Home,W,2,1,West Ham,2.7,0.9,58,25462,Luka Milivojević,4-5-1,Andre Marriner
+ENG-Premier League,1920,Crystal Palace,2019-12-28 Southampton-Crystal Palace,2019-12-28,15:00:00,Matchweek 20,Sat,Away,D,1,1,Southampton,0.3,1.4,41,31108,Luka Milivojević,4-5-1,Andy Madley
+ENG-Premier League,1920,Crystal Palace,2020-01-01 Norwich City-Crystal Palace,2020-01-01,17:30:00,Matchweek 21,Wed,Away,D,1,1,Norwich City,1.3,1.4,59,27021,Luka Milivojević,4-5-1,Jonathan Moss
+ENG-Premier League,1920,Crystal Palace,2020-01-11 Crystal Palace-Arsenal,2020-01-11,12:30:00,Matchweek 22,Sat,Home,D,1,1,Arsenal,0.6,1.4,43,25468,James Tomkins,4-5-1,Paul Tierney
+ENG-Premier League,1920,Crystal Palace,2020-01-18 Manchester City-Crystal Palace,2020-01-18,15:00:00,Matchweek 23,Sat,Away,D,2,2,Manchester City,0.4,2.6,28,54439,James Tomkins,4-5-1,Graham Scott
+ENG-Premier League,1920,Crystal Palace,2020-01-21 Crystal Palace-Southampton,2020-01-21,19:30:00,Matchweek 24,Tue,Home,L,0,2,Southampton,0.6,1.1,45,23739,James Tomkins,4-5-1,Andre Marriner
+ENG-Premier League,1920,Crystal Palace,2020-02-01 Crystal Palace-Sheffield Utd,2020-02-01,15:00:00,Matchweek 25,Sat,Home,L,0,1,Sheffield Utd,0.8,0.7,61,25170,Luka Milivojević,4-5-1,Andy Madley
+ENG-Premier League,1920,Crystal Palace,2020-02-08 Everton-Crystal Palace,2020-02-08,12:30:00,Matchweek 26,Sat,Away,L,1,3,Everton,1.1,2.5,53,38987,Luka Milivojević,4-1-4-1,David Coote
+ENG-Premier League,1920,Crystal Palace,2020-02-22 Crystal Palace-Newcastle Utd,2020-02-22,15:00:00,Matchweek 27,Sat,Home,W,1,0,Newcastle Utd,1.6,0.2,45,25486,Gary Cahill,4-3-3,Peter Bankes
+ENG-Premier League,1920,Crystal Palace,2020-02-29 Brighton-Crystal Palace,2020-02-29,12:30:00,Matchweek 28,Sat,Away,W,1,0,Brighton,2.5,2.2,35,30124,Gary Cahill,4-1-4-1,Martin Atkinson
+ENG-Premier League,1920,Crystal Palace,2020-03-07 Crystal Palace-Watford,2020-03-07,15:00:00,Matchweek 29,Sat,Home,W,1,0,Watford,0.8,0.6,44,25461,Gary Cahill,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Crystal Palace,2020-06-20 Bournemouth-Crystal Palace,2020-06-20,19:45:00,Matchweek 30,Sat,Away,W,2,0,Bournemouth,0.8,0.5,42,,Luka Milivojević,4-3-3,Stuart Attwell
+ENG-Premier League,1920,Crystal Palace,2020-06-24 Liverpool-Crystal Palace,2020-06-24,20:15:00,Matchweek 31,Wed,Away,L,0,4,Liverpool,0.1,2.4,27,,Gary Cahill,4-1-4-1,Martin Atkinson
+ENG-Premier League,1920,Crystal Palace,2020-06-29 Crystal Palace-Burnley,2020-06-29,20:00:00,Matchweek 32,Mon,Home,L,0,1,Burnley,0.9,0.4,59,,Luka Milivojević,4-5-1,Simon Hooper
+ENG-Premier League,1920,Crystal Palace,2020-07-04 Leicester City-Crystal Palace,2020-07-04,15:00:00,Matchweek 33,Sat,Away,L,0,3,Leicester City,0.8,2.8,48,,Luka Milivojević,4-5-1,Jonathan Moss
+ENG-Premier League,1920,Crystal Palace,2020-07-07 Crystal Palace-Chelsea,2020-07-07,18:00:00,Matchweek 34,Tue,Home,L,2,3,Chelsea,1.5,1.9,43,,Luka Milivojević,4-5-1,David Coote
+ENG-Premier League,1920,Crystal Palace,2020-07-12 Aston Villa-Crystal Palace,2020-07-12,14:15:00,Matchweek 35,Sun,Away,L,0,2,Aston Villa,1.2,1.7,55,,Luka Milivojević,4-1-4-1,Martin Atkinson
+ENG-Premier League,1920,Crystal Palace,2020-07-16 Crystal Palace-Manchester Utd,2020-07-16,20:15:00,Matchweek 36,Thu,Home,L,0,2,Manchester Utd,0.6,2.2,41,,Luka Milivojević,4-4-2,Graham Scott
+ENG-Premier League,1920,Crystal Palace,2020-07-20 Wolves-Crystal Palace,2020-07-20,20:15:00,Matchweek 37,Mon,Away,L,0,2,Wolves,0.4,1.5,47,,Scott Dann,4-4-2,Peter Bankes
+ENG-Premier League,1920,Crystal Palace,2020-07-26 Crystal Palace-Tottenham,2020-07-26,16:00:00,Matchweek 38,Sun,Home,D,1,1,Tottenham,0.8,0.3,48,,Scott Dann,4-4-2,Andre Marriner
+ENG-Premier League,1920,Everton,2019-08-10 Crystal Palace-Everton,2019-08-10,15:00:00,Matchweek 1,Sat,Away,D,0,0,Crystal Palace,1.1,0.9,64,25151,Séamus Coleman,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Everton,2019-08-17 Everton-Watford,2019-08-17,15:00:00,Matchweek 2,Sat,Home,W,1,0,Watford,0.7,1.2,44,39066,Séamus Coleman,4-2-3-1,Lee Mason
+ENG-Premier League,1920,Everton,2019-08-23 Aston Villa-Everton,2019-08-23,20:00:00,Matchweek 3,Fri,Away,L,0,2,Aston Villa,1.3,1.0,64,41922,Séamus Coleman,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Everton,2019-09-01 Everton-Wolves,2019-09-01,14:00:00,Matchweek 4,Sun,Home,W,3,2,Wolves,1.3,2.0,58,39374,Séamus Coleman,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Everton,2019-09-15 Bournemouth-Everton,2019-09-15,14:00:00,Matchweek 5,Sun,Away,L,1,3,Bournemouth,1.5,1.4,59,10416,Séamus Coleman,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Everton,2019-09-21 Everton-Sheffield Utd,2019-09-21,15:00:00,Matchweek 6,Sat,Home,L,0,2,Sheffield Utd,1.0,0.5,69,39354,Séamus Coleman,4-2-3-1,Simon Hooper
+ENG-Premier League,1920,Everton,2019-09-28 Everton-Manchester City,2019-09-28,17:30:00,Matchweek 7,Sat,Home,L,1,3,Manchester City,2.4,2.8,37,39222,Séamus Coleman,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Everton,2019-10-05 Burnley-Everton,2019-10-05,15:00:00,Matchweek 8,Sat,Away,L,0,1,Burnley,1.3,0.6,58,20650,Séamus Coleman,4-2-3-1,Graham Scott
+ENG-Premier League,1920,Everton,2019-10-19 Everton-West Ham,2019-10-19,12:30:00,Matchweek 9,Sat,Home,W,2,0,West Ham,2.1,0.8,51,39263,Lucas Digne,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Everton,2019-10-26 Brighton-Everton,2019-10-26,15:00:00,Matchweek 10,Sat,Away,L,2,3,Brighton,0.9,1.2,45,30529,Lucas Digne,4-2-3-1,Andy Madley
+ENG-Premier League,1920,Everton,2019-11-03 Everton-Tottenham,2019-11-03,16:30:00,Matchweek 11,Sun,Home,D,1,1,Tottenham,1.1,0.6,47,39001,Lucas Digne,4-1-4-1,Martin Atkinson
+ENG-Premier League,1920,Everton,2019-11-09 Southampton-Everton,2019-11-09,15:00:00,Matchweek 12,Sat,Away,W,2,1,Southampton,1.8,0.9,53,29754,Gylfi Sigurðsson,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Everton,2019-11-23 Everton-Norwich City,2019-11-23,15:00:00,Matchweek 13,Sat,Home,L,0,2,Norwich City,0.9,1.7,57,39241,Gylfi Sigurðsson,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Everton,2019-12-01 Leicester City-Everton,2019-12-01,16:30:00,Matchweek 14,Sun,Away,L,1,2,Leicester City,1.1,2.2,32,32144,Gylfi Sigurðsson,3-4-3,Graham Scott
+ENG-Premier League,1920,Everton,2019-12-04 Liverpool-Everton,2019-12-04,20:15:00,Matchweek 15,Wed,Away,L,2,5,Liverpool,1.5,2.0,42,53094,Gylfi Sigurðsson,5-4-1,Mike Dean
+ENG-Premier League,1920,Everton,2019-12-07 Everton-Chelsea,2019-12-07,12:30:00,Matchweek 16,Sat,Home,W,3,1,Chelsea,1.8,1.1,31,39114,Gylfi Sigurðsson,4-4-2,Craig Pawson
+ENG-Premier League,1920,Everton,2019-12-15 Manchester Utd-Everton,2019-12-15,14:00:00,Matchweek 17,Sun,Away,D,1,1,Manchester Utd,0.3,1.4,34,63328,Séamus Coleman,4-4-2,Michael Oliver
+ENG-Premier League,1920,Everton,2019-12-21 Everton-Arsenal,2019-12-21,12:30:00,Matchweek 18,Sat,Home,D,0,0,Arsenal,0.5,0.6,43,39336,Gylfi Sigurðsson,4-4-2,Kevin Friend
+ENG-Premier League,1920,Everton,2019-12-26 Everton-Burnley,2019-12-26,15:00:00,Matchweek 19,Thu,Home,W,1,0,Burnley,1.4,0.3,67,39177,Séamus Coleman,3-4-1-2,Anthony Taylor
+ENG-Premier League,1920,Everton,2019-12-28 Newcastle Utd-Everton,2019-12-28,15:00:00,Matchweek 20,Sat,Away,W,2,1,Newcastle Utd,2.9,1.8,57,52211,Leighton Baines,4-4-2,Lee Mason
+ENG-Premier League,1920,Everton,2020-01-01 Manchester City-Everton,2020-01-01,17:30:00,Matchweek 21,Wed,Away,L,1,2,Manchester City,1.0,1.5,35,54407,Séamus Coleman,3-5-2,Andre Marriner
+ENG-Premier League,1920,Everton,2020-01-11 Everton-Brighton,2020-01-11,15:00:00,Matchweek 22,Sat,Home,W,1,0,Brighton,1.7,1.3,53,38772,Gylfi Sigurðsson,4-4-2,David Coote
+ENG-Premier League,1920,Everton,2020-01-18 West Ham-Everton,2020-01-18,15:00:00,Matchweek 23,Sat,Away,D,1,1,West Ham,1.7,1.3,50,59915,Séamus Coleman,4-4-2,Andre Marriner
+ENG-Premier League,1920,Everton,2020-01-21 Everton-Newcastle Utd,2020-01-21,19:30:00,Matchweek 24,Tue,Home,D,2,2,Newcastle Utd,1.8,1.3,55,38822,Lucas Digne,4-4-2,Simon Hooper
+ENG-Premier League,1920,Everton,2020-02-01 Watford-Everton,2020-02-01,15:00:00,Matchweek 25,Sat,Away,W,3,2,Watford,2.2,0.9,55,21229,Gylfi Sigurðsson,4-4-2,Craig Pawson
+ENG-Premier League,1920,Everton,2020-02-08 Everton-Crystal Palace,2020-02-08,12:30:00,Matchweek 26,Sat,Home,W,3,1,Crystal Palace,2.5,1.1,47,38987,Séamus Coleman,4-4-2,David Coote
+ENG-Premier League,1920,Everton,2020-02-23 Arsenal-Everton,2020-02-23,16:30:00,Matchweek 27,Sun,Away,L,2,3,Arsenal,2.7,1.3,49,60296,Leighton Baines,4-4-2,Stuart Attwell
+ENG-Premier League,1920,Everton,2020-03-01 Everton-Manchester Utd,2020-03-01,14:00:00,Matchweek 28,Sun,Home,D,1,1,Manchester Utd,2.1,1.1,44,39374,Séamus Coleman,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Everton,2020-03-08 Chelsea-Everton,2020-03-08,14:00:00,Matchweek 29,Sun,Away,L,0,4,Chelsea,0.5,1.8,40,40694,Gylfi Sigurðsson,4-4-2,Kevin Friend
+ENG-Premier League,1920,Everton,2020-06-21 Everton-Liverpool,2020-06-21,19:00:00,Matchweek 30,Sun,Home,D,0,0,Liverpool,0.9,0.7,31,,Séamus Coleman,4-4-2,Mike Dean
+ENG-Premier League,1920,Everton,2020-06-24 Norwich City-Everton,2020-06-24,18:00:00,Matchweek 31,Wed,Away,W,1,0,Norwich City,0.8,0.4,53,,Séamus Coleman,4-4-2,Andy Madley
+ENG-Premier League,1920,Everton,2020-07-01 Everton-Leicester City,2020-07-01,18:00:00,Matchweek 32,Wed,Home,W,2,1,Leicester City,1.2,1.8,35,,Séamus Coleman,4-4-2,David Coote
+ENG-Premier League,1920,Everton,2020-07-06 Tottenham-Everton,2020-07-06,20:00:00,Matchweek 33,Mon,Away,L,0,1,Tottenham,0.5,0.5,48,,Séamus Coleman,4-4-2,Graham Scott
+ENG-Premier League,1920,Everton,2020-07-09 Everton-Southampton,2020-07-09,18:00:00,Matchweek 34,Thu,Home,D,1,1,Southampton,1.0,2.4,39,,Séamus Coleman,4-4-2,Lee Mason
+ENG-Premier League,1920,Everton,2020-07-12 Wolves-Everton,2020-07-12,12:00:00,Matchweek 35,Sun,Away,L,0,3,Wolves,0.3,2.6,45,,Leighton Baines,3-5-2,Anthony Taylor
+ENG-Premier League,1920,Everton,2020-07-16 Everton-Aston Villa,2020-07-16,18:00:00,Matchweek 36,Thu,Home,D,1,1,Aston Villa,0.9,1.3,54,,Séamus Coleman,4-4-2,Anthony Taylor
+ENG-Premier League,1920,Everton,2020-07-20 Sheffield Utd-Everton,2020-07-20,18:00:00,Matchweek 37,Mon,Away,W,1,0,Sheffield Utd,0.4,0.5,49,,Gylfi Sigurðsson,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Everton,2020-07-26 Everton-Bournemouth,2020-07-26,16:00:00,Matchweek 38,Sun,Home,L,1,3,Bournemouth,1.7,1.5,69,,Séamus Coleman,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Leicester City,2019-08-11 Leicester City-Wolves,2019-08-11,14:00:00,Matchweek 1,Sun,Home,D,0,0,Wolves,0.7,0.7,69,32015,Kasper Schmeichel,4-1-4-1,Andre Marriner
+ENG-Premier League,1920,Leicester City,2019-08-18 Chelsea-Leicester City,2019-08-18,16:30:00,Matchweek 2,Sun,Away,D,1,1,Chelsea,0.8,1.1,50,40629,Kasper Schmeichel,4-1-4-1,Oliver Langford
+ENG-Premier League,1920,Leicester City,2019-08-24 Sheffield Utd-Leicester City,2019-08-24,15:00:00,Matchweek 3,Sat,Away,W,2,1,Sheffield Utd,0.8,0.3,51,30079,Kasper Schmeichel,4-3-3,Andy Madley
+ENG-Premier League,1920,Leicester City,2019-08-31 Leicester City-Bournemouth,2019-08-31,15:00:00,Matchweek 4,Sat,Home,W,3,1,Bournemouth,2.0,0.6,55,31613,Kasper Schmeichel,4-1-4-1,Peter Bankes
+ENG-Premier League,1920,Leicester City,2019-09-14 Manchester Utd-Leicester City,2019-09-14,15:00:00,Matchweek 5,Sat,Away,L,0,1,Manchester Utd,0.6,1.2,58,73689,Kasper Schmeichel,4-1-4-1,Martin Atkinson
+ENG-Premier League,1920,Leicester City,2019-09-21 Leicester City-Tottenham,2019-09-21,12:30:00,Matchweek 6,Sat,Home,W,2,1,Tottenham,1.3,1.1,44,32129,Kasper Schmeichel,4-1-4-1,Paul Tierney
+ENG-Premier League,1920,Leicester City,2019-09-29 Leicester City-Newcastle Utd,2019-09-29,16:30:00,Matchweek 7,Sun,Home,W,5,0,Newcastle Utd,1.6,0.1,68,32168,Kasper Schmeichel,4-1-4-1,Craig Pawson
+ENG-Premier League,1920,Leicester City,2019-10-05 Liverpool-Leicester City,2019-10-05,15:00:00,Matchweek 8,Sat,Away,L,1,2,Liverpool,0.1,3.5,49,53322,Kasper Schmeichel,4-1-4-1,Chris Kavanagh
+ENG-Premier League,1920,Leicester City,2019-10-19 Leicester City-Burnley,2019-10-19,15:00:00,Matchweek 9,Sat,Home,W,2,1,Burnley,1.0,1.5,63,32105,Kasper Schmeichel,4-1-4-1,Jonathan Moss
+ENG-Premier League,1920,Leicester City,2019-10-25 Southampton-Leicester City,2019-10-25,20:00:00,Matchweek 10,Fri,Away,W,9,0,Southampton,4.6,0.3,72,28762,Kasper Schmeichel,4-1-4-1,Andre Marriner
+ENG-Premier League,1920,Leicester City,2019-11-03 Crystal Palace-Leicester City,2019-11-03,14:00:00,Matchweek 11,Sun,Away,W,2,0,Crystal Palace,1.1,0.5,55,25480,Kasper Schmeichel,4-1-4-1,Paul Tierney
+ENG-Premier League,1920,Leicester City,2019-11-09 Leicester City-Arsenal,2019-11-09,17:30:00,Matchweek 12,Sat,Home,W,2,0,Arsenal,1.2,1.0,51,32209,Kasper Schmeichel,4-1-4-1,Chris Kavanagh
+ENG-Premier League,1920,Leicester City,2019-11-23 Brighton-Leicester City,2019-11-23,15:00:00,Matchweek 13,Sat,Away,W,2,0,Brighton,3.6,0.6,47,30640,Kasper Schmeichel,4-1-4-1,Mike Dean
+ENG-Premier League,1920,Leicester City,2019-12-01 Leicester City-Everton,2019-12-01,16:30:00,Matchweek 14,Sun,Home,W,2,1,Everton,2.2,1.1,68,32144,Kasper Schmeichel,4-1-4-1,Graham Scott
+ENG-Premier League,1920,Leicester City,2019-12-04 Leicester City-Watford,2019-12-04,19:30:00,Matchweek 15,Wed,Home,W,2,0,Watford,2.4,0.2,62,31763,Kasper Schmeichel,4-1-4-1,Craig Pawson
+ENG-Premier League,1920,Leicester City,2019-12-08 Aston Villa-Leicester City,2019-12-08,14:00:00,Matchweek 16,Sun,Away,W,4,1,Aston Villa,4.6,1.2,59,41908,Kasper Schmeichel,4-1-2-1-2◆,Michael Oliver
+ENG-Premier League,1920,Leicester City,2019-12-14 Leicester City-Norwich City,2019-12-14,15:00:00,Matchweek 17,Sat,Home,D,1,1,Norwich City,1.1,1.1,57,32101,Kasper Schmeichel,4-1-2-1-2◆,Andy Madley
+ENG-Premier League,1920,Leicester City,2019-12-21 Manchester City-Leicester City,2019-12-21,17:30:00,Matchweek 18,Sat,Away,L,1,3,Manchester City,1.1,3.3,38,54415,Kasper Schmeichel,4-1-4-1,Mike Dean
+ENG-Premier League,1920,Leicester City,2019-12-26 Leicester City-Liverpool,2019-12-26,20:00:00,Matchweek 19,Thu,Home,L,0,4,Liverpool,0.1,3.2,41,32211,Kasper Schmeichel,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,Leicester City,2019-12-28 West Ham-Leicester City,2019-12-28,17:30:00,Matchweek 20,Sat,Away,W,2,1,West Ham,2.5,1.0,57,59919,Wes Morgan,4-4-1-1,David Coote
+ENG-Premier League,1920,Leicester City,2020-01-01 Newcastle Utd-Leicester City,2020-01-01,15:00:00,Matchweek 21,Wed,Away,W,3,0,Newcastle Utd,2.6,0.7,76,52178,Kasper Schmeichel,3-1-4-2,Martin Atkinson
+ENG-Premier League,1920,Leicester City,2020-01-11 Leicester City-Southampton,2020-01-11,15:00:00,Matchweek 22,Sat,Home,L,1,2,Southampton,0.7,2.1,58,32115,Kasper Schmeichel,4-1-4-1,Lee Mason
+ENG-Premier League,1920,Leicester City,2020-01-19 Burnley-Leicester City,2020-01-19,14:00:00,Matchweek 23,Sun,Away,L,1,2,Burnley,2.5,1.4,55,19788,Kasper Schmeichel,4-1-4-1,Anthony Taylor
+ENG-Premier League,1920,Leicester City,2020-01-22 Leicester City-West Ham,2020-01-22,19:30:00,Matchweek 24,Wed,Home,W,4,1,West Ham,2.8,1.6,67,31968,Kasper Schmeichel,4-1-4-1,David Coote
+ENG-Premier League,1920,Leicester City,2020-02-01 Leicester City-Chelsea,2020-02-01,12:30:00,Matchweek 25,Sat,Home,D,2,2,Chelsea,1.4,0.6,49,32186,Kasper Schmeichel,4-1-4-1,Lee Mason
+ENG-Premier League,1920,Leicester City,2020-02-14 Wolves-Leicester City,2020-02-14,20:00:00,Matchweek 26,Fri,Away,D,0,0,Wolves,0.7,1.0,58,31682,Kasper Schmeichel,4-1-4-1,Mike Dean
+ENG-Premier League,1920,Leicester City,2020-02-22 Leicester City-Manchester City,2020-02-22,17:30:00,Matchweek 27,Sat,Home,L,0,1,Manchester City,0.8,2.4,33,32068,Kasper Schmeichel,3-5-2,Paul Tierney
+ENG-Premier League,1920,Leicester City,2020-02-28 Norwich City-Leicester City,2020-02-28,20:00:00,Matchweek 28,Fri,Away,L,0,1,Norwich City,1.3,0.6,57,27010,Kasper Schmeichel,4-1-4-1,Craig Pawson
+ENG-Premier League,1920,Leicester City,2020-03-09 Leicester City-Aston Villa,2020-03-09,20:00:00,Matchweek 29,Mon,Home,W,4,0,Aston Villa,2.1,0.5,64,32125,Kasper Schmeichel,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,Leicester City,2020-06-20 Watford-Leicester City,2020-06-20,12:30:00,Matchweek 30,Sat,Away,D,1,1,Watford,1.0,1.3,67,,Kasper Schmeichel,4-1-4-1,Craig Pawson
+ENG-Premier League,1920,Leicester City,2020-06-23 Leicester City-Brighton,2020-06-23,18:00:00,Matchweek 31,Tue,Home,D,0,0,Brighton,0.6,1.1,66,,Kasper Schmeichel,4-4-2,Lee Mason
+ENG-Premier League,1920,Leicester City,2020-07-01 Everton-Leicester City,2020-07-01,18:00:00,Matchweek 32,Wed,Away,L,1,2,Everton,1.8,1.2,65,,Kasper Schmeichel,4-1-4-1,David Coote
+ENG-Premier League,1920,Leicester City,2020-07-04 Leicester City-Crystal Palace,2020-07-04,15:00:00,Matchweek 33,Sat,Home,W,3,0,Crystal Palace,2.8,0.8,52,,Kasper Schmeichel,3-4-1-2,Jonathan Moss
+ENG-Premier League,1920,Leicester City,2020-07-07 Arsenal-Leicester City,2020-07-07,20:15:00,Matchweek 34,Tue,Away,D,1,1,Arsenal,0.9,1.1,61,,Kasper Schmeichel,3-4-3,Chris Kavanagh
+ENG-Premier League,1920,Leicester City,2020-07-12 Bournemouth-Leicester City,2020-07-12,19:00:00,Matchweek 35,Sun,Away,L,1,4,Bournemouth,1.5,2.5,56,,Kasper Schmeichel,3-4-1-2,Stuart Attwell
+ENG-Premier League,1920,Leicester City,2020-07-16 Leicester City-Sheffield Utd,2020-07-16,18:00:00,Matchweek 36,Thu,Home,W,2,0,Sheffield Utd,2.6,0.7,54,,Wes Morgan,3-4-3,Michael Oliver
+ENG-Premier League,1920,Leicester City,2020-07-19 Tottenham-Leicester City,2020-07-19,16:00:00,Matchweek 37,Sun,Away,L,0,3,Tottenham,1.7,0.8,70,,Wes Morgan,3-4-3,Anthony Taylor
+ENG-Premier League,1920,Leicester City,2020-07-26 Leicester City-Manchester Utd,2020-07-26,16:00:00,Matchweek 38,Sun,Home,L,0,2,Manchester Utd,0.8,1.3,46,,Wes Morgan,3-5-2,Martin Atkinson
+ENG-Premier League,1920,Liverpool,2019-08-09 Liverpool-Norwich City,2019-08-09,20:00:00,Matchweek 1,Fri,Home,W,4,1,Norwich City,1.8,0.9,57,53333,Jordan Henderson,4-3-3,Michael Oliver
+ENG-Premier League,1920,Liverpool,2019-08-17 Southampton-Liverpool,2019-08-17,15:00:00,Matchweek 2,Sat,Away,W,2,1,Southampton,1.3,1.9,63,31712,James Milner,4-3-3,Andre Marriner
+ENG-Premier League,1920,Liverpool,2019-08-24 Liverpool-Arsenal,2019-08-24,17:30:00,Matchweek 3,Sat,Home,W,3,1,Arsenal,2.5,1.0,52,53298,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Liverpool,2019-08-31 Burnley-Liverpool,2019-08-31,17:30:00,Matchweek 4,Sat,Away,W,3,0,Burnley,1.0,0.9,63,21762,Jordan Henderson,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Liverpool,2019-09-14 Liverpool-Newcastle Utd,2019-09-14,12:30:00,Matchweek 5,Sat,Home,W,3,1,Newcastle Utd,3.0,0.3,74,51430,Virgil van Dijk,4-3-3,Andre Marriner
+ENG-Premier League,1920,Liverpool,2019-09-22 Chelsea-Liverpool,2019-09-22,16:30:00,Matchweek 6,Sun,Away,W,2,1,Chelsea,0.6,1.3,45,40638,Jordan Henderson,4-3-3,Michael Oliver
+ENG-Premier League,1920,Liverpool,2019-09-28 Sheffield Utd-Liverpool,2019-09-28,12:30:00,Matchweek 7,Sat,Away,W,1,0,Sheffield Utd,1.9,1.3,70,31774,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Liverpool,2019-10-05 Liverpool-Leicester City,2019-10-05,15:00:00,Matchweek 8,Sat,Home,W,2,1,Leicester City,3.5,0.1,51,53322,James Milner,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Liverpool,2019-10-20 Manchester Utd-Liverpool,2019-10-20,16:30:00,Matchweek 9,Sun,Away,D,1,1,Manchester Utd,1.2,0.7,66,73737,Jordan Henderson,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Liverpool,2019-10-27 Liverpool-Tottenham,2019-10-27,16:30:00,Matchweek 10,Sun,Home,W,2,1,Tottenham,2.6,1.2,67,53222,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Liverpool,2019-11-02 Aston Villa-Liverpool,2019-11-02,15:00:00,Matchweek 11,Sat,Away,W,2,1,Aston Villa,2.4,0.4,73,41878,Jordan Henderson,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Liverpool,2019-11-10 Liverpool-Manchester City,2019-11-10,16:30:00,Matchweek 12,Sun,Home,W,3,1,Manchester City,1.1,1.3,45,53324,Jordan Henderson,4-3-3,Michael Oliver
+ENG-Premier League,1920,Liverpool,2019-11-23 Crystal Palace-Liverpool,2019-11-23,15:00:00,Matchweek 13,Sat,Away,W,2,1,Crystal Palace,1.4,1.0,60,25486,Jordan Henderson,4-3-3,Kevin Friend
+ENG-Premier League,1920,Liverpool,2019-11-30 Liverpool-Brighton,2019-11-30,15:00:00,Matchweek 14,Sat,Home,W,2,1,Brighton,1.3,0.8,44,53319,Jordan Henderson,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Liverpool,2019-12-04 Liverpool-Everton,2019-12-04,20:15:00,Matchweek 15,Wed,Home,W,5,2,Everton,2.0,1.5,58,53094,James Milner,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Liverpool,2019-12-07 Bournemouth-Liverpool,2019-12-07,15:00:00,Matchweek 16,Sat,Away,W,3,0,Bournemouth,2.4,0.1,73,10832,Jordan Henderson,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Liverpool,2019-12-14 Liverpool-Watford,2019-12-14,12:30:00,Matchweek 17,Sat,Home,W,2,0,Watford,1.4,1.0,68,53311,Jordan Henderson,4-2-3-1,Andre Marriner
+ENG-Premier League,1920,Liverpool,2019-12-26 Leicester City-Liverpool,2019-12-26,20:00:00,Matchweek 19,Thu,Away,W,4,0,Leicester City,3.2,0.1,59,32211,Jordan Henderson,4-3-3,Michael Oliver
+ENG-Premier League,1920,Liverpool,2019-12-29 Liverpool-Wolves,2019-12-29,16:30:00,Matchweek 20,Sun,Home,W,1,0,Wolves,1.2,0.5,62,53326,Jordan Henderson,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Liverpool,2020-01-02 Liverpool-Sheffield Utd,2020-01-02,20:00:00,Matchweek 21,Thu,Home,W,2,0,Sheffield Utd,2.8,0.6,74,53321,Jordan Henderson,4-3-3,Paul Tierney
+ENG-Premier League,1920,Liverpool,2020-01-11 Tottenham-Liverpool,2020-01-11,17:30:00,Matchweek 22,Sat,Away,W,1,0,Tottenham,1.2,1.2,67,61023,Jordan Henderson,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Liverpool,2020-01-19 Liverpool-Manchester Utd,2020-01-19,16:30:00,Matchweek 23,Sun,Home,W,2,0,Manchester Utd,1.9,1.3,53,52916,Jordan Henderson,4-3-3,Craig Pawson
+ENG-Premier League,1920,Liverpool,2020-01-23 Wolves-Liverpool,2020-01-23,20:00:00,Matchweek 24,Thu,Away,W,2,1,Wolves,1.1,1.8,53,31746,Jordan Henderson,4-3-3,Michael Oliver
+ENG-Premier League,1920,Liverpool,2020-01-29 West Ham-Liverpool,2020-01-29,19:45:00,Matchweek 18,Wed,Away,W,2,0,West Ham,2.8,0.7,70,59959,Jordan Henderson,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Liverpool,2020-02-01 Liverpool-Southampton,2020-02-01,15:00:00,Matchweek 25,Sat,Home,W,4,0,Southampton,3.2,0.8,62,53291,Jordan Henderson,4-3-3,Kevin Friend
+ENG-Premier League,1920,Liverpool,2020-02-15 Norwich City-Liverpool,2020-02-15,17:30:00,Matchweek 26,Sat,Away,W,1,0,Norwich City,2.0,0.3,63,27110,Jordan Henderson,4-3-3,Stuart Attwell
+ENG-Premier League,1920,Liverpool,2020-02-24 Liverpool-West Ham,2020-02-24,20:00:00,Matchweek 27,Mon,Home,W,3,2,West Ham,2.4,0.7,69,53313,Virgil van Dijk,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Liverpool,2020-02-29 Watford-Liverpool,2020-02-29,17:30:00,Matchweek 28,Sat,Away,L,0,3,Watford,0.3,2.3,70,21634,Virgil van Dijk,4-3-3,Michael Oliver
+ENG-Premier League,1920,Liverpool,2020-03-07 Liverpool-Bournemouth,2020-03-07,12:30:00,Matchweek 29,Sat,Home,W,2,1,Bournemouth,1.8,1.4,74,53323,James Milner,4-3-3,Paul Tierney
+ENG-Premier League,1920,Liverpool,2020-06-21 Everton-Liverpool,2020-06-21,19:00:00,Matchweek 30,Sun,Away,D,0,0,Everton,0.7,0.9,69,,Jordan Henderson,4-3-3,Mike Dean
+ENG-Premier League,1920,Liverpool,2020-06-24 Liverpool-Crystal Palace,2020-06-24,20:15:00,Matchweek 31,Wed,Home,W,4,0,Crystal Palace,2.4,0.1,73,,Jordan Henderson,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Liverpool,2020-07-02 Manchester City-Liverpool,2020-07-02,20:15:00,Matchweek 32,Thu,Away,L,0,4,Manchester City,1.1,2.4,53,,Jordan Henderson,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Liverpool,2020-07-05 Liverpool-Aston Villa,2020-07-05,16:30:00,Matchweek 33,Sun,Home,W,2,0,Aston Villa,0.7,0.7,70,,Virgil van Dijk,4-3-3,Paul Tierney
+ENG-Premier League,1920,Liverpool,2020-07-08 Brighton-Liverpool,2020-07-08,20:15:00,Matchweek 34,Wed,Away,W,3,1,Brighton,2.5,2.4,56,,Jordan Henderson,4-3-3,Craig Pawson
+ENG-Premier League,1920,Liverpool,2020-07-11 Liverpool-Burnley,2020-07-11,15:00:00,Matchweek 35,Sat,Home,D,1,1,Burnley,1.7,0.4,71,,Virgil van Dijk,4-3-3,David Coote
+ENG-Premier League,1920,Liverpool,2020-07-15 Arsenal-Liverpool,2020-07-15,20:15:00,Matchweek 36,Wed,Away,L,1,2,Arsenal,2.1,0.8,69,,Virgil van Dijk,4-3-3,Paul Tierney
+ENG-Premier League,1920,Liverpool,2020-07-22 Liverpool-Chelsea,2020-07-22,20:15:00,Matchweek 37,Wed,Home,W,5,3,Chelsea,1.7,2.4,50,,Virgil van Dijk,4-3-3,Andre Marriner
+ENG-Premier League,1920,Liverpool,2020-07-26 Newcastle Utd-Liverpool,2020-07-26,16:00:00,Matchweek 38,Sun,Away,W,3,1,Newcastle Utd,0.6,0.1,74,,James Milner,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Manchester City,2019-08-10 West Ham-Manchester City,2019-08-10,12:30:00,Matchweek 1,Sat,Away,W,5,0,West Ham,3.2,1.1,57,59870,David Silva,4-3-3,Mike Dean
+ENG-Premier League,1920,Manchester City,2019-08-17 Manchester City-Tottenham,2019-08-17,17:30:00,Matchweek 2,Sat,Home,D,2,2,Tottenham,2.9,0.1,55,54503,Kevin De Bruyne,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Manchester City,2019-08-25 Bournemouth-Manchester City,2019-08-25,14:00:00,Matchweek 3,Sun,Away,W,3,1,Bournemouth,3.0,2.2,74,10486,David Silva,4-3-3,Andre Marriner
+ENG-Premier League,1920,Manchester City,2019-08-31 Manchester City-Brighton,2019-08-31,15:00:00,Matchweek 4,Sat,Home,W,4,0,Brighton,1.9,0.9,53,54386,David Silva,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Manchester City,2019-09-14 Norwich City-Manchester City,2019-09-14,17:30:00,Matchweek 5,Sat,Away,L,2,3,Norwich City,2.3,1.5,68,27035,David Silva,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Manchester City,2019-09-21 Manchester City-Watford,2019-09-21,15:00:00,Matchweek 6,Sat,Home,W,8,0,Watford,5.9,0.4,68,54273,David Silva,4-3-3,Mike Dean
+ENG-Premier League,1920,Manchester City,2019-09-28 Everton-Manchester City,2019-09-28,17:30:00,Matchweek 7,Sat,Away,W,3,1,Everton,2.8,2.4,63,39222,Fernandinho,4-3-3,Michael Oliver
+ENG-Premier League,1920,Manchester City,2019-10-06 Manchester City-Wolves,2019-10-06,14:00:00,Matchweek 8,Sun,Home,L,0,2,Wolves,1.4,1.0,75,54435,David Silva,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Manchester City,2019-10-19 Crystal Palace-Manchester City,2019-10-19,17:30:00,Matchweek 9,Sat,Away,W,2,0,Crystal Palace,3.5,0.9,71,25480,David Silva,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Manchester City,2019-10-26 Manchester City-Aston Villa,2019-10-26,12:30:00,Matchweek 10,Sat,Home,W,3,0,Aston Villa,2.9,1.0,63,54506,David Silva,4-3-3,Graham Scott
+ENG-Premier League,1920,Manchester City,2019-11-02 Manchester City-Southampton,2019-11-02,15:00:00,Matchweek 11,Sat,Home,W,2,1,Southampton,2.9,0.9,75,53922,David Silva,4-3-3,Lee Mason
+ENG-Premier League,1920,Manchester City,2019-11-10 Liverpool-Manchester City,2019-11-10,16:30:00,Matchweek 12,Sun,Away,L,1,3,Liverpool,1.3,1.1,55,53324,Fernandinho,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Manchester City,2019-11-23 Manchester City-Chelsea,2019-11-23,17:30:00,Matchweek 13,Sat,Home,W,2,1,Chelsea,1.0,0.9,47,54486,David Silva,4-3-3,Martin Atkinson
+ENG-Premier League,1920,Manchester City,2019-11-30 Newcastle Utd-Manchester City,2019-11-30,12:30:00,Matchweek 14,Sat,Away,D,2,2,Newcastle Utd,2.4,0.3,75,49937,David Silva,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Manchester City,2019-12-03 Burnley-Manchester City,2019-12-03,20:15:00,Matchweek 15,Tue,Away,W,4,1,Burnley,2.2,0.6,75,20101,David Silva,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Manchester City,2019-12-07 Manchester City-Manchester Utd,2019-12-07,17:30:00,Matchweek 16,Sat,Home,L,1,2,Manchester Utd,2.2,1.4,72,54403,David Silva,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Manchester City,2019-12-15 Arsenal-Manchester City,2019-12-15,16:30:00,Matchweek 17,Sun,Away,W,3,0,Arsenal,1.3,0.5,57,60031,Fernandinho,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Manchester City,2019-12-21 Manchester City-Leicester City,2019-12-21,17:30:00,Matchweek 18,Sat,Home,W,3,1,Leicester City,3.3,1.1,62,54415,Fernandinho,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Manchester City,2019-12-27 Wolves-Manchester City,2019-12-27,19:45:00,Matchweek 19,Fri,Away,L,2,3,Wolves,1.5,2.6,38,31737,Fernandinho,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Manchester City,2019-12-29 Manchester City-Sheffield Utd,2019-12-29,18:00:00,Matchweek 20,Sun,Home,W,2,0,Sheffield Utd,1.1,1.1,72,54512,Fernandinho,4-3-3,Chris Kavanagh
+ENG-Premier League,1920,Manchester City,2020-01-01 Manchester City-Everton,2020-01-01,17:30:00,Matchweek 21,Wed,Home,W,2,1,Everton,1.5,1.0,65,54407,Fernandinho,3-4-3,Andre Marriner
+ENG-Premier League,1920,Manchester City,2020-01-12 Aston Villa-Manchester City,2020-01-12,16:30:00,Matchweek 22,Sun,Away,W,6,1,Aston Villa,2.8,1.1,70,41823,David Silva,4-3-3,Jonathan Moss
+ENG-Premier League,1920,Manchester City,2020-01-18 Manchester City-Crystal Palace,2020-01-18,15:00:00,Matchweek 23,Sat,Home,D,2,2,Crystal Palace,2.6,0.4,72,54439,David Silva,4-3-3,Graham Scott
+ENG-Premier League,1920,Manchester City,2020-01-21 Sheffield Utd-Manchester City,2020-01-21,19:30:00,Matchweek 24,Tue,Away,W,1,0,Sheffield Utd,2.8,0.8,66,31285,Fernandinho,3-4-3,Lee Mason
+ENG-Premier League,1920,Manchester City,2020-02-02 Tottenham-Manchester City,2020-02-02,16:30:00,Matchweek 25,Sun,Away,L,0,2,Tottenham,2.4,0.3,67,61022,Fernandinho,4-3-3,Mike Dean
+ENG-Premier League,1920,Manchester City,2020-02-19 Manchester City-West Ham,2020-02-19,19:30:00,Matchweek 26,Wed,Home,W,2,0,West Ham,2.1,0.1,77,52159,David Silva,4-3-3,Kevin Friend
+ENG-Premier League,1920,Manchester City,2020-02-22 Leicester City-Manchester City,2020-02-22,17:30:00,Matchweek 27,Sat,Away,W,1,0,Leicester City,2.4,0.8,67,32068,Fernandinho,4-3-3,Paul Tierney
+ENG-Premier League,1920,Manchester City,2020-03-08 Manchester Utd-Manchester City,2020-03-08,16:30:00,Matchweek 29,Sun,Away,L,0,2,Manchester Utd,0.6,1.6,72,73288,Fernandinho,4-3-3,Mike Dean
+ENG-Premier League,1920,Manchester City,2020-06-17 Manchester City-Arsenal,2020-06-17,20:15:00,Matchweek 28,Wed,Home,W,3,0,Arsenal,2.6,0.3,67,,David Silva,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Manchester City,2020-06-22 Manchester City-Burnley,2020-06-22,20:00:00,Matchweek 30,Mon,Home,W,5,0,Burnley,2.4,0.0,71,,David Silva,4-3-3,Andre Marriner
+ENG-Premier League,1920,Manchester City,2020-06-25 Chelsea-Manchester City,2020-06-25,20:15:00,Matchweek 31,Thu,Away,L,1,2,Chelsea,0.8,3.2,65,,Fernandinho,4-3-3,Stuart Attwell
+ENG-Premier League,1920,Manchester City,2020-07-02 Manchester City-Liverpool,2020-07-02,20:15:00,Matchweek 32,Thu,Home,W,4,0,Liverpool,2.4,1.1,47,,Kevin De Bruyne,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Manchester City,2020-07-05 Southampton-Manchester City,2020-07-05,19:00:00,Matchweek 33,Sun,Away,L,0,1,Southampton,3.2,0.6,73,,David Silva,4-3-3,Andre Marriner
+ENG-Premier League,1920,Manchester City,2020-07-08 Manchester City-Newcastle Utd,2020-07-08,18:00:00,Matchweek 34,Wed,Home,W,5,0,Newcastle Utd,2.8,0.3,73,,David Silva,4-3-3,Andy Madley
+ENG-Premier League,1920,Manchester City,2020-07-11 Brighton-Manchester City,2020-07-11,20:00:00,Matchweek 35,Sat,Away,W,5,0,Brighton,4.4,0.2,70,,Kevin De Bruyne,4-3-3,Graham Scott
+ENG-Premier League,1920,Manchester City,2020-07-15 Manchester City-Bournemouth,2020-07-15,18:00:00,Matchweek 36,Wed,Home,W,2,1,Bournemouth,0.7,1.6,71,,David Silva,4-2-3-1,Lee Mason
+ENG-Premier League,1920,Manchester City,2020-07-21 Watford-Manchester City,2020-07-21,18:00:00,Matchweek 37,Tue,Away,W,4,0,Watford,3.3,0.1,76,,Kevin De Bruyne,4-3-3,Michael Oliver
+ENG-Premier League,1920,Manchester City,2020-07-26 Manchester City-Norwich City,2020-07-26,16:00:00,Matchweek 38,Sun,Home,W,5,0,Norwich City,3.2,1.0,73,,David Silva,4-3-3,Craig Pawson
+ENG-Premier League,1920,Manchester Utd,2019-08-11 Manchester Utd-Chelsea,2019-08-11,16:30:00,Matchweek 1,Sun,Home,W,4,0,Chelsea,2.2,1.0,46,73620,David de Gea,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Manchester Utd,2019-08-19 Wolves-Manchester Utd,2019-08-19,20:00:00,Matchweek 2,Mon,Away,D,1,1,Wolves,1.2,0.3,65,31314,David de Gea,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Manchester Utd,2019-08-24 Manchester Utd-Crystal Palace,2019-08-24,15:00:00,Matchweek 3,Sat,Home,L,1,2,Crystal Palace,2.5,1.1,71,73454,David de Gea,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Manchester Utd,2019-08-31 Southampton-Manchester Utd,2019-08-31,12:30:00,Matchweek 4,Sat,Away,D,1,1,Southampton,1.5,0.9,59,30499,Ashley Young,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Manchester Utd,2019-09-14 Manchester Utd-Leicester City,2019-09-14,15:00:00,Matchweek 5,Sat,Home,W,1,0,Leicester City,1.2,0.6,42,73689,Ashley Young,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Manchester Utd,2019-09-22 West Ham-Manchester Utd,2019-09-22,14:00:00,Matchweek 6,Sun,Away,L,0,2,West Ham,0.9,0.4,53,59936,Ashley Young,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Manchester Utd,2019-09-30 Manchester Utd-Arsenal,2019-09-30,20:00:00,Matchweek 7,Mon,Home,D,1,1,Arsenal,0.9,1.9,55,73201,Ashley Young,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Manchester Utd,2019-10-06 Newcastle Utd-Manchester Utd,2019-10-06,16:30:00,Matchweek 8,Sun,Away,L,0,1,Newcastle Utd,0.9,0.8,68,51198,Ashley Young,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Manchester Utd,2019-10-20 Manchester Utd-Liverpool,2019-10-20,16:30:00,Matchweek 9,Sun,Home,D,1,1,Liverpool,0.7,1.2,34,73737,Ashley Young,3-4-1-2,Martin Atkinson
+ENG-Premier League,1920,Manchester Utd,2019-10-27 Norwich City-Manchester Utd,2019-10-27,16:30:00,Matchweek 10,Sun,Away,W,3,1,Norwich City,4.2,1.0,54,27108,Ashley Young,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Manchester Utd,2019-11-02 Bournemouth-Manchester Utd,2019-11-02,12:30:00,Matchweek 11,Sat,Away,L,0,1,Bournemouth,0.8,1.9,57,10669,Ashley Young,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Manchester Utd,2019-11-10 Manchester Utd-Brighton,2019-11-10,14:00:00,Matchweek 12,Sun,Home,W,3,1,Brighton,3.6,0.8,42,73556,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Manchester Utd,2019-11-24 Sheffield Utd-Manchester Utd,2019-11-24,16:30:00,Matchweek 13,Sun,Away,D,3,3,Sheffield Utd,1.3,1.3,59,32024,Harry Maguire,3-4-3,Andre Marriner
+ENG-Premier League,1920,Manchester Utd,2019-12-01 Manchester Utd-Aston Villa,2019-12-01,16:30:00,Matchweek 14,Sun,Home,D,2,2,Aston Villa,1.7,1.2,62,73381,Harry Maguire,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Manchester Utd,2019-12-04 Manchester Utd-Tottenham,2019-12-04,19:30:00,Matchweek 15,Wed,Home,W,2,1,Tottenham,1.4,0.9,47,73252,Ashley Young,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Manchester Utd,2019-12-07 Manchester City-Manchester Utd,2019-12-07,17:30:00,Matchweek 16,Sat,Away,W,2,1,Manchester City,1.4,2.2,28,54403,Harry Maguire,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Manchester Utd,2019-12-15 Manchester Utd-Everton,2019-12-15,14:00:00,Matchweek 17,Sun,Home,D,1,1,Everton,1.4,0.3,66,63328,Harry Maguire,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Manchester Utd,2019-12-22 Watford-Manchester Utd,2019-12-22,14:00:00,Matchweek 18,Sun,Away,L,0,2,Watford,1.8,1.5,63,21488,Harry Maguire,4-2-3-1,Lee Mason
+ENG-Premier League,1920,Manchester Utd,2019-12-26 Manchester Utd-Newcastle Utd,2019-12-26,17:30:00,Matchweek 19,Thu,Home,W,4,1,Newcastle Utd,1.9,0.8,72,73206,Harry Maguire,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Manchester Utd,2019-12-28 Burnley-Manchester Utd,2019-12-28,19:45:00,Matchweek 20,Sat,Away,W,2,0,Burnley,2.2,0.5,61,21924,Ashley Young,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Manchester Utd,2020-01-01 Arsenal-Manchester Utd,2020-01-01,20:00:00,Matchweek 21,Wed,Away,L,0,2,Arsenal,0.7,1.5,51,60328,Harry Maguire,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Manchester Utd,2020-01-11 Manchester Utd-Norwich City,2020-01-11,15:00:00,Matchweek 22,Sat,Home,W,4,0,Norwich City,2.9,0.3,60,73271,Harry Maguire,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Manchester Utd,2020-01-19 Liverpool-Manchester Utd,2020-01-19,16:30:00,Matchweek 23,Sun,Away,L,0,2,Liverpool,1.3,1.9,47,52916,Harry Maguire,3-4-1-2,Craig Pawson
+ENG-Premier League,1920,Manchester Utd,2020-01-22 Manchester Utd-Burnley,2020-01-22,20:15:00,Matchweek 24,Wed,Home,L,0,2,Burnley,1.4,0.6,72,73198,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Manchester Utd,2020-02-01 Manchester Utd-Wolves,2020-02-01,17:30:00,Matchweek 25,Sat,Home,D,0,0,Wolves,1.0,1.3,64,73363,Harry Maguire,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Manchester Utd,2020-02-17 Chelsea-Manchester Utd,2020-02-17,20:00:00,Matchweek 26,Mon,Away,W,2,0,Chelsea,0.6,0.9,39,40504,Harry Maguire,3-4-1-2,Anthony Taylor
+ENG-Premier League,1920,Manchester Utd,2020-02-23 Manchester Utd-Watford,2020-02-23,14:00:00,Matchweek 27,Sun,Home,W,3,0,Watford,2.4,0.3,57,73347,Harry Maguire,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Manchester Utd,2020-03-01 Everton-Manchester Utd,2020-03-01,14:00:00,Matchweek 28,Sun,Away,D,1,1,Everton,1.1,2.1,56,39374,Harry Maguire,4-1-2-1-2◆,Chris Kavanagh
+ENG-Premier League,1920,Manchester Utd,2020-03-08 Manchester Utd-Manchester City,2020-03-08,16:30:00,Matchweek 29,Sun,Home,W,2,0,Manchester City,1.6,0.6,28,73288,Harry Maguire,3-4-1-2,Mike Dean
+ENG-Premier League,1920,Manchester Utd,2020-06-19 Tottenham-Manchester Utd,2020-06-19,20:15:00,Matchweek 30,Fri,Away,D,1,1,Tottenham,1.7,0.4,61,,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Manchester Utd,2020-06-24 Manchester Utd-Sheffield Utd,2020-06-24,18:00:00,Matchweek 31,Wed,Home,W,3,0,Sheffield Utd,2.4,0.1,68,,Harry Maguire,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Manchester Utd,2020-06-30 Brighton-Manchester Utd,2020-06-30,20:15:00,Matchweek 32,Tue,Away,W,3,0,Brighton,1.0,0.4,62,,Harry Maguire,4-2-3-1,Andre Marriner
+ENG-Premier League,1920,Manchester Utd,2020-07-04 Manchester Utd-Bournemouth,2020-07-04,15:00:00,Matchweek 33,Sat,Home,W,5,2,Bournemouth,2.5,1.8,68,,Harry Maguire,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Manchester Utd,2020-07-09 Aston Villa-Manchester Utd,2020-07-09,20:15:00,Matchweek 34,Thu,Away,W,3,0,Aston Villa,2.3,0.5,66,,Harry Maguire,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Manchester Utd,2020-07-13 Manchester Utd-Southampton,2020-07-13,20:00:00,Matchweek 35,Mon,Home,D,2,2,Southampton,1.5,1.6,48,,Harry Maguire,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Manchester Utd,2020-07-16 Crystal Palace-Manchester Utd,2020-07-16,20:15:00,Matchweek 36,Thu,Away,W,2,0,Crystal Palace,2.2,0.6,59,,Harry Maguire,4-2-3-1,Graham Scott
+ENG-Premier League,1920,Manchester Utd,2020-07-22 Manchester Utd-West Ham,2020-07-22,18:00:00,Matchweek 37,Wed,Home,D,1,1,West Ham,0.6,1.5,57,,Harry Maguire,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Manchester Utd,2020-07-26 Leicester City-Manchester Utd,2020-07-26,16:00:00,Matchweek 38,Sun,Away,W,2,0,Leicester City,1.3,0.8,54,,Harry Maguire,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Newcastle Utd,2019-08-11 Newcastle Utd-Arsenal,2019-08-11,14:00:00,Matchweek 1,Sun,Home,L,0,1,Arsenal,0.4,1.1,38,47635,Jamaal Lascelles,3-5-2,Martin Atkinson
+ENG-Premier League,1920,Newcastle Utd,2019-08-17 Norwich City-Newcastle Utd,2019-08-17,15:00:00,Matchweek 2,Sat,Away,L,1,3,Norwich City,0.9,1.7,37,27059,Jamaal Lascelles,3-5-2,Stuart Attwell
+ENG-Premier League,1920,Newcastle Utd,2019-08-25 Tottenham-Newcastle Utd,2019-08-25,16:30:00,Matchweek 3,Sun,Away,W,1,0,Tottenham,0.8,1.1,21,59245,Jamaal Lascelles,5-4-1,Mike Dean
+ENG-Premier League,1920,Newcastle Utd,2019-08-31 Newcastle Utd-Watford,2019-08-31,15:00:00,Matchweek 4,Sat,Home,D,1,1,Watford,1.0,1.0,49,44157,Jamaal Lascelles,5-4-1,Graham Scott
+ENG-Premier League,1920,Newcastle Utd,2019-09-14 Liverpool-Newcastle Utd,2019-09-14,12:30:00,Matchweek 5,Sat,Away,L,1,3,Liverpool,0.3,3.0,26,51430,Jamaal Lascelles,5-4-1,Andre Marriner
+ENG-Premier League,1920,Newcastle Utd,2019-09-21 Newcastle Utd-Brighton,2019-09-21,17:30:00,Matchweek 6,Sat,Home,D,0,0,Brighton,0.9,1.4,29,43316,Jamaal Lascelles,5-4-1,Martin Atkinson
+ENG-Premier League,1920,Newcastle Utd,2019-09-29 Leicester City-Newcastle Utd,2019-09-29,16:30:00,Matchweek 7,Sun,Away,L,0,5,Leicester City,0.1,1.6,32,32168,Jamaal Lascelles,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Newcastle Utd,2019-10-06 Newcastle Utd-Manchester Utd,2019-10-06,16:30:00,Matchweek 8,Sun,Home,W,1,0,Manchester Utd,0.8,0.9,32,51198,Jamaal Lascelles,5-4-1,Mike Dean
+ENG-Premier League,1920,Newcastle Utd,2019-10-19 Chelsea-Newcastle Utd,2019-10-19,15:00:00,Matchweek 9,Sat,Away,L,0,1,Chelsea,0.4,2.0,29,40513,Jamaal Lascelles,5-4-1,Andre Marriner
+ENG-Premier League,1920,Newcastle Utd,2019-10-27 Newcastle Utd-Wolves,2019-10-27,14:00:00,Matchweek 10,Sun,Home,D,1,1,Wolves,1.0,2.1,44,46019,Jamaal Lascelles,5-4-1,Kevin Friend
+ENG-Premier League,1920,Newcastle Utd,2019-11-02 West Ham-Newcastle Utd,2019-11-02,15:00:00,Matchweek 11,Sat,Away,W,3,2,West Ham,1.5,1.8,30,59907,Jamaal Lascelles,5-4-1,Stuart Attwell
+ENG-Premier League,1920,Newcastle Utd,2019-11-09 Newcastle Utd-Bournemouth,2019-11-09,15:00:00,Matchweek 12,Sat,Home,W,2,1,Bournemouth,2.4,1.8,35,44424,Jamaal Lascelles,5-4-1,Martin Atkinson
+ENG-Premier League,1920,Newcastle Utd,2019-11-25 Aston Villa-Newcastle Utd,2019-11-25,20:00:00,Matchweek 13,Mon,Away,L,0,2,Aston Villa,0.6,2.3,39,41821,Jonjo Shelvey,5-4-1,Lee Mason
+ENG-Premier League,1920,Newcastle Utd,2019-11-30 Newcastle Utd-Manchester City,2019-11-30,12:30:00,Matchweek 14,Sat,Home,D,2,2,Manchester City,0.3,2.4,25,49937,Jonjo Shelvey,5-4-1,Chris Kavanagh
+ENG-Premier League,1920,Newcastle Utd,2019-12-05 Sheffield Utd-Newcastle Utd,2019-12-05,19:30:00,Matchweek 15,Thu,Away,W,2,0,Sheffield Utd,0.5,1.1,27,30409,Jonjo Shelvey,5-4-1,Stuart Attwell
+ENG-Premier League,1920,Newcastle Utd,2019-12-08 Newcastle Utd-Southampton,2019-12-08,14:00:00,Matchweek 16,Sun,Home,W,2,1,Southampton,0.9,1.7,46,42303,Jonjo Shelvey,5-4-1,David Coote
+ENG-Premier League,1920,Newcastle Utd,2019-12-14 Burnley-Newcastle Utd,2019-12-14,15:00:00,Matchweek 17,Sat,Away,L,0,1,Burnley,1.0,1.4,52,19798,Andy Carroll,5-4-1,Tim Robinson
+ENG-Premier League,1920,Newcastle Utd,2019-12-21 Newcastle Utd-Crystal Palace,2019-12-21,15:00:00,Matchweek 18,Sat,Home,W,1,0,Crystal Palace,0.5,1.3,43,45453,Jonjo Shelvey,3-5-2,Simon Hooper
+ENG-Premier League,1920,Newcastle Utd,2019-12-26 Manchester Utd-Newcastle Utd,2019-12-26,17:30:00,Matchweek 19,Thu,Away,L,1,4,Manchester Utd,0.8,1.9,28,73206,Federico Fernández,3-5-2,Kevin Friend
+ENG-Premier League,1920,Newcastle Utd,2019-12-28 Newcastle Utd-Everton,2019-12-28,15:00:00,Matchweek 20,Sat,Home,L,1,2,Everton,1.8,2.9,43,52211,Jonjo Shelvey,3-5-2,Lee Mason
+ENG-Premier League,1920,Newcastle Utd,2020-01-01 Newcastle Utd-Leicester City,2020-01-01,15:00:00,Matchweek 21,Wed,Home,L,0,3,Leicester City,0.7,2.6,24,52178,Jonjo Shelvey,3-4-3,Martin Atkinson
+ENG-Premier League,1920,Newcastle Utd,2020-01-11 Wolves-Newcastle Utd,2020-01-11,15:00:00,Matchweek 22,Sat,Away,D,1,1,Wolves,0.2,1.6,35,31570,Federico Fernández,5-4-1,Peter Bankes
+ENG-Premier League,1920,Newcastle Utd,2020-01-18 Newcastle Utd-Chelsea,2020-01-18,17:30:00,Matchweek 23,Sat,Home,W,1,0,Chelsea,0.6,2.4,31,52217,Jamaal Lascelles,5-4-1,Chris Kavanagh
+ENG-Premier League,1920,Newcastle Utd,2020-01-21 Everton-Newcastle Utd,2020-01-21,19:30:00,Matchweek 24,Tue,Away,D,2,2,Everton,1.3,1.8,45,38822,Jamaal Lascelles,5-4-1,Simon Hooper
+ENG-Premier League,1920,Newcastle Utd,2020-02-01 Newcastle Utd-Norwich City,2020-02-01,15:00:00,Matchweek 25,Sat,Home,D,0,0,Norwich City,1.0,2.2,44,52204,Jamaal Lascelles,5-4-1,Martin Atkinson
+ENG-Premier League,1920,Newcastle Utd,2020-02-16 Arsenal-Newcastle Utd,2020-02-16,16:30:00,Matchweek 26,Sun,Away,L,0,4,Arsenal,0.9,2.6,32,60188,Jamaal Lascelles,5-4-1,Lee Mason
+ENG-Premier League,1920,Newcastle Utd,2020-02-22 Crystal Palace-Newcastle Utd,2020-02-22,15:00:00,Matchweek 27,Sat,Away,L,0,1,Crystal Palace,0.2,1.6,55,25486,Jamaal Lascelles,5-4-1,Peter Bankes
+ENG-Premier League,1920,Newcastle Utd,2020-02-29 Newcastle Utd-Burnley,2020-02-29,15:00:00,Matchweek 28,Sat,Home,D,0,0,Burnley,1.1,0.7,54,52219,Jamaal Lascelles,4-4-2,Andy Madley
+ENG-Premier League,1920,Newcastle Utd,2020-03-07 Southampton-Newcastle Utd,2020-03-07,15:00:00,Matchweek 29,Sat,Away,W,1,0,Southampton,2.8,0.6,61,30096,Jamaal Lascelles,4-4-2,Graham Scott
+ENG-Premier League,1920,Newcastle Utd,2020-06-21 Newcastle Utd-Sheffield Utd,2020-06-21,14:00:00,Matchweek 30,Sun,Home,W,3,0,Sheffield Utd,2.0,0.6,46,,Jamaal Lascelles,4-4-1-1,David Coote
+ENG-Premier League,1920,Newcastle Utd,2020-06-24 Newcastle Utd-Aston Villa,2020-06-24,18:00:00,Matchweek 31,Wed,Home,D,1,1,Aston Villa,0.9,1.6,52,,Jamaal Lascelles,4-4-1-1,Chris Kavanagh
+ENG-Premier League,1920,Newcastle Utd,2020-07-01 Bournemouth-Newcastle Utd,2020-07-01,18:00:00,Matchweek 32,Wed,Away,W,4,1,Bournemouth,1.8,1.6,45,,Jamaal Lascelles,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Newcastle Utd,2020-07-05 Newcastle Utd-West Ham,2020-07-05,14:15:00,Matchweek 33,Sun,Home,D,2,2,West Ham,1.4,2.1,57,,Jamaal Lascelles,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Newcastle Utd,2020-07-08 Manchester City-Newcastle Utd,2020-07-08,18:00:00,Matchweek 34,Wed,Away,L,0,5,Manchester City,0.3,2.8,27,,Jonjo Shelvey,4-4-1-1,Andy Madley
+ENG-Premier League,1920,Newcastle Utd,2020-07-11 Watford-Newcastle Utd,2020-07-11,12:30:00,Matchweek 35,Sat,Away,L,1,2,Watford,1.3,3.4,51,,Jamaal Lascelles,4-4-1-1,Craig Pawson
+ENG-Premier League,1920,Newcastle Utd,2020-07-15 Newcastle Utd-Tottenham,2020-07-15,18:00:00,Matchweek 36,Wed,Home,L,1,3,Tottenham,1.1,1.5,52,,Jonjo Shelvey,5-3-2,David Coote
+ENG-Premier League,1920,Newcastle Utd,2020-07-20 Brighton-Newcastle Utd,2020-07-20,18:00:00,Matchweek 37,Mon,Away,D,0,0,Brighton,0.9,0.8,39,,Jonjo Shelvey,3-5-2,Simon Hooper
+ENG-Premier League,1920,Newcastle Utd,2020-07-26 Newcastle Utd-Liverpool,2020-07-26,16:00:00,Matchweek 38,Sun,Home,L,1,3,Liverpool,0.1,0.6,26,,Jonjo Shelvey,3-5-2,Anthony Taylor
+ENG-Premier League,1920,Norwich City,2019-08-09 Liverpool-Norwich City,2019-08-09,20:00:00,Matchweek 1,Fri,Away,L,1,4,Liverpool,0.9,1.8,43,53333,Grant Hanley,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Norwich City,2019-08-17 Norwich City-Newcastle Utd,2019-08-17,15:00:00,Matchweek 2,Sat,Home,W,3,1,Newcastle Utd,1.7,0.9,63,27059,Grant Hanley,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Norwich City,2019-08-24 Norwich City-Chelsea,2019-08-24,12:30:00,Matchweek 3,Sat,Home,L,2,3,Chelsea,1.1,1.5,46,27032,Grant Hanley,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Norwich City,2019-08-31 West Ham-Norwich City,2019-08-31,15:00:00,Matchweek 4,Sat,Away,L,0,2,West Ham,1.4,2.0,52,59950,Christoph Zimmermann,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Norwich City,2019-09-14 Norwich City-Manchester City,2019-09-14,17:30:00,Matchweek 5,Sat,Home,W,3,2,Manchester City,1.5,2.3,32,27035,Alexander Tettey,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Norwich City,2019-09-21 Burnley-Norwich City,2019-09-21,15:00:00,Matchweek 6,Sat,Away,L,0,2,Burnley,0.8,2.0,58,19712,Alexander Tettey,4-2-3-1,David Coote
+ENG-Premier League,1920,Norwich City,2019-09-28 Crystal Palace-Norwich City,2019-09-28,15:00:00,Matchweek 7,Sat,Away,L,0,2,Crystal Palace,0.7,1.5,55,25477,Ben Godfrey,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Norwich City,2019-10-05 Norwich City-Aston Villa,2019-10-05,15:00:00,Matchweek 8,Sat,Home,L,1,5,Aston Villa,2.6,3.0,57,27045,Ben Godfrey,4-2-3-1,Andy Madley
+ENG-Premier League,1920,Norwich City,2019-10-19 Bournemouth-Norwich City,2019-10-19,15:00:00,Matchweek 9,Sat,Away,D,0,0,Bournemouth,0.4,0.7,52,10669,Alexander Tettey,4-1-4-1,Lee Mason
+ENG-Premier League,1920,Norwich City,2019-10-27 Norwich City-Manchester Utd,2019-10-27,16:30:00,Matchweek 10,Sun,Home,L,1,3,Manchester Utd,1.0,4.2,46,27108,Alexander Tettey,4-1-4-1,Stuart Attwell
+ENG-Premier League,1920,Norwich City,2019-11-02 Brighton-Norwich City,2019-11-02,15:00:00,Matchweek 11,Sat,Away,L,0,2,Brighton,0.4,2.7,42,30539,Alexander Tettey,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Norwich City,2019-11-08 Norwich City-Watford,2019-11-08,20:00:00,Matchweek 12,Fri,Home,L,0,2,Watford,0.7,1.3,66,27074,Alexander Tettey,4-2-3-1,Andre Marriner
+ENG-Premier League,1920,Norwich City,2019-11-23 Everton-Norwich City,2019-11-23,15:00:00,Matchweek 13,Sat,Away,W,2,0,Everton,1.7,0.9,43,39241,Alexander Tettey,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Norwich City,2019-12-01 Norwich City-Arsenal,2019-12-01,14:00:00,Matchweek 14,Sun,Home,D,2,2,Arsenal,0.8,1.9,40,27067,Christoph Zimmermann,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Norwich City,2019-12-04 Southampton-Norwich City,2019-12-04,19:30:00,Matchweek 15,Wed,Away,L,1,2,Southampton,0.9,1.7,60,27019,Christoph Zimmermann,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Norwich City,2019-12-08 Norwich City-Sheffield Utd,2019-12-08,14:00:00,Matchweek 16,Sun,Home,L,1,2,Sheffield Utd,0.7,0.8,58,26881,Alexander Tettey,4-2-3-1,Simon Hooper
+ENG-Premier League,1920,Norwich City,2019-12-14 Leicester City-Norwich City,2019-12-14,15:00:00,Matchweek 17,Sat,Away,D,1,1,Leicester City,1.1,1.1,43,32101,Alexander Tettey,4-2-3-1,Andy Madley
+ENG-Premier League,1920,Norwich City,2019-12-21 Norwich City-Wolves,2019-12-21,15:00:00,Matchweek 18,Sat,Home,L,1,2,Wolves,1.3,1.4,50,27053,Grant Hanley,4-2-3-1,Peter Bankes
+ENG-Premier League,1920,Norwich City,2019-12-26 Aston Villa-Norwich City,2019-12-26,15:00:00,Matchweek 19,Thu,Away,L,0,1,Aston Villa,1.2,0.6,57,41289,Grant Hanley,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Norwich City,2019-12-28 Norwich City-Tottenham,2019-12-28,17:30:00,Matchweek 20,Sat,Home,D,2,2,Tottenham,0.2,1.9,42,27072,Grant Hanley,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Norwich City,2020-01-01 Norwich City-Crystal Palace,2020-01-01,17:30:00,Matchweek 21,Wed,Home,D,1,1,Crystal Palace,1.4,1.3,41,27021,Grant Hanley,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Norwich City,2020-01-11 Manchester Utd-Norwich City,2020-01-11,15:00:00,Matchweek 22,Sat,Away,L,0,4,Manchester Utd,0.3,2.9,40,73271,Grant Hanley,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Norwich City,2020-01-18 Norwich City-Bournemouth,2020-01-18,15:00:00,Matchweek 23,Sat,Home,W,1,0,Bournemouth,1.8,0.7,65,26781,Alexander Tettey,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Norwich City,2020-01-22 Tottenham-Norwich City,2020-01-22,19:30:00,Matchweek 24,Wed,Away,L,1,2,Tottenham,1.5,2.1,49,58182,Grant Hanley,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Norwich City,2020-02-01 Newcastle Utd-Norwich City,2020-02-01,15:00:00,Matchweek 25,Sat,Away,D,0,0,Newcastle Utd,2.2,1.0,56,52204,Grant Hanley,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Norwich City,2020-02-15 Norwich City-Liverpool,2020-02-15,17:30:00,Matchweek 26,Sat,Home,L,0,1,Liverpool,0.3,2.0,37,27110,Grant Hanley,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Norwich City,2020-02-23 Wolves-Norwich City,2020-02-23,14:00:00,Matchweek 27,Sun,Away,L,0,3,Wolves,0.4,2.9,60,31046,Grant Hanley,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Norwich City,2020-02-28 Norwich City-Leicester City,2020-02-28,20:00:00,Matchweek 28,Fri,Home,W,1,0,Leicester City,0.6,1.3,43,27010,Grant Hanley,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Norwich City,2020-03-07 Sheffield Utd-Norwich City,2020-03-07,15:00:00,Matchweek 29,Sat,Away,L,0,1,Sheffield Utd,2.4,0.9,58,31379,Grant Hanley,4-2-3-1,Simon Hooper
+ENG-Premier League,1920,Norwich City,2020-06-19 Norwich City-Southampton,2020-06-19,18:00:00,Matchweek 30,Fri,Home,L,0,3,Southampton,0.6,1.7,54,,Timm Klose,4-4-2,Kevin Friend
+ENG-Premier League,1920,Norwich City,2020-06-24 Norwich City-Everton,2020-06-24,18:00:00,Matchweek 31,Wed,Home,L,0,1,Everton,0.4,0.8,47,,Alexander Tettey,4-2-3-1,Andy Madley
+ENG-Premier League,1920,Norwich City,2020-07-01 Arsenal-Norwich City,2020-07-01,18:00:00,Matchweek 32,Wed,Away,L,0,4,Arsenal,0.3,1.5,49,,Alexander Tettey,4-1-4-1,Peter Bankes
+ENG-Premier League,1920,Norwich City,2020-07-04 Norwich City-Brighton,2020-07-04,12:30:00,Matchweek 33,Sat,Home,L,0,1,Brighton,0.6,1.0,58,,Alexander Tettey,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Norwich City,2020-07-07 Watford-Norwich City,2020-07-07,18:00:00,Matchweek 34,Tue,Away,L,1,2,Watford,1.2,1.2,56,,Alexander Tettey,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Norwich City,2020-07-11 Norwich City-West Ham,2020-07-11,12:30:00,Matchweek 35,Sat,Home,L,0,4,West Ham,0.6,3.5,53,,Alexander Tettey,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Norwich City,2020-07-14 Chelsea-Norwich City,2020-07-14,20:15:00,Matchweek 36,Tue,Away,L,0,1,Chelsea,0.1,2.5,33,,Alexander Tettey,4-1-4-1,Jonathan Moss
+ENG-Premier League,1920,Norwich City,2020-07-18 Norwich City-Burnley,2020-07-18,17:30:00,Matchweek 37,Sat,Home,L,0,2,Burnley,0.3,1.8,42,,Alexander Tettey,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Norwich City,2020-07-26 Manchester City-Norwich City,2020-07-26,16:00:00,Matchweek 38,Sun,Away,L,0,5,Manchester City,1.0,3.2,27,,Christoph Zimmermann,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Sheffield Utd,2019-08-10 Bournemouth-Sheffield Utd,2019-08-10,15:00:00,Matchweek 1,Sat,Away,D,1,1,Bournemouth,1.3,1.3,47,10714,Oliver Norwood,3-5-2,Kevin Friend
+ENG-Premier League,1920,Sheffield Utd,2019-08-18 Sheffield Utd-Crystal Palace,2019-08-18,14:00:00,Matchweek 2,Sun,Home,W,1,0,Crystal Palace,2.2,0.3,43,30197,Oliver Norwood,3-5-2,David Coote
+ENG-Premier League,1920,Sheffield Utd,2019-08-24 Sheffield Utd-Leicester City,2019-08-24,15:00:00,Matchweek 3,Sat,Home,L,1,2,Leicester City,0.3,0.8,49,30079,Oliver Norwood,3-5-2,Andy Madley
+ENG-Premier League,1920,Sheffield Utd,2019-08-31 Chelsea-Sheffield Utd,2019-08-31,15:00:00,Matchweek 4,Sat,Away,D,2,2,Chelsea,1.1,2.0,38,40560,Oliver Norwood,3-5-2,Stuart Attwell
+ENG-Premier League,1920,Sheffield Utd,2019-09-14 Sheffield Utd-Southampton,2019-09-14,15:00:00,Matchweek 5,Sat,Home,L,0,1,Southampton,1.8,1.6,49,30985,Oliver Norwood,3-5-2,Lee Mason
+ENG-Premier League,1920,Sheffield Utd,2019-09-21 Everton-Sheffield Utd,2019-09-21,15:00:00,Matchweek 6,Sat,Away,W,2,0,Everton,0.5,1.0,31,39354,Oliver Norwood,3-5-2,Simon Hooper
+ENG-Premier League,1920,Sheffield Utd,2019-09-28 Sheffield Utd-Liverpool,2019-09-28,12:30:00,Matchweek 7,Sat,Home,L,0,1,Liverpool,1.3,1.9,30,31774,Oliver Norwood,3-5-2,Anthony Taylor
+ENG-Premier League,1920,Sheffield Utd,2019-10-05 Watford-Sheffield Utd,2019-10-05,15:00:00,Matchweek 8,Sat,Away,D,0,0,Watford,0.4,1.4,60,20811,Oliver Norwood,3-5-2,Andre Marriner
+ENG-Premier League,1920,Sheffield Utd,2019-10-21 Sheffield Utd-Arsenal,2019-10-21,20:00:00,Matchweek 9,Mon,Home,W,1,0,Arsenal,0.9,1.0,33,30775,Oliver Norwood,3-5-2,Mike Dean
+ENG-Premier League,1920,Sheffield Utd,2019-10-26 West Ham-Sheffield Utd,2019-10-26,15:00:00,Matchweek 10,Sat,Away,D,1,1,West Ham,1.0,2.3,40,59878,Oliver Norwood,3-5-2,David Coote
+ENG-Premier League,1920,Sheffield Utd,2019-11-02 Sheffield Utd-Burnley,2019-11-02,15:00:00,Matchweek 11,Sat,Home,W,3,0,Burnley,2.3,0.8,45,31131,Oliver Norwood,3-5-2,Simon Hooper
+ENG-Premier League,1920,Sheffield Utd,2019-11-09 Tottenham-Sheffield Utd,2019-11-09,15:00:00,Matchweek 12,Sat,Away,D,1,1,Tottenham,0.9,1.8,39,59781,Oliver Norwood,3-5-2,Graham Scott
+ENG-Premier League,1920,Sheffield Utd,2019-11-24 Sheffield Utd-Manchester Utd,2019-11-24,16:30:00,Matchweek 13,Sun,Home,D,3,3,Manchester Utd,1.3,1.3,41,32024,Oliver Norwood,3-5-2,Andre Marriner
+ENG-Premier League,1920,Sheffield Utd,2019-12-01 Wolves-Sheffield Utd,2019-12-01,14:00:00,Matchweek 14,Sun,Away,D,1,1,Wolves,1.5,1.3,41,31642,Oliver Norwood,3-5-2,David Coote
+ENG-Premier League,1920,Sheffield Utd,2019-12-05 Sheffield Utd-Newcastle Utd,2019-12-05,19:30:00,Matchweek 15,Thu,Home,L,0,2,Newcastle Utd,1.1,0.5,73,30409,Billy Sharp,3-5-2,Stuart Attwell
+ENG-Premier League,1920,Sheffield Utd,2019-12-08 Norwich City-Sheffield Utd,2019-12-08,14:00:00,Matchweek 16,Sun,Away,W,2,1,Norwich City,0.8,0.7,42,26881,Oliver Norwood,3-5-2,Simon Hooper
+ENG-Premier League,1920,Sheffield Utd,2019-12-14 Sheffield Utd-Aston Villa,2019-12-14,15:00:00,Matchweek 17,Sat,Home,W,2,0,Aston Villa,1.7,1.1,56,30396,Oliver Norwood,3-5-2,Peter Bankes
+ENG-Premier League,1920,Sheffield Utd,2019-12-21 Brighton-Sheffield Utd,2019-12-21,15:00:00,Matchweek 18,Sat,Away,W,1,0,Brighton,1.3,0.5,31,30505,Oliver Norwood,3-5-2,Robert Jones
+ENG-Premier League,1920,Sheffield Utd,2019-12-26 Sheffield Utd-Watford,2019-12-26,15:00:00,Matchweek 19,Thu,Home,D,1,1,Watford,2.4,0.6,58,30222,Oliver Norwood,3-5-2,David Coote
+ENG-Premier League,1920,Sheffield Utd,2019-12-29 Manchester City-Sheffield Utd,2019-12-29,18:00:00,Matchweek 20,Sun,Away,L,0,2,Manchester City,1.1,1.1,28,54512,Oliver Norwood,3-5-2,Chris Kavanagh
+ENG-Premier League,1920,Sheffield Utd,2020-01-02 Liverpool-Sheffield Utd,2020-01-02,20:00:00,Matchweek 21,Thu,Away,L,0,2,Liverpool,0.6,2.8,26,53321,Oliver Norwood,3-5-2,Paul Tierney
+ENG-Premier League,1920,Sheffield Utd,2020-01-10 Sheffield Utd-West Ham,2020-01-10,20:00:00,Matchweek 22,Fri,Home,W,1,0,West Ham,1.4,0.7,47,30124,Oliver Norwood,3-5-2,Michael Oliver
+ENG-Premier League,1920,Sheffield Utd,2020-01-18 Arsenal-Sheffield Utd,2020-01-18,15:00:00,Matchweek 23,Sat,Away,D,1,1,Arsenal,0.8,1.4,39,60310,Oliver Norwood,3-5-2,Mike Dean
+ENG-Premier League,1920,Sheffield Utd,2020-01-21 Sheffield Utd-Manchester City,2020-01-21,19:30:00,Matchweek 24,Tue,Home,L,0,1,Manchester City,0.8,2.8,34,31285,Billy Sharp,3-5-2,Lee Mason
+ENG-Premier League,1920,Sheffield Utd,2020-02-01 Crystal Palace-Sheffield Utd,2020-02-01,15:00:00,Matchweek 25,Sat,Away,W,1,0,Crystal Palace,0.7,0.8,39,25170,Billy Sharp,3-5-2,Andy Madley
+ENG-Premier League,1920,Sheffield Utd,2020-02-09 Sheffield Utd-Bournemouth,2020-02-09,14:00:00,Matchweek 26,Sun,Home,W,2,1,Bournemouth,1.9,1.4,55,30361,Billy Sharp,3-5-2,Jonathan Moss
+ENG-Premier League,1920,Sheffield Utd,2020-02-22 Sheffield Utd-Brighton,2020-02-22,15:00:00,Matchweek 27,Sat,Home,D,1,1,Brighton,1.6,1.2,65,31888,Billy Sharp,3-5-2,Graham Scott
+ENG-Premier League,1920,Sheffield Utd,2020-03-07 Sheffield Utd-Norwich City,2020-03-07,15:00:00,Matchweek 29,Sat,Home,W,1,0,Norwich City,0.9,2.4,42,31379,Billy Sharp,3-5-2,Simon Hooper
+ENG-Premier League,1920,Sheffield Utd,2020-06-17 Aston Villa-Sheffield Utd,2020-06-17,18:00:00,Matchweek 28,Wed,Away,D,0,0,Aston Villa,0.3,1.4,54,,Billy Sharp,3-5-2,Michael Oliver
+ENG-Premier League,1920,Sheffield Utd,2020-06-21 Newcastle Utd-Sheffield Utd,2020-06-21,14:00:00,Matchweek 30,Sun,Away,L,0,3,Newcastle Utd,0.6,2.0,54,,Billy Sharp,3-5-2,David Coote
+ENG-Premier League,1920,Sheffield Utd,2020-06-24 Manchester Utd-Sheffield Utd,2020-06-24,18:00:00,Matchweek 31,Wed,Away,L,0,3,Manchester Utd,0.1,2.4,32,,Oliver Norwood,3-5-2,Anthony Taylor
+ENG-Premier League,1920,Sheffield Utd,2020-07-02 Sheffield Utd-Tottenham,2020-07-02,18:00:00,Matchweek 32,Thu,Home,W,3,1,Tottenham,1.6,1.1,33,,Oliver Norwood,3-5-2,Chris Kavanagh
+ENG-Premier League,1920,Sheffield Utd,2020-07-05 Burnley-Sheffield Utd,2020-07-05,12:00:00,Matchweek 33,Sun,Away,D,1,1,Burnley,1.1,1.3,52,,Oliver Norwood,3-5-2,Peter Bankes
+ENG-Premier League,1920,Sheffield Utd,2020-07-08 Sheffield Utd-Wolves,2020-07-08,18:00:00,Matchweek 34,Wed,Home,W,1,0,Wolves,0.5,0.4,44,,Billy Sharp,3-5-2,Martin Atkinson
+ENG-Premier League,1920,Sheffield Utd,2020-07-11 Sheffield Utd-Chelsea,2020-07-11,17:30:00,Matchweek 35,Sat,Home,W,3,0,Chelsea,2.3,1.2,24,,Oliver Norwood,3-5-2,Andre Marriner
+ENG-Premier League,1920,Sheffield Utd,2020-07-16 Leicester City-Sheffield Utd,2020-07-16,18:00:00,Matchweek 36,Thu,Away,L,0,2,Leicester City,0.7,2.6,46,,Oliver Norwood,3-5-2,Michael Oliver
+ENG-Premier League,1920,Sheffield Utd,2020-07-20 Sheffield Utd-Everton,2020-07-20,18:00:00,Matchweek 37,Mon,Home,L,0,1,Everton,0.5,0.4,51,,Oliver Norwood,3-5-2,Stuart Attwell
+ENG-Premier League,1920,Sheffield Utd,2020-07-26 Southampton-Sheffield Utd,2020-07-26,16:00:00,Matchweek 38,Sun,Away,L,1,3,Southampton,1.4,1.7,28,,Billy Sharp,3-5-2,Peter Bankes
+ENG-Premier League,1920,Southampton,2019-08-10 Burnley-Southampton,2019-08-10,15:00:00,Matchweek 1,Sat,Away,L,0,3,Burnley,1.2,0.9,53,19784,James Ward-Prowse,3-4-3,Graham Scott
+ENG-Premier League,1920,Southampton,2019-08-17 Southampton-Liverpool,2019-08-17,15:00:00,Matchweek 2,Sat,Home,L,1,2,Liverpool,1.9,1.3,37,31712,Pierre Højbjerg,3-5-2,Andre Marriner
+ENG-Premier League,1920,Southampton,2019-08-24 Brighton-Southampton,2019-08-24,15:00:00,Matchweek 3,Sat,Away,W,2,0,Brighton,1.7,0.8,49,30019,Pierre Højbjerg,4-2-2-2,Kevin Friend
+ENG-Premier League,1920,Southampton,2019-08-31 Southampton-Manchester Utd,2019-08-31,12:30:00,Matchweek 4,Sat,Home,D,1,1,Manchester Utd,0.9,1.5,41,30499,Pierre Højbjerg,4-2-2-2,Mike Dean
+ENG-Premier League,1920,Southampton,2019-09-14 Sheffield Utd-Southampton,2019-09-14,15:00:00,Matchweek 5,Sat,Away,W,1,0,Sheffield Utd,1.6,1.8,51,30985,Pierre Højbjerg,3-4-3,Lee Mason
+ENG-Premier League,1920,Southampton,2019-09-20 Southampton-Bournemouth,2019-09-20,20:00:00,Matchweek 6,Fri,Home,L,1,3,Bournemouth,2.5,1.2,65,30168,Pierre Højbjerg,4-2-2-2,Chris Kavanagh
+ENG-Premier League,1920,Southampton,2019-09-28 Tottenham-Southampton,2019-09-28,15:00:00,Matchweek 7,Sat,Away,L,1,2,Tottenham,1.5,1.0,58,59645,Pierre Højbjerg,3-4-1-2,Graham Scott
+ENG-Premier League,1920,Southampton,2019-10-06 Southampton-Chelsea,2019-10-06,14:00:00,Matchweek 8,Sun,Home,L,1,4,Chelsea,1.4,1.7,43,31473,Pierre Højbjerg,4-3-3,Paul Tierney
+ENG-Premier League,1920,Southampton,2019-10-19 Wolves-Southampton,2019-10-19,15:00:00,Matchweek 9,Sat,Away,D,1,1,Wolves,1.4,0.9,43,30915,Pierre Højbjerg,3-4-3,Peter Bankes
+ENG-Premier League,1920,Southampton,2019-10-25 Southampton-Leicester City,2019-10-25,20:00:00,Matchweek 10,Fri,Home,L,0,9,Leicester City,0.3,4.6,28,28762,Pierre Højbjerg,3-5-2,Andre Marriner
+ENG-Premier League,1920,Southampton,2019-11-02 Manchester City-Southampton,2019-11-02,15:00:00,Matchweek 11,Sat,Away,L,1,2,Manchester City,0.9,2.9,25,53922,Pierre Højbjerg,5-3-2,Lee Mason
+ENG-Premier League,1920,Southampton,2019-11-09 Southampton-Everton,2019-11-09,15:00:00,Matchweek 12,Sat,Home,L,1,2,Everton,0.9,1.8,47,29754,James Ward-Prowse,3-4-3,Paul Tierney
+ENG-Premier League,1920,Southampton,2019-11-23 Arsenal-Southampton,2019-11-23,15:00:00,Matchweek 13,Sat,Away,D,2,2,Arsenal,2.4,1.8,39,60295,Pierre Højbjerg,4-4-2,Stuart Attwell
+ENG-Premier League,1920,Southampton,2019-11-30 Southampton-Watford,2019-11-30,17:30:00,Matchweek 14,Sat,Home,W,2,1,Watford,2.1,0.6,63,26929,Pierre Højbjerg,4-4-2,Michael Oliver
+ENG-Premier League,1920,Southampton,2019-12-04 Southampton-Norwich City,2019-12-04,19:30:00,Matchweek 15,Wed,Home,W,2,1,Norwich City,1.7,0.9,40,27019,Pierre Højbjerg,4-4-2,Kevin Friend
+ENG-Premier League,1920,Southampton,2019-12-08 Newcastle Utd-Southampton,2019-12-08,14:00:00,Matchweek 16,Sun,Away,L,1,2,Newcastle Utd,1.7,0.9,54,42303,Pierre Højbjerg,4-4-2,David Coote
+ENG-Premier League,1920,Southampton,2019-12-14 Southampton-West Ham,2019-12-14,17:30:00,Matchweek 17,Sat,Home,L,0,1,West Ham,0.9,0.9,57,27701,Pierre Højbjerg,4-4-2,Martin Atkinson
+ENG-Premier League,1920,Southampton,2019-12-21 Aston Villa-Southampton,2019-12-21,15:00:00,Matchweek 18,Sat,Away,W,3,1,Aston Villa,2.8,1.1,44,41834,Pierre Højbjerg,4-4-2,Craig Pawson
+ENG-Premier League,1920,Southampton,2019-12-26 Chelsea-Southampton,2019-12-26,15:00:00,Matchweek 19,Thu,Away,W,2,0,Chelsea,1.1,0.7,34,40651,Pierre Højbjerg,4-4-2,Jonathan Moss
+ENG-Premier League,1920,Southampton,2019-12-28 Southampton-Crystal Palace,2019-12-28,15:00:00,Matchweek 20,Sat,Home,D,1,1,Crystal Palace,1.4,0.3,59,31108,Pierre Højbjerg,4-4-2,Andy Madley
+ENG-Premier League,1920,Southampton,2020-01-01 Southampton-Tottenham,2020-01-01,15:00:00,Matchweek 21,Wed,Home,W,1,0,Tottenham,1.3,0.9,41,30976,Pierre Højbjerg,4-4-2,Mike Dean
+ENG-Premier League,1920,Southampton,2020-01-11 Leicester City-Southampton,2020-01-11,15:00:00,Matchweek 22,Sat,Away,W,2,1,Leicester City,2.1,0.7,43,32115,Pierre Højbjerg,4-4-2,Lee Mason
+ENG-Premier League,1920,Southampton,2020-01-18 Southampton-Wolves,2020-01-18,15:00:00,Matchweek 23,Sat,Home,L,2,3,Wolves,0.7,2.4,53,31152,Pierre Højbjerg,4-4-2,Darren England
+ENG-Premier League,1920,Southampton,2020-01-21 Crystal Palace-Southampton,2020-01-21,19:30:00,Matchweek 24,Tue,Away,W,2,0,Crystal Palace,1.1,0.6,55,23739,Pierre Højbjerg,4-4-2,Andre Marriner
+ENG-Premier League,1920,Southampton,2020-02-01 Liverpool-Southampton,2020-02-01,15:00:00,Matchweek 25,Sat,Away,L,0,4,Liverpool,0.8,3.2,38,53291,Pierre Højbjerg,4-4-2,Kevin Friend
+ENG-Premier League,1920,Southampton,2020-02-15 Southampton-Burnley,2020-02-15,12:30:00,Matchweek 26,Sat,Home,L,1,2,Burnley,0.8,0.8,62,26302,Pierre Højbjerg,4-2-2-2,Simon Hooper
+ENG-Premier League,1920,Southampton,2020-02-22 Southampton-Aston Villa,2020-02-22,15:00:00,Matchweek 27,Sat,Home,W,2,0,Aston Villa,2.6,0.5,46,31478,Pierre Højbjerg,4-4-2,Craig Pawson
+ENG-Premier League,1920,Southampton,2020-02-29 West Ham-Southampton,2020-02-29,15:00:00,Matchweek 28,Sat,Away,L,1,3,West Ham,0.7,2.3,65,59962,Pierre Højbjerg,4-4-2,Anthony Taylor
+ENG-Premier League,1920,Southampton,2020-03-07 Southampton-Newcastle Utd,2020-03-07,15:00:00,Matchweek 29,Sat,Home,L,0,1,Newcastle Utd,0.6,2.8,39,30096,Pierre Højbjerg,4-4-2,Graham Scott
+ENG-Premier League,1920,Southampton,2020-06-19 Norwich City-Southampton,2020-06-19,18:00:00,Matchweek 30,Fri,Away,W,3,0,Norwich City,1.7,0.6,46,,James Ward-Prowse,4-4-2,Kevin Friend
+ENG-Premier League,1920,Southampton,2020-06-25 Southampton-Arsenal,2020-06-25,18:00:00,Matchweek 31,Thu,Home,L,0,2,Arsenal,0.9,1.9,53,,James Ward-Prowse,4-4-2,Graham Scott
+ENG-Premier League,1920,Southampton,2020-06-28 Watford-Southampton,2020-06-28,16:30:00,Matchweek 32,Sun,Away,W,3,1,Watford,1.3,0.5,52,,James Ward-Prowse,4-4-2,Michael Oliver
+ENG-Premier League,1920,Southampton,2020-07-05 Southampton-Manchester City,2020-07-05,19:00:00,Matchweek 33,Sun,Home,W,1,0,Manchester City,0.6,3.2,27,,James Ward-Prowse,4-4-2,Andre Marriner
+ENG-Premier League,1920,Southampton,2020-07-09 Everton-Southampton,2020-07-09,18:00:00,Matchweek 34,Thu,Away,D,1,1,Everton,2.4,1.0,61,,James Ward-Prowse,4-4-2,Lee Mason
+ENG-Premier League,1920,Southampton,2020-07-13 Manchester Utd-Southampton,2020-07-13,20:00:00,Matchweek 35,Mon,Away,D,2,2,Manchester Utd,1.6,1.5,52,,James Ward-Prowse,4-4-2,Chris Kavanagh
+ENG-Premier League,1920,Southampton,2020-07-16 Southampton-Brighton,2020-07-16,20:15:00,Matchweek 36,Thu,Home,D,1,1,Brighton,2.5,0.7,67,,James Ward-Prowse,4-4-2,Andre Marriner
+ENG-Premier League,1920,Southampton,2020-07-19 Bournemouth-Southampton,2020-07-19,14:00:00,Matchweek 37,Sun,Away,W,2,0,Bournemouth,2.5,0.5,56,,James Ward-Prowse,4-4-2,Craig Pawson
+ENG-Premier League,1920,Southampton,2020-07-26 Southampton-Sheffield Utd,2020-07-26,16:00:00,Matchweek 38,Sun,Home,W,3,1,Sheffield Utd,1.7,1.4,72,,James Ward-Prowse,4-4-2,Peter Bankes
+ENG-Premier League,1920,Tottenham,2019-08-10 Tottenham-Aston Villa,2019-08-10,17:30:00,Matchweek 1,Sat,Home,W,3,1,Aston Villa,2.4,0.7,70,60407,Hugo Lloris,4-3-1-2,Chris Kavanagh
+ENG-Premier League,1920,Tottenham,2019-08-17 Manchester City-Tottenham,2019-08-17,17:30:00,Matchweek 2,Sat,Away,D,2,2,Manchester City,0.1,2.9,45,54503,Hugo Lloris,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Tottenham,2019-08-25 Tottenham-Newcastle Utd,2019-08-25,16:30:00,Matchweek 3,Sun,Home,L,0,1,Newcastle Utd,1.1,0.8,79,59245,Hugo Lloris,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Tottenham,2019-09-01 Arsenal-Tottenham,2019-09-01,16:30:00,Matchweek 4,Sun,Away,D,2,2,Arsenal,2.0,2.4,45,60333,Hugo Lloris,4-2-2-2,Martin Atkinson
+ENG-Premier League,1920,Tottenham,2019-09-14 Tottenham-Crystal Palace,2019-09-14,15:00:00,Matchweek 5,Sat,Home,W,4,0,Crystal Palace,1.0,0.6,64,59812,Hugo Lloris,4-2-2-2,Craig Pawson
+ENG-Premier League,1920,Tottenham,2019-09-21 Leicester City-Tottenham,2019-09-21,12:30:00,Matchweek 6,Sat,Away,L,1,2,Leicester City,1.1,1.3,56,32129,Harry Kane,4-1-2-1-2◆,Paul Tierney
+ENG-Premier League,1920,Tottenham,2019-09-28 Tottenham-Southampton,2019-09-28,15:00:00,Matchweek 7,Sat,Home,W,2,1,Southampton,1.0,1.5,42,59645,Hugo Lloris,4-2-3-1,Graham Scott
+ENG-Premier League,1920,Tottenham,2019-10-05 Brighton-Tottenham,2019-10-05,12:30:00,Matchweek 8,Sat,Away,L,0,3,Brighton,0.4,2.4,52,30610,Hugo Lloris,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Tottenham,2019-10-19 Tottenham-Watford,2019-10-19,15:00:00,Matchweek 9,Sat,Home,D,1,1,Watford,1.0,0.7,69,58754,Harry Kane,3-4-3,Chris Kavanagh
+ENG-Premier League,1920,Tottenham,2019-10-27 Liverpool-Tottenham,2019-10-27,16:30:00,Matchweek 10,Sun,Away,L,1,2,Liverpool,1.2,2.6,33,53222,Harry Kane,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Tottenham,2019-11-03 Everton-Tottenham,2019-11-03,16:30:00,Matchweek 11,Sun,Away,D,1,1,Everton,0.6,1.1,53,39001,Ben Davies,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Tottenham,2019-11-09 Tottenham-Sheffield Utd,2019-11-09,15:00:00,Matchweek 12,Sat,Home,D,1,1,Sheffield Utd,1.8,0.9,61,59781,Harry Kane,4-2-3-1,Graham Scott
+ENG-Premier League,1920,Tottenham,2019-11-23 West Ham-Tottenham,2019-11-23,12:30:00,Matchweek 13,Sat,Away,W,3,2,West Ham,2.1,0.7,52,59930,Harry Kane,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Tottenham,2019-11-30 Tottenham-Bournemouth,2019-11-30,15:00:00,Matchweek 14,Sat,Home,W,3,2,Bournemouth,2.3,1.1,52,59626,Harry Kane,4-2-3-1,Lee Mason
+ENG-Premier League,1920,Tottenham,2019-12-04 Manchester Utd-Tottenham,2019-12-04,19:30:00,Matchweek 15,Wed,Away,L,1,2,Manchester Utd,0.9,1.4,53,73252,Harry Kane,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,Tottenham,2019-12-07 Tottenham-Burnley,2019-12-07,15:00:00,Matchweek 16,Sat,Home,W,5,0,Burnley,2.6,0.9,49,58401,Harry Kane,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Tottenham,2019-12-15 Wolves-Tottenham,2019-12-15,14:00:00,Matchweek 17,Sun,Away,W,2,1,Wolves,0.9,0.9,42,31674,Harry Kane,4-2-3-1,Stuart Attwell
+ENG-Premier League,1920,Tottenham,2019-12-22 Tottenham-Chelsea,2019-12-22,16:30:00,Matchweek 18,Sun,Home,L,0,2,Chelsea,0.3,1.3,45,61104,Harry Kane,4-3-3,Anthony Taylor
+ENG-Premier League,1920,Tottenham,2019-12-26 Tottenham-Brighton,2019-12-26,12:30:00,Matchweek 19,Thu,Home,W,2,1,Brighton,0.8,1.0,54,56308,Harry Kane,3-4-3,Graham Scott
+ENG-Premier League,1920,Tottenham,2019-12-28 Norwich City-Tottenham,2019-12-28,17:30:00,Matchweek 20,Sat,Away,D,2,2,Norwich City,1.9,0.2,58,27072,Harry Kane,3-1-4-2,Kevin Friend
+ENG-Premier League,1920,Tottenham,2020-01-01 Southampton-Tottenham,2020-01-01,15:00:00,Matchweek 21,Wed,Away,L,0,1,Southampton,0.9,1.3,59,30976,Harry Kane,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Tottenham,2020-01-11 Tottenham-Liverpool,2020-01-11,17:30:00,Matchweek 22,Sat,Home,L,0,1,Liverpool,1.2,1.2,33,61023,Toby Alderweireld,4-4-2,Martin Atkinson
+ENG-Premier League,1920,Tottenham,2020-01-18 Watford-Tottenham,2020-01-18,12:30:00,Matchweek 23,Sat,Away,D,0,0,Watford,1.9,2.5,58,21366,Jan Vertonghen,4-3-3,Michael Oliver
+ENG-Premier League,1920,Tottenham,2020-01-22 Tottenham-Norwich City,2020-01-22,19:30:00,Matchweek 24,Wed,Home,W,2,1,Norwich City,2.1,1.5,51,58182,Hugo Lloris,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Tottenham,2020-02-02 Tottenham-Manchester City,2020-02-02,16:30:00,Matchweek 25,Sun,Home,W,2,0,Manchester City,0.3,2.4,33,61022,Hugo Lloris,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Tottenham,2020-02-16 Aston Villa-Tottenham,2020-02-16,14:00:00,Matchweek 26,Sun,Away,W,3,2,Aston Villa,3.4,1.8,45,41874,Hugo Lloris,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Tottenham,2020-02-22 Chelsea-Tottenham,2020-02-22,12:30:00,Matchweek 27,Sat,Away,L,1,2,Chelsea,0.2,1.7,51,40608,Hugo Lloris,5-4-1,Michael Oliver
+ENG-Premier League,1920,Tottenham,2020-03-01 Tottenham-Wolves,2020-03-01,14:00:00,Matchweek 28,Sun,Home,L,2,3,Wolves,1.7,2.6,65,58064,Harry Winks,3-4-3,Stuart Attwell
+ENG-Premier League,1920,Tottenham,2020-03-07 Burnley-Tottenham,2020-03-07,17:30:00,Matchweek 29,Sat,Away,D,1,1,Burnley,1.2,3.0,54,20496,Hugo Lloris,3-4-3,Jonathan Moss
+ENG-Premier League,1920,Tottenham,2020-06-19 Tottenham-Manchester Utd,2020-06-19,20:15:00,Matchweek 30,Fri,Home,D,1,1,Manchester Utd,0.4,1.7,39,,Hugo Lloris,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,Tottenham,2020-06-23 Tottenham-West Ham,2020-06-23,20:15:00,Matchweek 31,Tue,Home,W,2,0,West Ham,2.3,1.2,64,,Hugo Lloris,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Tottenham,2020-07-02 Sheffield Utd-Tottenham,2020-07-02,18:00:00,Matchweek 32,Thu,Away,L,1,3,Sheffield Utd,1.1,1.6,67,,Hugo Lloris,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,Tottenham,2020-07-06 Tottenham-Everton,2020-07-06,20:00:00,Matchweek 33,Mon,Home,W,1,0,Everton,0.5,0.5,52,,Hugo Lloris,4-3-3,Graham Scott
+ENG-Premier League,1920,Tottenham,2020-07-09 Bournemouth-Tottenham,2020-07-09,18:00:00,Matchweek 34,Thu,Away,D,0,0,Bournemouth,0.5,1.4,63,,Hugo Lloris,4-3-3,Paul Tierney
+ENG-Premier League,1920,Tottenham,2020-07-12 Tottenham-Arsenal,2020-07-12,16:30:00,Matchweek 35,Sun,Home,W,2,1,Arsenal,2.0,0.6,38,,Hugo Lloris,4-4-1-1,Michael Oliver
+ENG-Premier League,1920,Tottenham,2020-07-15 Newcastle Utd-Tottenham,2020-07-15,18:00:00,Matchweek 36,Wed,Away,W,3,1,Newcastle Utd,1.5,1.1,48,,Hugo Lloris,4-3-3,David Coote
+ENG-Premier League,1920,Tottenham,2020-07-19 Tottenham-Leicester City,2020-07-19,16:00:00,Matchweek 37,Sun,Home,W,3,0,Leicester City,0.8,1.7,30,,Hugo Lloris,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Tottenham,2020-07-26 Crystal Palace-Tottenham,2020-07-26,16:00:00,Matchweek 38,Sun,Away,D,1,1,Crystal Palace,0.3,0.8,52,,Hugo Lloris,4-2-3-1,Andre Marriner
+ENG-Premier League,1920,Watford,2019-08-10 Watford-Brighton,2019-08-10,15:00:00,Matchweek 1,Sat,Home,L,0,3,Brighton,0.7,0.8,49,20245,Troy Deeney,4-2-2-2,Craig Pawson
+ENG-Premier League,1920,Watford,2019-08-17 Everton-Watford,2019-08-17,15:00:00,Matchweek 2,Sat,Away,L,0,1,Everton,1.2,0.7,56,39066,Troy Deeney,4-2-2-2,Lee Mason
+ENG-Premier League,1920,Watford,2019-08-24 Watford-West Ham,2019-08-24,15:00:00,Matchweek 3,Sat,Home,L,1,3,West Ham,2.3,3.5,55,20035,Étienne Capoue,4-1-2-1-2◆,Chris Kavanagh
+ENG-Premier League,1920,Watford,2019-08-31 Newcastle Utd-Watford,2019-08-31,15:00:00,Matchweek 4,Sat,Away,D,1,1,Newcastle Utd,1.0,1.0,51,44157,Craig Cathcart,3-4-3,Graham Scott
+ENG-Premier League,1920,Watford,2019-09-15 Watford-Arsenal,2019-09-15,16:30:00,Matchweek 5,Sun,Home,D,2,2,Arsenal,2.7,0.8,52,21360,Étienne Capoue,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Watford,2019-09-21 Manchester City-Watford,2019-09-21,15:00:00,Matchweek 6,Sat,Away,L,0,8,Manchester City,0.4,5.9,32,54273,Adrian Mariappa,4-4-1-1,Mike Dean
+ENG-Premier League,1920,Watford,2019-09-28 Wolves-Watford,2019-09-28,15:00:00,Matchweek 7,Sat,Away,L,0,2,Wolves,1.4,1.4,61,30711,Étienne Capoue,4-3-3,Paul Tierney
+ENG-Premier League,1920,Watford,2019-10-05 Watford-Sheffield Utd,2019-10-05,15:00:00,Matchweek 8,Sat,Home,D,0,0,Sheffield Utd,1.4,0.4,40,20811,Craig Cathcart,5-3-2,Andre Marriner
+ENG-Premier League,1920,Watford,2019-10-19 Tottenham-Watford,2019-10-19,15:00:00,Matchweek 9,Sat,Away,D,1,1,Tottenham,0.7,1.0,31,58754,Craig Cathcart,5-3-2,Chris Kavanagh
+ENG-Premier League,1920,Watford,2019-10-26 Watford-Bournemouth,2019-10-26,15:00:00,Matchweek 10,Sat,Home,D,0,0,Bournemouth,0.8,1.0,41,20821,Craig Cathcart,5-3-2,Mike Dean
+ENG-Premier League,1920,Watford,2019-11-02 Watford-Chelsea,2019-11-02,17:30:00,Matchweek 11,Sat,Home,L,1,2,Chelsea,1.3,2.1,33,21011,Craig Cathcart,5-4-1,Anthony Taylor
+ENG-Premier League,1920,Watford,2019-11-08 Norwich City-Watford,2019-11-08,20:00:00,Matchweek 12,Fri,Away,W,2,0,Norwich City,1.3,0.7,34,27074,Étienne Capoue,5-3-2,Andre Marriner
+ENG-Premier League,1920,Watford,2019-11-23 Watford-Burnley,2019-11-23,15:00:00,Matchweek 13,Sat,Home,L,0,3,Burnley,1.0,1.9,62,19711,Étienne Capoue,5-3-2,Paul Tierney
+ENG-Premier League,1920,Watford,2019-11-30 Southampton-Watford,2019-11-30,17:30:00,Matchweek 14,Sat,Away,L,1,2,Southampton,0.6,2.1,37,26929,Étienne Capoue,5-3-2,Michael Oliver
+ENG-Premier League,1920,Watford,2019-12-04 Leicester City-Watford,2019-12-04,19:30:00,Matchweek 15,Wed,Away,L,0,2,Leicester City,0.2,2.4,38,31763,Troy Deeney,4-4-2,Craig Pawson
+ENG-Premier League,1920,Watford,2019-12-07 Watford-Crystal Palace,2019-12-07,15:00:00,Matchweek 16,Sat,Home,D,0,0,Crystal Palace,1.4,0.2,51,20070,Troy Deeney,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Watford,2019-12-14 Liverpool-Watford,2019-12-14,12:30:00,Matchweek 17,Sat,Away,L,0,2,Liverpool,1.0,1.4,32,53311,Troy Deeney,4-2-3-1,Andre Marriner
+ENG-Premier League,1920,Watford,2019-12-22 Watford-Manchester Utd,2019-12-22,14:00:00,Matchweek 18,Sun,Home,W,2,0,Manchester Utd,1.5,1.8,37,21488,Troy Deeney,4-2-3-1,Lee Mason
+ENG-Premier League,1920,Watford,2019-12-26 Sheffield Utd-Watford,2019-12-26,15:00:00,Matchweek 19,Thu,Away,D,1,1,Sheffield Utd,0.6,2.4,42,30222,Troy Deeney,4-2-3-1,David Coote
+ENG-Premier League,1920,Watford,2019-12-28 Watford-Aston Villa,2019-12-28,15:00:00,Matchweek 20,Sat,Home,W,3,0,Aston Villa,2.8,0.6,49,21348,Troy Deeney,4-2-3-1,Simon Hooper
+ENG-Premier League,1920,Watford,2020-01-01 Watford-Wolves,2020-01-01,15:00:00,Matchweek 21,Wed,Home,W,2,1,Wolves,1.1,1.2,37,20584,Troy Deeney,4-2-3-1,Andy Madley
+ENG-Premier League,1920,Watford,2020-01-12 Bournemouth-Watford,2020-01-12,14:00:00,Matchweek 22,Sun,Away,W,3,0,Bournemouth,2.0,0.4,43,10384,Troy Deeney,4-2-3-1,Mike Dean
+ENG-Premier League,1920,Watford,2020-01-18 Watford-Tottenham,2020-01-18,12:30:00,Matchweek 23,Sat,Home,D,0,0,Tottenham,2.5,1.9,42,21366,Troy Deeney,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Watford,2020-01-21 Aston Villa-Watford,2020-01-21,19:30:00,Matchweek 24,Tue,Away,L,1,2,Aston Villa,1.8,1.3,36,40867,Troy Deeney,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Watford,2020-02-01 Watford-Everton,2020-02-01,15:00:00,Matchweek 25,Sat,Home,L,2,3,Everton,0.9,2.2,45,21229,Troy Deeney,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Watford,2020-02-08 Brighton-Watford,2020-02-08,17:30:00,Matchweek 26,Sat,Away,D,1,1,Brighton,0.2,0.8,34,30443,Troy Deeney,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,Watford,2020-02-23 Manchester Utd-Watford,2020-02-23,14:00:00,Matchweek 27,Sun,Away,L,0,3,Manchester Utd,0.3,2.4,43,73347,Troy Deeney,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Watford,2020-02-29 Watford-Liverpool,2020-02-29,17:30:00,Matchweek 28,Sat,Home,W,3,0,Liverpool,2.3,0.3,30,21634,Troy Deeney,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Watford,2020-03-07 Crystal Palace-Watford,2020-03-07,15:00:00,Matchweek 29,Sat,Away,L,0,1,Crystal Palace,0.6,0.8,56,25461,Troy Deeney,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Watford,2020-06-20 Watford-Leicester City,2020-06-20,12:30:00,Matchweek 30,Sat,Home,D,1,1,Leicester City,1.3,1.0,33,,Troy Deeney,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Watford,2020-06-25 Burnley-Watford,2020-06-25,18:00:00,Matchweek 31,Thu,Away,L,0,1,Burnley,0.7,0.9,46,,Troy Deeney,4-4-2,Mike Dean
+ENG-Premier League,1920,Watford,2020-06-28 Watford-Southampton,2020-06-28,16:30:00,Matchweek 32,Sun,Home,L,1,3,Southampton,0.5,1.3,48,,Troy Deeney,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Watford,2020-07-04 Chelsea-Watford,2020-07-04,20:00:00,Matchweek 33,Sat,Away,L,0,3,Chelsea,0.6,2.5,30,,Troy Deeney,4-5-1,Kevin Friend
+ENG-Premier League,1920,Watford,2020-07-07 Watford-Norwich City,2020-07-07,18:00:00,Matchweek 34,Tue,Home,W,2,1,Norwich City,1.2,1.2,44,,Troy Deeney,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,Watford,2020-07-11 Watford-Newcastle Utd,2020-07-11,12:30:00,Matchweek 35,Sat,Home,W,2,1,Newcastle Utd,3.4,1.3,49,,Troy Deeney,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,Watford,2020-07-17 West Ham-Watford,2020-07-17,20:00:00,Matchweek 36,Fri,Away,L,1,3,West Ham,1.5,0.9,59,,Troy Deeney,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,Watford,2020-07-21 Watford-Manchester City,2020-07-21,18:00:00,Matchweek 37,Tue,Home,L,0,4,Manchester City,0.1,3.3,24,,Troy Deeney,4-5-1,Michael Oliver
+ENG-Premier League,1920,Watford,2020-07-26 Arsenal-Watford,2020-07-26,16:00:00,Matchweek 38,Sun,Away,L,2,3,Arsenal,3.7,2.3,50,,Troy Deeney,4-2-2-2,Mike Dean
+ENG-Premier League,1920,West Ham,2019-08-10 West Ham-Manchester City,2019-08-10,12:30:00,Matchweek 1,Sat,Home,L,0,5,Manchester City,1.1,3.2,43,59870,Aaron Cresswell,4-2-3-1,Mike Dean
+ENG-Premier League,1920,West Ham,2019-08-17 Brighton-West Ham,2019-08-17,15:00:00,Matchweek 2,Sat,Away,D,1,1,Brighton,0.8,2.0,43,30459,Angelo Ogbonna,4-1-4-1,Anthony Taylor
+ENG-Premier League,1920,West Ham,2019-08-24 Watford-West Ham,2019-08-24,15:00:00,Matchweek 3,Sat,Away,W,3,1,Watford,3.5,2.3,45,20035,Mark Noble,4-2-3-1,Chris Kavanagh
+ENG-Premier League,1920,West Ham,2019-08-31 West Ham-Norwich City,2019-08-31,15:00:00,Matchweek 4,Sat,Home,W,2,0,Norwich City,2.0,1.4,48,59950,Mark Noble,4-1-4-1,Paul Tierney
+ENG-Premier League,1920,West Ham,2019-09-16 Aston Villa-West Ham,2019-09-16,20:00:00,Matchweek 5,Mon,Away,D,0,0,Aston Villa,0.6,1.3,54,42010,Mark Noble,4-1-4-1,Mike Dean
+ENG-Premier League,1920,West Ham,2019-09-22 West Ham-Manchester Utd,2019-09-22,14:00:00,Matchweek 6,Sun,Home,W,2,0,Manchester Utd,0.4,0.9,47,59936,Mark Noble,4-1-4-1,Anthony Taylor
+ENG-Premier League,1920,West Ham,2019-09-28 Bournemouth-West Ham,2019-09-28,15:00:00,Matchweek 7,Sat,Away,D,2,2,Bournemouth,1.6,1.9,50,10729,Mark Noble,4-1-4-1,Stuart Attwell
+ENG-Premier League,1920,West Ham,2019-10-05 West Ham-Crystal Palace,2019-10-05,17:30:00,Matchweek 8,Sat,Home,L,1,2,Crystal Palace,1.4,2.1,52,59912,Mark Noble,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,West Ham,2019-10-19 Everton-West Ham,2019-10-19,12:30:00,Matchweek 9,Sat,Away,L,0,2,Everton,0.8,2.1,49,39263,Mark Noble,4-1-4-1,Paul Tierney
+ENG-Premier League,1920,West Ham,2019-10-26 West Ham-Sheffield Utd,2019-10-26,15:00:00,Matchweek 10,Sat,Home,D,1,1,Sheffield Utd,2.3,1.0,60,59878,Mark Noble,4-1-4-1,David Coote
+ENG-Premier League,1920,West Ham,2019-11-02 West Ham-Newcastle Utd,2019-11-02,15:00:00,Matchweek 11,Sat,Home,L,2,3,Newcastle Utd,1.8,1.5,70,59907,Mark Noble,4-1-4-1,Stuart Attwell
+ENG-Premier League,1920,West Ham,2019-11-09 Burnley-West Ham,2019-11-09,15:00:00,Matchweek 12,Sat,Away,L,0,3,Burnley,0.5,2.1,59,20255,Mark Noble,4-4-1-1,Kevin Friend
+ENG-Premier League,1920,West Ham,2019-11-23 West Ham-Tottenham,2019-11-23,12:30:00,Matchweek 13,Sat,Home,L,2,3,Tottenham,0.7,2.1,48,59930,Mark Noble,4-4-1-1,Michael Oliver
+ENG-Premier League,1920,West Ham,2019-11-30 Chelsea-West Ham,2019-11-30,15:00:00,Matchweek 14,Sat,Away,W,1,0,Chelsea,0.9,2.3,34,40595,Mark Noble,4-4-1-1,Jonathan Moss
+ENG-Premier League,1920,West Ham,2019-12-04 Wolves-West Ham,2019-12-04,19:30:00,Matchweek 15,Wed,Away,L,0,2,Wolves,0.6,1.5,50,31217,Mark Noble,4-4-1-1,Andre Marriner
+ENG-Premier League,1920,West Ham,2019-12-09 West Ham-Arsenal,2019-12-09,20:00:00,Matchweek 16,Mon,Home,L,1,3,Arsenal,0.6,1.4,36,59936,Mark Noble,4-4-1-1,Mike Dean
+ENG-Premier League,1920,West Ham,2019-12-14 Southampton-West Ham,2019-12-14,17:30:00,Matchweek 17,Sat,Away,W,1,0,Southampton,0.9,0.9,43,27701,Mark Noble,4-4-2,Martin Atkinson
+ENG-Premier League,1920,West Ham,2019-12-26 Crystal Palace-West Ham,2019-12-26,15:00:00,Matchweek 19,Thu,Away,L,1,2,Crystal Palace,0.9,2.7,42,25462,Mark Noble,4-4-2,Andre Marriner
+ENG-Premier League,1920,West Ham,2019-12-28 West Ham-Leicester City,2019-12-28,17:30:00,Matchweek 20,Sat,Home,L,1,2,Leicester City,1.0,2.5,43,59919,Declan Rice,4-2-3-1,David Coote
+ENG-Premier League,1920,West Ham,2020-01-01 West Ham-Bournemouth,2020-01-01,17:30:00,Matchweek 21,Wed,Home,W,4,0,Bournemouth,2.4,0.6,43,59917,Mark Noble,4-4-1-1,Graham Scott
+ENG-Premier League,1920,West Ham,2020-01-10 Sheffield Utd-West Ham,2020-01-10,20:00:00,Matchweek 22,Fri,Away,L,0,1,Sheffield Utd,0.7,1.4,53,30124,Mark Noble,3-4-3,Michael Oliver
+ENG-Premier League,1920,West Ham,2020-01-18 West Ham-Everton,2020-01-18,15:00:00,Matchweek 23,Sat,Home,D,1,1,Everton,1.3,1.7,50,59915,Mark Noble,4-4-1-1,Andre Marriner
+ENG-Premier League,1920,West Ham,2020-01-22 Leicester City-West Ham,2020-01-22,19:30:00,Matchweek 24,Wed,Away,L,1,4,Leicester City,1.6,2.8,33,31968,Mark Noble,5-3-2,David Coote
+ENG-Premier League,1920,West Ham,2020-01-29 West Ham-Liverpool,2020-01-29,19:45:00,Matchweek 18,Wed,Home,L,0,2,Liverpool,0.7,2.8,30,59959,Mark Noble,5-4-1,Jonathan Moss
+ENG-Premier League,1920,West Ham,2020-02-01 West Ham-Brighton,2020-02-01,15:00:00,Matchweek 25,Sat,Home,D,3,3,Brighton,0.8,1.9,35,59952,Mark Noble,4-1-4-1,Michael Oliver
+ENG-Premier League,1920,West Ham,2020-02-19 Manchester City-West Ham,2020-02-19,19:30:00,Matchweek 26,Wed,Away,L,0,2,Manchester City,0.1,2.1,23,52159,Mark Noble,5-3-2,Kevin Friend
+ENG-Premier League,1920,West Ham,2020-02-24 Liverpool-West Ham,2020-02-24,20:00:00,Matchweek 27,Mon,Away,L,2,3,Liverpool,0.7,2.4,31,53313,Mark Noble,4-2-3-1,Jonathan Moss
+ENG-Premier League,1920,West Ham,2020-02-29 West Ham-Southampton,2020-02-29,15:00:00,Matchweek 28,Sat,Home,W,3,1,Southampton,2.3,0.7,35,59962,Mark Noble,4-4-2,Anthony Taylor
+ENG-Premier League,1920,West Ham,2020-03-07 Arsenal-West Ham,2020-03-07,15:00:00,Matchweek 29,Sat,Away,L,0,1,Arsenal,1.5,1.2,32,60335,Mark Noble,4-4-2,Martin Atkinson
+ENG-Premier League,1920,West Ham,2020-06-20 West Ham-Wolves,2020-06-20,17:30:00,Matchweek 30,Sat,Home,L,0,2,Wolves,0.5,1.0,42,,Mark Noble,4-2-3-1,Anthony Taylor
+ENG-Premier League,1920,West Ham,2020-06-23 Tottenham-West Ham,2020-06-23,20:15:00,Matchweek 31,Tue,Away,L,0,2,Tottenham,1.2,2.3,36,,Mark Noble,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,West Ham,2020-07-01 West Ham-Chelsea,2020-07-01,20:15:00,Matchweek 32,Wed,Home,W,3,2,Chelsea,2.2,1.6,29,,Declan Rice,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,West Ham,2020-07-05 Newcastle Utd-West Ham,2020-07-05,14:15:00,Matchweek 33,Sun,Away,D,2,2,Newcastle Utd,2.1,1.4,43,,Declan Rice,4-2-3-1,Craig Pawson
+ENG-Premier League,1920,West Ham,2020-07-08 West Ham-Burnley,2020-07-08,18:00:00,Matchweek 34,Wed,Home,L,0,1,Burnley,1.6,0.9,53,,Declan Rice,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,West Ham,2020-07-11 Norwich City-West Ham,2020-07-11,12:30:00,Matchweek 35,Sat,Away,W,4,0,Norwich City,3.5,0.6,47,,Mark Noble,4-2-3-1,Kevin Friend
+ENG-Premier League,1920,West Ham,2020-07-17 West Ham-Watford,2020-07-17,20:00:00,Matchweek 36,Fri,Home,W,3,1,Watford,0.9,1.5,41,,Mark Noble,4-2-3-1,Martin Atkinson
+ENG-Premier League,1920,West Ham,2020-07-22 Manchester Utd-West Ham,2020-07-22,18:00:00,Matchweek 37,Wed,Away,D,1,1,Manchester Utd,1.5,0.6,43,,Mark Noble,4-2-3-1,Paul Tierney
+ENG-Premier League,1920,West Ham,2020-07-26 West Ham-Aston Villa,2020-07-26,16:00:00,Matchweek 38,Sun,Home,D,1,1,Aston Villa,0.9,1.0,62,,Mark Noble,4-2-3-1,Michael Oliver
+ENG-Premier League,1920,Wolves,2019-08-11 Leicester City-Wolves,2019-08-11,14:00:00,Matchweek 1,Sun,Away,D,0,0,Leicester City,0.7,0.7,31,32015,Conor Coady,3-5-2,Andre Marriner
+ENG-Premier League,1920,Wolves,2019-08-19 Wolves-Manchester Utd,2019-08-19,20:00:00,Matchweek 2,Mon,Home,D,1,1,Manchester Utd,0.3,1.2,35,31314,Conor Coady,3-5-2,Jonathan Moss
+ENG-Premier League,1920,Wolves,2019-08-25 Wolves-Burnley,2019-08-25,16:30:00,Matchweek 3,Sun,Home,D,1,1,Burnley,1.5,1.6,65,30522,Conor Coady,3-5-2,Craig Pawson
+ENG-Premier League,1920,Wolves,2019-09-01 Everton-Wolves,2019-09-01,14:00:00,Matchweek 4,Sun,Away,L,2,3,Everton,2.0,1.3,42,39374,Conor Coady,3-5-2,Anthony Taylor
+ENG-Premier League,1920,Wolves,2019-09-14 Wolves-Chelsea,2019-09-14,15:00:00,Matchweek 5,Sat,Home,L,2,5,Chelsea,1.7,2.7,46,31534,Conor Coady,3-5-2,Graham Scott
+ENG-Premier League,1920,Wolves,2019-09-22 Crystal Palace-Wolves,2019-09-22,14:00:00,Matchweek 6,Sun,Away,D,1,1,Crystal Palace,1.5,0.9,49,25122,Conor Coady,3-4-3,Stuart Attwell
+ENG-Premier League,1920,Wolves,2019-09-28 Wolves-Watford,2019-09-28,15:00:00,Matchweek 7,Sat,Home,W,2,0,Watford,1.4,1.4,39,30711,Conor Coady,3-4-3,Paul Tierney
+ENG-Premier League,1920,Wolves,2019-10-06 Manchester City-Wolves,2019-10-06,14:00:00,Matchweek 8,Sun,Away,W,2,0,Manchester City,1.0,1.4,25,54435,Conor Coady,3-5-2,Craig Pawson
+ENG-Premier League,1920,Wolves,2019-10-19 Wolves-Southampton,2019-10-19,15:00:00,Matchweek 9,Sat,Home,D,1,1,Southampton,0.9,1.4,57,30915,Conor Coady,3-5-2,Peter Bankes
+ENG-Premier League,1920,Wolves,2019-10-27 Newcastle Utd-Wolves,2019-10-27,14:00:00,Matchweek 10,Sun,Away,D,1,1,Newcastle Utd,2.1,1.0,56,46019,Conor Coady,3-5-2,Kevin Friend
+ENG-Premier League,1920,Wolves,2019-11-02 Arsenal-Wolves,2019-11-02,15:00:00,Matchweek 11,Sat,Away,D,1,1,Arsenal,1.8,0.9,43,60383,Conor Coady,3-4-3,Michael Oliver
+ENG-Premier League,1920,Wolves,2019-11-10 Wolves-Aston Villa,2019-11-10,14:00:00,Matchweek 12,Sun,Home,W,2,1,Aston Villa,2.4,0.6,50,31607,Conor Coady,3-4-3,Anthony Taylor
+ENG-Premier League,1920,Wolves,2019-11-23 Bournemouth-Wolves,2019-11-23,15:00:00,Matchweek 13,Sat,Away,W,2,1,Bournemouth,1.1,0.6,53,10539,Conor Coady,3-4-3,Simon Hooper
+ENG-Premier League,1920,Wolves,2019-12-01 Wolves-Sheffield Utd,2019-12-01,14:00:00,Matchweek 14,Sun,Home,D,1,1,Sheffield Utd,1.3,1.5,59,31642,Conor Coady,3-4-3,David Coote
+ENG-Premier League,1920,Wolves,2019-12-04 Wolves-West Ham,2019-12-04,19:30:00,Matchweek 15,Wed,Home,W,2,0,West Ham,1.5,0.6,50,31217,Conor Coady,3-4-3,Andre Marriner
+ENG-Premier League,1920,Wolves,2019-12-08 Brighton-Wolves,2019-12-08,16:30:00,Matchweek 16,Sun,Away,D,2,2,Brighton,1.5,1.2,39,30189,Conor Coady,3-4-3,Jonathan Moss
+ENG-Premier League,1920,Wolves,2019-12-15 Wolves-Tottenham,2019-12-15,14:00:00,Matchweek 17,Sun,Home,L,1,2,Tottenham,0.9,0.9,58,31674,Conor Coady,3-4-3,Stuart Attwell
+ENG-Premier League,1920,Wolves,2019-12-21 Norwich City-Wolves,2019-12-21,15:00:00,Matchweek 18,Sat,Away,W,2,1,Norwich City,1.4,1.3,50,27053,Conor Coady,3-4-3,Peter Bankes
+ENG-Premier League,1920,Wolves,2019-12-27 Wolves-Manchester City,2019-12-27,19:45:00,Matchweek 19,Fri,Home,W,3,2,Manchester City,2.6,1.5,62,31737,Conor Coady,3-4-3,Martin Atkinson
+ENG-Premier League,1920,Wolves,2019-12-29 Liverpool-Wolves,2019-12-29,16:30:00,Matchweek 20,Sun,Away,L,0,1,Liverpool,0.5,1.2,38,53326,Conor Coady,3-5-2,Anthony Taylor
+ENG-Premier League,1920,Wolves,2020-01-01 Watford-Wolves,2020-01-01,15:00:00,Matchweek 21,Wed,Away,L,1,2,Watford,1.2,1.1,63,20584,Conor Coady,3-4-3,Andy Madley
+ENG-Premier League,1920,Wolves,2020-01-11 Wolves-Newcastle Utd,2020-01-11,15:00:00,Matchweek 22,Sat,Home,D,1,1,Newcastle Utd,1.6,0.2,65,31570,Conor Coady,3-4-3,Peter Bankes
+ENG-Premier League,1920,Wolves,2020-01-18 Southampton-Wolves,2020-01-18,15:00:00,Matchweek 23,Sat,Away,W,3,2,Southampton,2.4,0.7,47,31152,Conor Coady,3-4-3,Darren England
+ENG-Premier League,1920,Wolves,2020-01-23 Wolves-Liverpool,2020-01-23,20:00:00,Matchweek 24,Thu,Home,L,1,2,Liverpool,1.8,1.1,47,31746,Conor Coady,3-4-1-2,Michael Oliver
+ENG-Premier League,1920,Wolves,2020-02-01 Manchester Utd-Wolves,2020-02-01,17:30:00,Matchweek 25,Sat,Away,D,0,0,Manchester Utd,1.3,1.0,36,73363,Conor Coady,3-4-3,Paul Tierney
+ENG-Premier League,1920,Wolves,2020-02-14 Wolves-Leicester City,2020-02-14,20:00:00,Matchweek 26,Fri,Home,D,0,0,Leicester City,1.0,0.7,42,31682,Conor Coady,3-4-3,Mike Dean
+ENG-Premier League,1920,Wolves,2020-02-23 Wolves-Norwich City,2020-02-23,14:00:00,Matchweek 27,Sun,Home,W,3,0,Norwich City,2.9,0.4,40,31046,Conor Coady,3-5-2,Chris Kavanagh
+ENG-Premier League,1920,Wolves,2020-03-01 Tottenham-Wolves,2020-03-01,14:00:00,Matchweek 28,Sun,Away,W,3,2,Tottenham,2.6,1.7,35,58064,Conor Coady,3-4-3,Stuart Attwell
+ENG-Premier League,1920,Wolves,2020-03-07 Wolves-Brighton,2020-03-07,15:00:00,Matchweek 29,Sat,Home,D,0,0,Brighton,0.8,0.3,43,31490,Conor Coady,3-5-2,Andre Marriner
+ENG-Premier League,1920,Wolves,2020-06-20 West Ham-Wolves,2020-06-20,17:30:00,Matchweek 30,Sat,Away,W,2,0,West Ham,1.0,0.5,58,,Conor Coady,3-5-2,Anthony Taylor
+ENG-Premier League,1920,Wolves,2020-06-24 Wolves-Bournemouth,2020-06-24,18:00:00,Matchweek 31,Wed,Home,W,1,0,Bournemouth,1.7,0.1,54,,Conor Coady,3-4-3,Michael Oliver
+ENG-Premier League,1920,Wolves,2020-06-27 Aston Villa-Wolves,2020-06-27,12:30:00,Matchweek 32,Sat,Away,W,1,0,Aston Villa,0.7,0.6,52,,Conor Coady,3-5-2,Craig Pawson
+ENG-Premier League,1920,Wolves,2020-07-04 Wolves-Arsenal,2020-07-04,17:30:00,Matchweek 33,Sat,Home,L,0,2,Arsenal,1.2,1.3,53,,Conor Coady,3-5-2,Michael Oliver
+ENG-Premier League,1920,Wolves,2020-07-08 Sheffield Utd-Wolves,2020-07-08,18:00:00,Matchweek 34,Wed,Away,L,0,1,Sheffield Utd,0.4,0.5,56,,Conor Coady,3-4-3,Martin Atkinson
+ENG-Premier League,1920,Wolves,2020-07-12 Wolves-Everton,2020-07-12,12:00:00,Matchweek 35,Sun,Home,W,3,0,Everton,2.6,0.3,55,,Conor Coady,3-4-3,Anthony Taylor
+ENG-Premier League,1920,Wolves,2020-07-15 Burnley-Wolves,2020-07-15,18:00:00,Matchweek 36,Wed,Away,D,1,1,Burnley,1.2,1.9,53,,Conor Coady,3-4-3,Mike Dean
+ENG-Premier League,1920,Wolves,2020-07-20 Wolves-Crystal Palace,2020-07-20,20:15:00,Matchweek 37,Mon,Home,W,2,0,Crystal Palace,1.5,0.4,53,,Conor Coady,3-4-3,Peter Bankes
+ENG-Premier League,1920,Wolves,2020-07-26 Chelsea-Wolves,2020-07-26,16:00:00,Matchweek 38,Sun,Away,L,0,2,Chelsea,0.2,1.4,38,,Conor Coady,3-4-3,Stuart Attwell

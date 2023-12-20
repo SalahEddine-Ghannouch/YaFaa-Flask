@@ -1,0 +1,763 @@
+,,,,date,round,day,venue,result,GF,GA,opponent,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,time
+,,,,,,,,,,,,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,
+league,season,team,game,,,,,,,,,,,,,,,,,,,,,,,
+ENG-Premier League,1718,Arsenal,2017-08-11 Arsenal-Leicester City,2017-08-11,Matchweek 1,Fri,Home,W,4,3,Leicester City,52,40,4,3,4,1,0,8,5,1,0,2,0,0,19:45:00
+ENG-Premier League,1718,Arsenal,2017-08-19 Stoke City-Arsenal,2017-08-19,Matchweek 2,Sat,Away,L,0,1,Stoke City,33,21,4,2,3,1,2,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Arsenal,2017-08-27 Liverpool-Arsenal,2017-08-27,Matchweek 3,Sun,Away,L,0,4,Liverpool,16,12,2,1,0,1,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Arsenal,2017-09-09 Arsenal-Bournemouth,2017-09-09,Matchweek 4,Sat,Home,W,3,0,Bournemouth,31,27,1,1,0,1,1,5,4,0,0,0,0,1,15:00:00
+ENG-Premier League,1718,Arsenal,2017-09-17 Chelsea-Arsenal,2017-09-17,Matchweek 5,Sun,Away,D,0,0,Chelsea,19,11,1,2,3,1,1,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Arsenal,2017-09-25 Arsenal-West Brom,2017-09-25,Matchweek 6,Mon,Home,W,2,0,West Brom,28,16,2,3,2,4,1,3,1,0,0,1,1,0,20:00:00
+ENG-Premier League,1718,Arsenal,2017-10-01 Arsenal-Brighton,2017-10-01,Matchweek 7,Sun,Home,W,2,0,Brighton,40,26,3,4,5,2,0,3,1,0,1,1,0,0,12:00:00
+ENG-Premier League,1718,Arsenal,2017-10-14 Watford-Arsenal,2017-10-14,Matchweek 8,Sat,Away,L,1,2,Watford,17,16,1,0,0,0,0,1,0,1,0,0,0,0,17:30:00
+ENG-Premier League,1718,Arsenal,2017-10-22 Everton-Arsenal,2017-10-22,Matchweek 9,Sun,Away,W,5,2,Everton,50,36,1,4,6,3,0,9,7,0,1,1,0,0,13:30:00
+ENG-Premier League,1718,Arsenal,2017-10-28 Arsenal-Swansea City,2017-10-28,Matchweek 10,Sat,Home,W,2,1,Swansea City,33,28,2,0,1,2,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Arsenal,2017-11-05 Manchester City-Arsenal,2017-11-05,Matchweek 11,Sun,Away,L,1,3,Manchester City,12,10,0,0,0,2,0,2,2,0,0,0,0,0,14:15:00
+ENG-Premier League,1718,Arsenal,2017-11-18 Arsenal-Tottenham,2017-11-18,Matchweek 12,Sat,Home,W,2,0,Tottenham,24,17,1,4,0,2,0,4,2,1,0,0,1,0,12:30:00
+ENG-Premier League,1718,Arsenal,2017-11-26 Burnley-Arsenal,2017-11-26,Matchweek 13,Sun,Away,W,1,0,Burnley,31,25,1,1,2,2,0,2,1,0,0,0,1,0,14:00:00
+ENG-Premier League,1718,Arsenal,2017-11-29 Arsenal-Huddersfield,2017-11-29,Matchweek 14,Wed,Home,W,5,0,Huddersfield,39,31,1,3,3,1,0,10,10,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Arsenal,2017-12-02 Arsenal-Manchester Utd,2017-12-02,Matchweek 15,Sat,Home,L,1,3,Manchester Utd,60,45,2,5,6,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Arsenal,2017-12-10 Southampton-Arsenal,2017-12-10,Matchweek 16,Sun,Away,D,1,1,Southampton,22,17,1,3,0,1,0,2,2,0,0,0,0,0,12:00:00
+ENG-Premier League,1718,Arsenal,2017-12-13 West Ham-Arsenal,2017-12-13,Matchweek 17,Wed,Away,D,0,0,West Ham,42,34,1,0,4,2,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Arsenal,2017-12-16 Arsenal-Newcastle Utd,2017-12-16,Matchweek 18,Sat,Home,W,1,0,Newcastle Utd,42,33,2,5,2,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Arsenal,2017-12-22 Arsenal-Liverpool,2017-12-22,Matchweek 19,Fri,Home,D,3,3,Liverpool,20,16,1,1,1,1,0,6,6,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Arsenal,2017-12-28 Crystal Palace-Arsenal,2017-12-28,Matchweek 20,Thu,Away,W,3,2,Crystal Palace,30,22,0,4,2,2,0,5,3,0,1,1,0,0,20:00:00
+ENG-Premier League,1718,Arsenal,2017-12-31 West Brom-Arsenal,2017-12-31,Matchweek 21,Sun,Away,D,1,1,West Brom,25,20,0,2,1,2,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Arsenal,2018-01-03 Arsenal-Chelsea,2018-01-03,Matchweek 22,Wed,Home,D,2,2,Chelsea,26,24,0,1,0,1,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Arsenal,2018-01-14 Bournemouth-Arsenal,2018-01-14,Matchweek 23,Sun,Away,L,1,2,Bournemouth,22,17,2,1,0,2,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Arsenal,2018-01-20 Arsenal-Crystal Palace,2018-01-20,Matchweek 24,Sat,Home,W,4,1,Crystal Palace,30,23,2,2,2,1,0,7,4,2,0,1,0,0,15:00:00
+ENG-Premier League,1718,Arsenal,2018-01-30 Swansea City-Arsenal,2018-01-30,Matchweek 25,Tue,Away,L,1,3,Swansea City,18,17,0,0,0,1,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Arsenal,2018-02-03 Arsenal-Everton,2018-02-03,Matchweek 26,Sat,Home,W,5,1,Everton,27,22,2,1,1,1,0,9,8,1,0,0,0,0,17:30:00
+ENG-Premier League,1718,Arsenal,2018-02-10 Tottenham-Arsenal,2018-02-10,Matchweek 27,Sat,Away,L,0,1,Tottenham,12,11,0,0,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Arsenal,2018-03-01 Arsenal-Manchester City,2018-03-01,Matchweek 28,Thu,Home,L,0,3,Manchester City,18,14,0,0,2,2,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Arsenal,2018-03-04 Brighton-Arsenal,2018-03-04,Matchweek 29,Sun,Away,L,1,2,Brighton,27,22,2,0,2,1,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Arsenal,2018-03-11 Arsenal-Watford,2018-03-11,Matchweek 30,Sun,Home,W,3,0,Watford,21,16,2,2,0,1,0,6,3,1,1,0,1,0,13:30:00
+ENG-Premier League,1718,Arsenal,2018-04-01 Arsenal-Stoke City,2018-04-01,Matchweek 32,Sun,Home,W,3,0,Stoke City,43,27,3,3,6,4,0,5,1,0,1,1,2,0,13:30:00
+ENG-Premier League,1718,Arsenal,2018-04-08 Arsenal-Southampton,2018-04-08,Matchweek 33,Sun,Home,W,3,2,Southampton,26,23,1,0,1,1,0,6,6,0,0,0,0,0,14:15:00
+ENG-Premier League,1718,Arsenal,2018-04-15 Newcastle Utd-Arsenal,2018-04-15,Matchweek 34,Sun,Away,L,1,2,Newcastle Utd,26,23,2,0,0,1,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Arsenal,2018-04-22 Arsenal-West Ham,2018-04-22,Matchweek 35,Sun,Home,W,4,1,West Ham,35,27,3,3,0,2,0,8,5,1,1,0,1,0,13:30:00
+ENG-Premier League,1718,Arsenal,2018-04-29 Manchester Utd-Arsenal,2018-04-29,Matchweek 36,Sun,Away,L,1,2,Manchester Utd,14,12,0,1,0,0,1,2,1,0,0,0,0,1,16:30:00
+ENG-Premier League,1718,Arsenal,2018-05-06 Arsenal-Burnley,2018-05-06,Matchweek 37,Sun,Home,W,5,0,Burnley,29,24,0,3,1,0,1,9,7,0,1,1,0,0,16:30:00
+ENG-Premier League,1718,Arsenal,2018-05-09 Leicester City-Arsenal,2018-05-09,Matchweek 31,Wed,Away,L,1,3,Leicester City,23,16,1,2,4,0,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Arsenal,2018-05-13 Huddersfield-Arsenal,2018-05-13,Matchweek 38,Sun,Away,W,1,0,Huddersfield,16,9,2,3,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-08-12 West Brom-Bournemouth,2017-08-12,Matchweek 1,Sat,Away,L,0,1,West Brom,15,13,1,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-08-19 Bournemouth-Watford,2017-08-19,Matchweek 2,Sat,Home,L,0,2,Watford,9,7,1,0,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-08-26 Bournemouth-Manchester City,2017-08-26,Matchweek 3,Sat,Home,L,1,2,Manchester City,15,8,2,1,2,1,1,2,1,0,0,1,0,0,12:30:00
+ENG-Premier League,1718,Bournemouth,2017-09-09 Arsenal-Bournemouth,2017-09-09,Matchweek 4,Sat,Away,L,0,3,Arsenal,12,8,1,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-09-15 Bournemouth-Brighton,2017-09-15,Matchweek 5,Fri,Home,W,2,1,Brighton,23,15,2,4,0,2,0,4,2,0,2,0,0,0,20:00:00
+ENG-Premier League,1718,Bournemouth,2017-09-23 Everton-Bournemouth,2017-09-23,Matchweek 6,Sat,Away,L,1,2,Everton,12,9,2,1,0,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-09-30 Bournemouth-Leicester City,2017-09-30,Matchweek 7,Sat,Home,D,0,0,Leicester City,36,31,1,1,3,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-10-14 Tottenham-Bournemouth,2017-10-14,Matchweek 8,Sat,Away,L,0,1,Tottenham,7,7,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-10-21 Stoke City-Bournemouth,2017-10-21,Matchweek 9,Sat,Away,W,2,1,Stoke City,13,10,0,2,0,1,0,4,3,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-10-28 Bournemouth-Chelsea,2017-10-28,Matchweek 10,Sat,Home,L,0,1,Chelsea,13,13,0,0,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Bournemouth,2017-11-04 Newcastle Utd-Bournemouth,2017-11-04,Matchweek 11,Sat,Away,W,1,0,Newcastle Utd,29,21,3,1,2,1,1,2,0,1,0,1,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-11-18 Bournemouth-Huddersfield,2017-11-18,Matchweek 12,Sat,Home,W,4,0,Huddersfield,16,9,4,0,0,1,2,6,2,2,0,0,1,1,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-11-25 Swansea City-Bournemouth,2017-11-25,Matchweek 13,Sat,Away,D,0,0,Swansea City,18,16,0,2,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-11-29 Bournemouth-Burnley,2017-11-29,Matchweek 14,Wed,Home,L,1,2,Burnley,20,16,2,0,2,0,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Bournemouth,2017-12-03 Bournemouth-Southampton,2017-12-03,Matchweek 15,Sun,Home,D,1,1,Southampton,29,23,2,0,2,2,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Bournemouth,2017-12-09 Crystal Palace-Bournemouth,2017-12-09,Matchweek 16,Sat,Away,D,2,2,Crystal Palace,21,19,0,1,0,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-12-13 Manchester Utd-Bournemouth,2017-12-13,Matchweek 17,Wed,Away,L,0,1,Manchester Utd,25,21,2,1,1,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Bournemouth,2017-12-17 Bournemouth-Liverpool,2017-12-17,Matchweek 18,Sun,Home,L,0,4,Liverpool,11,8,1,1,0,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Bournemouth,2017-12-23 Manchester City-Bournemouth,2017-12-23,Matchweek 19,Sat,Away,L,0,4,Manchester City,9,5,2,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-12-26 Bournemouth-West Ham,2017-12-26,Matchweek 20,Tue,Home,D,3,3,West Ham,42,29,5,2,2,4,0,6,5,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2017-12-30 Bournemouth-Everton,2017-12-30,Matchweek 21,Sat,Home,W,2,1,Everton,34,21,4,6,1,1,1,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-01-01 Brighton-Bournemouth,2018-01-01,Matchweek 22,Mon,Away,D,2,2,Brighton,44,23,7,3,6,3,2,4,1,1,0,2,0,0,12:30:00
+ENG-Premier League,1718,Bournemouth,2018-01-14 Bournemouth-Arsenal,2018-01-14,Matchweek 23,Sun,Home,W,2,1,Arsenal,20,14,1,3,0,1,1,4,4,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Bournemouth,2018-01-20 West Ham-Bournemouth,2018-01-20,Matchweek 24,Sat,Away,D,1,1,West Ham,12,11,0,1,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-01-31 Chelsea-Bournemouth,2018-01-31,Matchweek 25,Wed,Away,W,3,0,Chelsea,19,14,3,1,1,0,0,5,4,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Bournemouth,2018-02-03 Bournemouth-Stoke City,2018-02-03,Matchweek 26,Sat,Home,W,2,1,Stoke City,27,20,2,2,1,2,0,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-02-11 Huddersfield-Bournemouth,2018-02-11,Matchweek 27,Sun,Away,L,1,4,Huddersfield,13,11,1,1,0,0,0,2,2,0,0,0,0,0,12:00:00
+ENG-Premier League,1718,Bournemouth,2018-02-24 Bournemouth-Newcastle Utd,2018-02-24,Matchweek 28,Sat,Home,D,2,2,Newcastle Utd,31,24,3,1,1,2,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-03-03 Leicester City-Bournemouth,2018-03-03,Matchweek 29,Sat,Away,D,1,1,Leicester City,13,9,0,2,0,1,1,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-03-11 Bournemouth-Tottenham,2018-03-11,Matchweek 30,Sun,Home,L,1,4,Tottenham,24,17,1,3,2,1,0,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Bournemouth,2018-03-17 Bournemouth-West Brom,2018-03-17,Matchweek 31,Sat,Home,W,2,1,West Brom,33,23,2,2,1,4,1,4,2,0,1,0,1,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-03-31 Watford-Bournemouth,2018-03-31,Matchweek 32,Sat,Away,D,2,2,Watford,24,15,3,1,2,1,2,3,1,1,0,1,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-04-07 Bournemouth-Crystal Palace,2018-04-07,Matchweek 33,Sat,Home,D,2,2,Crystal Palace,33,20,5,2,2,2,2,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-04-14 Liverpool-Bournemouth,2018-04-14,Matchweek 34,Sat,Away,L,0,3,Liverpool,12,10,1,0,1,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Bournemouth,2018-04-18 Bournemouth-Manchester Utd,2018-04-18,Matchweek 35,Wed,Home,L,0,2,Manchester Utd,25,17,3,3,1,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Bournemouth,2018-04-28 Southampton-Bournemouth,2018-04-28,Matchweek 36,Sat,Away,L,1,2,Southampton,26,18,3,3,1,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-05-05 Bournemouth-Swansea City,2018-05-05,Matchweek 37,Sat,Home,W,1,0,Swansea City,17,9,4,0,2,2,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,Bournemouth,2018-05-13 Burnley-Bournemouth,2018-05-13,Matchweek 38,Sun,Away,W,2,1,Burnley,27,18,4,0,3,1,1,3,2,0,0,0,0,1,15:00:00
+ENG-Premier League,1718,Brighton,2017-08-12 Brighton-Manchester City,2017-08-12,Matchweek 1,Sat,Home,L,0,2,Manchester City,9,3,1,0,4,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Brighton,2017-08-19 Leicester City-Brighton,2017-08-19,Matchweek 2,Sat,Away,L,0,2,Leicester City,8,8,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-08-26 Watford-Brighton,2017-08-26,Matchweek 3,Sat,Away,D,0,0,Watford,27,21,3,0,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-09-09 Brighton-West Brom,2017-09-09,Matchweek 4,Sat,Home,W,3,1,West Brom,24,22,2,0,0,0,0,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-09-15 Bournemouth-Brighton,2017-09-15,Matchweek 5,Fri,Away,L,1,2,Bournemouth,16,5,4,4,3,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Brighton,2017-09-24 Brighton-Newcastle Utd,2017-09-24,Matchweek 6,Sun,Home,W,1,0,Newcastle Utd,14,11,2,1,0,0,0,2,1,1,0,0,0,0,16:00:00
+ENG-Premier League,1718,Brighton,2017-10-01 Arsenal-Brighton,2017-10-01,Matchweek 7,Sun,Away,L,0,2,Arsenal,17,10,3,2,0,1,1,0,0,0,0,0,0,0,12:00:00
+ENG-Premier League,1718,Brighton,2017-10-15 Brighton-Everton,2017-10-15,Matchweek 8,Sun,Home,D,1,1,Everton,18,10,2,2,3,1,0,2,1,0,0,1,0,0,13:30:00
+ENG-Premier League,1718,Brighton,2017-10-20 West Ham-Brighton,2017-10-20,Matchweek 9,Fri,Away,W,3,0,West Ham,12,6,2,2,0,2,0,6,2,1,1,0,2,0,20:00:00
+ENG-Premier League,1718,Brighton,2017-10-29 Brighton-Southampton,2017-10-29,Matchweek 10,Sun,Home,D,1,1,Southampton,14,10,1,2,0,1,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Brighton,2017-11-04 Swansea City-Brighton,2017-11-04,Matchweek 11,Sat,Away,W,1,0,Swansea City,6,4,1,0,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-11-20 Brighton-Stoke City,2017-11-20,Matchweek 12,Mon,Home,D,2,2,Stoke City,17,11,2,3,0,1,0,3,2,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Brighton,2017-11-25 Manchester Utd-Brighton,2017-11-25,Matchweek 13,Sat,Away,L,0,1,Manchester Utd,16,13,1,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-11-28 Brighton-Crystal Palace,2017-11-28,Matchweek 14,Tue,Home,D,0,0,Crystal Palace,18,10,6,1,1,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Brighton,2017-12-02 Brighton-Liverpool,2017-12-02,Matchweek 15,Sat,Home,L,1,5,Liverpool,9,5,1,1,0,2,0,1,0,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-12-09 Huddersfield-Brighton,2017-12-09,Matchweek 16,Sat,Away,L,0,2,Huddersfield,12,9,2,0,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-12-13 Tottenham-Brighton,2017-12-13,Matchweek 17,Wed,Away,L,0,2,Tottenham,11,9,1,0,0,0,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Brighton,2017-12-16 Brighton-Burnley,2017-12-16,Matchweek 18,Sat,Home,D,0,0,Burnley,22,15,1,1,1,3,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-12-23 Brighton-Watford,2017-12-23,Matchweek 19,Sat,Home,W,1,0,Watford,26,19,4,2,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-12-26 Chelsea-Brighton,2017-12-26,Matchweek 20,Tue,Away,L,0,2,Chelsea,15,10,1,1,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2017-12-30 Newcastle Utd-Brighton,2017-12-30,Matchweek 21,Sat,Away,D,0,0,Newcastle Utd,17,9,4,3,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-01-01 Brighton-Bournemouth,2018-01-01,Matchweek 22,Mon,Home,D,2,2,Bournemouth,25,20,0,2,2,0,1,3,2,0,0,1,0,0,12:30:00
+ENG-Premier League,1718,Brighton,2018-01-13 West Brom-Brighton,2018-01-13,Matchweek 23,Sat,Away,L,0,2,West Brom,23,18,1,0,3,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-01-20 Brighton-Chelsea,2018-01-20,Matchweek 24,Sat,Home,L,0,4,Chelsea,20,15,2,1,0,1,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Brighton,2018-01-31 Southampton-Brighton,2018-01-31,Matchweek 25,Wed,Away,D,1,1,Southampton,17,14,0,1,0,2,0,2,1,0,0,0,1,0,19:45:00
+ENG-Premier League,1718,Brighton,2018-02-03 Brighton-West Ham,2018-02-03,Matchweek 26,Sat,Home,W,3,1,West Ham,38,32,2,2,2,0,0,5,5,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-02-10 Stoke City-Brighton,2018-02-10,Matchweek 27,Sat,Away,D,1,1,Stoke City,26,21,4,1,0,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-02-24 Brighton-Swansea City,2018-02-24,Matchweek 28,Sat,Home,W,4,1,Swansea City,28,21,2,2,2,1,0,7,5,0,0,1,1,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-03-04 Brighton-Arsenal,2018-03-04,Matchweek 29,Sun,Home,W,2,1,Arsenal,24,17,4,2,1,0,0,4,3,1,0,0,0,0,13:30:00
+ENG-Premier League,1718,Brighton,2018-03-10 Everton-Brighton,2018-03-10,Matchweek 30,Sat,Away,L,0,2,Everton,14,11,1,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-03-31 Brighton-Leicester City,2018-03-31,Matchweek 32,Sat,Home,L,0,2,Leicester City,24,16,1,1,1,4,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-04-07 Brighton-Huddersfield,2018-04-07,Matchweek 33,Sat,Home,D,1,1,Huddersfield,26,18,3,1,3,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-04-14 Crystal Palace-Brighton,2018-04-14,Matchweek 34,Sat,Away,L,2,3,Crystal Palace,20,14,3,1,2,0,0,3,1,0,1,1,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-04-17 Brighton-Tottenham,2018-04-17,Matchweek 35,Tue,Home,D,1,1,Tottenham,15,9,2,2,0,1,1,2,1,0,0,0,1,0,19:45:00
+ENG-Premier League,1718,Brighton,2018-04-28 Burnley-Brighton,2018-04-28,Matchweek 36,Sat,Away,D,0,0,Burnley,20,17,2,0,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Brighton,2018-05-04 Brighton-Manchester Utd,2018-05-04,Matchweek 37,Fri,Home,W,1,0,Manchester Utd,21,15,1,3,1,0,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Brighton,2018-05-09 Manchester City-Brighton,2018-05-09,Matchweek 31,Wed,Away,L,1,3,Manchester City,11,8,1,0,1,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Brighton,2018-05-13 Liverpool-Brighton,2018-05-13,Matchweek 38,Sun,Away,L,0,4,Liverpool,4,3,0,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-08-12 Chelsea-Burnley,2017-08-12,Matchweek 1,Sat,Away,W,3,2,Chelsea,19,8,5,1,1,4,0,6,4,1,1,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-08-19 Burnley-West Brom,2017-08-19,Matchweek 2,Sat,Home,L,0,1,West Brom,36,26,3,2,3,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-08-27 Tottenham-Burnley,2017-08-27,Matchweek 3,Sun,Away,D,1,1,Tottenham,24,15,5,0,2,1,1,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Burnley,2017-09-10 Burnley-Crystal Palace,2017-09-10,Matchweek 4,Sun,Home,W,1,0,Crystal Palace,5,4,0,1,0,0,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Burnley,2017-09-16 Liverpool-Burnley,2017-09-16,Matchweek 5,Sat,Away,D,1,1,Liverpool,8,3,3,0,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-09-23 Burnley-Huddersfield,2017-09-23,Matchweek 6,Sat,Home,D,0,0,Huddersfield,6,6,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-10-01 Everton-Burnley,2017-10-01,Matchweek 7,Sun,Away,W,1,0,Everton,9,7,1,1,0,0,0,2,1,0,1,0,0,0,14:15:00
+ENG-Premier League,1718,Burnley,2017-10-14 Burnley-West Ham,2017-10-14,Matchweek 8,Sat,Home,D,1,1,West Ham,37,26,4,3,2,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-10-21 Manchester City-Burnley,2017-10-21,Matchweek 9,Sat,Away,L,0,3,Manchester City,11,7,1,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-10-30 Burnley-Newcastle Utd,2017-10-30,Matchweek 10,Mon,Home,W,1,0,Newcastle Utd,21,14,4,1,1,1,0,2,1,0,0,1,0,0,20:00:00
+ENG-Premier League,1718,Burnley,2017-11-04 Southampton-Burnley,2017-11-04,Matchweek 11,Sat,Away,W,1,0,Southampton,8,8,0,0,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-11-18 Burnley-Swansea City,2017-11-18,Matchweek 12,Sat,Home,W,2,0,Swansea City,29,22,4,1,1,1,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-11-26 Burnley-Arsenal,2017-11-26,Matchweek 13,Sun,Home,L,0,1,Arsenal,15,10,2,1,0,1,1,0,0,0,0,0,0,0,14:00:00
+ENG-Premier League,1718,Burnley,2017-11-29 Bournemouth-Burnley,2017-11-29,Matchweek 14,Wed,Away,W,2,1,Bournemouth,19,12,2,2,1,2,0,3,2,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Burnley,2017-12-02 Leicester City-Burnley,2017-12-02,Matchweek 15,Sat,Away,L,0,1,Leicester City,24,17,4,1,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-12-09 Burnley-Watford,2017-12-09,Matchweek 16,Sat,Home,W,1,0,Watford,15,12,0,1,0,2,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-12-12 Burnley-Stoke City,2017-12-12,Matchweek 17,Tue,Home,W,1,0,Stoke City,15,8,3,0,1,3,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Burnley,2017-12-16 Brighton-Burnley,2017-12-16,Matchweek 18,Sat,Away,D,0,0,Brighton,19,12,1,2,3,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-12-23 Burnley-Tottenham,2017-12-23,Matchweek 19,Sat,Home,L,0,3,Tottenham,9,4,2,2,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Burnley,2017-12-26 Manchester Utd-Burnley,2017-12-26,Matchweek 20,Tue,Away,D,2,2,Manchester Utd,6,4,0,1,0,1,0,4,2,0,1,0,1,0,15:00:00
+ENG-Premier League,1718,Burnley,2017-12-30 Huddersfield-Burnley,2017-12-30,Matchweek 21,Sat,Away,D,0,0,Huddersfield,22,14,2,3,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-01-01 Burnley-Liverpool,2018-01-01,Matchweek 22,Mon,Home,L,1,2,Liverpool,21,15,3,1,1,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-01-13 Crystal Palace-Burnley,2018-01-13,Matchweek 23,Sat,Away,L,0,1,Crystal Palace,16,15,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-01-20 Burnley-Manchester Utd,2018-01-20,Matchweek 24,Sat,Home,L,0,1,Manchester Utd,27,18,5,1,0,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-01-31 Newcastle Utd-Burnley,2018-01-31,Matchweek 25,Wed,Away,D,1,1,Newcastle Utd,20,12,4,1,3,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Burnley,2018-02-03 Burnley-Manchester City,2018-02-03,Matchweek 26,Sat,Home,D,1,1,Manchester City,16,11,2,1,1,1,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Burnley,2018-02-10 Swansea City-Burnley,2018-02-10,Matchweek 27,Sat,Away,L,0,1,Swansea City,23,13,4,0,0,4,2,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-02-24 Burnley-Southampton,2018-02-24,Matchweek 28,Sat,Home,D,1,1,Southampton,14,10,1,0,2,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-03-03 Burnley-Everton,2018-03-03,Matchweek 29,Sat,Home,W,2,1,Everton,37,27,3,0,5,0,2,4,2,1,0,1,0,0,12:30:00
+ENG-Premier League,1718,Burnley,2018-03-10 West Ham-Burnley,2018-03-10,Matchweek 30,Sat,Away,W,3,0,West Ham,13,10,1,0,1,1,0,5,4,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-03-31 West Brom-Burnley,2018-03-31,Matchweek 32,Sat,Away,W,2,1,West Brom,15,12,1,1,1,0,0,2,1,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-04-07 Watford-Burnley,2018-04-07,Matchweek 33,Sat,Away,W,2,1,Watford,14,9,2,1,0,2,0,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-04-14 Burnley-Leicester City,2018-04-14,Matchweek 34,Sat,Home,W,2,1,Leicester City,12,7,2,0,2,1,0,3,1,1,0,1,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-04-19 Burnley-Chelsea,2018-04-19,Matchweek 31,Thu,Home,L,1,2,Chelsea,8,5,1,0,1,1,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Burnley,2018-04-22 Stoke City-Burnley,2018-04-22,Matchweek 35,Sun,Away,D,1,1,Stoke City,29,15,4,2,4,3,1,1,0,0,0,1,0,0,13:30:00
+ENG-Premier League,1718,Burnley,2018-04-28 Burnley-Brighton,2018-04-28,Matchweek 36,Sat,Home,D,0,0,Brighton,17,8,2,2,2,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Burnley,2018-05-06 Arsenal-Burnley,2018-05-06,Matchweek 37,Sun,Away,L,0,5,Arsenal,9,5,2,1,1,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Burnley,2018-05-13 Burnley-Bournemouth,2018-05-13,Matchweek 38,Sun,Home,L,1,2,Bournemouth,16,10,4,1,1,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-08-12 Chelsea-Burnley,2017-08-12,Matchweek 1,Sat,Home,L,2,3,Burnley,37,29,2,2,2,2,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-08-20 Tottenham-Chelsea,2017-08-20,Matchweek 2,Sun,Away,W,2,1,Tottenham,17,14,0,1,0,2,0,4,2,0,0,0,2,0,16:00:00
+ENG-Premier League,1718,Chelsea,2017-08-27 Chelsea-Everton,2017-08-27,Matchweek 3,Sun,Home,W,2,0,Everton,33,26,2,4,1,0,0,4,4,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Chelsea,2017-09-09 Leicester City-Chelsea,2017-09-09,Matchweek 4,Sat,Away,W,2,1,Leicester City,28,24,0,2,0,1,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-09-17 Chelsea-Arsenal,2017-09-17,Matchweek 5,Sun,Home,D,0,0,Arsenal,26,17,2,2,2,3,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Chelsea,2017-09-23 Stoke City-Chelsea,2017-09-23,Matchweek 6,Sat,Away,W,4,0,Stoke City,10,8,0,2,0,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-09-30 Chelsea-Manchester City,2017-09-30,Matchweek 7,Sat,Home,L,0,1,Manchester City,8,4,2,0,0,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Chelsea,2017-10-14 Crystal Palace-Chelsea,2017-10-14,Matchweek 8,Sat,Away,L,1,2,Crystal Palace,28,18,5,1,2,1,1,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-10-21 Chelsea-Watford,2017-10-21,Matchweek 9,Sat,Home,W,4,2,Watford,23,17,3,1,1,1,0,7,5,1,1,0,0,0,12:30:00
+ENG-Premier League,1718,Chelsea,2017-10-28 Bournemouth-Chelsea,2017-10-28,Matchweek 10,Sat,Away,W,1,0,Bournemouth,32,25,2,2,2,0,1,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Chelsea,2017-11-05 Chelsea-Manchester Utd,2017-11-05,Matchweek 11,Sun,Home,W,1,0,Manchester Utd,32,21,6,0,2,2,1,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Chelsea,2017-11-18 West Brom-Chelsea,2017-11-18,Matchweek 12,Sat,Away,W,4,0,West Brom,19,12,1,4,1,1,0,7,2,1,2,1,1,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-11-25 Liverpool-Chelsea,2017-11-25,Matchweek 13,Sat,Away,D,1,1,Liverpool,20,15,2,1,1,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Chelsea,2017-11-29 Chelsea-Swansea City,2017-11-29,Matchweek 14,Wed,Home,W,1,0,Swansea City,34,19,7,3,5,0,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Chelsea,2017-12-02 Chelsea-Newcastle Utd,2017-12-02,Matchweek 15,Sat,Home,W,3,1,Newcastle Utd,44,32,4,5,2,1,0,6,5,0,0,0,1,0,12:30:00
+ENG-Premier League,1718,Chelsea,2017-12-09 West Ham-Chelsea,2017-12-09,Matchweek 16,Sat,Away,L,0,1,West Ham,35,32,0,1,1,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Chelsea,2017-12-12 Huddersfield-Chelsea,2017-12-12,Matchweek 17,Tue,Away,W,3,1,Huddersfield,21,18,2,0,0,1,0,6,6,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Chelsea,2017-12-16 Chelsea-Southampton,2017-12-16,Matchweek 18,Sat,Home,W,1,0,Southampton,45,31,2,7,1,3,1,2,0,0,1,0,1,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-12-23 Everton-Chelsea,2017-12-23,Matchweek 19,Sat,Away,D,0,0,Everton,45,33,2,2,6,1,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Chelsea,2017-12-26 Chelsea-Brighton,2017-12-26,Matchweek 20,Tue,Home,W,2,0,Brighton,49,38,3,4,2,2,0,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Chelsea,2017-12-30 Chelsea-Stoke City,2017-12-30,Matchweek 21,Sat,Home,W,5,0,Stoke City,37,26,3,2,3,3,0,8,4,1,0,1,2,0,15:00:00
+ENG-Premier League,1718,Chelsea,2018-01-03 Arsenal-Chelsea,2018-01-03,Matchweek 22,Wed,Away,D,2,2,Arsenal,35,21,5,3,2,4,0,4,1,0,2,0,1,0,19:45:00
+ENG-Premier League,1718,Chelsea,2018-01-13 Chelsea-Leicester City,2018-01-13,Matchweek 23,Sat,Home,D,0,0,Leicester City,34,29,1,3,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Chelsea,2018-01-20 Brighton-Chelsea,2018-01-20,Matchweek 24,Sat,Away,W,4,0,Brighton,26,19,1,3,0,3,0,7,7,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Chelsea,2018-01-31 Chelsea-Bournemouth,2018-01-31,Matchweek 25,Wed,Home,L,0,3,Bournemouth,41,31,2,4,1,2,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Chelsea,2018-02-05 Watford-Chelsea,2018-02-05,Matchweek 26,Mon,Away,L,1,4,Watford,14,12,0,2,0,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Chelsea,2018-02-12 Chelsea-West Brom,2018-02-12,Matchweek 27,Mon,Home,W,3,0,West Brom,38,29,3,3,1,2,0,6,6,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Chelsea,2018-02-25 Manchester Utd-Chelsea,2018-02-25,Matchweek 28,Sun,Away,L,1,2,Manchester Utd,27,20,1,2,2,2,0,2,2,0,0,0,0,0,14:05:00
+ENG-Premier League,1718,Chelsea,2018-03-04 Manchester City-Chelsea,2018-03-04,Matchweek 29,Sun,Away,L,0,1,Manchester City,4,4,0,0,0,0,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Chelsea,2018-03-10 Chelsea-Crystal Palace,2018-03-10,Matchweek 30,Sat,Home,W,2,1,Crystal Palace,49,40,2,3,3,1,0,2,1,0,1,0,0,0,17:30:00
+ENG-Premier League,1718,Chelsea,2018-04-01 Chelsea-Tottenham,2018-04-01,Matchweek 32,Sun,Home,L,1,3,Tottenham,24,19,2,2,0,0,1,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Chelsea,2018-04-08 Chelsea-West Ham,2018-04-08,Matchweek 33,Sun,Home,D,1,1,West Ham,44,37,4,1,1,0,1,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Chelsea,2018-04-14 Southampton-Chelsea,2018-04-14,Matchweek 34,Sat,Away,W,3,2,Southampton,31,23,5,2,0,1,0,6,4,2,0,0,0,0,12:30:00
+ENG-Premier League,1718,Chelsea,2018-04-19 Burnley-Chelsea,2018-04-19,Matchweek 31,Thu,Away,W,2,1,Burnley,30,25,1,1,1,1,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Chelsea,2018-04-28 Swansea City-Chelsea,2018-04-28,Matchweek 36,Sat,Away,W,1,0,Swansea City,21,14,2,2,2,0,1,2,1,0,1,0,0,0,17:30:00
+ENG-Premier League,1718,Chelsea,2018-05-06 Chelsea-Liverpool,2018-05-06,Matchweek 37,Sun,Home,W,1,0,Liverpool,24,20,1,2,1,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Chelsea,2018-05-09 Chelsea-Huddersfield,2018-05-09,Matchweek 35,Wed,Home,D,1,1,Huddersfield,39,27,3,1,6,1,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Chelsea,2018-05-13 Newcastle Utd-Chelsea,2018-05-13,Matchweek 38,Sun,Away,L,0,3,Newcastle Utd,10,9,0,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-08-12 Crystal Palace-Huddersfield,2017-08-12,Matchweek 1,Sat,Home,L,0,3,Huddersfield,21,5,6,3,0,5,2,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-08-19 Liverpool-Crystal Palace,2017-08-19,Matchweek 2,Sat,Away,L,0,1,Liverpool,8,4,1,1,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-08-26 Crystal Palace-Swansea City,2017-08-26,Matchweek 3,Sat,Home,L,0,2,Swansea City,32,26,2,2,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-09-10 Burnley-Crystal Palace,2017-09-10,Matchweek 4,Sun,Away,L,0,1,Burnley,42,29,2,6,3,2,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Crystal Palace,2017-09-16 Crystal Palace-Southampton,2017-09-16,Matchweek 5,Sat,Home,L,0,1,Southampton,26,17,3,4,1,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Crystal Palace,2017-09-23 Manchester City-Crystal Palace,2017-09-23,Matchweek 6,Sat,Away,L,0,5,Manchester City,8,5,1,2,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-09-30 Manchester Utd-Crystal Palace,2017-09-30,Matchweek 7,Sat,Away,L,0,4,Manchester Utd,12,9,1,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-10-14 Crystal Palace-Chelsea,2017-10-14,Matchweek 8,Sat,Home,W,2,1,Chelsea,24,14,2,3,1,2,2,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-10-21 Newcastle Utd-Crystal Palace,2017-10-21,Matchweek 9,Sat,Away,L,0,1,Newcastle Utd,19,15,1,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-10-28 Crystal Palace-West Ham,2017-10-28,Matchweek 10,Sat,Home,D,2,2,West Ham,31,16,6,0,4,4,1,4,3,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-11-05 Tottenham-Crystal Palace,2017-11-05,Matchweek 11,Sun,Away,L,0,1,Tottenham,17,7,3,4,3,0,0,0,0,0,0,0,0,0,12:00:00
+ENG-Premier League,1718,Crystal Palace,2017-11-18 Crystal Palace-Everton,2017-11-18,Matchweek 12,Sat,Home,D,2,2,Everton,24,13,4,2,2,3,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-11-25 Crystal Palace-Stoke City,2017-11-25,Matchweek 13,Sat,Home,W,2,1,Stoke City,18,12,0,2,2,1,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-11-28 Brighton-Crystal Palace,2017-11-28,Matchweek 14,Tue,Away,D,0,0,Brighton,16,11,2,1,1,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Crystal Palace,2017-12-02 West Brom-Crystal Palace,2017-12-02,Matchweek 15,Sat,Away,D,0,0,West Brom,18,8,4,2,3,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-12-09 Crystal Palace-Bournemouth,2017-12-09,Matchweek 16,Sat,Home,D,2,2,Bournemouth,43,28,4,3,3,4,1,4,3,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-12-12 Crystal Palace-Watford,2017-12-12,Matchweek 17,Tue,Home,W,2,1,Watford,20,11,2,2,3,2,0,3,1,0,1,1,0,0,20:00:00
+ENG-Premier League,1718,Crystal Palace,2017-12-16 Leicester City-Crystal Palace,2017-12-16,Matchweek 18,Sat,Away,W,3,0,Leicester City,25,16,0,7,1,0,1,6,5,0,1,0,0,0,12:30:00
+ENG-Premier League,1718,Crystal Palace,2017-12-23 Swansea City-Crystal Palace,2017-12-23,Matchweek 19,Sat,Away,D,1,1,Swansea City,23,12,2,6,2,1,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2017-12-28 Crystal Palace-Arsenal,2017-12-28,Matchweek 20,Thu,Home,L,2,3,Arsenal,26,17,3,3,1,2,0,4,2,1,0,1,0,0,20:00:00
+ENG-Premier League,1718,Crystal Palace,2017-12-31 Crystal Palace-Manchester City,2017-12-31,Matchweek 21,Sun,Home,D,0,0,Manchester City,19,6,3,4,2,3,1,0,0,0,0,0,0,0,12:00:00
+ENG-Premier League,1718,Crystal Palace,2018-01-02 Southampton-Crystal Palace,2018-01-02,Matchweek 22,Tue,Away,W,2,1,Southampton,21,17,1,2,1,0,0,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Crystal Palace,2018-01-13 Crystal Palace-Burnley,2018-01-13,Matchweek 23,Sat,Home,W,1,0,Burnley,26,13,5,2,4,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-01-20 Arsenal-Crystal Palace,2018-01-20,Matchweek 24,Sat,Away,L,1,4,Arsenal,15,12,3,0,0,0,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-01-30 West Ham-Crystal Palace,2018-01-30,Matchweek 25,Tue,Away,D,1,1,West Ham,17,11,2,1,1,2,0,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Crystal Palace,2018-02-04 Crystal Palace-Newcastle Utd,2018-02-04,Matchweek 26,Sun,Home,D,1,1,Newcastle Utd,39,30,2,2,3,2,0,2,1,0,0,0,1,0,14:15:00
+ENG-Premier League,1718,Crystal Palace,2018-02-10 Everton-Crystal Palace,2018-02-10,Matchweek 27,Sat,Away,L,1,3,Everton,29,21,2,1,3,1,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-02-25 Crystal Palace-Tottenham,2018-02-25,Matchweek 28,Sun,Home,L,0,1,Tottenham,9,5,2,0,0,1,1,0,0,0,0,0,0,0,12:00:00
+ENG-Premier League,1718,Crystal Palace,2018-03-05 Crystal Palace-Manchester Utd,2018-03-05,Matchweek 29,Mon,Home,L,2,3,Manchester Utd,19,12,2,4,0,1,0,4,2,1,0,0,1,0,20:00:00
+ENG-Premier League,1718,Crystal Palace,2018-03-10 Chelsea-Crystal Palace,2018-03-10,Matchweek 30,Sat,Away,L,1,2,Chelsea,14,9,1,1,2,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Crystal Palace,2018-03-17 Huddersfield-Crystal Palace,2018-03-17,Matchweek 31,Sat,Away,W,2,0,Huddersfield,28,15,3,5,2,3,0,3,1,0,0,1,1,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-03-31 Crystal Palace-Liverpool,2018-03-31,Matchweek 32,Sat,Home,L,1,2,Liverpool,10,6,0,1,0,1,2,2,1,0,0,0,1,0,12:30:00
+ENG-Premier League,1718,Crystal Palace,2018-04-07 Bournemouth-Crystal Palace,2018-04-07,Matchweek 33,Sat,Away,D,2,2,Bournemouth,24,20,0,2,0,1,1,4,2,0,1,0,1,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-04-14 Crystal Palace-Brighton,2018-04-14,Matchweek 34,Sat,Home,W,3,2,Brighton,27,17,2,3,4,1,0,4,2,0,0,2,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-04-21 Watford-Crystal Palace,2018-04-21,Matchweek 35,Sat,Away,D,0,0,Watford,12,5,3,0,0,3,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-04-28 Crystal Palace-Leicester City,2018-04-28,Matchweek 36,Sat,Home,W,5,0,Leicester City,27,20,1,2,2,2,0,9,6,0,1,1,1,0,15:00:00
+ENG-Premier League,1718,Crystal Palace,2018-05-05 Stoke City-Crystal Palace,2018-05-05,Matchweek 37,Sat,Away,W,2,1,Stoke City,24,19,1,2,0,1,1,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Crystal Palace,2018-05-13 Crystal Palace-West Brom,2018-05-13,Matchweek 38,Sun,Home,W,2,0,West Brom,21,15,1,3,1,1,0,4,2,0,2,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2017-08-12 Everton-Stoke City,2017-08-12,Matchweek 1,Sat,Home,W,1,0,Stoke City,13,10,2,1,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2017-08-21 Manchester City-Everton,2017-08-21,Matchweek 2,Mon,Away,D,1,1,Manchester City,13,6,3,1,0,2,1,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Everton,2017-08-27 Chelsea-Everton,2017-08-27,Matchweek 3,Sun,Away,L,0,2,Chelsea,14,12,0,0,1,1,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Everton,2017-09-09 Everton-Tottenham,2017-09-09,Matchweek 4,Sat,Home,L,0,3,Tottenham,22,15,3,1,3,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2017-09-17 Manchester Utd-Everton,2017-09-17,Matchweek 5,Sun,Away,L,0,4,Manchester Utd,14,8,3,0,1,1,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Everton,2017-09-23 Everton-Bournemouth,2017-09-23,Matchweek 6,Sat,Home,W,2,1,Bournemouth,21,18,2,0,1,0,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Everton,2017-10-01 Everton-Burnley,2017-10-01,Matchweek 7,Sun,Home,L,0,1,Burnley,49,47,1,0,0,1,0,0,0,0,0,0,0,0,14:15:00
+ENG-Premier League,1718,Everton,2017-10-15 Brighton-Everton,2017-10-15,Matchweek 8,Sun,Away,D,1,1,Brighton,24,18,1,2,0,3,0,2,0,1,0,0,1,0,13:30:00
+ENG-Premier League,1718,Everton,2017-10-22 Everton-Arsenal,2017-10-22,Matchweek 9,Sun,Home,L,2,5,Arsenal,13,6,3,0,0,3,1,1,0,0,0,0,0,1,13:30:00
+ENG-Premier League,1718,Everton,2017-10-29 Leicester City-Everton,2017-10-29,Matchweek 10,Sun,Away,L,0,2,Leicester City,27,23,1,1,2,0,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Everton,2017-11-05 Everton-Watford,2017-11-05,Matchweek 11,Sun,Home,W,3,2,Watford,17,11,1,2,1,2,0,6,2,1,1,1,1,0,16:30:00
+ENG-Premier League,1718,Everton,2017-11-18 Crystal Palace-Everton,2017-11-18,Matchweek 12,Sat,Away,D,2,2,Crystal Palace,14,9,1,2,0,1,1,4,1,0,1,0,1,1,15:00:00
+ENG-Premier League,1718,Everton,2017-11-26 Southampton-Everton,2017-11-26,Matchweek 13,Sun,Away,L,1,4,Southampton,10,9,0,1,0,0,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Everton,2017-11-29 Everton-West Ham,2017-11-29,Matchweek 14,Wed,Home,W,4,0,West Ham,12,7,1,0,3,1,0,4,0,1,0,3,0,0,20:00:00
+ENG-Premier League,1718,Everton,2017-12-02 Everton-Huddersfield,2017-12-02,Matchweek 15,Sat,Home,W,2,0,Huddersfield,9,7,1,0,0,0,1,4,3,0,0,0,0,1,15:00:00
+ENG-Premier League,1718,Everton,2017-12-10 Liverpool-Everton,2017-12-10,Matchweek 16,Sun,Away,D,1,1,Liverpool,6,5,0,0,0,1,0,2,1,0,0,0,1,0,14:15:00
+ENG-Premier League,1718,Everton,2017-12-13 Newcastle Utd-Everton,2017-12-13,Matchweek 17,Wed,Away,W,1,0,Newcastle Utd,11,8,1,0,1,1,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Everton,2017-12-18 Everton-Swansea City,2017-12-18,Matchweek 18,Mon,Home,W,3,1,Swansea City,21,15,1,1,1,2,1,5,3,0,0,1,1,0,20:00:00
+ENG-Premier League,1718,Everton,2017-12-23 Everton-Chelsea,2017-12-23,Matchweek 19,Sat,Home,D,0,0,Chelsea,9,7,1,0,0,0,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Everton,2017-12-26 West Brom-Everton,2017-12-26,Matchweek 20,Tue,Away,D,0,0,West Brom,12,7,2,0,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2017-12-30 Bournemouth-Everton,2017-12-30,Matchweek 21,Sat,Away,L,1,2,Bournemouth,9,8,0,0,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2018-01-01 Everton-Manchester Utd,2018-01-01,Matchweek 22,Mon,Home,L,0,2,Manchester Utd,20,12,3,1,4,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Everton,2018-01-13 Tottenham-Everton,2018-01-13,Matchweek 23,Sat,Away,L,0,4,Tottenham,13,10,2,0,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Everton,2018-01-20 Everton-West Brom,2018-01-20,Matchweek 24,Sat,Home,D,1,1,West Brom,15,11,2,0,0,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2018-01-31 Everton-Leicester City,2018-01-31,Matchweek 25,Wed,Home,W,2,1,Leicester City,15,9,2,0,1,2,1,4,2,1,0,0,0,1,19:45:00
+ENG-Premier League,1718,Everton,2018-02-03 Arsenal-Everton,2018-02-03,Matchweek 26,Sat,Away,L,1,5,Arsenal,16,12,1,1,0,0,2,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Everton,2018-02-10 Everton-Crystal Palace,2018-02-10,Matchweek 27,Sat,Home,W,3,1,Crystal Palace,15,6,1,5,1,2,0,5,2,0,2,1,0,0,15:00:00
+ENG-Premier League,1718,Everton,2018-02-24 Watford-Everton,2018-02-24,Matchweek 28,Sat,Away,L,0,1,Watford,12,9,2,0,1,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Everton,2018-03-03 Burnley-Everton,2018-03-03,Matchweek 29,Sat,Away,L,1,2,Burnley,20,17,0,3,0,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Everton,2018-03-10 Everton-Brighton,2018-03-10,Matchweek 30,Sat,Home,W,2,0,Brighton,24,15,2,3,0,4,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2018-03-17 Stoke City-Everton,2018-03-17,Matchweek 31,Sat,Away,W,2,1,Stoke City,30,21,4,1,2,2,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Everton,2018-03-31 Everton-Manchester City,2018-03-31,Matchweek 32,Sat,Home,L,1,3,Manchester City,10,7,2,0,0,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Everton,2018-04-07 Everton-Liverpool,2018-04-07,Matchweek 33,Sat,Home,D,0,0,Liverpool,11,10,0,1,0,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Everton,2018-04-14 Swansea City-Everton,2018-04-14,Matchweek 34,Sat,Away,D,1,1,Swansea City,20,13,2,1,2,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2018-04-23 Everton-Newcastle Utd,2018-04-23,Matchweek 35,Mon,Home,W,1,0,Newcastle Utd,14,10,1,0,1,1,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Everton,2018-04-28 Huddersfield-Everton,2018-04-28,Matchweek 36,Sat,Away,W,2,0,Huddersfield,14,9,2,1,0,2,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Everton,2018-05-05 Everton-Southampton,2018-05-05,Matchweek 37,Sat,Home,D,1,1,Southampton,17,11,3,0,1,2,0,1,1,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Everton,2018-05-13 West Ham-Everton,2018-05-13,Matchweek 38,Sun,Away,L,1,3,West Ham,23,16,2,2,2,0,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-08-12 Crystal Palace-Huddersfield,2017-08-12,Matchweek 1,Sat,Away,W,3,0,Crystal Palace,14,8,4,1,1,0,0,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-08-20 Huddersfield-Newcastle Utd,2017-08-20,Matchweek 2,Sun,Home,W,1,0,Newcastle Utd,7,6,0,0,1,0,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Huddersfield,2017-08-26 Huddersfield-Southampton,2017-08-26,Matchweek 3,Sat,Home,D,0,0,Southampton,28,22,2,1,2,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-09-11 West Ham-Huddersfield,2017-09-11,Matchweek 4,Mon,Away,L,0,2,West Ham,15,12,2,0,1,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Huddersfield,2017-09-16 Huddersfield-Leicester City,2017-09-16,Matchweek 5,Sat,Home,D,1,1,Leicester City,27,22,1,1,1,0,2,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-09-23 Burnley-Huddersfield,2017-09-23,Matchweek 6,Sat,Away,D,0,0,Burnley,17,10,1,1,1,2,2,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-09-30 Huddersfield-Tottenham,2017-09-30,Matchweek 7,Sat,Home,L,0,4,Tottenham,9,5,0,1,0,0,3,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Huddersfield,2017-10-14 Swansea City-Huddersfield,2017-10-14,Matchweek 8,Sat,Away,L,0,2,Swansea City,12,10,0,2,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-10-21 Huddersfield-Manchester Utd,2017-10-21,Matchweek 9,Sat,Home,W,2,1,Manchester Utd,9,4,0,2,1,1,1,3,1,0,1,1,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-10-28 Liverpool-Huddersfield,2017-10-28,Matchweek 10,Sat,Away,L,0,3,Liverpool,2,2,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-11-04 Huddersfield-West Brom,2017-11-04,Matchweek 11,Sat,Home,W,1,0,West Brom,12,9,1,1,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-11-18 Bournemouth-Huddersfield,2017-11-18,Matchweek 12,Sat,Away,L,0,4,Bournemouth,36,23,5,5,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-11-26 Huddersfield-Manchester City,2017-11-26,Matchweek 13,Sun,Home,L,1,2,Manchester City,5,3,0,1,0,1,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Huddersfield,2017-11-29 Arsenal-Huddersfield,2017-11-29,Matchweek 14,Wed,Away,L,0,5,Arsenal,14,8,2,1,1,2,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Huddersfield,2017-12-02 Everton-Huddersfield,2017-12-02,Matchweek 15,Sat,Away,L,0,2,Everton,9,4,3,0,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-12-09 Huddersfield-Brighton,2017-12-09,Matchweek 16,Sat,Home,W,2,0,Brighton,32,27,1,2,2,0,0,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-12-12 Huddersfield-Chelsea,2017-12-12,Matchweek 17,Tue,Home,L,1,3,Chelsea,13,11,0,1,1,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Huddersfield,2017-12-16 Watford-Huddersfield,2017-12-16,Matchweek 18,Sat,Away,W,4,1,Watford,23,16,2,1,2,2,0,7,4,1,0,1,1,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-12-23 Southampton-Huddersfield,2017-12-23,Matchweek 19,Sat,Away,D,1,1,Southampton,17,12,1,1,2,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-12-26 Huddersfield-Stoke City,2017-12-26,Matchweek 20,Tue,Home,D,1,1,Stoke City,32,26,0,2,1,3,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2017-12-30 Huddersfield-Burnley,2017-12-30,Matchweek 21,Sat,Home,D,0,0,Burnley,5,1,1,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-01-01 Leicester City-Huddersfield,2018-01-01,Matchweek 22,Mon,Away,L,0,3,Leicester City,12,11,0,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-01-13 Huddersfield-West Ham,2018-01-13,Matchweek 23,Sat,Home,L,1,4,West Ham,16,10,1,2,1,1,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-01-20 Stoke City-Huddersfield,2018-01-20,Matchweek 24,Sat,Away,L,0,2,Stoke City,9,5,1,0,0,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-01-30 Huddersfield-Liverpool,2018-01-30,Matchweek 25,Tue,Home,L,0,3,Liverpool,7,6,0,0,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Huddersfield,2018-02-03 Manchester Utd-Huddersfield,2018-02-03,Matchweek 26,Sat,Away,L,0,2,Manchester Utd,7,3,2,0,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-02-11 Huddersfield-Bournemouth,2018-02-11,Matchweek 27,Sun,Home,W,4,1,Bournemouth,24,14,2,3,0,4,1,6,1,1,2,0,2,0,12:00:00
+ENG-Premier League,1718,Huddersfield,2018-02-24 West Brom-Huddersfield,2018-02-24,Matchweek 28,Sat,Away,W,2,1,West Brom,27,17,3,1,3,2,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-03-03 Tottenham-Huddersfield,2018-03-03,Matchweek 29,Sat,Away,L,0,2,Tottenham,3,3,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-03-10 Huddersfield-Swansea City,2018-03-10,Matchweek 30,Sat,Home,D,0,0,Swansea City,58,51,2,1,2,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-03-17 Huddersfield-Crystal Palace,2018-03-17,Matchweek 31,Sat,Home,L,0,2,Crystal Palace,9,3,3,1,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-03-31 Newcastle Utd-Huddersfield,2018-03-31,Matchweek 32,Sat,Away,L,0,1,Newcastle Utd,8,7,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-04-07 Brighton-Huddersfield,2018-04-07,Matchweek 33,Sat,Away,D,1,1,Brighton,29,21,1,4,2,1,0,1,0,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-04-14 Huddersfield-Watford,2018-04-14,Matchweek 34,Sat,Home,W,1,0,Watford,15,13,0,0,1,0,1,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-04-28 Huddersfield-Everton,2018-04-28,Matchweek 36,Sat,Home,L,0,2,Everton,17,13,3,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Huddersfield,2018-05-06 Manchester City-Huddersfield,2018-05-06,Matchweek 37,Sun,Away,D,0,0,Manchester City,7,4,1,0,0,1,1,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Huddersfield,2018-05-09 Chelsea-Huddersfield,2018-05-09,Matchweek 35,Wed,Away,D,1,1,Chelsea,3,1,0,0,1,0,1,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Huddersfield,2018-05-13 Huddersfield-Arsenal,2018-05-13,Matchweek 38,Sun,Home,L,0,1,Arsenal,32,20,6,0,4,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-08-11 Arsenal-Leicester City,2017-08-11,Matchweek 1,Fri,Away,L,3,4,Arsenal,6,4,1,0,1,0,0,5,3,1,0,1,0,0,19:45:00
+ENG-Premier League,1718,Leicester City,2017-08-19 Leicester City-Brighton,2017-08-19,Matchweek 2,Sat,Home,W,2,0,Brighton,22,14,2,1,1,4,0,3,1,1,0,1,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-08-26 Manchester Utd-Leicester City,2017-08-26,Matchweek 3,Sat,Away,L,0,2,Manchester Utd,18,10,3,2,1,1,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Leicester City,2017-09-09 Leicester City-Chelsea,2017-09-09,Matchweek 4,Sat,Home,L,1,2,Chelsea,11,7,1,0,1,2,0,1,0,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-09-16 Huddersfield-Leicester City,2017-09-16,Matchweek 5,Sat,Away,D,1,1,Huddersfield,19,9,4,3,0,3,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-09-23 Leicester City-Liverpool,2017-09-23,Matchweek 6,Sat,Home,L,2,3,Liverpool,17,6,2,3,4,2,0,2,0,0,0,2,0,0,17:30:00
+ENG-Premier League,1718,Leicester City,2017-09-30 Bournemouth-Leicester City,2017-09-30,Matchweek 7,Sat,Away,D,0,0,Bournemouth,12,9,1,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-10-16 Leicester City-West Brom,2017-10-16,Matchweek 8,Mon,Home,D,1,1,West Brom,17,11,1,2,2,1,0,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Leicester City,2017-10-21 Swansea City-Leicester City,2017-10-21,Matchweek 9,Sat,Away,W,2,1,Swansea City,19,14,3,1,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-10-29 Leicester City-Everton,2017-10-29,Matchweek 10,Sun,Home,W,2,0,Everton,15,13,1,0,1,0,0,4,4,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Leicester City,2017-11-04 Stoke City-Leicester City,2017-11-04,Matchweek 11,Sat,Away,D,2,2,Stoke City,24,19,3,1,0,1,0,4,2,1,1,0,0,0,12:30:00
+ENG-Premier League,1718,Leicester City,2017-11-18 Leicester City-Manchester City,2017-11-18,Matchweek 12,Sat,Home,L,0,2,Manchester City,4,3,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-11-24 West Ham-Leicester City,2017-11-24,Matchweek 13,Fri,Away,D,1,1,West Ham,12,9,1,2,0,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Leicester City,2017-11-28 Leicester City-Tottenham,2017-11-28,Matchweek 14,Tue,Home,W,2,1,Tottenham,14,9,2,2,0,1,0,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Leicester City,2017-12-02 Leicester City-Burnley,2017-12-02,Matchweek 15,Sat,Home,W,1,0,Burnley,27,21,2,2,2,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-12-09 Newcastle Utd-Leicester City,2017-12-09,Matchweek 16,Sat,Away,W,3,2,Newcastle Utd,25,20,0,2,0,2,1,3,3,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Leicester City,2017-12-13 Southampton-Leicester City,2017-12-13,Matchweek 17,Wed,Away,W,4,1,Southampton,29,16,3,2,4,3,1,7,5,1,0,1,0,0,19:45:00
+ENG-Premier League,1718,Leicester City,2017-12-16 Leicester City-Crystal Palace,2017-12-16,Matchweek 18,Sat,Home,L,0,3,Crystal Palace,20,13,3,2,0,2,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Leicester City,2017-12-23 Leicester City-Manchester Utd,2017-12-23,Matchweek 19,Sat,Home,D,2,2,Manchester Utd,20,18,0,2,0,0,0,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Leicester City,2017-12-26 Watford-Leicester City,2017-12-26,Matchweek 20,Tue,Away,L,1,2,Watford,19,10,4,1,3,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2017-12-30 Liverpool-Leicester City,2017-12-30,Matchweek 21,Sat,Away,L,1,2,Liverpool,13,10,1,2,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-01-01 Leicester City-Huddersfield,2018-01-01,Matchweek 22,Mon,Home,W,3,0,Huddersfield,18,9,5,3,1,0,0,6,4,1,1,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-01-13 Chelsea-Leicester City,2018-01-13,Matchweek 23,Sat,Away,D,0,0,Chelsea,24,14,1,4,4,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-01-20 Leicester City-Watford,2018-01-20,Matchweek 24,Sat,Home,W,2,0,Watford,17,10,3,2,1,1,0,4,2,0,1,0,1,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-01-31 Everton-Leicester City,2018-01-31,Matchweek 25,Wed,Away,L,1,2,Everton,11,5,2,1,2,1,0,2,0,1,0,0,1,0,19:45:00
+ENG-Premier League,1718,Leicester City,2018-02-03 Leicester City-Swansea City,2018-02-03,Matchweek 26,Sat,Home,D,1,1,Swansea City,23,15,3,2,1,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-02-10 Manchester City-Leicester City,2018-02-10,Matchweek 27,Sat,Away,L,1,5,Manchester City,3,2,0,1,0,0,0,1,0,0,1,0,0,0,17:30:00
+ENG-Premier League,1718,Leicester City,2018-02-24 Leicester City-Stoke City,2018-02-24,Matchweek 28,Sat,Home,D,1,1,Stoke City,33,25,1,2,3,1,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Leicester City,2018-03-03 Leicester City-Bournemouth,2018-03-03,Matchweek 29,Sat,Home,D,1,1,Bournemouth,39,24,6,2,5,2,0,2,1,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-03-10 West Brom-Leicester City,2018-03-10,Matchweek 30,Sat,Away,W,4,1,West Brom,28,24,2,2,0,0,0,8,7,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-03-31 Brighton-Leicester City,2018-03-31,Matchweek 32,Sat,Away,W,2,0,Brighton,12,10,1,1,0,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-04-07 Leicester City-Newcastle Utd,2018-04-07,Matchweek 33,Sat,Home,L,1,2,Newcastle Utd,16,13,2,0,1,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-04-14 Burnley-Leicester City,2018-04-14,Matchweek 34,Sat,Away,L,1,2,Burnley,28,22,2,3,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-04-19 Leicester City-Southampton,2018-04-19,Matchweek 35,Thu,Home,D,0,0,Southampton,21,15,1,3,2,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Leicester City,2018-04-28 Crystal Palace-Leicester City,2018-04-28,Matchweek 36,Sat,Away,L,0,5,Crystal Palace,10,6,1,1,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-05-05 Leicester City-West Ham,2018-05-05,Matchweek 37,Sat,Home,L,0,2,West Ham,25,15,5,1,3,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Leicester City,2018-05-09 Leicester City-Arsenal,2018-05-09,Matchweek 31,Wed,Home,W,3,1,Arsenal,33,22,3,3,0,3,2,6,4,0,1,0,1,0,19:45:00
+ENG-Premier League,1718,Leicester City,2018-05-13 Tottenham-Leicester City,2018-05-13,Matchweek 38,Sun,Away,L,4,5,Tottenham,27,19,6,1,0,1,0,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,Liverpool,2017-08-12 Watford-Liverpool,2017-08-12,Matchweek 1,Sat,Away,D,3,3,Watford,25,16,4,1,2,2,0,5,3,0,0,1,1,0,12:30:00
+ENG-Premier League,1718,Liverpool,2017-08-19 Liverpool-Crystal Palace,2017-08-19,Matchweek 2,Sat,Home,W,1,0,Crystal Palace,41,26,2,6,5,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Liverpool,2017-08-27 Liverpool-Arsenal,2017-08-27,Matchweek 3,Sun,Home,W,4,0,Arsenal,27,23,2,0,1,0,1,6,6,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Liverpool,2017-09-09 Manchester City-Liverpool,2017-09-09,Matchweek 4,Sat,Away,L,0,5,Manchester City,13,9,0,2,0,2,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Liverpool,2017-09-16 Liverpool-Burnley,2017-09-16,Matchweek 5,Sat,Home,D,1,1,Burnley,66,56,5,3,2,0,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Liverpool,2017-09-23 Leicester City-Liverpool,2017-09-23,Matchweek 6,Sat,Away,W,3,2,Leicester City,41,28,3,6,3,1,0,6,5,0,0,0,1,0,17:30:00
+ENG-Premier League,1718,Liverpool,2017-10-01 Newcastle Utd-Liverpool,2017-10-01,Matchweek 7,Sun,Away,D,1,1,Newcastle Utd,32,25,1,1,4,1,0,2,1,0,1,0,0,0,16:30:00
+ENG-Premier League,1718,Liverpool,2017-10-14 Liverpool-Manchester Utd,2017-10-14,Matchweek 8,Sat,Home,D,0,0,Manchester Utd,36,26,2,6,2,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Liverpool,2017-10-22 Tottenham-Liverpool,2017-10-22,Matchweek 9,Sun,Away,L,1,4,Tottenham,21,18,1,1,0,0,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Liverpool,2017-10-28 Liverpool-Huddersfield,2017-10-28,Matchweek 10,Sat,Home,W,3,0,Huddersfield,26,20,3,0,1,2,0,3,2,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Liverpool,2017-11-04 West Ham-Liverpool,2017-11-04,Matchweek 11,Sat,Away,W,4,1,West Ham,28,22,2,3,1,0,0,7,5,0,1,1,0,0,17:30:00
+ENG-Premier League,1718,Liverpool,2017-11-18 Liverpool-Southampton,2017-11-18,Matchweek 12,Sat,Home,W,3,0,Southampton,38,27,1,4,5,1,0,5,4,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Liverpool,2017-11-25 Liverpool-Chelsea,2017-11-25,Matchweek 13,Sat,Home,D,1,1,Chelsea,27,19,3,2,2,1,0,1,1,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Liverpool,2017-11-29 Stoke City-Liverpool,2017-11-29,Matchweek 14,Wed,Away,W,3,0,Stoke City,26,20,1,4,0,1,0,6,4,0,2,0,0,0,20:00:00
+ENG-Premier League,1718,Liverpool,2017-12-02 Brighton-Liverpool,2017-12-02,Matchweek 15,Sat,Away,W,5,1,Brighton,21,9,3,4,1,3,1,7,3,1,2,0,1,0,15:00:00
+ENG-Premier League,1718,Liverpool,2017-12-10 Liverpool-Everton,2017-12-10,Matchweek 16,Sun,Home,D,1,1,Everton,45,31,5,4,2,2,1,2,0,0,2,0,0,0,14:15:00
+ENG-Premier League,1718,Liverpool,2017-12-13 Liverpool-West Brom,2017-12-13,Matchweek 17,Wed,Home,D,0,0,West Brom,26,20,0,3,1,1,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Liverpool,2017-12-17 Bournemouth-Liverpool,2017-12-17,Matchweek 18,Sun,Away,W,4,0,Bournemouth,39,28,1,6,1,1,2,8,4,0,4,0,0,0,16:30:00
+ENG-Premier League,1718,Liverpool,2017-12-22 Arsenal-Liverpool,2017-12-22,Matchweek 19,Fri,Away,D,3,3,Arsenal,26,22,1,2,1,0,0,6,6,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Liverpool,2017-12-26 Liverpool-Swansea City,2017-12-26,Matchweek 20,Tue,Home,W,5,0,Swansea City,38,24,2,6,1,3,2,9,4,1,2,1,1,0,17:30:00
+ENG-Premier League,1718,Liverpool,2017-12-30 Liverpool-Leicester City,2017-12-30,Matchweek 21,Sat,Home,W,2,1,Leicester City,31,25,1,4,1,0,0,4,2,0,2,0,0,0,15:00:00
+ENG-Premier League,1718,Liverpool,2018-01-01 Burnley-Liverpool,2018-01-01,Matchweek 22,Mon,Away,W,2,1,Burnley,36,29,4,0,1,1,1,3,1,0,0,1,0,1,15:00:00
+ENG-Premier League,1718,Liverpool,2018-01-14 Liverpool-Manchester City,2018-01-14,Matchweek 23,Sun,Home,W,4,3,Manchester City,24,18,0,5,0,0,1,6,4,0,2,0,0,0,16:00:00
+ENG-Premier League,1718,Liverpool,2018-01-22 Swansea City-Liverpool,2018-01-22,Matchweek 24,Mon,Away,L,0,1,Swansea City,38,31,1,2,2,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Liverpool,2018-01-30 Huddersfield-Liverpool,2018-01-30,Matchweek 25,Tue,Away,W,3,0,Huddersfield,25,21,0,1,1,1,1,6,4,0,0,1,1,0,20:00:00
+ENG-Premier League,1718,Liverpool,2018-02-04 Liverpool-Tottenham,2018-02-04,Matchweek 26,Sun,Home,D,2,2,Tottenham,15,5,4,2,1,3,0,2,0,0,2,0,0,0,16:30:00
+ENG-Premier League,1718,Liverpool,2018-02-11 Southampton-Liverpool,2018-02-11,Matchweek 27,Sun,Away,W,2,0,Southampton,26,21,0,2,3,0,0,4,4,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Liverpool,2018-02-24 Liverpool-West Ham,2018-02-24,Matchweek 28,Sat,Home,W,4,1,West Ham,40,33,2,3,1,1,0,8,5,1,2,0,0,0,15:00:00
+ENG-Premier League,1718,Liverpool,2018-03-03 Liverpool-Newcastle Utd,2018-03-03,Matchweek 29,Sat,Home,W,2,0,Newcastle Utd,26,19,4,0,2,1,0,4,4,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Liverpool,2018-03-10 Manchester Utd-Liverpool,2018-03-10,Matchweek 30,Sat,Away,L,1,2,Manchester Utd,24,18,4,1,1,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Liverpool,2018-03-17 Liverpool-Watford,2018-03-17,Matchweek 31,Sat,Home,W,5,0,Watford,22,15,2,4,1,0,0,9,5,0,3,1,0,0,17:30:00
+ENG-Premier League,1718,Liverpool,2018-03-31 Crystal Palace-Liverpool,2018-03-31,Matchweek 32,Sat,Away,W,2,1,Crystal Palace,28,19,3,1,4,0,1,4,4,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Liverpool,2018-04-07 Everton-Liverpool,2018-04-07,Matchweek 33,Sat,Away,D,0,0,Everton,15,10,0,2,1,1,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Liverpool,2018-04-14 Liverpool-Bournemouth,2018-04-14,Matchweek 34,Sat,Home,W,3,0,Bournemouth,37,30,2,1,1,1,2,5,4,0,0,1,0,0,17:30:00
+ENG-Premier League,1718,Liverpool,2018-04-21 West Brom-Liverpool,2018-04-21,Matchweek 35,Sat,Away,D,2,2,West Brom,16,13,0,2,0,1,0,4,3,0,1,0,0,0,12:30:00
+ENG-Premier League,1718,Liverpool,2018-04-28 Liverpool-Stoke City,2018-04-28,Matchweek 36,Sat,Home,D,0,0,Stoke City,39,37,1,0,0,1,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Liverpool,2018-05-06 Chelsea-Liverpool,2018-05-06,Matchweek 37,Sun,Away,L,0,1,Chelsea,19,16,0,2,1,0,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Liverpool,2018-05-13 Liverpool-Brighton,2018-05-13,Matchweek 38,Sun,Home,W,4,0,Brighton,36,30,1,2,2,0,1,8,7,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-08-12 Brighton-Manchester City,2017-08-12,Matchweek 1,Sat,Away,W,2,0,Brighton,25,20,1,1,1,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester City,2017-08-21 Manchester City-Everton,2017-08-21,Matchweek 2,Mon,Home,D,1,1,Everton,36,27,3,2,2,2,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester City,2017-08-26 Bournemouth-Manchester City,2017-08-26,Matchweek 3,Sat,Away,W,2,1,Bournemouth,31,22,4,2,2,1,0,4,3,1,0,0,0,0,12:30:00
+ENG-Premier League,1718,Manchester City,2017-09-09 Manchester City-Liverpool,2017-09-09,Matchweek 4,Sat,Home,W,5,0,Liverpool,22,16,3,1,1,1,0,10,9,0,1,0,0,0,12:30:00
+ENG-Premier League,1718,Manchester City,2017-09-16 Watford-Manchester City,2017-09-16,Matchweek 5,Sat,Away,W,6,0,Watford,50,38,6,4,0,2,0,12,7,1,2,0,2,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-09-23 Manchester City-Crystal Palace,2017-09-23,Matchweek 6,Sat,Home,W,5,0,Crystal Palace,44,31,2,5,5,0,1,10,8,0,2,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-09-30 Chelsea-Manchester City,2017-09-30,Matchweek 7,Sat,Away,W,1,0,Chelsea,33,25,5,1,0,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester City,2017-10-14 Manchester City-Stoke City,2017-10-14,Matchweek 8,Sat,Home,W,7,2,Stoke City,39,34,1,1,1,2,0,13,12,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-10-21 Manchester City-Burnley,2017-10-21,Matchweek 9,Sat,Home,W,3,0,Burnley,23,14,2,2,3,1,1,6,2,1,0,2,1,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-10-28 West Brom-Manchester City,2017-10-28,Matchweek 10,Sat,Away,W,3,2,West Brom,28,25,0,1,0,2,0,5,5,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-11-05 Manchester City-Arsenal,2017-11-05,Matchweek 11,Sun,Home,W,3,1,Arsenal,18,12,3,1,1,1,0,6,5,0,0,0,1,0,14:15:00
+ENG-Premier League,1718,Manchester City,2017-11-18 Leicester City-Manchester City,2017-11-18,Matchweek 12,Sat,Away,W,2,0,Leicester City,23,22,0,0,1,0,0,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-11-26 Huddersfield-Manchester City,2017-11-26,Matchweek 13,Sun,Away,W,2,1,Huddersfield,24,19,1,0,2,2,0,3,1,0,0,1,1,0,16:00:00
+ENG-Premier League,1718,Manchester City,2017-11-29 Manchester City-Southampton,2017-11-29,Matchweek 14,Wed,Home,W,2,1,Southampton,49,35,3,2,4,3,2,4,3,0,0,0,1,0,20:00:00
+ENG-Premier League,1718,Manchester City,2017-12-03 Manchester City-West Ham,2017-12-03,Matchweek 15,Sun,Home,W,2,1,West Ham,46,40,1,3,1,1,0,4,4,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Manchester City,2017-12-10 Manchester Utd-Manchester City,2017-12-10,Matchweek 16,Sun,Away,W,2,1,Manchester Utd,24,20,0,2,1,1,0,3,1,0,0,1,1,0,16:30:00
+ENG-Premier League,1718,Manchester City,2017-12-13 Swansea City-Manchester City,2017-12-13,Matchweek 17,Wed,Away,W,4,0,Swansea City,41,32,1,3,2,3,0,7,5,0,1,0,1,0,19:45:00
+ENG-Premier League,1718,Manchester City,2017-12-16 Manchester City-Tottenham,2017-12-16,Matchweek 18,Sat,Home,W,4,1,Tottenham,34,23,3,3,3,2,0,8,6,1,1,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester City,2017-12-23 Manchester City-Bournemouth,2017-12-23,Matchweek 19,Sat,Home,W,4,0,Bournemouth,24,22,1,1,0,0,0,8,8,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester City,2017-12-27 Newcastle Utd-Manchester City,2017-12-27,Matchweek 20,Wed,Away,W,1,0,Newcastle Utd,35,25,2,4,2,1,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Manchester City,2017-12-31 Crystal Palace-Manchester City,2017-12-31,Matchweek 21,Sun,Away,D,0,0,Crystal Palace,26,19,0,3,0,4,0,0,0,0,0,0,0,0,12:00:00
+ENG-Premier League,1718,Manchester City,2018-01-02 Manchester City-Watford,2018-01-02,Matchweek 22,Tue,Home,W,3,1,Watford,34,27,1,2,2,2,0,4,4,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester City,2018-01-14 Liverpool-Manchester City,2018-01-14,Matchweek 23,Sun,Away,L,3,4,Liverpool,21,16,1,2,2,0,0,5,2,0,2,1,0,0,16:00:00
+ENG-Premier League,1718,Manchester City,2018-01-20 Manchester City-Newcastle Utd,2018-01-20,Matchweek 24,Sat,Home,W,3,1,Newcastle Utd,41,29,3,5,2,2,0,6,4,0,1,0,1,0,17:30:00
+ENG-Premier League,1718,Manchester City,2018-01-31 Manchester City-West Brom,2018-01-31,Matchweek 25,Wed,Home,W,3,0,West Brom,34,27,0,3,1,2,1,6,5,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester City,2018-02-03 Burnley-Manchester City,2018-02-03,Matchweek 26,Sat,Away,D,1,1,Burnley,35,27,4,1,1,1,1,2,1,1,0,0,0,0,12:30:00
+ENG-Premier League,1718,Manchester City,2018-02-10 Manchester City-Leicester City,2018-02-10,Matchweek 27,Sat,Home,W,5,1,Leicester City,33,24,3,4,1,0,1,9,7,0,1,0,0,1,17:30:00
+ENG-Premier League,1718,Manchester City,2018-03-01 Arsenal-Manchester City,2018-03-01,Matchweek 28,Thu,Away,W,3,0,Arsenal,15,13,0,1,1,0,0,6,5,0,1,0,0,0,19:45:00
+ENG-Premier League,1718,Manchester City,2018-03-04 Manchester City-Chelsea,2018-03-04,Matchweek 29,Sun,Home,W,1,0,Chelsea,25,20,1,2,0,1,1,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Manchester City,2018-03-12 Stoke City-Manchester City,2018-03-12,Matchweek 30,Mon,Away,W,2,0,Stoke City,33,29,1,2,0,1,0,4,4,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester City,2018-03-31 Everton-Manchester City,2018-03-31,Matchweek 32,Sat,Away,W,3,1,Everton,35,31,2,1,1,0,0,6,6,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester City,2018-04-07 Manchester City-Manchester Utd,2018-04-07,Matchweek 33,Sat,Home,L,2,3,Manchester Utd,38,30,4,1,2,1,0,3,2,1,0,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester City,2018-04-14 Tottenham-Manchester City,2018-04-14,Matchweek 34,Sat,Away,W,3,1,Tottenham,30,21,2,1,3,3,0,5,3,0,0,1,1,0,19:45:00
+ENG-Premier League,1718,Manchester City,2018-04-22 Manchester City-Swansea City,2018-04-22,Matchweek 35,Sun,Home,W,5,0,Swansea City,33,27,0,1,1,2,2,6,4,0,0,1,0,1,16:30:00
+ENG-Premier League,1718,Manchester City,2018-04-29 West Ham-Manchester City,2018-04-29,Matchweek 36,Sun,Away,W,4,1,West Ham,36,31,0,2,0,1,2,6,5,0,1,0,0,0,14:15:00
+ENG-Premier League,1718,Manchester City,2018-05-06 Manchester City-Huddersfield,2018-05-06,Matchweek 37,Sun,Home,D,0,0,Huddersfield,29,24,4,0,0,1,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Manchester City,2018-05-09 Manchester City-Brighton,2018-05-09,Matchweek 31,Wed,Home,W,3,1,Brighton,36,28,1,5,1,1,0,6,4,1,1,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester City,2018-05-13 Southampton-Manchester City,2018-05-13,Matchweek 38,Sun,Away,W,1,0,Southampton,26,18,4,1,2,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2017-08-13 Manchester Utd-West Ham,2017-08-13,Matchweek 1,Sun,Home,W,4,0,West Ham,39,29,3,4,1,1,1,7,5,1,0,0,1,0,16:00:00
+ENG-Premier League,1718,Manchester Utd,2017-08-19 Swansea City-Manchester Utd,2017-08-19,Matchweek 2,Sat,Away,W,4,0,Swansea City,28,21,2,2,1,2,0,7,5,0,1,1,0,0,12:30:00
+ENG-Premier League,1718,Manchester Utd,2017-08-26 Manchester Utd-Leicester City,2017-08-26,Matchweek 3,Sat,Home,W,2,0,Leicester City,40,34,2,1,2,1,0,3,1,1,0,1,0,0,17:30:00
+ENG-Premier League,1718,Manchester Utd,2017-09-09 Stoke City-Manchester Utd,2017-09-09,Matchweek 4,Sat,Away,D,2,2,Stoke City,33,26,1,2,3,1,0,2,0,0,0,2,0,0,17:30:00
+ENG-Premier League,1718,Manchester Utd,2017-09-17 Manchester Utd-Everton,2017-09-17,Matchweek 5,Sun,Home,W,4,0,Everton,26,17,1,2,3,2,1,7,4,0,1,1,0,1,16:00:00
+ENG-Premier League,1718,Manchester Utd,2017-09-23 Southampton-Manchester Utd,2017-09-23,Matchweek 6,Sat,Away,W,1,0,Southampton,15,11,1,1,1,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2017-09-30 Manchester Utd-Crystal Palace,2017-09-30,Matchweek 7,Sat,Home,W,4,0,Crystal Palace,32,24,4,2,1,1,0,8,5,1,1,0,1,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2017-10-14 Liverpool-Manchester Utd,2017-10-14,Matchweek 8,Sat,Away,D,0,0,Liverpool,8,5,0,1,1,0,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Manchester Utd,2017-10-21 Huddersfield-Manchester Utd,2017-10-21,Matchweek 9,Sat,Away,L,1,2,Huddersfield,16,13,2,1,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2017-10-28 Manchester Utd-Tottenham,2017-10-28,Matchweek 10,Sat,Home,W,1,0,Tottenham,18,15,2,0,0,1,0,2,1,1,0,0,0,0,12:30:00
+ENG-Premier League,1718,Manchester Utd,2017-11-05 Chelsea-Manchester Utd,2017-11-05,Matchweek 11,Sun,Away,L,0,1,Chelsea,16,12,0,1,2,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Manchester Utd,2017-11-18 Manchester Utd-Newcastle Utd,2017-11-18,Matchweek 12,Sat,Home,W,4,1,Newcastle Utd,32,26,3,2,0,1,0,8,6,0,2,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester Utd,2017-11-25 Manchester Utd-Brighton,2017-11-25,Matchweek 13,Sat,Home,W,1,0,Brighton,26,20,1,2,2,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2017-11-28 Watford-Manchester Utd,2017-11-28,Matchweek 14,Tue,Away,W,4,2,Watford,27,14,3,5,1,3,1,7,3,0,3,0,1,0,20:00:00
+ENG-Premier League,1718,Manchester Utd,2017-12-02 Arsenal-Manchester Utd,2017-12-02,Matchweek 15,Sat,Away,W,3,1,Arsenal,14,10,1,1,2,0,0,6,5,0,1,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester Utd,2017-12-10 Manchester Utd-Manchester City,2017-12-10,Matchweek 16,Sun,Home,L,1,2,Manchester City,14,10,0,1,1,1,1,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Manchester Utd,2017-12-13 Manchester Utd-Bournemouth,2017-12-13,Matchweek 17,Wed,Home,W,1,0,Bournemouth,16,14,0,1,1,0,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester Utd,2017-12-17 West Brom-Manchester Utd,2017-12-17,Matchweek 18,Sun,Away,W,2,1,West Brom,13,10,1,2,0,0,0,4,3,0,1,0,0,0,14:15:00
+ENG-Premier League,1718,Manchester Utd,2017-12-23 Leicester City-Manchester Utd,2017-12-23,Matchweek 19,Sat,Away,D,2,2,Leicester City,34,26,1,3,3,1,0,4,3,0,0,0,1,0,19:45:00
+ENG-Premier League,1718,Manchester Utd,2017-12-26 Manchester Utd-Burnley,2017-12-26,Matchweek 20,Tue,Home,D,2,2,Burnley,45,30,5,2,5,3,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2017-12-30 Manchester Utd-Southampton,2017-12-30,Matchweek 21,Sat,Home,D,0,0,Southampton,30,24,2,2,0,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester Utd,2018-01-01 Everton-Manchester Utd,2018-01-01,Matchweek 22,Mon,Away,W,2,0,Everton,42,33,3,4,0,1,1,4,3,0,1,0,0,0,17:30:00
+ENG-Premier League,1718,Manchester Utd,2018-01-15 Manchester Utd-Stoke City,2018-01-15,Matchweek 23,Mon,Home,W,3,0,Stoke City,36,29,2,1,2,2,0,6,6,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester Utd,2018-01-20 Burnley-Manchester Utd,2018-01-20,Matchweek 24,Sat,Away,W,1,0,Burnley,21,18,0,3,0,0,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2018-01-31 Tottenham-Manchester Utd,2018-01-31,Matchweek 25,Wed,Away,L,0,2,Tottenham,7,5,1,1,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester Utd,2018-02-03 Manchester Utd-Huddersfield,2018-02-03,Matchweek 26,Sat,Home,W,2,0,Huddersfield,30,18,2,4,3,3,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2018-02-11 Newcastle Utd-Manchester Utd,2018-02-11,Matchweek 27,Sun,Away,L,0,1,Newcastle Utd,24,19,0,3,2,0,0,0,0,0,0,0,0,0,14:15:00
+ENG-Premier League,1718,Manchester Utd,2018-02-25 Manchester Utd-Chelsea,2018-02-25,Matchweek 28,Sun,Home,W,2,1,Chelsea,19,16,1,1,0,1,0,4,3,0,1,0,0,0,14:05:00
+ENG-Premier League,1718,Manchester Utd,2018-03-05 Crystal Palace-Manchester Utd,2018-03-05,Matchweek 29,Mon,Away,W,3,2,Crystal Palace,31,25,0,2,3,1,0,4,1,0,0,3,0,0,20:00:00
+ENG-Premier League,1718,Manchester Utd,2018-03-10 Manchester Utd-Liverpool,2018-03-10,Matchweek 30,Sat,Home,W,2,1,Liverpool,9,5,2,1,0,1,0,3,2,1,0,0,0,0,12:30:00
+ENG-Premier League,1718,Manchester Utd,2018-03-31 Manchester Utd-Swansea City,2018-03-31,Matchweek 32,Sat,Home,W,2,0,Swansea City,19,16,0,2,0,0,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Manchester Utd,2018-04-07 Manchester City-Manchester Utd,2018-04-07,Matchweek 33,Sat,Away,W,3,2,Manchester City,10,7,1,0,0,1,1,6,4,1,0,0,1,0,17:30:00
+ENG-Premier League,1718,Manchester Utd,2018-04-15 Manchester Utd-West Brom,2018-04-15,Matchweek 34,Sun,Home,L,0,1,West Brom,26,25,0,0,1,0,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Manchester Utd,2018-04-18 Bournemouth-Manchester Utd,2018-04-18,Matchweek 35,Wed,Away,W,2,0,Bournemouth,23,16,1,1,1,2,2,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Manchester Utd,2018-04-29 Manchester Utd-Arsenal,2018-04-29,Matchweek 36,Sun,Home,W,2,1,Arsenal,24,19,2,0,2,1,0,3,2,0,0,1,0,0,16:30:00
+ENG-Premier League,1718,Manchester Utd,2018-05-04 Brighton-Manchester Utd,2018-05-04,Matchweek 37,Fri,Away,L,0,1,Brighton,32,26,1,3,0,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Manchester Utd,2018-05-10 West Ham-Manchester Utd,2018-05-10,Matchweek 31,Thu,Away,D,0,0,West Ham,28,20,2,4,1,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Manchester Utd,2018-05-13 Manchester Utd-Watford,2018-05-13,Matchweek 38,Sun,Home,W,1,0,Watford,13,11,1,1,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-08-13 Newcastle Utd-Tottenham,2017-08-13,Matchweek 1,Sun,Home,L,0,2,Tottenham,10,7,1,0,1,1,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Newcastle Utd,2017-08-20 Huddersfield-Newcastle Utd,2017-08-20,Matchweek 2,Sun,Away,L,0,1,Huddersfield,22,17,3,1,0,1,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Newcastle Utd,2017-08-26 Newcastle Utd-West Ham,2017-08-26,Matchweek 3,Sat,Home,W,3,0,West Ham,31,25,3,3,0,0,0,6,5,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-09-10 Swansea City-Newcastle Utd,2017-09-10,Matchweek 4,Sun,Away,W,1,0,Swansea City,28,23,2,1,2,0,0,2,1,1,0,0,0,0,16:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-09-16 Newcastle Utd-Stoke City,2017-09-16,Matchweek 5,Sat,Home,W,2,1,Stoke City,25,16,5,1,2,0,1,4,2,2,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-09-24 Brighton-Newcastle Utd,2017-09-24,Matchweek 6,Sun,Away,L,0,1,Brighton,30,20,2,2,1,4,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-10-01 Newcastle Utd-Liverpool,2017-10-01,Matchweek 7,Sun,Home,D,1,1,Liverpool,14,13,0,0,0,1,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Newcastle Utd,2017-10-15 Southampton-Newcastle Utd,2017-10-15,Matchweek 8,Sun,Away,D,2,2,Southampton,31,19,5,1,5,1,0,2,0,0,0,2,0,0,16:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-10-21 Newcastle Utd-Crystal Palace,2017-10-21,Matchweek 9,Sat,Home,W,1,0,Crystal Palace,10,7,0,2,0,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-10-30 Burnley-Newcastle Utd,2017-10-30,Matchweek 10,Mon,Away,L,0,1,Burnley,22,17,3,1,0,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-11-04 Newcastle Utd-Bournemouth,2017-11-04,Matchweek 11,Sat,Home,L,0,1,Bournemouth,24,18,3,1,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-11-18 Manchester Utd-Newcastle Utd,2017-11-18,Matchweek 12,Sat,Away,L,1,4,Manchester Utd,23,19,1,1,1,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Newcastle Utd,2017-11-25 Newcastle Utd-Watford,2017-11-25,Matchweek 13,Sat,Home,L,0,3,Watford,19,18,0,1,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-11-28 West Brom-Newcastle Utd,2017-11-28,Matchweek 14,Tue,Away,D,2,2,West Brom,25,15,4,1,2,3,0,2,0,1,0,1,0,0,20:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-12-02 Chelsea-Newcastle Utd,2017-12-02,Matchweek 15,Sat,Away,L,1,3,Chelsea,13,8,1,0,1,1,2,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Newcastle Utd,2017-12-09 Newcastle Utd-Leicester City,2017-12-09,Matchweek 16,Sat,Home,L,2,3,Leicester City,16,8,5,0,1,0,2,4,3,0,0,1,0,0,17:30:00
+ENG-Premier League,1718,Newcastle Utd,2017-12-13 Newcastle Utd-Everton,2017-12-13,Matchweek 17,Wed,Home,L,0,1,Everton,28,18,2,3,2,3,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Newcastle Utd,2017-12-16 Arsenal-Newcastle Utd,2017-12-16,Matchweek 18,Sat,Away,L,0,1,Arsenal,19,13,2,1,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-12-23 West Ham-Newcastle Utd,2017-12-23,Matchweek 19,Sat,Away,W,3,2,West Ham,18,12,1,1,1,3,0,6,4,0,1,0,1,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2017-12-27 Newcastle Utd-Manchester City,2017-12-27,Matchweek 20,Wed,Home,L,0,1,Manchester City,10,6,2,0,1,0,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Newcastle Utd,2017-12-30 Newcastle Utd-Brighton,2017-12-30,Matchweek 21,Sat,Home,D,0,0,Brighton,19,14,1,1,3,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-01-01 Stoke City-Newcastle Utd,2018-01-01,Matchweek 22,Mon,Away,W,1,0,Stoke City,24,19,2,1,1,1,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-01-13 Newcastle Utd-Swansea City,2018-01-13,Matchweek 23,Sat,Home,D,1,1,Swansea City,21,17,0,0,1,1,2,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-01-20 Manchester City-Newcastle Utd,2018-01-20,Matchweek 24,Sat,Away,L,1,3,Manchester City,11,4,1,2,1,1,2,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Newcastle Utd,2018-01-31 Newcastle Utd-Burnley,2018-01-31,Matchweek 25,Wed,Home,D,1,1,Burnley,27,18,3,2,2,2,0,2,0,1,0,1,0,0,19:45:00
+ENG-Premier League,1718,Newcastle Utd,2018-02-04 Crystal Palace-Newcastle Utd,2018-02-04,Matchweek 26,Sun,Away,D,1,1,Crystal Palace,18,11,3,2,2,0,0,1,0,0,0,1,0,0,14:15:00
+ENG-Premier League,1718,Newcastle Utd,2018-02-11 Newcastle Utd-Manchester Utd,2018-02-11,Matchweek 27,Sun,Home,W,1,0,Manchester Utd,16,13,1,1,1,0,0,2,1,1,0,0,0,0,14:15:00
+ENG-Premier League,1718,Newcastle Utd,2018-02-24 Bournemouth-Newcastle Utd,2018-02-24,Matchweek 28,Sat,Away,D,2,2,Bournemouth,26,16,1,3,3,3,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-03-03 Liverpool-Newcastle Utd,2018-03-03,Matchweek 29,Sat,Away,L,0,2,Liverpool,13,9,1,2,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Newcastle Utd,2018-03-10 Newcastle Utd-Southampton,2018-03-10,Matchweek 30,Sat,Home,W,3,0,Southampton,12,10,1,0,0,0,1,6,6,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-03-31 Newcastle Utd-Huddersfield,2018-03-31,Matchweek 32,Sat,Home,W,1,0,Huddersfield,31,24,1,0,2,3,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-04-07 Leicester City-Newcastle Utd,2018-04-07,Matchweek 33,Sat,Away,W,2,1,Leicester City,10,8,1,0,0,1,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-04-15 Newcastle Utd-Arsenal,2018-04-15,Matchweek 34,Sun,Home,W,2,1,Arsenal,15,11,1,2,1,0,0,4,4,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Newcastle Utd,2018-04-23 Everton-Newcastle Utd,2018-04-23,Matchweek 35,Mon,Away,L,0,1,Everton,18,11,3,2,0,1,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-04-28 Newcastle Utd-West Brom,2018-04-28,Matchweek 36,Sat,Home,L,0,1,West Brom,31,25,2,2,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-05-05 Watford-Newcastle Utd,2018-05-05,Matchweek 37,Sat,Away,L,1,2,Watford,16,13,1,1,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-05-09 Tottenham-Newcastle Utd,2018-05-09,Matchweek 31,Wed,Away,L,0,1,Tottenham,28,20,3,1,1,2,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Newcastle Utd,2018-05-13 Newcastle Utd-Chelsea,2018-05-13,Matchweek 38,Sun,Home,W,3,0,Chelsea,27,19,1,2,2,0,3,4,1,1,0,2,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-08-12 Southampton-Swansea City,2017-08-12,Matchweek 1,Sat,Home,D,0,0,Swansea City,54,44,3,1,4,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-08-19 Southampton-West Ham,2017-08-19,Matchweek 2,Sat,Home,W,3,2,West Ham,28,24,1,1,0,2,0,6,4,0,0,0,2,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-08-26 Huddersfield-Southampton,2017-08-26,Matchweek 3,Sat,Away,D,0,0,Huddersfield,12,12,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-09-09 Southampton-Watford,2017-09-09,Matchweek 4,Sat,Home,L,0,2,Watford,15,10,1,1,1,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-09-16 Crystal Palace-Southampton,2017-09-16,Matchweek 5,Sat,Away,W,1,0,Crystal Palace,22,18,2,2,0,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Southampton,2017-09-23 Southampton-Manchester Utd,2017-09-23,Matchweek 6,Sat,Home,L,0,1,Manchester Utd,25,19,2,2,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-09-30 Stoke City-Southampton,2017-09-30,Matchweek 7,Sat,Away,L,1,2,Stoke City,40,31,3,2,2,2,0,2,1,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-10-15 Southampton-Newcastle Utd,2017-10-15,Matchweek 8,Sun,Home,D,2,2,Newcastle Utd,24,20,3,0,0,1,0,4,3,0,0,0,1,0,16:00:00
+ENG-Premier League,1718,Southampton,2017-10-21 Southampton-West Brom,2017-10-21,Matchweek 9,Sat,Home,W,1,0,West Brom,37,26,2,5,1,1,2,2,0,0,2,0,0,0,17:30:00
+ENG-Premier League,1718,Southampton,2017-10-29 Brighton-Southampton,2017-10-29,Matchweek 10,Sun,Away,D,1,1,Brighton,11,8,0,0,1,2,0,1,0,0,0,1,0,0,13:30:00
+ENG-Premier League,1718,Southampton,2017-11-04 Southampton-Burnley,2017-11-04,Matchweek 11,Sat,Home,L,0,1,Burnley,23,20,0,2,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-11-18 Liverpool-Southampton,2017-11-18,Matchweek 12,Sat,Away,L,0,3,Liverpool,10,5,3,0,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-11-26 Southampton-Everton,2017-11-26,Matchweek 13,Sun,Home,W,4,1,Everton,28,23,3,0,2,0,0,8,8,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Southampton,2017-11-29 Manchester City-Southampton,2017-11-29,Matchweek 14,Wed,Away,L,1,2,Manchester City,14,4,5,2,1,2,0,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Southampton,2017-12-03 Bournemouth-Southampton,2017-12-03,Matchweek 15,Sun,Away,D,1,1,Bournemouth,28,24,1,0,2,1,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Southampton,2017-12-10 Southampton-Arsenal,2017-12-10,Matchweek 16,Sun,Home,D,1,1,Arsenal,12,10,0,2,0,0,0,2,1,0,1,0,0,0,12:00:00
+ENG-Premier League,1718,Southampton,2017-12-13 Southampton-Leicester City,2017-12-13,Matchweek 17,Wed,Home,L,1,4,Leicester City,20,12,5,0,2,1,0,2,0,1,0,1,0,0,19:45:00
+ENG-Premier League,1718,Southampton,2017-12-16 Chelsea-Southampton,2017-12-16,Matchweek 18,Sat,Away,L,0,1,Chelsea,12,10,0,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-12-23 Southampton-Huddersfield,2017-12-23,Matchweek 19,Sat,Home,D,1,1,Huddersfield,18,11,3,1,2,1,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2017-12-26 Tottenham-Southampton,2017-12-26,Matchweek 20,Tue,Away,L,2,5,Tottenham,27,16,3,5,2,0,1,2,0,1,0,1,0,0,12:30:00
+ENG-Premier League,1718,Southampton,2017-12-30 Manchester Utd-Southampton,2017-12-30,Matchweek 21,Sat,Away,D,0,0,Manchester Utd,13,10,1,1,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Southampton,2018-01-02 Southampton-Crystal Palace,2018-01-02,Matchweek 22,Tue,Home,L,1,2,Crystal Palace,19,16,2,0,0,0,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Southampton,2018-01-13 Watford-Southampton,2018-01-13,Matchweek 23,Sat,Away,D,2,2,Watford,19,13,1,2,2,0,1,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2018-01-21 Southampton-Tottenham,2018-01-21,Matchweek 24,Sun,Home,D,1,1,Tottenham,15,13,1,0,0,1,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Southampton,2018-01-31 Southampton-Brighton,2018-01-31,Matchweek 25,Wed,Home,D,1,1,Brighton,29,21,4,2,1,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Southampton,2018-02-03 West Brom-Southampton,2018-02-03,Matchweek 26,Sat,Away,W,3,2,West Brom,23,15,2,4,0,2,0,6,2,2,1,0,1,0,15:00:00
+ENG-Premier League,1718,Southampton,2018-02-11 Southampton-Liverpool,2018-02-11,Matchweek 27,Sun,Home,L,0,2,Liverpool,12,9,1,1,0,1,0,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Southampton,2018-02-24 Burnley-Southampton,2018-02-24,Matchweek 28,Sat,Away,D,1,1,Burnley,21,14,4,0,2,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2018-03-03 Southampton-Stoke City,2018-03-03,Matchweek 29,Sat,Home,D,0,0,Stoke City,32,22,2,3,3,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2018-03-10 Newcastle Utd-Southampton,2018-03-10,Matchweek 30,Sat,Away,L,0,3,Newcastle Utd,12,8,2,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2018-03-31 West Ham-Southampton,2018-03-31,Matchweek 32,Sat,Away,L,0,3,West Ham,17,12,2,2,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2018-04-08 Arsenal-Southampton,2018-04-08,Matchweek 33,Sun,Away,L,2,3,Arsenal,23,18,1,3,1,0,0,4,3,0,1,0,0,0,14:15:00
+ENG-Premier League,1718,Southampton,2018-04-14 Southampton-Chelsea,2018-04-14,Matchweek 34,Sat,Home,L,2,3,Chelsea,16,7,3,1,2,2,1,4,1,1,1,0,1,0,12:30:00
+ENG-Premier League,1718,Southampton,2018-04-19 Leicester City-Southampton,2018-04-19,Matchweek 35,Thu,Away,D,0,0,Leicester City,9,6,0,1,2,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Southampton,2018-04-28 Southampton-Bournemouth,2018-04-28,Matchweek 36,Sat,Home,W,2,1,Bournemouth,23,17,1,2,3,0,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Southampton,2018-05-05 Everton-Southampton,2018-05-05,Matchweek 37,Sat,Away,D,1,1,Everton,17,12,1,1,0,2,1,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Southampton,2018-05-08 Swansea City-Southampton,2018-05-08,Matchweek 31,Tue,Away,W,1,0,Swansea City,24,21,1,0,1,0,1,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Southampton,2018-05-13 Southampton-Manchester City,2018-05-13,Matchweek 38,Sun,Home,L,0,1,Manchester City,15,9,2,3,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-08-12 Everton-Stoke City,2017-08-12,Matchweek 1,Sat,Away,L,0,1,Everton,14,11,0,1,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-08-19 Stoke City-Arsenal,2017-08-19,Matchweek 2,Sat,Home,W,1,0,Arsenal,19,9,3,2,3,2,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Stoke City,2017-08-27 West Brom-Stoke City,2017-08-27,Matchweek 3,Sun,Away,D,1,1,West Brom,30,25,2,0,3,0,0,2,1,0,0,1,0,0,13:30:00
+ENG-Premier League,1718,Stoke City,2017-09-09 Stoke City-Manchester Utd,2017-09-09,Matchweek 4,Sat,Home,D,2,2,Manchester Utd,19,13,2,1,1,1,1,4,2,1,0,1,0,0,17:30:00
+ENG-Premier League,1718,Stoke City,2017-09-16 Newcastle Utd-Stoke City,2017-09-16,Matchweek 5,Sat,Away,L,1,2,Newcastle Utd,23,16,3,1,3,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-09-23 Stoke City-Chelsea,2017-09-23,Matchweek 6,Sat,Home,L,0,4,Chelsea,22,15,2,1,0,4,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-09-30 Stoke City-Southampton,2017-09-30,Matchweek 7,Sat,Home,W,2,1,Southampton,28,17,2,2,6,1,0,3,0,1,0,2,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-10-14 Manchester City-Stoke City,2017-10-14,Matchweek 8,Sat,Away,L,2,7,Manchester City,10,7,0,3,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-10-21 Stoke City-Bournemouth,2017-10-21,Matchweek 9,Sat,Home,L,1,2,Bournemouth,19,14,3,0,1,1,0,2,1,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-10-28 Watford-Stoke City,2017-10-28,Matchweek 10,Sat,Away,W,1,0,Watford,10,6,3,1,0,0,0,2,0,2,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-11-04 Stoke City-Leicester City,2017-11-04,Matchweek 11,Sat,Home,D,2,2,Leicester City,20,13,4,1,1,1,0,4,3,1,0,0,0,0,12:30:00
+ENG-Premier League,1718,Stoke City,2017-11-20 Brighton-Stoke City,2017-11-20,Matchweek 12,Mon,Away,D,2,2,Brighton,23,17,2,3,1,0,0,4,3,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Stoke City,2017-11-25 Crystal Palace-Stoke City,2017-11-25,Matchweek 13,Sat,Away,L,1,2,Crystal Palace,17,11,1,2,0,2,1,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-11-29 Stoke City-Liverpool,2017-11-29,Matchweek 14,Wed,Home,L,0,3,Liverpool,14,7,2,0,2,3,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Stoke City,2017-12-02 Stoke City-Swansea City,2017-12-02,Matchweek 15,Sat,Home,W,2,1,Swansea City,17,15,1,0,0,1,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-12-09 Tottenham-Stoke City,2017-12-09,Matchweek 16,Sat,Away,L,1,5,Tottenham,8,3,2,0,0,1,2,2,0,1,0,0,0,1,15:00:00
+ENG-Premier League,1718,Stoke City,2017-12-12 Burnley-Stoke City,2017-12-12,Matchweek 17,Tue,Away,L,0,1,Burnley,25,21,3,0,1,0,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Stoke City,2017-12-16 Stoke City-West Ham,2017-12-16,Matchweek 18,Sat,Home,L,0,3,West Ham,33,26,3,0,1,2,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Stoke City,2017-12-23 Stoke City-West Brom,2017-12-23,Matchweek 19,Sat,Home,W,3,1,West Brom,18,13,1,1,1,2,0,6,4,0,1,1,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-12-26 Huddersfield-Stoke City,2017-12-26,Matchweek 20,Tue,Away,D,1,1,Huddersfield,25,12,5,0,6,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2017-12-30 Chelsea-Stoke City,2017-12-30,Matchweek 21,Sat,Away,L,0,5,Chelsea,1,1,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-01-01 Stoke City-Newcastle Utd,2018-01-01,Matchweek 22,Mon,Home,L,0,1,Newcastle Utd,19,11,2,2,2,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-01-15 Manchester Utd-Stoke City,2018-01-15,Matchweek 23,Mon,Away,L,0,3,Manchester Utd,20,15,1,2,1,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Stoke City,2018-01-20 Stoke City-Huddersfield,2018-01-20,Matchweek 24,Sat,Home,W,2,0,Huddersfield,19,15,1,1,1,0,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-01-31 Stoke City-Watford,2018-01-31,Matchweek 25,Wed,Home,D,0,0,Watford,17,10,1,2,2,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Stoke City,2018-02-03 Bournemouth-Stoke City,2018-02-03,Matchweek 26,Sat,Away,L,1,2,Bournemouth,19,13,4,0,2,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-02-10 Stoke City-Brighton,2018-02-10,Matchweek 27,Sat,Home,D,1,1,Brighton,24,16,2,2,1,2,1,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-02-24 Leicester City-Stoke City,2018-02-24,Matchweek 28,Sat,Away,D,1,1,Leicester City,7,4,0,0,0,1,2,1,1,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Stoke City,2018-03-03 Southampton-Stoke City,2018-03-03,Matchweek 29,Sat,Away,D,0,0,Southampton,23,19,1,1,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-03-12 Stoke City-Manchester City,2018-03-12,Matchweek 30,Mon,Home,L,0,2,Manchester City,6,5,0,1,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Stoke City,2018-03-17 Stoke City-Everton,2018-03-17,Matchweek 31,Sat,Home,L,1,2,Everton,16,12,1,2,0,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-04-01 Arsenal-Stoke City,2018-04-01,Matchweek 32,Sun,Away,L,0,3,Arsenal,15,9,4,0,0,1,1,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Stoke City,2018-04-07 Stoke City-Tottenham,2018-04-07,Matchweek 33,Sat,Home,L,1,2,Tottenham,17,14,0,0,1,2,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Stoke City,2018-04-16 West Ham-Stoke City,2018-04-16,Matchweek 34,Mon,Away,D,1,1,West Ham,21,13,2,3,2,1,0,1,0,0,0,1,0,0,20:00:00
+ENG-Premier League,1718,Stoke City,2018-04-22 Stoke City-Burnley,2018-04-22,Matchweek 35,Sun,Home,D,1,1,Burnley,14,9,1,4,0,0,0,2,1,0,1,0,0,0,13:30:00
+ENG-Premier League,1718,Stoke City,2018-04-28 Liverpool-Stoke City,2018-04-28,Matchweek 36,Sat,Away,D,0,0,Liverpool,9,5,2,1,1,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Stoke City,2018-05-05 Stoke City-Crystal Palace,2018-05-05,Matchweek 37,Sat,Home,L,1,2,Crystal Palace,13,8,2,1,0,2,0,1,0,0,0,0,1,0,12:30:00
+ENG-Premier League,1718,Stoke City,2018-05-13 Swansea City-Stoke City,2018-05-13,Matchweek 38,Sun,Away,W,2,1,Swansea City,15,13,1,0,0,1,0,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-08-12 Southampton-Swansea City,2017-08-12,Matchweek 1,Sat,Away,D,0,0,Southampton,6,4,0,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-08-19 Swansea City-Manchester Utd,2017-08-19,Matchweek 2,Sat,Home,L,0,4,Manchester Utd,8,4,1,2,0,0,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Swansea City,2017-08-26 Crystal Palace-Swansea City,2017-08-26,Matchweek 3,Sat,Away,W,2,0,Crystal Palace,12,8,1,0,1,1,1,4,3,0,0,0,0,1,15:00:00
+ENG-Premier League,1718,Swansea City,2017-09-10 Swansea City-Newcastle Utd,2017-09-10,Matchweek 4,Sun,Home,L,0,1,Newcastle Utd,18,9,3,2,1,2,1,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Swansea City,2017-09-16 Tottenham-Swansea City,2017-09-16,Matchweek 5,Sat,Away,D,0,0,Tottenham,4,0,3,0,0,1,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Swansea City,2017-09-23 Swansea City-Watford,2017-09-23,Matchweek 6,Sat,Home,L,1,2,Watford,16,6,4,1,2,3,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-09-30 West Ham-Swansea City,2017-09-30,Matchweek 7,Sat,Away,L,0,1,West Ham,12,9,1,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-10-14 Swansea City-Huddersfield,2017-10-14,Matchweek 8,Sat,Home,W,2,0,Huddersfield,11,6,0,1,2,1,1,3,1,0,0,1,0,1,15:00:00
+ENG-Premier League,1718,Swansea City,2017-10-21 Swansea City-Leicester City,2017-10-21,Matchweek 9,Sat,Home,L,1,2,Leicester City,36,30,3,1,1,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-10-28 Arsenal-Swansea City,2017-10-28,Matchweek 10,Sat,Away,L,1,2,Arsenal,9,6,1,0,0,1,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-11-04 Swansea City-Brighton,2017-11-04,Matchweek 11,Sat,Home,L,0,1,Brighton,18,12,0,2,3,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-11-18 Burnley-Swansea City,2017-11-18,Matchweek 12,Sat,Away,L,0,2,Burnley,26,22,0,0,2,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-11-25 Swansea City-Bournemouth,2017-11-25,Matchweek 13,Sat,Home,D,0,0,Bournemouth,18,15,0,2,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-11-29 Chelsea-Swansea City,2017-11-29,Matchweek 14,Wed,Away,L,0,1,Chelsea,4,3,0,0,0,0,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Swansea City,2017-12-02 Stoke City-Swansea City,2017-12-02,Matchweek 15,Sat,Away,L,1,2,Stoke City,17,12,1,2,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-12-09 Swansea City-West Brom,2017-12-09,Matchweek 16,Sat,Home,W,1,0,West Brom,35,19,6,6,2,2,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-12-13 Swansea City-Manchester City,2017-12-13,Matchweek 17,Wed,Home,L,0,4,Manchester City,11,2,2,3,1,2,1,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Swansea City,2017-12-18 Everton-Swansea City,2017-12-18,Matchweek 18,Mon,Away,L,1,3,Everton,15,12,2,0,0,1,0,1,0,1,0,0,0,0,20:00:00
+ENG-Premier League,1718,Swansea City,2017-12-23 Swansea City-Crystal Palace,2017-12-23,Matchweek 19,Sat,Home,D,1,1,Crystal Palace,12,11,0,1,0,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2017-12-26 Liverpool-Swansea City,2017-12-26,Matchweek 20,Tue,Away,L,0,5,Liverpool,11,10,1,0,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Swansea City,2017-12-30 Watford-Swansea City,2017-12-30,Matchweek 21,Sat,Away,W,2,1,Watford,13,8,1,2,1,1,0,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-01-02 Swansea City-Tottenham,2018-01-02,Matchweek 22,Tue,Home,L,0,2,Tottenham,14,9,1,1,2,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Swansea City,2018-01-13 Newcastle Utd-Swansea City,2018-01-13,Matchweek 23,Sat,Away,D,1,1,Newcastle Utd,14,10,3,0,1,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-01-22 Swansea City-Liverpool,2018-01-22,Matchweek 24,Mon,Home,W,1,0,Liverpool,6,2,2,1,0,1,0,2,1,1,0,0,0,0,20:00:00
+ENG-Premier League,1718,Swansea City,2018-01-30 Swansea City-Arsenal,2018-01-30,Matchweek 25,Tue,Home,W,3,1,Arsenal,20,13,1,3,0,2,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Swansea City,2018-02-03 Leicester City-Swansea City,2018-02-03,Matchweek 26,Sat,Away,D,1,1,Leicester City,6,4,2,0,0,0,0,2,0,2,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-02-10 Swansea City-Burnley,2018-02-10,Matchweek 27,Sat,Home,W,1,0,Burnley,23,18,0,1,1,1,2,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-02-24 Brighton-Swansea City,2018-02-24,Matchweek 28,Sat,Away,L,1,4,Brighton,20,13,2,3,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-03-03 Swansea City-West Ham,2018-03-03,Matchweek 29,Sat,Home,W,4,1,West Ham,14,10,2,0,1,1,0,6,3,1,0,1,1,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-03-10 Huddersfield-Swansea City,2018-03-10,Matchweek 30,Sat,Away,D,0,0,Huddersfield,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-03-31 Manchester Utd-Swansea City,2018-03-31,Matchweek 32,Sat,Away,L,0,2,Manchester Utd,4,4,0,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-04-07 West Brom-Swansea City,2018-04-07,Matchweek 33,Sat,Away,D,1,1,West Brom,11,5,2,3,0,1,0,1,0,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-04-14 Swansea City-Everton,2018-04-14,Matchweek 34,Sat,Home,D,1,1,Everton,30,24,3,1,2,0,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-04-22 Manchester City-Swansea City,2018-04-22,Matchweek 35,Sun,Away,L,0,5,Manchester City,7,2,1,2,0,1,1,0,0,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,Swansea City,2018-04-28 Swansea City-Chelsea,2018-04-28,Matchweek 36,Sat,Home,L,0,1,Chelsea,18,16,0,2,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Swansea City,2018-05-05 Bournemouth-Swansea City,2018-05-05,Matchweek 37,Sat,Away,L,0,1,Bournemouth,24,19,3,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Swansea City,2018-05-08 Swansea City-Southampton,2018-05-08,Matchweek 31,Tue,Home,L,0,1,Southampton,19,17,1,0,0,1,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Swansea City,2018-05-13 Swansea City-Stoke City,2018-05-13,Matchweek 38,Sun,Home,L,1,2,Stoke City,39,21,4,3,8,3,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2017-08-13 Newcastle Utd-Tottenham,2017-08-13,Matchweek 1,Sun,Away,W,2,0,Newcastle Utd,30,22,3,2,1,1,1,4,4,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Tottenham,2017-08-20 Tottenham-Chelsea,2017-08-20,Matchweek 2,Sun,Home,L,1,2,Chelsea,32,21,4,3,3,1,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,Tottenham,2017-08-27 Tottenham-Burnley,2017-08-27,Matchweek 3,Sun,Home,D,1,1,Burnley,50,33,4,4,7,2,0,1,0,0,0,1,0,0,16:00:00
+ENG-Premier League,1718,Tottenham,2017-09-09 Everton-Tottenham,2017-09-09,Matchweek 4,Sat,Away,W,3,0,Everton,26,23,0,1,1,1,0,5,4,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2017-09-16 Tottenham-Swansea City,2017-09-16,Matchweek 5,Sat,Home,D,0,0,Swansea City,51,38,4,2,5,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Tottenham,2017-09-23 West Ham-Tottenham,2017-09-23,Matchweek 6,Sat,Away,W,3,2,West Ham,26,19,1,2,2,2,0,4,2,0,0,2,0,0,12:30:00
+ENG-Premier League,1718,Tottenham,2017-09-30 Huddersfield-Tottenham,2017-09-30,Matchweek 7,Sat,Away,W,4,0,Huddersfield,23,16,2,4,0,0,1,7,5,1,1,0,0,0,12:30:00
+ENG-Premier League,1718,Tottenham,2017-10-14 Tottenham-Bournemouth,2017-10-14,Matchweek 8,Sat,Home,W,1,0,Bournemouth,32,25,2,2,2,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2017-10-22 Tottenham-Liverpool,2017-10-22,Matchweek 9,Sun,Home,W,4,1,Liverpool,21,14,2,2,1,2,0,6,3,0,1,1,1,0,16:00:00
+ENG-Premier League,1718,Tottenham,2017-10-28 Manchester Utd-Tottenham,2017-10-28,Matchweek 10,Sat,Away,L,0,1,Manchester Utd,22,17,2,1,2,0,0,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Tottenham,2017-11-05 Tottenham-Crystal Palace,2017-11-05,Matchweek 11,Sun,Home,W,1,0,Crystal Palace,21,16,1,1,1,0,2,1,0,0,0,1,0,0,12:00:00
+ENG-Premier League,1718,Tottenham,2017-11-18 Arsenal-Tottenham,2017-11-18,Matchweek 12,Sat,Away,L,0,2,Arsenal,27,21,1,3,1,0,1,0,0,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Tottenham,2017-11-25 Tottenham-West Brom,2017-11-25,Matchweek 13,Sat,Home,D,1,1,West Brom,44,37,2,1,3,1,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2017-11-28 Leicester City-Tottenham,2017-11-28,Matchweek 14,Tue,Away,L,1,2,Leicester City,33,25,2,2,3,0,1,2,2,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Tottenham,2017-12-02 Watford-Tottenham,2017-12-02,Matchweek 15,Sat,Away,D,1,1,Watford,14,10,0,0,0,4,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2017-12-09 Tottenham-Stoke City,2017-12-09,Matchweek 16,Sat,Home,W,5,1,Stoke City,36,31,2,0,1,1,1,5,5,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2017-12-13 Tottenham-Brighton,2017-12-13,Matchweek 17,Wed,Home,W,2,0,Brighton,41,25,2,3,7,2,2,4,1,1,1,0,1,0,20:00:00
+ENG-Premier League,1718,Tottenham,2017-12-16 Manchester City-Tottenham,2017-12-16,Matchweek 18,Sat,Away,L,1,4,Manchester City,9,7,0,2,0,0,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Tottenham,2017-12-23 Burnley-Tottenham,2017-12-23,Matchweek 19,Sat,Away,W,3,0,Burnley,32,24,1,3,3,1,0,5,3,0,1,0,1,0,17:30:00
+ENG-Premier League,1718,Tottenham,2017-12-26 Tottenham-Southampton,2017-12-26,Matchweek 20,Tue,Home,W,5,2,Southampton,28,22,3,0,0,3,0,9,7,1,0,0,1,0,12:30:00
+ENG-Premier League,1718,Tottenham,2018-01-02 Swansea City-Tottenham,2018-01-02,Matchweek 22,Tue,Away,W,2,0,Swansea City,23,16,2,0,1,3,1,3,0,1,0,1,1,0,19:45:00
+ENG-Premier League,1718,Tottenham,2018-01-04 Tottenham-West Ham,2018-01-04,Matchweek 21,Thu,Home,D,1,1,West Ham,55,39,2,4,9,0,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Tottenham,2018-01-13 Tottenham-Everton,2018-01-13,Matchweek 23,Sat,Home,W,4,0,Everton,34,23,2,4,4,1,0,6,4,0,0,2,0,0,17:30:00
+ENG-Premier League,1718,Tottenham,2018-01-21 Southampton-Tottenham,2018-01-21,Matchweek 24,Sun,Away,D,1,1,Southampton,30,27,2,0,1,0,0,2,1,1,0,0,0,0,16:00:00
+ENG-Premier League,1718,Tottenham,2018-01-31 Tottenham-Manchester Utd,2018-01-31,Matchweek 25,Wed,Home,W,2,0,Manchester Utd,38,30,2,1,1,3,1,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Tottenham,2018-02-04 Liverpool-Tottenham,2018-02-04,Matchweek 26,Sun,Away,D,2,2,Liverpool,24,14,4,1,1,4,0,4,2,1,0,0,1,0,16:30:00
+ENG-Premier League,1718,Tottenham,2018-02-10 Tottenham-Arsenal,2018-02-10,Matchweek 27,Sat,Home,W,1,0,Arsenal,29,17,5,3,2,2,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Tottenham,2018-02-25 Crystal Palace-Tottenham,2018-02-25,Matchweek 28,Sun,Away,W,1,0,Crystal Palace,22,17,2,1,1,1,0,1,0,1,0,0,0,0,12:00:00
+ENG-Premier League,1718,Tottenham,2018-03-03 Tottenham-Huddersfield,2018-03-03,Matchweek 29,Sat,Home,W,2,0,Huddersfield,28,23,1,3,0,1,0,3,2,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2018-03-11 Bournemouth-Tottenham,2018-03-11,Matchweek 30,Sun,Away,W,4,1,Bournemouth,22,18,1,2,1,0,0,8,7,0,1,0,0,0,16:00:00
+ENG-Premier League,1718,Tottenham,2018-04-01 Chelsea-Tottenham,2018-04-01,Matchweek 32,Sun,Away,W,3,1,Chelsea,23,20,0,1,2,0,0,5,4,0,0,1,0,0,16:00:00
+ENG-Premier League,1718,Tottenham,2018-04-07 Stoke City-Tottenham,2018-04-07,Matchweek 33,Sat,Away,W,2,1,Stoke City,26,17,2,1,2,3,1,4,3,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,Tottenham,2018-04-14 Tottenham-Manchester City,2018-04-14,Matchweek 34,Sat,Home,L,1,3,Manchester City,14,11,2,0,1,0,0,1,0,0,0,1,0,0,19:45:00
+ENG-Premier League,1718,Tottenham,2018-04-17 Brighton-Tottenham,2018-04-17,Matchweek 35,Tue,Away,D,1,1,Brighton,25,20,0,1,1,2,1,1,1,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,Tottenham,2018-04-30 Tottenham-Watford,2018-04-30,Matchweek 36,Mon,Home,W,2,0,Watford,22,16,3,1,1,1,0,4,4,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Tottenham,2018-05-05 West Brom-Tottenham,2018-05-05,Matchweek 37,Sat,Away,L,0,1,West Brom,33,23,3,2,1,3,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Tottenham,2018-05-09 Tottenham-Newcastle Utd,2018-05-09,Matchweek 31,Wed,Home,W,1,0,Newcastle Utd,21,15,2,3,0,1,0,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Tottenham,2018-05-13 Tottenham-Leicester City,2018-05-13,Matchweek 38,Sun,Home,W,5,4,Leicester City,25,19,2,2,0,2,0,6,5,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-08-12 Watford-Liverpool,2017-08-12,Matchweek 1,Sat,Home,D,3,3,Liverpool,14,8,1,2,3,0,0,5,1,1,1,2,0,0,12:30:00
+ENG-Premier League,1718,Watford,2017-08-19 Bournemouth-Watford,2017-08-19,Matchweek 2,Sat,Away,W,2,0,Bournemouth,35,24,4,3,3,0,1,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-08-26 Watford-Brighton,2017-08-26,Matchweek 3,Sat,Home,D,0,0,Brighton,14,8,1,3,0,2,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-09-09 Southampton-Watford,2017-09-09,Matchweek 4,Sat,Away,W,2,0,Southampton,19,10,3,4,1,1,0,3,3,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-09-16 Watford-Manchester City,2017-09-16,Matchweek 5,Sat,Home,L,0,6,Manchester City,13,4,6,1,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-09-23 Swansea City-Watford,2017-09-23,Matchweek 6,Sat,Away,W,2,1,Swansea City,11,8,0,3,0,0,0,1,0,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-09-30 West Brom-Watford,2017-09-30,Matchweek 7,Sat,Away,D,2,2,West Brom,29,22,2,1,1,2,1,4,2,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,Watford,2017-10-14 Watford-Arsenal,2017-10-14,Matchweek 8,Sat,Home,W,2,1,Arsenal,20,15,0,1,2,1,1,3,1,0,0,1,1,0,17:30:00
+ENG-Premier League,1718,Watford,2017-10-21 Chelsea-Watford,2017-10-21,Matchweek 9,Sat,Away,L,2,4,Chelsea,27,19,4,0,1,3,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,Watford,2017-10-28 Watford-Stoke City,2017-10-28,Matchweek 10,Sat,Home,L,0,1,Stoke City,27,19,1,5,2,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-11-05 Everton-Watford,2017-11-05,Matchweek 11,Sun,Away,L,2,3,Everton,20,11,4,3,1,1,0,4,1,1,2,0,0,0,16:30:00
+ENG-Premier League,1718,Watford,2017-11-19 Watford-West Ham,2017-11-19,Matchweek 12,Sun,Home,W,2,0,West Ham,31,28,0,1,2,0,0,2,1,0,0,1,0,0,16:00:00
+ENG-Premier League,1718,Watford,2017-11-25 Newcastle Utd-Watford,2017-11-25,Matchweek 13,Sat,Away,W,3,0,Newcastle Utd,22,21,0,0,0,0,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-11-28 Watford-Manchester Utd,2017-11-28,Matchweek 14,Tue,Home,L,2,4,Manchester Utd,22,15,1,5,0,1,0,4,2,0,1,0,1,0,20:00:00
+ENG-Premier League,1718,Watford,2017-12-02 Watford-Tottenham,2017-12-02,Matchweek 15,Sat,Home,D,1,1,Tottenham,10,8,2,0,0,0,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-12-09 Burnley-Watford,2017-12-09,Matchweek 16,Sat,Away,L,0,1,Burnley,20,14,4,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-12-12 Crystal Palace-Watford,2017-12-12,Matchweek 17,Tue,Away,L,1,2,Crystal Palace,12,8,1,1,1,1,0,2,1,0,0,1,0,0,20:00:00
+ENG-Premier League,1718,Watford,2017-12-16 Watford-Huddersfield,2017-12-16,Matchweek 18,Sat,Home,L,1,4,Huddersfield,24,16,3,2,1,1,1,2,0,0,0,1,1,0,15:00:00
+ENG-Premier League,1718,Watford,2017-12-23 Brighton-Watford,2017-12-23,Matchweek 19,Sat,Away,L,0,1,Brighton,22,13,3,3,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-12-26 Watford-Leicester City,2017-12-26,Matchweek 20,Tue,Home,W,2,1,Leicester City,19,10,3,2,2,1,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Watford,2017-12-30 Watford-Swansea City,2017-12-30,Matchweek 21,Sat,Home,L,1,2,Swansea City,14,11,1,0,1,0,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-01-02 Manchester City-Watford,2018-01-02,Matchweek 22,Tue,Away,L,1,3,Manchester City,11,6,1,2,0,1,1,2,1,0,1,0,0,0,20:00:00
+ENG-Premier League,1718,Watford,2018-01-13 Watford-Southampton,2018-01-13,Matchweek 23,Sat,Home,D,2,2,Southampton,30,19,4,1,1,3,2,3,2,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-01-20 Leicester City-Watford,2018-01-20,Matchweek 24,Sat,Away,L,0,2,Leicester City,20,15,1,1,2,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-01-31 Stoke City-Watford,2018-01-31,Matchweek 25,Wed,Away,D,0,0,Stoke City,18,13,1,1,2,1,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Watford,2018-02-05 Watford-Chelsea,2018-02-05,Matchweek 26,Mon,Home,W,4,1,Chelsea,37,28,1,3,1,2,2,7,5,0,1,0,1,0,20:00:00
+ENG-Premier League,1718,Watford,2018-02-10 West Ham-Watford,2018-02-10,Matchweek 27,Sat,Away,L,0,2,West Ham,21,16,4,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-02-24 Watford-Everton,2018-02-24,Matchweek 28,Sat,Home,W,1,0,Everton,22,14,2,1,2,1,2,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Watford,2018-03-03 Watford-West Brom,2018-03-03,Matchweek 29,Sat,Home,W,1,0,West Brom,23,11,5,2,4,1,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-03-11 Arsenal-Watford,2018-03-11,Matchweek 30,Sun,Away,L,0,3,Arsenal,18,13,1,1,1,2,0,0,0,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,Watford,2018-03-17 Liverpool-Watford,2018-03-17,Matchweek 31,Sat,Away,L,0,5,Liverpool,8,4,1,0,0,2,1,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,Watford,2018-03-31 Watford-Bournemouth,2018-03-31,Matchweek 32,Sat,Home,D,2,2,Bournemouth,22,13,1,3,2,2,1,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-04-07 Watford-Burnley,2018-04-07,Matchweek 33,Sat,Home,L,1,2,Burnley,25,20,2,1,1,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-04-14 Huddersfield-Watford,2018-04-14,Matchweek 34,Sat,Away,L,0,1,Huddersfield,8,7,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-04-21 Watford-Crystal Palace,2018-04-21,Matchweek 35,Sat,Home,D,0,0,Crystal Palace,23,20,1,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-04-30 Tottenham-Watford,2018-04-30,Matchweek 36,Mon,Away,L,0,2,Tottenham,24,15,1,3,2,1,2,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,Watford,2018-05-05 Watford-Newcastle Utd,2018-05-05,Matchweek 37,Sat,Home,W,2,1,Newcastle Utd,19,11,1,0,3,3,1,4,4,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,Watford,2018-05-13 Manchester Utd-Watford,2018-05-13,Matchweek 38,Sun,Away,L,0,1,Manchester Utd,12,9,1,0,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-08-12 West Brom-Bournemouth,2017-08-12,Matchweek 1,Sat,Home,W,1,0,Bournemouth,28,21,5,0,1,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-08-19 Burnley-West Brom,2017-08-19,Matchweek 2,Sat,Away,W,1,0,Burnley,14,4,3,3,1,3,0,2,0,0,2,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-08-27 West Brom-Stoke City,2017-08-27,Matchweek 3,Sun,Home,D,1,1,Stoke City,18,12,4,0,1,1,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,West Brom,2017-09-09 Brighton-West Brom,2017-09-09,Matchweek 4,Sat,Away,L,1,3,Brighton,23,20,2,0,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-09-16 West Brom-West Ham,2017-09-16,Matchweek 5,Sat,Home,D,0,0,West Ham,12,9,1,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-09-25 Arsenal-West Brom,2017-09-25,Matchweek 6,Mon,Away,L,0,2,Arsenal,12,6,1,2,1,1,1,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Brom,2017-09-30 West Brom-Watford,2017-09-30,Matchweek 7,Sat,Home,D,2,2,Watford,15,12,2,1,0,0,0,4,3,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-10-16 Leicester City-West Brom,2017-10-16,Matchweek 8,Mon,Away,D,1,1,Leicester City,9,6,1,0,0,2,0,1,0,0,0,0,1,0,20:00:00
+ENG-Premier League,1718,West Brom,2017-10-21 Southampton-West Brom,2017-10-21,Matchweek 9,Sat,Away,L,0,1,Southampton,12,9,1,0,0,2,0,0,0,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,West Brom,2017-10-28 West Brom-Manchester City,2017-10-28,Matchweek 10,Sat,Home,L,2,3,Manchester City,10,10,0,0,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-11-04 Huddersfield-West Brom,2017-11-04,Matchweek 11,Sat,Away,L,0,1,Huddersfield,16,15,1,0,0,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-11-18 West Brom-Chelsea,2017-11-18,Matchweek 12,Sat,Home,L,0,4,Chelsea,13,10,1,1,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-11-25 Tottenham-West Brom,2017-11-25,Matchweek 13,Sat,Away,D,1,1,Tottenham,7,6,0,0,0,1,0,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-11-28 West Brom-Newcastle Utd,2017-11-28,Matchweek 14,Tue,Home,D,2,2,Newcastle Utd,15,9,1,2,0,2,1,4,4,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Brom,2017-12-02 West Brom-Crystal Palace,2017-12-02,Matchweek 15,Sat,Home,D,0,0,Crystal Palace,32,18,6,2,3,2,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-12-09 Swansea City-West Brom,2017-12-09,Matchweek 16,Sat,Away,L,0,1,Swansea City,9,4,1,2,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-12-13 Liverpool-West Brom,2017-12-13,Matchweek 17,Wed,Away,D,0,0,Liverpool,12,7,3,0,0,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Brom,2017-12-17 West Brom-Manchester Utd,2017-12-17,Matchweek 18,Sun,Home,L,1,2,Manchester Utd,22,19,0,1,2,0,0,1,0,0,0,1,0,0,14:15:00
+ENG-Premier League,1718,West Brom,2017-12-23 Stoke City-West Brom,2017-12-23,Matchweek 19,Sat,Away,L,1,3,Stoke City,30,22,5,1,2,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-12-26 West Brom-Everton,2017-12-26,Matchweek 20,Tue,Home,D,0,0,Everton,33,20,6,3,1,3,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2017-12-31 West Brom-Arsenal,2017-12-31,Matchweek 21,Sun,Home,D,1,1,Arsenal,25,18,3,1,1,2,0,1,1,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,West Brom,2018-01-02 West Ham-West Brom,2018-01-02,Matchweek 22,Tue,Away,L,1,2,West Ham,21,16,0,3,1,1,0,2,1,0,1,0,0,0,19:45:00
+ENG-Premier League,1718,West Brom,2018-01-13 West Brom-Brighton,2018-01-13,Matchweek 23,Sat,Home,W,2,0,Brighton,26,17,7,1,0,1,0,4,2,2,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-01-20 Everton-West Brom,2018-01-20,Matchweek 24,Sat,Away,D,1,1,Everton,25,14,4,3,1,0,3,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-01-31 Manchester City-West Brom,2018-01-31,Matchweek 25,Wed,Away,L,0,3,Manchester City,5,3,0,1,1,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Brom,2018-02-03 West Brom-Southampton,2018-02-03,Matchweek 26,Sat,Home,L,2,3,Southampton,17,12,2,0,0,3,0,4,3,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-02-12 Chelsea-West Brom,2018-02-12,Matchweek 27,Mon,Away,L,0,3,Chelsea,12,6,3,2,1,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Brom,2018-02-24 West Brom-Huddersfield,2018-02-24,Matchweek 28,Sat,Home,L,1,2,Huddersfield,16,9,3,2,1,1,0,2,1,1,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-03-03 Watford-West Brom,2018-03-03,Matchweek 29,Sat,Away,L,0,1,Watford,14,11,2,0,0,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-03-10 West Brom-Leicester City,2018-03-10,Matchweek 30,Sat,Home,L,1,4,Leicester City,9,7,1,1,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-03-17 Bournemouth-West Brom,2018-03-17,Matchweek 31,Sat,Away,L,1,2,Bournemouth,21,15,1,1,3,0,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-03-31 West Brom-Burnley,2018-03-31,Matchweek 32,Sat,Home,L,1,2,Burnley,15,14,0,1,0,0,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-04-07 West Brom-Swansea City,2018-04-07,Matchweek 33,Sat,Home,D,1,1,Swansea City,23,17,0,1,3,1,1,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-04-15 Manchester Utd-West Brom,2018-04-15,Matchweek 34,Sun,Away,W,1,0,Manchester Utd,16,14,0,1,1,0,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,West Brom,2018-04-21 West Brom-Liverpool,2018-04-21,Matchweek 35,Sat,Home,D,2,2,Liverpool,21,11,3,1,2,3,1,3,0,1,0,1,1,0,12:30:00
+ENG-Premier League,1718,West Brom,2018-04-28 Newcastle Utd-West Brom,2018-04-28,Matchweek 36,Sat,Away,W,1,0,Newcastle Utd,12,9,1,0,0,1,1,1,1,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-05-05 West Brom-Tottenham,2018-05-05,Matchweek 37,Sat,Home,W,1,0,Tottenham,15,5,4,2,4,0,0,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,West Brom,2018-05-13 Crystal Palace-West Brom,2018-05-13,Matchweek 38,Sun,Away,L,0,2,Crystal Palace,14,12,0,0,0,1,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2017-08-13 Manchester Utd-West Ham,2017-08-13,Matchweek 1,Sun,Away,L,0,4,Manchester Utd,17,14,1,2,0,0,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,West Ham,2017-08-19 Southampton-West Ham,2017-08-19,Matchweek 2,Sat,Away,L,2,3,Southampton,27,12,6,0,3,5,1,2,0,0,0,2,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2017-08-26 Newcastle Utd-West Ham,2017-08-26,Matchweek 3,Sat,Away,L,0,3,Newcastle Utd,13,9,0,2,1,1,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2017-09-11 West Ham-Huddersfield,2017-09-11,Matchweek 4,Mon,Home,W,2,0,Huddersfield,33,21,6,1,2,3,0,3,2,0,0,1,0,0,20:00:00
+ENG-Premier League,1718,West Ham,2017-09-16 West Brom-West Ham,2017-09-16,Matchweek 5,Sat,Away,D,0,0,West Brom,17,13,2,1,1,0,0,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2017-09-23 West Ham-Tottenham,2017-09-23,Matchweek 6,Sat,Home,L,2,3,Tottenham,18,14,4,0,0,0,0,4,3,1,0,0,0,0,12:30:00
+ENG-Premier League,1718,West Ham,2017-09-30 West Ham-Swansea City,2017-09-30,Matchweek 7,Sat,Home,W,1,0,Swansea City,18,13,3,1,0,1,0,2,2,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2017-10-14 Burnley-West Ham,2017-10-14,Matchweek 8,Sat,Away,D,1,1,Burnley,13,11,1,1,0,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2017-10-20 West Ham-Brighton,2017-10-20,Matchweek 9,Fri,Home,L,0,3,Brighton,30,25,2,1,0,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Ham,2017-10-28 Crystal Palace-West Ham,2017-10-28,Matchweek 10,Sat,Away,D,2,2,Crystal Palace,10,5,2,2,0,1,0,3,2,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2017-11-04 West Ham-Liverpool,2017-11-04,Matchweek 11,Sat,Home,L,1,4,Liverpool,12,8,1,2,0,1,0,2,2,0,0,0,0,0,17:30:00
+ENG-Premier League,1718,West Ham,2017-11-19 Watford-West Ham,2017-11-19,Matchweek 12,Sun,Away,L,0,2,Watford,17,10,2,1,2,2,0,0,0,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,West Ham,2017-11-24 West Ham-Leicester City,2017-11-24,Matchweek 13,Fri,Home,D,1,1,Leicester City,15,9,2,2,0,2,0,2,1,1,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Ham,2017-11-29 Everton-West Ham,2017-11-29,Matchweek 14,Wed,Away,L,0,4,Everton,12,6,2,1,1,2,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Ham,2017-12-03 Manchester City-West Ham,2017-12-03,Matchweek 15,Sun,Away,L,1,2,Manchester City,10,6,1,1,1,1,0,2,2,0,0,0,0,0,16:00:00
+ENG-Premier League,1718,West Ham,2017-12-09 West Ham-Chelsea,2017-12-09,Matchweek 16,Sat,Home,W,1,0,Chelsea,8,7,0,1,0,0,0,2,2,0,0,0,0,0,12:30:00
+ENG-Premier League,1718,West Ham,2017-12-13 West Ham-Arsenal,2017-12-13,Matchweek 17,Wed,Home,D,0,0,Arsenal,11,11,0,0,0,0,0,0,0,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Ham,2017-12-16 Stoke City-West Ham,2017-12-16,Matchweek 18,Sat,Away,W,3,0,Stoke City,26,20,0,4,0,2,0,6,4,0,1,0,1,0,16:00:00
+ENG-Premier League,1718,West Ham,2017-12-23 West Ham-Newcastle Utd,2017-12-23,Matchweek 19,Sat,Home,L,2,3,Newcastle Utd,33,18,4,4,3,2,2,2,0,0,0,1,0,1,15:00:00
+ENG-Premier League,1718,West Ham,2017-12-26 Bournemouth-West Ham,2017-12-26,Matchweek 20,Tue,Away,D,3,3,Bournemouth,17,13,1,1,1,1,0,3,1,1,0,1,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-01-02 West Ham-West Brom,2018-01-02,Matchweek 22,Tue,Home,W,2,1,West Brom,20,18,0,1,0,0,1,4,4,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,West Ham,2018-01-04 Tottenham-West Ham,2018-01-04,Matchweek 21,Thu,Away,D,1,1,Tottenham,6,4,0,1,0,1,0,2,2,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Ham,2018-01-13 Huddersfield-West Ham,2018-01-13,Matchweek 23,Sat,Away,W,4,1,Huddersfield,13,6,1,4,1,1,0,6,4,0,2,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-01-20 West Ham-Bournemouth,2018-01-20,Matchweek 24,Sat,Home,D,1,1,Bournemouth,19,14,0,3,1,0,1,1,0,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-01-30 West Ham-Crystal Palace,2018-01-30,Matchweek 25,Tue,Home,D,1,1,Crystal Palace,16,13,1,0,1,1,0,2,1,0,0,0,1,0,19:45:00
+ENG-Premier League,1718,West Ham,2018-02-03 Brighton-West Ham,2018-02-03,Matchweek 26,Sat,Away,L,1,3,Brighton,8,6,0,2,0,0,0,2,0,0,2,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-02-10 West Ham-Watford,2018-02-10,Matchweek 27,Sat,Home,W,2,0,Watford,12,8,2,2,0,0,0,2,1,0,1,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-02-24 Liverpool-West Ham,2018-02-24,Matchweek 28,Sat,Away,L,1,4,Liverpool,13,8,1,0,1,2,1,2,1,0,0,0,0,1,15:00:00
+ENG-Premier League,1718,West Ham,2018-03-03 Swansea City-West Ham,2018-03-03,Matchweek 29,Sat,Away,L,1,4,Swansea City,12,8,1,2,0,1,0,2,0,1,0,0,1,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-03-10 West Ham-Burnley,2018-03-10,Matchweek 30,Sat,Home,L,0,3,Burnley,26,21,2,1,1,0,1,0,0,0,0,0,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-03-31 West Ham-Southampton,2018-03-31,Matchweek 32,Sat,Home,W,3,0,Southampton,19,15,2,0,1,1,0,5,4,0,0,1,0,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-04-08 Chelsea-West Ham,2018-04-08,Matchweek 33,Sun,Away,D,1,1,Chelsea,10,9,1,0,0,0,0,2,2,0,0,0,0,0,16:30:00
+ENG-Premier League,1718,West Ham,2018-04-16 West Ham-Stoke City,2018-04-16,Matchweek 34,Mon,Home,D,1,1,Stoke City,33,21,2,3,1,6,0,1,1,0,0,0,0,0,20:00:00
+ENG-Premier League,1718,West Ham,2018-04-22 Arsenal-West Ham,2018-04-22,Matchweek 35,Sun,Away,L,1,4,Arsenal,19,12,3,1,1,2,0,2,2,0,0,0,0,0,13:30:00
+ENG-Premier League,1718,West Ham,2018-04-29 West Ham-Manchester City,2018-04-29,Matchweek 36,Sun,Home,L,1,4,Manchester City,7,2,2,0,0,3,0,1,0,0,0,0,1,0,14:15:00
+ENG-Premier League,1718,West Ham,2018-05-05 Leicester City-West Ham,2018-05-05,Matchweek 37,Sat,Away,W,2,0,Leicester City,22,14,2,4,0,2,0,4,3,0,0,0,1,0,15:00:00
+ENG-Premier League,1718,West Ham,2018-05-10 West Ham-Manchester Utd,2018-05-10,Matchweek 31,Thu,Home,D,0,0,Manchester Utd,16,12,1,1,0,2,0,0,0,0,0,0,0,0,19:45:00
+ENG-Premier League,1718,West Ham,2018-05-13 West Ham-Everton,2018-05-13,Matchweek 38,Sun,Home,W,3,1,Everton,29,21,3,4,0,1,0,6,4,1,1,0,0,0,15:00:00

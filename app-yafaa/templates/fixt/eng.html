@@ -132,7 +132,7 @@
             <h2 class="heading-primary">Season</h2>
             <form  method="POST">
                 <input type="hidden" name="form_type" value="season_form">
-                <select id="season" name="season" style="width: 250px;" class="selectB">
+                <select id="season" name="season" style="width: 250px;" class="selectB" value="{{season_selected}}">
                     {% for season_selected in season_available%}
                    <option value="{{season_selected}}" style="font-size: 13px;">{{season_selected}} / {{ (season_selected|int) +1}}</option>
                     {%endfor%}  
