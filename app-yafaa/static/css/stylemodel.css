@@ -54,14 +54,15 @@ a {
 
 
 .game_description{
-    font-size: 0.6em;
+    font-size: 1em;
     padding-top: 7px;
     padding-bottom: 2px;
+    text-align: center;
 }
 
 
 .container1{
-    width: 75%;
+    width: 75vw;
     /* margin: 5%; */
     background-color: rgba(255,255,255,0.45);
     border-radius: 15px;
@@ -72,20 +73,22 @@ a {
 .game{
     padding: 35px;
     margin-bottom: 50px;
+    border-color: orange;
+    border-bottom: 2px;
 }
 
 .logo_home{
     float: left;
     /* padding-left: 2.5%;
     padding-right: 3.5%; */
-    width: 5%;
+    width: 10%;
 }
 
 .logo_away{
     float: right;
     /* padding-right: 1.5%;
     padding-left: 4.5%; */
-    width: 5%;
+    width: 10%;
 }
 
 .logo_png{
@@ -100,12 +103,12 @@ a {
     padding-bottom: 0px;
 }
 
-
 .heading1{
     width: 50%;
     text-align: left;
     box-sizing: border-box;
     display: inline-block;
+    font-size: 1.6em !important;
 }
 
 
@@ -114,6 +117,7 @@ a {
     text-align: right;
     box-sizing: border-box;
     display: inline-block;
+    font-size: 1.6em !important;
 }
 
 
@@ -147,7 +151,7 @@ a {
     white-space: nowrap;
     /* padding-top: 5px; */
     float: left;
-    width: 88%;
+    width: 78%;
 }
 
 
@@ -190,10 +194,6 @@ a {
     margin-top: 5px;
 }
 
-.collapsible_heading {
-    font-size: 125%;
-
-}
 
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
@@ -207,10 +207,11 @@ a {
   border-radius: 10px 10px 0px 0px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  font-size: 0.6em;
+  font-size: 1.7em;
   padding-top: 2px;
   padding-bottom: 2px;
-  padding-left: 4px
+  padding-left: 4px;
+  border: rgb(22, 22, 199);
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -226,7 +227,7 @@ a {
   background-color: rgba(255,255,255,0.45);
   border-radius: 0px 0px 10px 10px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.6em;
+  font-size: 1.5em !important;
 }
 
 .game_probability {

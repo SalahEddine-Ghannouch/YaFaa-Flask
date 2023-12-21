@@ -191,7 +191,8 @@ class yaffaPLT:
                     margin=dict(t=50, b=0), 
                     showlegend=False, 
                     plot_bgcolor="white", 
-                    height=200, width=600
+                    height = 0, 
+                    width = 0
                     ):
         # Perform the specified operation on the chosen index of the dataframe column
         value = int(dataframe[column_name].iloc[index])
@@ -228,8 +229,8 @@ class yaffaPLT:
                             margin=dict(t=50, b=0),
                             showlegend=False,
                             plot_bgcolor="white",
-                            height=200, 
-                            width=300)
+                            height=height, 
+                            width=width)
         
         return fig.to_html(full_html=False)
 
