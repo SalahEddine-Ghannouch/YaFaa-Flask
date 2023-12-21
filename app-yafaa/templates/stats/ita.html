@@ -21,9 +21,8 @@
     }
 
     .js-next-fixtures {
-        display: inline-block; /* Center the block-level element */
-        margin: 50px; /* Adjust the top margin as needed */
-        margin-left: 300px;
+        width: 1000px;
+
     }
 
     .fixtures {
@@ -41,7 +40,10 @@
 
 <div class="js-next-fixtures">
     <div class="fixtures">
-        <h2 class="heading-secondary">Data Coming Soon for Serie A</h2>
+        <h2 class="heading-primary">Goals Scored By Teams (H:A) /{{selected_year}}</h2>
+        <ul class="fixtures-list">
+            {{fig|safe}}
+        </ul>
     </div>
 </div>
 {% endblock %}

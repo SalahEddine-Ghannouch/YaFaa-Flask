@@ -60,6 +60,8 @@
         background-color: rgb(228, 228, 228);
         color: rgb(0, 0, 0);
     }
+    
+    
 </style>
 
 
@@ -185,7 +187,14 @@
 
 
 
-
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <h2 class="heading-secondary">Goals Scored By Teams (H:A) /{{selected_year}}</h2>
+        <ul class="fixtures-list">
+            {{fig|safe}}
+        </ul>
+    </div>
+</div>
 
 
 {% endblock %}
