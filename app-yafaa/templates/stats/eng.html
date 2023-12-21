@@ -43,8 +43,9 @@
     }
 
     .card img {
-        width: 20px; /* Ajustez la taille des icônes de cartes selon vos besoins */
+        width: 28px; /* Ajustez la taille des icônes de cartes selon vos besoins */
         margin-right: 4px;
+        margin-left: 4px;
     }
 
     .yellow-card {
@@ -55,17 +56,29 @@
         background-color: rgb(250, 127, 127);
         color: white;
     }
+    .gray-card {
+        background-color: rgb(228, 228, 228);
+        color: rgb(0, 0, 0);
+    }
 </style>
+
+
+{% if selected_row1.empty or selected_row2.empty %}
+    <script>
+        // JavaScript alert if either selected_row1 or selected_row2 is empty
+        alert('Are you Playing FIFA!'); 
+    </script>
+{% endif %}
 
 <div class="match">
     <div class="match-header">
-        <div class="match-status"></div>
+        <div class="match-status">{{selected_row1['date'].tolist()[0]}}</div>
         <div class="match-tournament">
             <img src="{{url_for('static', filename='svg/leagues/eng.png')}}" style="width: 40px;"  alt="Tournament Logo" /> Premier League
         </div>
         <div class="match-actions">
-            <button class="btn-icon"><i class="material-icons">grade</i></button>
-            <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>
+            <button class="btn-icon"><i class="material-icons"></i></button>
+            <button class="btn-icon"><i class="material-icons-outlined"></i></button>
         </div>
     </div>
 
@@ -73,49 +86,60 @@
         <div class="column">
             <div class="team team--home">
                 <div class="team-logo">
-                    <img src="" alt="Home Team Logo" />
+                    <img src="{{selected_row1['teams_home_logo'].tolist()[0]}}" alt="Home Team Logo" />
                 </div>
-                <h2 class="team-name">sss</h2>
+                <h2 class="team-name">{{selected_row1['team'].tolist()[0]}}</h2>
             </div>
         </div>
         <div class="column">
             <div class="match-details">
                 <div class="match-date">
+
                     <div class="stats">
                         <div class="card yellow-card">
+                            {{selected_row1['CrdY'].tolist()[0]}}
                             <img src="{{url_for('static', filename='svg/logo/yellow-card.png')}}" alt="Yellow Card">
-                            : 3
+                             {{selected_row2['CrdY'].tolist()[0]}}
                         </div>
                         <div class="card red-card">
+                            {{selected_row1['CrdR'].tolist()[0]}}
                             <img src="{{url_for('static', filename='svg/logo/red.png')}}" alt="Red Card">
-                            : 1
+                             {{selected_row2['CrdR'].tolist()[0]}}
+                        </div>
+                        <div class="card gray-card">
+                            {{selected_row1['Crs'].tolist()[0]}}
+                            <img src="{{url_for('static', filename='svg/logo/corner.png')}}" alt="Yellow Card">
+                             {{selected_row2['Crs'].tolist()[0]}}
+                        </div>
+                        
+                        <div class="card gray-card">
+                            {{selected_row1['Off'].tolist()[0]}}
+                            <img src="{{url_for('static', filename='svg/logo/offside-flag.png')}}" alt="Red Card">
+                             {{selected_row2['Off'].tolist()[0]}}
+                        </div>
+                        <div class="card gray-card">
+                            {{selected_row1['Fld'].tolist()[0]}}
+                            <img src="{{url_for('static', filename='svg/logo/referee.png')}}" alt="Red Card">
+                             {{selected_row1['Fls'].tolist()[0]}}
                         </div>
                     </div>
+                    <div class="match-score">
+                        <span class="match-score-number match-score-number--leading">{{selected_row1['GA'].tolist()[0]}}</span>
+                        <span class="match-score-divider">:</span>
+                        <span class="match-score-number">{{selected_row1['GF'].tolist()[0]}}</span>
+                    </div>
                 </div>
-                <div class="match-time-lapsed">
-                   00 min
-                </div>
-                <div class="match-time-lapsed">
-                    00 min
-                 </div>
-                 <div class="match-time-lapsed">
-                    00 min
-                 </div>
                 <div class="match-referee">
-                    Referee: XXX</strong>
+                    Time - {{selected_row1['time'].tolist()[0]}} - {{selected_row1['day'].tolist()[0]}}</strong>
                 </div>
-                <div class="match-bet-options">
-                    <!-- <button class="match-bet-option"> min</button> -->
-                </div>
-                <button class="match-bet-place">Venue : XX</button>
             </div>
         </div>
         <div class="column">
             <div class="team team--away">
                 <div class="team-logo">
-                    <img src="" alt="Away Team Logo" />
+                    <img src="{{selected_row1['teams_away_logo'].tolist()[0]}}" alt="Away Team Logo" />
                 </div>
-                <h2 class="team-name">Team name</h2>
+                <h2 class="team-name">{{selected_row1['opponent'].tolist()[0]}}</h2>
             </div>
         </div>
     </div>
@@ -126,23 +150,31 @@
     <div class="league-table__container">
         <h2 class="heading-primary">Season</h2>
     <form  method="post" >
-        <select id="season" style="width: 250px;" class="selectB" name="season" value="{{selected_year}}">
-            {%for elm in season_available%}
-            <option value="{{elm}}">{{elm}}</option>
+        <select id="season" style="width: 350px;" class="selectB" name="season">
+            {% for elm in season_available %}
+                <option value="{{ elm }}" style="font-size:14px;" {% if elm == selected_year %}selected{% endif %}>
+                    {{ elm }}
+                </option>
+            {% endfor %}
+        </select>
+
+        
+        <br><br>
+        <select id="team1" style="width: 350px;" class="selectB" name="team1" value="{{selected_team1}}">
+            {%for elm in cleaned_teams%}
+            <option value="{{elm}}" style="font-size:14px;" {% if elm == selected_team1 %}selected{% endif %}>
+                {{elm}}
+            </option>
             {%endfor%}
         </select>
         <br><br>
-        <select id="team1" style="width: 250px;" class="selectB" name="team1" value="">
-            {%for elm in cleaned_teams%}
-            <option value="{{elm}}">{{elm}}</option>
-            {%endfor%}
-        </select>
+        <strong style="padding-left: 120px;font-size:25px;">.VS.</strong>
         <br><br>
-        <strong style="padding-left: 109px;font-size:15px;">.VS.</strong>
-        <br><br>
-        <select id="team2" style="width: 250px;" class="selectB" name="team2" value="">
+        <select id="team2" style="width: 350px;" class="selectB" name="team2" value="{{selected_team2}}">
             {%for elm in cleaned_teams%}
-            <option value="{{elm}}">{{elm}}</option>
+            <option value="{{elm}}" style="font-size:14px;" {% if elm == selected_team2 %}selected{% endif %}>
+                {{elm}}
+            </option>
             {%endfor%}
         </select>
         <br><br>

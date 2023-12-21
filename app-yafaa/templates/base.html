@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link rel="stylesheet" href="{{url_for('static', filename='css/style.comp.css')}}">
     {% if fixtcss %} 
     <link rel="stylesheet" href="{{url_for('static', filename='css/'+fixtcss+'.css')}}">
@@ -16,6 +17,10 @@
     {% if aboutcss %} 
     <link rel="stylesheet" href="{{url_for('static', filename='css/'+aboutcss+'.css')}}">
     {% endif      %}
+    {% if cssmodel %} 
+    <link rel="stylesheet" href="{{url_for('static', filename='css/'+cssmodel+'.css')}}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='model/favicon_1.ico') }}">
+    {% endif %}
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <title>YAFAA-Website</title>
 </head>
@@ -42,6 +47,8 @@
         <!-- Additional common scripts, etc. -->
     </div>
     <script src="{{ url_for('static', filename='js/script.js') }}"></script>
-
+    {% if jsmodel %} 
+    <script src="{{url_for('static', filename='js/'+jsmodel+'.js')}}"></script>
+    {% endif %}
 </body>
 </html>

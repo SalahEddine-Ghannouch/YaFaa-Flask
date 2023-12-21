@@ -3,6 +3,7 @@ from flask import render_template
 from flask import request
 from datetime import datetime
 import eloClub as eloClub
+import pickle
 import pandas as pd
 from YAFAADataVisualization import yafaaSQL,yaffaPLT
 
@@ -89,6 +90,61 @@ def contact_func():
         'current_date': date_var
     }
     return render_template('contact.html', **additional_data, aboutcss="aboutcss")
+
+#! ****************** prediction Page
+
+with open('predictions/pl_predictions.csv', 'rb') as myFile:
+    pl_pred = pickle.load(myFile)
+    
+with open('prem_clean_fixtures_and_dataframes/2019_2020_2021_2022_2023_additional_stats_dict.txt', 'rb') as myFile:
+    additional_stats_dict = pickle.load(myFile)    
+
+
+#with open('/home/matthaythornthwaite/Football_Prediction_Project/web_server/pl_predictions.csv', 'rb') as myFile:
+#    pl_pred = pickle.load(myFile)
+
+#removing all past predictions if they still exist in the predictions df
+current_date = datetime.today().strftime('%Y-%m-%d')
+for j in range(len(pl_pred)):
+    game_date = pl_pred['Game Date'].loc[j]
+    if game_date < current_date:
+        pl_pred = pl_pred.drop([j], axis=0)
+pl_pred = pl_pred.reset_index(drop=True)        
+
+
+#creating our iterator that we will use in the for loop in our index file.
+max_display_games = 10
+iterator_len = len(pl_pred) - 1
+if iterator_len > max_display_games:
+    iterator_len = max_display_games
+iterator = range(iterator_len)
+
+#creating our iterator that we will use in the for loop in our index file. Checking first that there is enough data.
+max_additional_display_games = 5
+dict_keys = list(additional_stats_dict.keys())
+min_length = 100
+for i in dict_keys:
+    df_len = len(additional_stats_dict[i])
+    if df_len < min_length:
+        min_length = df_len
+if max_additional_display_games > min_length:
+    max_additional_display_games = min_length
+iterator2 = range(max_additional_display_games)
+
+
+@app.route('/prediction')
+def prediction_func():
+    date_var = datetime.now().year
+    additional_data = {
+        'current_date': date_var
+    }
+    return render_template('prediction.html', **additional_data,
+                           cssmodel="stylemodel",
+                           jsmodel="scriptmodel",
+                           pl_pred=pl_pred, 
+                           iterator=iterator,
+                           iterator2=iterator2,
+                           additional_stats_dict=additional_stats_dict)
 
 #! ****************** stats Page
 @app.route('/stats')
@@ -255,33 +311,25 @@ def dynamic_route(route_argument):
             selected_team1 = request.form.get('team1')
             selected_team2 = request.form.get('team2')
             df_card = pd.read_csv('static/flats/stats/'+str(selected_year)+'/season-'+str(selected_year)+'-misc.csv')
-            list_teams = df_card["Unnamed: 2"].tolist()
+            list_teams = df_card["team"].tolist()
             # list_opponent = df_card["opponent"].tolist()
-            # print(list_opponent)
-            # Convert the list to a pandas Series to leverage pandas functionality
             series_teams = pd.Series(list_teams)
-            # series_opponent = pd.Series(list_opponent)
-            # Remove duplicates and NaN values
             cleaned_teams = series_teams.drop_duplicates().dropna().tolist()
-            # cleaned_opponent = series_opponent.drop_duplicates().dropna().tolist()[1:]
-            cleaned_teams = cleaned_teams[1:]
-            # selected_data = df_card.loc[df_card['cleaned_teams'].isin(cleaned_teams), ['Performance', 'Performance.1']]
-            # print(selected_data)
-            # elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year,league_name )
+            selected_row1 = df_card.loc[(df_card['team'] == selected_team1) & (df_card['opponent'] == selected_team2)]
+            selected_row2 = df_card.loc[(df_card['opponent'] == selected_team1) & (df_card['team'] == selected_team2)]                
         else:
             # Default to the current year
             selected_year = date_var
             df_card = pd.read_csv('static/flats/stats/'+str(selected_year-1)+'/season-'+str(selected_year-1)+'-misc.csv')
-            list_teams = df_card["Unnamed: 2"].tolist()
+            list_teams = df_card["team"].tolist()
             # Convert the list to a pandas Series to leverage pandas functionality
             series_teams = pd.Series(list_teams)
-            # series_opponent = pd.Series(list_opponent)
-            # Remove duplicates and NaN values
             cleaned_teams = series_teams.drop_duplicates().dropna().tolist()
-            # cleaned_opponent = series_opponent.drop_duplicates().dropna().tolist()[1:]
-            cleaned_teams = cleaned_teams[1:]
-            selected_team = "Arsenal"
-            # elo_eng = eloClub.process_clubs_elo_for_year_and_league(selected_year, league_name)
+            selected_team1 = "Arsenal"
+            selected_team2 = "Liverpool"            
+            selected_row1 = df_card.loc[(df_card['team'] == "Arsenal") & (df_card['opponent'] == "Liverpool")]
+            selected_row2 = df_card.loc[(df_card['team'] == "Liverpool") & (df_card['opponent'] == "Arsenal")]
+            # print(selected_row.columns)
 
         #? figure displaying : 
         # fig = eloClub.plot_elo_histogram(elo_eng, league_name)
@@ -294,8 +342,11 @@ def dynamic_route(route_argument):
             'active_link': league_code,
             'season_available': years,
             'selected_year': selected_year,
-            'cleaned_teams':cleaned_teams
-            # 'cleaned_opponent':cleaned_opponent,
+            'cleaned_teams':cleaned_teams,
+            'selected_row1':selected_row1,
+            'selected_row2':selected_row2,
+            'selected_team1':selected_team1,
+            'selected_team2':selected_team2
             # 'elo_data': elo_eng.to_dict(orient='records'),  # Convert DataFrame to a list of dictionaries
             # 'graph_json':graph_json
         }
