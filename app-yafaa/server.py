@@ -294,15 +294,19 @@ def dynamic_route(route_argument):
         #? Get season
         #? Tretement for elo data
         if league_code =='eng':
-            league_name = 'ENG-Premier League'
+            league_name = '39data'
         if league_code =='fra':
-            league_name = 'FRA-Ligue 1'
+            league_name = '61data'
         if league_code =='ger':
-            league_name = 'GER-Bundesliga'
+            league_name = '78data'
         if league_code =='esp':
-            league_name = 'ESP-La Liga'
+            league_name = '140data'
         if league_code =='ita':
-            league_name = 'ITA-Serie A'
+            league_name = '135data'
+        
+        # Read the CSV file
+        df_goals = pd.read_csv('static/flats/fixt/'+league_name+'.csv')
+        # df_goals = pd.read_csv('static/flats/fixt/39data.csv')
         
         # Read the CSV file
 
@@ -316,7 +320,19 @@ def dynamic_route(route_argument):
             series_teams = pd.Series(list_teams)
             cleaned_teams = series_teams.drop_duplicates().dropna().tolist()
             selected_row1 = df_card.loc[(df_card['team'] == selected_team1) & (df_card['opponent'] == selected_team2)]
-            selected_row2 = df_card.loc[(df_card['opponent'] == selected_team1) & (df_card['team'] == selected_team2)]                
+            selected_row2 = df_card.loc[(df_card['opponent'] == selected_team1) & (df_card['team'] == selected_team2)]
+            #? ---------
+            database = yafaaSQL()
+            year_df = database.select_by_season(df_goals, selected_year)
+            teams_summary = database.team_goals_summary(year_df)
+            aggregated_columns = database.aggregate_columns(teams_summary, ['total_goals', 'home_goals', 'away_goals'], aggregation='sum')  
+            plt_instance = yaffaPLT()
+            key_cols = ['total_goals', None, None, None]
+            plot_cols = ['home_goals', 'away_goals']
+            x_column = 'team_name'
+            title = "Home & Away Goals"
+            fig = plt_instance.plot_stacked_bar(key_cols, plot_cols, x_column, teams_summary, title=title)
+              
         else:
             # Default to the current year
             selected_year = date_var
@@ -329,6 +345,17 @@ def dynamic_route(route_argument):
             selected_team2 = "Liverpool"            
             selected_row1 = df_card.loc[(df_card['team'] == "Arsenal") & (df_card['opponent'] == "Liverpool")]
             selected_row2 = df_card.loc[(df_card['team'] == "Liverpool") & (df_card['opponent'] == "Arsenal")]
+             #? ---------
+            database = yafaaSQL()
+            year_df = database.select_by_season(df_goals, selected_year)
+            teams_summary = database.team_goals_summary(year_df)
+            aggregated_columns = database.aggregate_columns(teams_summary, ['total_goals', 'home_goals', 'away_goals'], aggregation='sum')  
+            plt_instance = yaffaPLT()
+            key_cols = ['total_goals', None, None, None]
+            plot_cols = ['home_goals', 'away_goals']
+            x_column = 'team_name'
+            title = "Home & Away Goals"
+            fig = plt_instance.plot_stacked_bar(key_cols, plot_cols, x_column, teams_summary, title=title)
             # print(selected_row.columns)
 
         #? figure displaying : 
@@ -346,7 +373,8 @@ def dynamic_route(route_argument):
             'selected_row1':selected_row1,
             'selected_row2':selected_row2,
             'selected_team1':selected_team1,
-            'selected_team2':selected_team2
+            'selected_team2':selected_team2,
+            'fig':fig
             # 'elo_data': elo_eng.to_dict(orient='records'),  # Convert DataFrame to a list of dictionaries
             # 'graph_json':graph_json
         }
@@ -362,4 +390,4 @@ def dynamic_route(route_argument):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host = '0.0.0.0', port = 5000,debug=True)
