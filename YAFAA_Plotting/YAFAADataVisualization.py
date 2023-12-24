@@ -149,6 +149,62 @@ class yafaaSQL:
         result_df = pd.DataFrame({f'{aggregation}_of_{field_name}': [result_value] for field_name, result_value in zip(field_names, result_values)})
 
         return result_df
+    
+    def select_stats(self, dataframe, team, opponent): 
+        df = dataframe
+        team_query = f"""
+            SELECT *
+            FROM df
+            WHERE team = ?
+        """
+        parameters = parameters = (team,)
+        team_result = self.con.execute(team_query, parameters).fetchdf()
+
+        opponent_query = f"""
+            SELECT *
+            FROM df
+            WHERE team = ?
+        """
+        parameters = parameters = (opponent,)
+        opponent_result = self.con.execute(opponent_query, parameters).fetchdf()
+
+        cols = ['GF',
+                'GA',
+                'CrdY',
+                'CrdR',
+                'Fls',
+                'Fld',
+                'Off',
+                'Crs',
+                'Int',
+                'TklW',
+                'PKwon',
+                'PKcon',
+                'OG',
+                'Recov']
+        team_aggregation = self.aggregate_columns(team_result, cols, aggregation='sum')
+        team_aggregation['team'] = team
+        opponent_aggregation = self.aggregate_columns(opponent_result, cols, aggregation='sum')
+        opponent_aggregation['team'] = opponent
+        
+        return pd.concat([team_aggregation, opponent_aggregation], ignore_index=True)
+    
+    def select_season_stats(self, dataframe):
+        df = dataframe
+
+        team_query = """
+            SELECT team, SUM(GF) AS GF, SUM(GA) AS GA, SUM(CrdY) AS CrdY, 
+                SUM(CrdR) AS CrdR, SUM(Fls) AS Fls, SUM(Fld) AS Fld, 
+                SUM(Off) AS Off, SUM(Crs) AS Crs, SUM(Int) AS Int, 
+                SUM(TklW) AS TklW, SUM(PKwon) AS PKwon, SUM(PKcon) AS PKcon, 
+                SUM(OG) AS OG, SUM(Recov) AS Recov
+            FROM df
+            GROUP BY team
+        """
+        team_result = self.con.execute(team_query).fetchdf()
+
+        return team_result
+
 
 
 class yaffaPLT:
