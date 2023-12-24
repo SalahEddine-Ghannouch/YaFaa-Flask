@@ -248,6 +248,67 @@ class yaffaPLT:
 
         return fig.to_html(full_html=False)
 
+    def plot_pie(self, data_frame, names, values, title=None):
+        fig = px.pie(data_frame=data_frame, names=names, values=values, color=None)
+        if title is not None:
+            fig.update_layout(title_text=title)
+        return fig
+        # return fig.to_html(full_html=false)
+
+    def scatter_3d_YCRCF(self, data_frame):
+        fig = px.scatter_3d(data_frame=data_frame, x='CrdR', y='CrdY', z='Fls', color='team')
+        fig.update_layout(title_text="Yellow cards Red cards and fouls commited by team")
+        return fig
+        # return fig.to_html(full_html=false)
+
+    def own_goal_by_team(self, dataframe):
+        df = dataframe.copy()
+
+        key_cols = [val for val in ['team', None, None, None] if val is not None]
+        if key_cols != []:
+            if None is not None:
+                df = df.groupby(key_cols).agg(None).reset_index()
+            else:
+                df = df.sort_values(key_cols)
+
+        if 'desc' is not None:
+            if 'desc' == 'asc':
+                df = df.sort_values(['OG'], ascending=True)
+            else:
+                df = df.sort_values(['OG'], ascending=False)
+
+        fig = px.bar(
+            data_frame=df,
+            x='team',
+            y=['OG'],
+            color=None,
+            facet_row=None,
+            facet_col=None,
+        )
+        fig.update_layout(title_text="Own goals by team")
+        return fig
+        # return fig.to_html(full_html=false)
+
+    def recov_by_wonTKL(self, dataframe):
+        df = dataframe.dropna(subset=['TklW', 'Recov'])
+
+        fig = px.scatter(
+            data_frame=df,
+            x='TklW',
+            y='Recov',
+            color='team',
+            symbol=None,
+            size=None,
+            trendline=None,
+            marginal_x='histogram',
+            marginal_y='histogram',
+            facet_row=None,
+            facet_col=None,
+            render_mode='auto',
+        )
+        fig.update_layout(title_text="Possession recoveries and won tackles by team")
+        return fig
+        # return fig.to_html(full_html=false)
 
 #? EXAMPLE USAGE : 
 # df = pd.read_csv ('test.csv')
@@ -273,3 +334,12 @@ class yaffaPLT:
 # fig = plt_instance.plot_stacked_bar(key_cols, plot_cols, x_column, teams_summary, title=title)
 
 # fig
+    
+#!! NEW METHODS ADDED 
+# database = yafaaSQL()
+# season_df = database.select_season_stats(df)
+# plotting = yaffaPLT()
+# plotting.own_goal_by_team(season_df)
+# plotting.plot_pie(season_df, 'team', 'GF', title="Goals by teams")
+# plotting.recov_by_wonTKL(season_df)
+# plotting.scatter_3d_YCRCF(season_df)
