@@ -332,6 +332,12 @@ def dynamic_route(route_argument):
             x_column = 'team_name'
             title = "Home & Away Goals"
             fig = plt_instance.plot_stacked_bar(key_cols, plot_cols, x_column, teams_summary, title=title)
+            season_df = database.select_season_stats(df_card)
+            fig_pie = plt_instance.plot_pie(season_df, 'team', 'GF', title="Goals by teams")
+            fig_3d = plt_instance.scatter_3d_YCRCF(season_df)
+            fig_won = plt_instance.recov_by_wonTKL(season_df)         
+            # fig_own =  plt_instance.own_goal_by_team(season_df)
+
               
         else:
             # Default to the current year
@@ -356,7 +362,12 @@ def dynamic_route(route_argument):
             x_column = 'team_name'
             title = "Home & Away Goals"
             fig = plt_instance.plot_stacked_bar(key_cols, plot_cols, x_column, teams_summary, title=title)
-            # print(selected_row.columns)
+            season_df = database.select_season_stats(df_card)
+            fig_pie = plt_instance.plot_pie(season_df, 'team', 'GF', title="Goals by teams")
+            fig_3d = plt_instance.scatter_3d_YCRCF(season_df)
+            fig_won = plt_instance.recov_by_wonTKL(season_df)
+            # fig_own =  plt_instance.own_goal_by_team(season_df)
+
 
         #? figure displaying : 
         # fig = eloClub.plot_elo_histogram(elo_eng, league_name)
@@ -374,7 +385,11 @@ def dynamic_route(route_argument):
             'selected_row2':selected_row2,
             'selected_team1':selected_team1,
             'selected_team2':selected_team2,
-            'fig':fig
+            'fig':fig,
+            'fig_pie':fig_pie,
+            'fig_3d':fig_3d,
+            'fig_won':fig_won
+            # 'fig_own':fig_own 
             # 'elo_data': elo_eng.to_dict(orient='records'),  # Convert DataFrame to a list of dictionaries
             # 'graph_json':graph_json
         }

@@ -41,9 +41,19 @@
 
 <div class="js-next-fixtures">
     <div class="fixtures">
-        <h2 class="heading-primary">Goals Scored By Teams (H:A) /{{selected_year}}</h2>
+        <h2 class="heading-primary">Goals By Teams in (Home & Away) - {{selected_year}}</h2>
         <ul class="fixtures-list">
             {{fig|safe}}
+        </ul>
+    </div>
+</div><br>
+
+
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <h2 class="heading-secondary">Goals Scored By Teams  {{selected_year}}</h2>
+        <ul class="fixtures-list">
+            {{fig_pie|safe}}
         </ul>
     </div>
 </div>

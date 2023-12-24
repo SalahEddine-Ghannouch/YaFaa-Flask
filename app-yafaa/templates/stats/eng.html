@@ -69,6 +69,8 @@
     <script>
         // JavaScript alert if either selected_row1 or selected_row2 is empty
         alert('Are you Playing FIFA!'); 
+        location.assign('http://127.0.0.1:5000/stats/eng');
+
     </script>
 {% endif %}
 
@@ -152,7 +154,7 @@
     <div class="league-table__container">
         <h2 class="heading-primary">Season</h2>
     <form  method="post" >
-        <select id="season" style="width: 350px;" class="selectB" name="season">
+        <select id="season" style="width: 350px;height:50px;" class="selectB" name="season">
             {% for elm in season_available %}
                 <option value="{{ elm }}" style="font-size:14px;" {% if elm == selected_year %}selected{% endif %}>
                     {{ elm }}
@@ -162,7 +164,7 @@
 
         
         <br><br>
-        <select id="team1" style="width: 350px;" class="selectB" name="team1" value="{{selected_team1}}">
+        <select id="team1" style="width: 350px;height:50px;" class="selectB" name="team1" value="{{selected_team1}}">
             {%for elm in cleaned_teams%}
             <option value="{{elm}}" style="font-size:14px;" {% if elm == selected_team1 %}selected{% endif %}>
                 {{elm}}
@@ -172,7 +174,7 @@
         <br><br>
         <strong style="padding-left: 120px;font-size:25px;">.VS.</strong>
         <br><br>
-        <select id="team2" style="width: 350px;" class="selectB" name="team2" value="{{selected_team2}}">
+        <select id="team2" style="width: 350px;height:50px;" class="selectB" name="team2" value="{{selected_team2}}">
             {%for elm in cleaned_teams%}
             <option value="{{elm}}" style="font-size:14px;" {% if elm == selected_team2 %}selected{% endif %}>
                 {{elm}}
@@ -182,20 +184,47 @@
         <br><br>
         <button type="submit" id="submit-button" class="BtnS">UPLOAD</button>
     </form>
+    <br><br><br><br><br><br>
     </div>
+    
 </div>
 
 
 
 <div class="js-current-fixtures" >
     <div class="league-table__container">
-        <h2 class="heading-secondary">Goals Scored By Teams (H:A) /{{selected_year}}</h2>
+        <h2 class="heading-secondary">Goals By Teams in (Home & Away) - {{selected_year}}</h2>
         <ul class="fixtures-list">
             {{fig|safe}}
         </ul>
     </div>
 </div>
 
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <h2 class="heading-secondary">Goals Scored By Teams  {{selected_year}}</h2>
+        <ul class="fixtures-list">
+            {{fig_pie|safe}}
+        </ul>
+    </div>
+</div>
+
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <!-- <h2 class="heading-secondary">Goals Scored By Teams  {{selected_year}}</h2> -->
+        <ul class="fixtures-list">
+            {{fig_3d|safe}}
+        </ul>
+    </div>
+</div>
+<div class="js-current-fixtures" >
+    <div class="league-table__container">
+        <!-- <h2 class="heading-secondary">Goals Scored By Teams  {{selected_year}}</h2> -->
+        <ul class="fixtures-list">
+            {{fig_won|safe}}
+        </ul>
+    </div>
+</div>
 
 {% endblock %}
 
