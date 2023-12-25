@@ -247,7 +247,24 @@ body {
       flex-direction: column; } }
 
 .js-league-table {
-  grid-area: 1 / 1 / 4 / 2; }
+  grid-area: 2 / 2 / 4 / 2; }
+
+.js-elo-table{
+  grid-area: 1 / 1 / 1 / 8;
+}
+
+.js-banner {
+    grid-area: 1 / 1 / 1 / 4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #24292e;
+    color: whitesmoke;
+    font-size: 2.4rem;
+    padding-bottom: 15px;
+  }
+  
 
 .footer {
 
